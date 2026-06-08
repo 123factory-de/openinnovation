@@ -1,0 +1,303 @@
+{{ define "main" }}
+  {{ $paginator := .Paginate .Pages.ByTitle 24 }}
+
+  <style>
+    .programs-list {
+      padding-bottom: 2rem;
+    }
+
+    .programs-list header {
+      margin-top: 1.25rem;
+    }
+
+    .programs-list-copy {
+      color: #475569;
+      font-size: 1rem;
+      line-height: 1.75;
+      margin: 0.75rem 0 1.5rem;
+      max-width: 48rem;
+    }
+
+    .dark .programs-list-copy {
+      color: #cbd5e1;
+    }
+
+    .programs-list-count {
+      color: #64748b;
+      font-size: 0.9rem;
+      margin: -0.5rem 0 1.25rem;
+    }
+
+    .dark .programs-list-count {
+      color: #94a3b8;
+    }
+
+    .oi-grid {
+      display: grid;
+      gap: 1rem;
+      grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+    }
+
+    .oi-card {
+      background: #ffffff;
+      border: 1px solid #dde5ef;
+      border-radius: 0.5rem;
+      box-shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+      display: flex;
+      flex-direction: column;
+      min-height: 18rem;
+      overflow: hidden;
+      padding: 1.15rem;
+      position: relative;
+    }
+
+    .dark .oi-card {
+      background: rgba(31, 41, 55, 0.82);
+      border-color: rgba(148, 163, 184, 0.18);
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.28);
+    }
+
+    .oi-card-media {
+      align-items: center;
+      background:
+        linear-gradient(135deg, rgba(5, 150, 105, 0.12), rgba(2, 132, 199, 0.1)),
+        #f8fafc;
+      border: 1px solid rgba(5, 150, 105, 0.14);
+      border-radius: 0.45rem;
+      color: #047857;
+      display: flex;
+      font-size: 0.78rem;
+      font-weight: 800;
+      height: 7rem;
+      justify-content: center;
+      margin-bottom: 1rem;
+      overflow: hidden;
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+
+    .dark .oi-card-media {
+      background:
+        linear-gradient(135deg, rgba(16, 185, 129, 0.12), rgba(56, 189, 248, 0.1)),
+        rgba(17, 24, 39, 0.8);
+      border-color: rgba(148, 163, 184, 0.18);
+      color: #6ee7b7;
+    }
+
+    .oi-card-media img {
+      height: 100%;
+      object-fit: cover;
+      width: 100%;
+    }
+
+    .oi-card:hover {
+      border-color: rgba(5, 150, 105, 0.42);
+      box-shadow: 0 18px 42px rgba(15, 23, 42, 0.1);
+    }
+
+    .dark .oi-card:hover {
+      border-color: rgba(16, 185, 129, 0.58);
+      box-shadow: 0 18px 42px rgba(16, 185, 129, 0.16);
+    }
+
+    .oi-card-top {
+      align-items: flex-start;
+      display: flex;
+      gap: 0.75rem;
+      justify-content: space-between;
+    }
+
+    .oi-company {
+      color: #059669;
+      font-size: 0.78rem;
+      font-weight: 800;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+
+    .dark .oi-company {
+      color: #6ee7b7;
+    }
+
+    .oi-status {
+      background: rgba(5, 150, 105, 0.1);
+      border-radius: 999px;
+      color: #047857;
+      flex: none;
+      font-size: 0.72rem;
+      font-weight: 800;
+      padding: 0.35rem 0.55rem;
+    }
+
+    .dark .oi-status {
+      background: rgba(16, 185, 129, 0.14);
+      color: #6ee7b7;
+    }
+
+    .oi-card-title {
+      color: #0f172a;
+      display: block;
+      font-size: 1.25rem;
+      font-weight: 850;
+      line-height: 1.25;
+      margin-top: 0.65rem;
+      text-decoration: none;
+    }
+
+    .dark .oi-card-title {
+      color: #f8fafc;
+    }
+
+    .oi-card-summary {
+      color: #475569;
+      font-size: 0.92rem;
+      line-height: 1.65;
+      margin-top: 0.7rem;
+    }
+
+    .dark .oi-card-summary {
+      color: #cbd5e1;
+    }
+
+    .oi-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.45rem;
+      margin-top: 1rem;
+    }
+
+    .oi-tag {
+      background: #f1f5f9;
+      border: 1px solid #e2e8f0;
+      border-radius: 999px;
+      color: #334155;
+      font-size: 0.75rem;
+      line-height: 1;
+      padding: 0.4rem 0.55rem;
+    }
+
+    .dark .oi-tag {
+      background: rgba(148, 163, 184, 0.1);
+      border-color: rgba(148, 163, 184, 0.18);
+      color: #e5e7eb;
+    }
+
+    .oi-card-actions {
+      align-items: center;
+      display: flex;
+      gap: 0.75rem;
+      margin-top: auto;
+      padding-top: 1rem;
+    }
+
+    .oi-card-link {
+      color: #059669;
+      font-size: 0.9rem;
+      font-weight: 800;
+      text-decoration: none;
+    }
+
+    .dark .oi-card-link {
+      color: #10b981;
+    }
+
+    .oi-card-link:hover,
+    .oi-card-source:hover {
+      text-decoration: underline;
+      text-underline-offset: 0.2rem;
+    }
+
+    .oi-card-source {
+      color: #94a3b8;
+      font-size: 0.85rem;
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    .oi-card-source:hover {
+      color: #0284c7;
+    }
+
+    .dark .oi-card-source:hover {
+      color: #38bdf8;
+    }
+  </style>
+
+  <section class="programs-list">
+    <header>
+      <h1 class="text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+      {{ with .Content }}
+        <div class="programs-list-copy">{{ . }}</div>
+      {{ end }}
+      <p class="programs-list-count">
+        전체 {{ len .Pages }}개 중 {{ len $paginator.Pages }}개 표시
+      </p>
+    </header>
+
+    {{ if gt (len .Pages) 0 }}
+      <section class="oi-grid" aria-label="오픈 이노베이션 프로그램">
+        {{ range $paginator.Pages }}
+          {{ $page := . }}
+          {{ $featuredURL := "" }}
+          {{ with $page.Params.featureimage }}
+            {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+              {{ $featuredURL = . }}
+            {{ else }}
+              {{ with $page.Resources.GetMatch . }}
+                {{ $featuredURL = .RelPermalink }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+          {{ if not $featuredURL }}
+            {{ $images := $page.Resources.ByType "image" }}
+            {{ range slice "*feature*" "*cover*" "*thumbnail*" }}
+              {{ if not $featuredURL }}
+                {{ with $images.GetMatch . }}
+                  {{ $featuredURL = .RelPermalink }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+          {{ end }}
+
+          <article class="oi-card">
+            <a class="oi-card-media" href="{{ $page.RelPermalink }}" aria-label="{{ $page.Title }}">
+              {{ with $featuredURL }}
+                <img src="{{ . }}" alt="" loading="lazy" decoding="async">
+              {{ else }}
+                <span>Open Innovation</span>
+              {{ end }}
+            </a>
+            <div class="oi-card-top">
+              <div class="oi-company">{{ .Params.company | default "Program" }}</div>
+              {{ with .Params.status }}
+                <div class="oi-status">{{ . }}</div>
+              {{ end }}
+            </div>
+
+            <a class="oi-card-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+
+            {{ with .Params.summary }}
+              <p class="oi-card-summary">{{ . }}</p>
+            {{ end }}
+
+            {{ with .Params.focusAreas }}
+              <div class="oi-tags">
+                {{ range first 4 . }}
+                  <span class="oi-tag">{{ . }}</span>
+                {{ end }}
+              </div>
+            {{ end }}
+
+            <div class="oi-card-actions">
+              <a class="oi-card-link" href="{{ .RelPermalink }}">상세 보기</a>
+              {{ with .Params.externalUrl }}
+                <a class="oi-card-source" href="{{ . }}" target="_blank" rel="noopener">공식 사이트</a>
+              {{ end }}
+            </div>
+          </article>
+        {{ end }}
+      </section>
+      {{ partial "pagination.html" . }}
+    {{ end }}
+  </section>
+{{ end }}

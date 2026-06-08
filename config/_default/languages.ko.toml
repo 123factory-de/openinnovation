@@ -1,23 +1,26 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
+languageCode = "ko-KR"
+languageName = "한국어"
 weight = 1
-title = "Open Innovation Directory"
+title = "Open Innovations"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "KO"
+  isoCode = "ko"
   rtl = false
-  dateFormat = "2 January 2006"
+  dateFormat = "2006년 1월 2일"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "A curated directory and aggregator for open innovation programs, challenges, and resources."
+  description = "한국 기업을 위한 글로벌 오픈 이노베이션 프로그램 디렉터리"
   # copyright = "Copy, _right?_ :thinking_face:"
 
-[params.author]
-  name = "123factory"
-  headline = "Open innovation programs, challenges, and resources"
-  bio = "A curated directory and aggregator for open innovation opportunities."
+# [params.author]
+#   name = "Your name here"
+#   email = "youremail@example.com"
+#   image = "img/blowfish_logo.png"
+#   imageQuality = 96
+#   headline = "I'm only human"
+#   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

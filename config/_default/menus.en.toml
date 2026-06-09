@@ -1,0 +1,4 @@
+[[main]]
+  name = "Programs"
+  pageRef = "programs"
+  weight = 10

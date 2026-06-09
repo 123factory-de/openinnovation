@@ -1,48 +1,48 @@
 ---
-title: "Corbion Open Innovation"
+title: Corbion Open Innovation
 date: 2026-06-08
 draft: false
-company: "Corbion"
-externalUrl: "https://www.corbion.com/innovation/open-innovation"
+company: Corbion
+externalUrl: https://www.corbion.com/innovation/open-innovation
 focusAreas:
-  - "Bio-Ingredients"
-  - "Biochemicals"
-  - "Biopolymers"
-  - "Sustainability"
+- Bio-Ingredients
+- Biochemicals
+- Biopolymers
+- Sustainability
 eligibility:
-  - "Collaboration Partners"
-  - "Technology Providers"
-  - "Innovators"
-status: "Always Open"
-summary: "Corbion Open Innovation은 지속가능 바이오 원료, 바이오케미컬, 바이오폴리머 분야의 외부 기술과 아이디어를 상시 찾는 협업 채널입니다."
+- Collaboration Partners
+- Technology Providers
+- Innovators
+status: Always Open
+summary: Corbion Open Innovation is an open innovation program run by Corbion focused
+  on Bio-Ingredients, Biochemicals, Biopolymers.
 resources:
-  - src: "feature.png"
-    title: "Corbion Open Innovation"
-    params:
-      source: "https://www.corbion.com/-/media/corbion/images/cards/innovation/card_open-innovation.png?la=en&h=287&mw=512&w=512&hash=B34A9A140A6F952212885225CA2374FE"
-      sourceLabel: "Corbion official image"
+- src: feature.png
+  title: Corbion Open Innovation
+  params:
+    source: https://www.corbion.com/-/media/corbion/images/cards/innovation/card_open-innovation.png?la=en&h=287&mw=512&w=512&hash=B34A9A140A6F952212885225CA2374FE
+    sourceLabel: Corbion official image
 ---
 
 ## Overview
 
-Corbion Open Innovation은 바이오 원료, 바이오케미컬, 바이오폴리머, 지속가능성 분야에서 외부 파트너의 기술과 아이디어를 찾는 프로그램입니다. 소재, 화학, 바이오 기반 조직은 Corbion 혁신팀과의 협업 가능성을 검토할 수 있습니다.
+Corbion Open Innovation is an open innovation program run by Corbion. It is relevant for collaboration partners, technology providers, innovators working on bio-ingredients, biochemicals, biopolymers, sustainability. The current collaboration path is described through official materials for Global participation in the Bio-ingredients and biochemicals space.
 
 ## Focus Areas
 
-- 바이오 원료
-- 바이오케미컬
-- 바이오폴리머
-- 지속가능성
+- Bio-Ingredients
+- Biochemicals
+- Biopolymers
+- Sustainability
 
 ## Collaboration & Benefits
 
-- Corbion 혁신팀과의 협업 가능성
-- 비즈니스 전문성과 기술 검토 경로
-- 관련 분야 아이디어 또는 기술 제안 채널
+- Collaboration with Corbion teams and access to a direct contact route for open innovation topics
+- Official page says Corbion is constantly on the lookout for opportunities to create value through collaboration and open innovation.
 
 ## How to Apply
 
-Corbion의 오픈 이노베이션 연락 경로를 통해 관련 기술이나 아이디어를 제안합니다. 리포트 기준으로 별도 마감일은 확인되지 않았으며, 프로그램 상태는 `Always Open`입니다.
+Use the open innovation contact form and area-of-interest routing on Corbion’s page. Current status: `Always Open`.
 
 ## Sources
 

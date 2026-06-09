@@ -314,7 +314,7 @@
         <div class="programs-list-copy">{{ . }}</div>
       {{ end }}
       <p class="programs-list-count">
-        전체 {{ len $visiblePages }}개 중 {{ len $paginator.Pages }}개 표시
+        {{ T "program_count" (dict "total" (len $visiblePages) "shown" (len $paginator.Pages)) }}
       </p>
     </header>
 
@@ -330,15 +330,15 @@
       {{ $filterTags := first 18 (sort ($allFocusAreas | uniq)) }}
       {{ if gt (len $filterTags) 0 }}
         <div class="oi-filter-bar" data-oi-filter-root>
-          <span class="oi-filter-label">Filter by focus</span>
-          <button class="oi-filter-tag is-active" type="button" data-filter-tag="all">All</button>
+          <span class="oi-filter-label">{{ T "filter_by_focus" }}</span>
+          <button class="oi-filter-tag is-active" type="button" data-filter-tag="all">{{ T "all" }}</button>
           {{ range $filterTags }}
             <button class="oi-filter-tag" type="button" data-filter-tag="{{ . }}">{{ . }}</button>
           {{ end }}
         </div>
       {{ end }}
 
-      <section class="oi-grid" aria-label="오픈 이노베이션 프로그램">
+      <section class="oi-grid" aria-label="{{ T "programs_aria" }}">
         {{ range $paginator.Pages }}
           {{ $page := . }}
           {{ $featuredURL := "" }}
@@ -368,7 +368,7 @@
               {{ with $featuredURL }}
                 <img src="{{ . }}" alt="" loading="lazy" decoding="async">
               {{ else }}
-                <span>Open Innovation</span>
+                <span>{{ T "open_innovation" }}</span>
               {{ end }}
             </a>
             <div class="oi-card-top">
@@ -397,14 +397,14 @@
             {{ end }}
 
             <div class="oi-card-actions">
-              <a class="oi-card-link" href="{{ .RelPermalink }}">상세 보기</a>
+              <a class="oi-card-link" href="{{ .RelPermalink }}">{{ T "view_details" }}</a>
               {{ with .Params.externalUrl }}
-                <a class="oi-card-source" href="{{ . }}" target="_blank" rel="noopener">공식 사이트</a>
+                <a class="oi-card-source" href="{{ . }}" target="_blank" rel="noopener">{{ T "official_site" }}</a>
               {{ end }}
             </div>
           </article>
         {{ end }}
-        <p class="oi-empty" data-oi-empty>선택한 태그에 해당하는 프로그램이 없습니다.</p>
+        <p class="oi-empty" data-oi-empty>{{ T "no_programs_for_tag" }}</p>
       </section>
       {{ partial "pagination.html" . }}
     {{ end }}

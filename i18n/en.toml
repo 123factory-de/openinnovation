@@ -1,0 +1,35 @@
+[home_kicker]
+other = "Global Open Innovation Directory"
+
+[home_title]
+other = "Global Open Innovation Opportunities"
+
+[home_lead]
+other = "We curate programs where corporations, governments, and research organizations look for external technologies, products, patents, research capabilities, and pilot proposals. Each card is structured to help you quickly review application paths and collaboration fit."
+
+[program_count]
+other = "Showing {{ .shown }} of {{ .total }} programs"
+
+[view_all_programs]
+other = "View all programs"
+
+[programs_aria]
+other = "Open innovation programs"
+
+[view_details]
+other = "View details"
+
+[official_site]
+other = "Official site"
+
+[no_programs_for_tag]
+other = "No programs match the selected focus tag."
+
+[filter_by_focus]
+other = "Filter by focus"
+
+[all]
+other = "All"
+
+[open_innovation]
+other = "Open Innovation"

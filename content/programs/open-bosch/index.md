@@ -1,45 +1,45 @@
 ---
-title: "Open Bosch"
+title: Open Bosch
 date: 2026-06-08
 draft: false
-company: "Bosch Ventures"
-externalUrl: "https://bosch.ventures/open-bosch/"
+company: Bosch Ventures
+externalUrl: https://bosch.ventures/open-bosch/
 focusAreas:
-  - "Venture-Client Partnerships"
-  - "Startup Solution Testing"
-  - "Bosch Business-Unit Needs"
+- Venture-Client Partnerships
+- Startup Solution Testing
+- Bosch Business-Unit Needs
 eligibility:
-  - "Startups"
-status: "Always Open"
-summary: "Open Bosch는 Bosch Ventures가 운영하는 벤처 클라이언트 조직으로, Bosch 사업부의 니즈와 스타트업 솔루션을 연결합니다."
+- Startups
+status: Always Open
+summary: Open Bosch is an open innovation program run by Bosch Ventures focused on
+  Venture-Client Partnerships, Startup Solution Testing, Bosch Business-Unit Needs.
 resources:
-  - src: "feature.png"
-    title: "Open Bosch"
-    params:
-      source: "https://www.rbvc.com/media/openbosch/open-bosch-banner-neon.png"
-      sourceLabel: "Open Bosch official image"
+- src: feature.png
+  title: Open Bosch
+  params:
+    source: https://www.rbvc.com/media/openbosch/open-bosch-banner-neon.png
+    sourceLabel: Open Bosch official image
 ---
 
 ## Overview
 
-Open Bosch는 Bosch 그룹의 벤처 클라이언트 조직으로, Bosch 사업부가 필요로 하는 기술과 스타트업의 제품, 기술, 서비스를 연결합니다. Bosch 내부 수요와 맞는 솔루션을 보유한 스타트업은 파일럿과 파트너십 가능성을 검토할 수 있습니다.
+Open Bosch is an open innovation program run by Bosch Ventures. It is relevant for startups working on venture-client partnerships, startup solution testing, bosch business-unit needs. The current collaboration path is described through official materials for Global participation in the Industrial technology space.
 
 ## Focus Areas
 
-- 벤처 클라이언트 파트너십
-- 스타트업 솔루션 테스트
-- Bosch 사업부 니즈 기반 협업
+- Venture-Client Partnerships
+- Startup Solution Testing
+- Bosch Business-Unit Needs
 
 ## Collaboration & Benefits
 
-- Bosch와의 테스트 및 검증 기회
-- 파트너십 구조화 가능성
-- 벤처 클라이언트 관계로 이어질 수 있는 협업 경로
+- Testing with Bosch units and venture-client partnership setup
+- Official page defines Open Bosch as Bosch’s venture client unit for testing leading startup solutions and setting up partnerships.
 
 ## How to Apply
 
-Open Bosch 또는 Bosch Ventures의 관련 경로를 통해 Bosch 사업부 니즈와 맞는 솔루션을 제안합니다. 리포트 기준으로 별도 마감일은 확인되지 않았으며, 프로그램 상태는 `Always Open`입니다.
+Follow Open Bosch / openbosch.com venture-client contact path. Current status: `Always Open`.
 
 ## Sources
 
-- [Official program page](https://bosch.ventures/open-bosch/)
+- [Official program page](https://bosch.ventures/open-bosch)

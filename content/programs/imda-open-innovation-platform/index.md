@@ -1,52 +1,51 @@
 ---
-title: "IMDA Open Innovation Platform"
+title: IMDA Open Innovation Platform
 date: 2026-06-08
 draft: false
-company: "IMDA Singapore"
-externalUrl: "https://www.openinnovation.sg/"
+company: IMDA Singapore
+externalUrl: https://www.openinnovation.sg/
 focusAreas:
-  - "Business Challenges"
-  - "Digital Transformation"
-  - "Prototype Development"
-  - "Commercial Pilots"
+- Business Challenges
+- Digital Transformation
+- Prototype Development
+- Commercial Pilots
 eligibility:
-  - "Problem Solvers"
-  - "Startups"
-  - "Solution Providers"
-  - "Research Institutes"
-  - "Problem Owners"
-status: "Active"
-summary: "IMDA Open Innovation Platform은 싱가포르 기업과 기관의 디지털 과제를 글로벌 솔버, 스타트업, 연구기관에 공개하는 챌린지 플랫폼입니다."
+- Problem Solvers
+- Startups
+- Solution Providers
+- Research Institutes
+- Problem Owners
+status: Active
+summary: IMDA Open Innovation Platform is an open innovation program run by IMDA Singapore
+  focused on Business Challenges, Digital Transformation, Prototype Development.
 resources:
-  - src: "feature.png"
-    title: "IMDA Open Innovation Platform"
-    params:
-      source: "https://www.openinnovation.sg/"
-      sourceLabel: "IMDA Open Innovation Platform official inline image"
+- src: feature.png
+  title: IMDA Open Innovation Platform
+  params:
+    source: https://www.openinnovation.sg/
+    sourceLabel: IMDA Open Innovation Platform official inline image
 ---
 
 ## Overview
 
-IMDA Open Innovation Platform은 싱가포르의 문제 보유자와 글로벌 솔버를 연결하는 디지털 혁신 챌린지 플랫폼입니다. 스타트업, 솔루션 기업, 연구기관은 분기별 혁신 콜과 공개 과제에 맞춰 프로토타입 또는 상용화 가능한 솔루션을 제안할 수 있습니다.
+IMDA Open Innovation Platform is an open innovation program run by IMDA Singapore. It is relevant for problem solvers, startups, solution providers, research institutes, problem owners working on business challenges, digital transformation, prototype development, commercial pilots. The current collaboration path is described through official materials for Singapore / Global solvers participation in the Digital innovation space.
 
 ## Focus Areas
 
-- 비즈니스 과제
-- 디지털 전환
-- 프로토타입 개발
-- 상용 파일럿
+- Business Challenges
+- Digital Transformation
+- Prototype Development
+- Commercial Pilots
 
 ## Collaboration & Benefits
 
-- 상금 또는 지원이 포함된 챌린지 참여 가능성
-- 구조화된 혁신 프로세스
-- 상용화 지원 및 문제 보유자와의 연결
+- Opportunity to compete on a level playing field and work on challenge-owner problems
+- Official search snippet says users can submit proposals in the quarterly OIP challenge. The live page rendered poorly in this crawl, so the status is based on the official snippet.
 
 ## How to Apply
 
-Open Innovation Platform의 챌린지 페이지에서 문제를 선택하고 제안서를 제출합니다. 리포트 기준 마감일은 분기별 혁신 콜 또는 개별 과제에 따라 다릅니다.
+Submit proposals in OIP quarterly challenges. Current status: `Active`.
 
 ## Sources
 
-- [Official program page](https://www.openinnovation.sg/)
-- [Representative image source](https://www.openinnovation.sg/)
+- [Official program page](https://www.openinnovation.sg)

@@ -1,0 +1,35 @@
+[home_kicker]
+other = "글로벌 오픈 이노베이션 디렉터리"
+
+[home_title]
+other = "글로벌 오픈 이노베이션 기회"
+
+[home_lead]
+other = "해외 대기업과 기관이 외부 기술, 제품, 특허, 연구 역량을 찾는 프로그램을 선별해 정리합니다. 각 카드는 신청 경로와 협업 가능성을 빠르게 검토할 수 있도록 구성했습니다."
+
+[program_count]
+other = "전체 {{ .total }}개 중 {{ .shown }}개 표시"
+
+[view_all_programs]
+other = "전체 프로그램 보기"
+
+[programs_aria]
+other = "오픈 이노베이션 프로그램"
+
+[view_details]
+other = "상세 보기"
+
+[official_site]
+other = "공식 사이트"
+
+[no_programs_for_tag]
+other = "선택한 태그에 해당하는 프로그램이 없습니다."
+
+[filter_by_focus]
+other = "분야별 필터"
+
+[all]
+other = "전체"
+
+[open_innovation]
+other = "오픈 이노베이션"

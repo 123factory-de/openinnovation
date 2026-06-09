@@ -1,6 +1,6 @@
 ---
-title: "오픈 이노베이션 프로그램"
-description: "검토할 수 있는 글로벌 오픈 이노베이션 프로그램 목록입니다."
+title: "Open Innovation Programs"
+description: "A curated list of global open innovation programs to review."
 ---
 
-기술, 제품, 특허, 연구 역량, 파일럿 제안으로 접근할 수 있는 글로벌 오픈 이노베이션 프로그램을 정리합니다.
+Browse global open innovation programs that welcome technologies, products, patents, research capabilities, and pilot proposals.

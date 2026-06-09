@@ -1,0 +1,12 @@
+disabled = false
+languageCode = "en-US"
+languageName = "English"
+weight = 1
+title = "Open Innovations"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  description = "Global open innovation program directory"

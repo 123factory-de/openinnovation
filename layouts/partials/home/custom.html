@@ -77,6 +77,66 @@
     font-size: 0.9rem;
   }
 
+  .oi-filter-bar {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0 0 1.25rem;
+  }
+
+  .oi-filter-label {
+    color: #475569;
+    font-size: 0.82rem;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .dark .oi-filter-label {
+    color: #cbd5e1;
+  }
+
+  .oi-filter-tag {
+    background: #fff;
+    border: 1px solid #cbd5e1;
+    border-radius: 999px;
+    color: #334155;
+    cursor: pointer;
+    font-size: 0.78rem;
+    font-weight: 700;
+    line-height: 1;
+    padding: 0.5rem 0.7rem;
+  }
+
+  .oi-filter-tag:hover {
+    border-color: #10b981;
+    color: #047857;
+  }
+
+  .oi-filter-tag.is-active {
+    background: #059669;
+    border-color: #059669;
+    color: #fff;
+  }
+
+  .dark .oi-filter-tag {
+    background: rgba(17, 24, 39, 0.7);
+    border-color: rgba(148, 163, 184, 0.22);
+    color: #e5e7eb;
+  }
+
+  .dark .oi-filter-tag:hover {
+    border-color: #34d399;
+    color: #6ee7b7;
+  }
+
+  .dark .oi-filter-tag.is-active {
+    background: #10b981;
+    border-color: #10b981;
+    color: #06281d;
+  }
+
   .oi-view-all {
     background: rgba(5, 150, 105, 0.08);
     border: 1px solid rgba(5, 150, 105, 0.24);
@@ -248,6 +308,7 @@
     border: 1px solid #e2e8f0;
     border-radius: 999px;
     color: #334155;
+    cursor: pointer;
     font-size: 0.75rem;
     line-height: 1;
     padding: 0.4rem 0.55rem;
@@ -257,6 +318,18 @@
     background: rgba(148, 163, 184, 0.1);
     border-color: rgba(148, 163, 184, 0.18);
     color: #e5e7eb;
+  }
+
+  .oi-empty {
+    color: #64748b;
+    display: none;
+    font-size: 0.95rem;
+    grid-column: 1 / -1;
+    padding: 1rem 0;
+  }
+
+  .dark .oi-empty {
+    color: #94a3b8;
   }
 
   .oi-card-actions {
@@ -314,6 +387,25 @@
     <a class="oi-view-all" href="{{ "programs/" | relLangURL }}">전체 프로그램 보기</a>
   </div>
 
+  {{ $allFocusAreas := slice }}
+  {{ range $featuredPrograms }}
+    {{ with .Params.focusAreas }}
+      {{ range . }}
+        {{ $allFocusAreas = $allFocusAreas | append . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ $filterTags := first 12 (sort ($allFocusAreas | uniq)) }}
+  {{ if gt (len $filterTags) 0 }}
+    <div class="oi-filter-bar" data-oi-filter-root>
+      <span class="oi-filter-label">Filter by focus</span>
+      <button class="oi-filter-tag is-active" type="button" data-filter-tag="all">All</button>
+      {{ range $filterTags }}
+        <button class="oi-filter-tag" type="button" data-filter-tag="{{ . }}">{{ . }}</button>
+      {{ end }}
+    </div>
+  {{ end }}
+
   <section class="oi-grid" aria-label="오픈 이노베이션 프로그램">
     {{ range $featuredPrograms }}
       {{ $page := . }}
@@ -337,7 +429,8 @@
           {{ end }}
         {{ end }}
       {{ end }}
-      <article class="oi-card">
+      {{ $focusAreas := .Params.focusAreas | default (slice) }}
+      <article class="oi-card" data-focus-areas="{{ delimit $focusAreas "||" }}">
         <a class="oi-card-media" href="{{ $page.RelPermalink }}" aria-label="{{ $page.Title }}">
           {{ with $featuredURL }}
             <img src="{{ . }}" alt="" loading="lazy" decoding="async">
@@ -365,7 +458,7 @@
         {{ with .Params.focusAreas }}
           <div class="oi-tags">
             {{ range first 4 . }}
-              <span class="oi-tag">{{ . }}</span>
+              <button class="oi-tag" type="button" data-filter-tag="{{ . }}">{{ . }}</button>
             {{ end }}
           </div>
         {{ end }}
@@ -378,5 +471,59 @@
         </div>
       </article>
     {{ end }}
+    <p class="oi-empty" data-oi-empty>선택한 태그에 해당하는 프로그램이 없습니다.</p>
   </section>
 </section>
+
+<script>
+  (() => {
+    const root = document.querySelector(".oi-home [data-oi-filter-root]");
+    const grid = document.querySelector(".oi-home .oi-grid");
+    if (!root || !grid) return;
+
+    const cards = Array.from(grid.querySelectorAll(".oi-card"));
+    const emptyState = grid.querySelector("[data-oi-empty]");
+    const tagButtons = Array.from(document.querySelectorAll(".oi-home [data-filter-tag]"));
+    const params = new URLSearchParams(window.location.search);
+
+    const updateUrl = (tag) => {
+      const nextUrl = new URL(window.location.href);
+      if (tag === "all") {
+        nextUrl.searchParams.delete("tag");
+      } else {
+        nextUrl.searchParams.set("tag", tag);
+      }
+      window.history.replaceState({}, "", nextUrl);
+    };
+
+    const applyFilter = (tag) => {
+      let visibleCount = 0;
+      cards.forEach((card) => {
+        const focusAreas = (card.dataset.focusAreas || "").split("||").filter(Boolean);
+        const isVisible = tag === "all" || focusAreas.includes(tag);
+        card.style.display = isVisible ? "" : "none";
+        if (isVisible) visibleCount += 1;
+      });
+
+      tagButtons.forEach((button) => {
+        button.classList.toggle("is-active", button.dataset.filterTag === tag);
+      });
+
+      if (emptyState) {
+        emptyState.style.display = visibleCount === 0 ? "block" : "none";
+      }
+    };
+
+    tagButtons.forEach((button) => {
+      button.addEventListener("click", () => {
+        const tag = button.dataset.filterTag || "all";
+        applyFilter(tag);
+        updateUrl(tag);
+      });
+    });
+
+    const initialTag = params.get("tag") || "all";
+    const knownTag = tagButtons.some((button) => button.dataset.filterTag === initialTag) ? initialTag : "all";
+    applyFilter(knownTag);
+  })();
+</script>

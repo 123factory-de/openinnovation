@@ -12,6 +12,12 @@ The main output can be either:
 - A research report under `open-innovations/` that summarizes many programs.
 - Individual Hugo entries under `content/programs/` for selected programs.
 
+You may use aggregator sites, directories, innovation platform listings, newsletters, and database-style roundups as discovery inputs, but never as the final authority for program facts.
+
+Reference file:
+
+- `open-innovations/references/open-innovation-lead-sources.md`
+
 ## Definition
 
 Open innovation programs are initiatives where corporations, universities, research institutes, accelerators, public agencies, or consortiums invite external partners to submit technologies, startup solutions, research proposals, pilots, or commercialization ideas.
@@ -31,6 +37,13 @@ Exclude:
 - Pure job postings, grants with no innovation or collaboration focus, and procurement-only tenders
 - Blog posts that mention innovation but do not link to an official program, challenge, or application path
 
+Treat these as `lead sources only`, not final evidence:
+
+- Aggregator sites that list many programs
+- Innovation directories or scouting databases
+- Newsletters, media roundups, and blog compilations
+- Third-party challenge platforms unless the platform page is clearly the official application destination for the sponsor
+
 ## Research Workflow
 
 1. Confirm the scope if needed.
@@ -40,11 +53,25 @@ Exclude:
 
 2. Search broadly, then verify from official sources.
    - Use web search for discovery.
+   - Review `open-innovations/references/open-innovation-lead-sources.md` when you want a faster starting list of aggregator sites and challenge marketplaces.
+   - Use aggregator sites and directory-style pages to accelerate discovery when they expose many relevant candidate programs.
+   - Treat aggregator pages as lead generation only.
    - Prefer official corporate, university, government, or challenge platform pages as sources.
    - Use secondary sources only to discover leads, not as the final authority.
    - Every included program must have at least one official source URL.
+   - If a candidate is first discovered on an aggregator, click through and verify the current status on the official sponsor page, official challenge page, official application page, or official press release before including it.
 
-3. Use diversified search queries.
+3. Use source hierarchy.
+   Rank evidence in this order:
+   - Official application page or official challenge portal
+   - Official program landing page on the sponsor or operating partner site
+   - Official press release or official news post announcing the current cohort, call, or application round
+   - Official PDF or terms page tied to the program
+   - Third-party listing or aggregator page, for discovery only
+
+   If only a third-party listing exists and no official source can be verified, do not include the program in the main list. Put it under `Excluded Or Uncertain Leads` instead.
+
+4. Use diversified search queries.
    Combine global and regional queries such as:
    - `"open innovation" startup challenge apply`
    - `"open innovation portal" corporation`
@@ -62,23 +89,32 @@ Exclude:
    - `"open innovation" India startup challenge`
    - `"open innovation" Middle East startup challenge`
    - `"open innovation" Latin America startup challenge`
+   - `site:f6s.com corporate startup challenge`
+   - `site:innovationexchange.org open innovation`
+   - `site:herox.com company challenge startup`
+   - `site:innocentive.com challenge company`
+   - `site:yet2.com open innovation`
+   - `site:plugandplaytechcenter.com innovation program corporate`
+   - `site:enterpriseeuropeanetwork.ec.europa.eu open call innovation`
 
-4. Prioritize diversity.
+5. Prioritize diversity.
    Aim to cover multiple regions and sectors:
    - Regions: North America, Europe, East Asia, Southeast Asia, India, Middle East, Latin America, Africa, Oceania
    - Sectors: consumer goods, healthcare, pharma, chemicals, mobility, energy, manufacturing, food/agri, finance, telecom, software, sustainability
 
-5. Verify current status.
+6. Verify current status.
    - Mark as `Always Open` when the official page accepts ongoing submissions.
    - Mark as `Active` when there is a currently open challenge or visible application window.
    - Record `deadline: YYYY-MM-DD` when a deadline is published.
    - Keep `status` for non-date labels such as `Always Open`, `Active`, `Closed`, or `Unknown`.
    - Mark as `Closed` only when useful to include and clearly labeled closed.
    - If current status is not explicit, write `Unknown` and explain the uncertainty in notes.
+   - Never infer `Active` only because an aggregator says a program is open. Confirm from the official source.
 
-6. Deduplicate.
+7. Deduplicate.
    - Merge duplicate portals for the same sponsor and program.
    - Keep separate entries when a corporation has distinct challenge portals by business unit, region, or technology domain.
+   - If multiple aggregators point to the same official program, retain only one program entry and optionally note the discovery source in `leadSource`.
 
 ## Data Fields
 
@@ -89,6 +125,7 @@ Extract these fields for each program:
 - `region`: Primary geography or `Global`
 - `country`: Sponsor country or main program country, if clear
 - `sector`: Main industry sector
+- `leadSource`: Where the program was first discovered, if relevant
 - `externalUrl`: Direct official URL
 - `focusAreas`: Technologies, industries, challenge themes, or problem statements
 - `eligibility`: Who can apply
@@ -99,6 +136,12 @@ Extract these fields for each program:
 - `sourceNotes`: Short note about where the data came from and any ambiguity
 - `lastChecked`: Today's date in `YYYY-MM-DD`
 
+Rules for `leadSource`:
+
+- Use this only when a third-party site materially helped discovery.
+- Format as a short label plus URL when helpful, for example `F6S - https://www.f6s.com/...`
+- Do not use `leadSource` as the evidence field for status, deadline, or benefits. Those must still come from official pages.
+
 ## Markdown Research Report
 
 When the user asks to collect or search open innovation programs globally, create a Markdown report in:
@@ -106,6 +149,14 @@ When the user asks to collect or search open innovation programs globally, creat
 ```text
 open-innovations/reports/YYYY-MM-DD-global-open-innovation-programs.md
 ```
+
+Filename collision rule:
+
+- If no report exists yet for that date, use `open-innovations/reports/YYYY-MM-DD-global-open-innovation-programs.md`.
+- If a report for that date already exists, create a new file with a time suffix:
+  `open-innovations/reports/YYYY-MM-DD-global-open-innovation-programs-HHMM.md`
+- Use 24-hour time in the local workspace timezone.
+- Do not overwrite an existing same-day report unless the user explicitly asks to update that exact file.
 
 Use this structure:
 
@@ -137,6 +188,7 @@ Scope: Worldwide active and always-open open innovation programs
 - Sector: Consumer goods
 - Status: Always Open
 - Deadline:
+- Lead source: F6S - https://...
 - Eligibility: Startups; researchers; suppliers
 - Focus areas: Sustainability; packaging; ingredients
 - Benefits: Pilot collaboration; R&D access
@@ -152,6 +204,7 @@ Scope: Worldwide active and always-open open innovation programs
 ```
 
 Keep the report concise but evidence-based. Do not overstate status, eligibility, benefits, or deadlines beyond what official sources support.
+When a lead came from a third-party site, it is fine to mention that in the details, but keep the official URL as the primary link in the table and narrative.
 
 ## Hugo Program Entry
 
@@ -216,6 +269,7 @@ Explain the submission path, timeline, and official link.
 ## Quality Bar
 
 - Use official source URLs for all included programs.
+- Use aggregator and directory pages for discovery only, then re-verify against official sources.
 - Prefer current pages with clear application or contact paths.
 - Use ISO dates for deadlines and `lastChecked`.
 - Preserve uncertainty instead of guessing.

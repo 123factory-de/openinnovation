@@ -7,5 +7,6 @@ externalUrl: ""
 focusAreas: []
 eligibility: []
 status: "Always Open"
+deadline: ""
 summary: ""
 ---

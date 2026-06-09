@@ -71,7 +71,8 @@ Exclude:
 5. Verify current status.
    - Mark as `Always Open` when the official page accepts ongoing submissions.
    - Mark as `Active` when there is a currently open challenge or visible application window.
-   - Mark as `Deadline: YYYY-MM-DD` when a deadline is published.
+   - Record `deadline: YYYY-MM-DD` when a deadline is published.
+   - Keep `status` for non-date labels such as `Always Open`, `Active`, `Closed`, or `Unknown`.
    - Mark as `Closed` only when useful to include and clearly labeled closed.
    - If current status is not explicit, write `Unknown` and explain the uncertainty in notes.
 
@@ -91,7 +92,7 @@ Extract these fields for each program:
 - `externalUrl`: Direct official URL
 - `focusAreas`: Technologies, industries, challenge themes, or problem statements
 - `eligibility`: Who can apply
-- `status`: `Always Open`, `Active`, `Deadline: YYYY-MM-DD`, `Closed`, or `Unknown`
+- `status`: `Always Open`, `Active`, `Closed`, or `Unknown`
 - `deadline`: ISO date when available, otherwise blank
 - `benefits`: Pilot, funding, mentoring, lab access, commercial partnership, procurement, investment, etc.
 - `applicationPath`: How to apply or submit
@@ -176,9 +177,16 @@ eligibility:
   - "Startups"
   - "Researchers"
 status: "Always Open"
+deadline: ""
 summary: "A brief one or two-sentence description of the program and its goals."
 ---
 ```
+
+Rules:
+
+- Use `deadline` for date-based closing information in `YYYY-MM-DD` format.
+- Do not encode dates inside `status`.
+- Omit `status` when the only meaningful state is the deadline and there is no separate label such as `Active` or `Always Open`.
 
 Use this body structure:
 

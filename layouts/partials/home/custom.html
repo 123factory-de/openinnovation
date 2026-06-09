@@ -1,5 +1,15 @@
-{{ $programs := where .Site.RegularPages "Type" "programs" }}
-{{ $featuredPrograms := first 12 $programs.ByTitle }}
+{{ $programs := slice }}
+{{ range (where .Site.RegularPages "Type" "programs").ByTitle }}
+  {{ $isVisible := true }}
+  {{ with .Params.deadline }}
+    {{ $today := dateFormat "2006-01-02" now }}
+    {{ $isVisible = ge . $today }}
+  {{ end }}
+  {{ if $isVisible }}
+    {{ $programs = $programs | append . }}
+  {{ end }}
+{{ end }}
+{{ $featuredPrograms := first 12 $programs }}
 
 <style>
   .oi-home {
@@ -337,7 +347,11 @@
         </a>
         <div class="oi-card-top">
           <div class="oi-company">{{ .Params.company | default "Program" }}</div>
-          {{ with .Params.status }}
+          {{ $badgeText := .Params.status }}
+          {{ if and (not $badgeText) .Params.deadline }}
+            {{ $badgeText = printf "Deadline: %s" .Params.deadline }}
+          {{ end }}
+          {{ with $badgeText }}
             <div class="oi-status">{{ . }}</div>
           {{ end }}
         </div>

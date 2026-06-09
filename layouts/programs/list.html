@@ -1,5 +1,16 @@
 {{ define "main" }}
-  {{ $paginator := .Paginate .Pages.ByTitle 24 }}
+  {{ $visiblePages := slice }}
+  {{ range .Pages.ByTitle }}
+    {{ $isVisible := true }}
+    {{ with .Params.deadline }}
+      {{ $today := dateFormat "2006-01-02" now }}
+      {{ $isVisible = ge . $today }}
+    {{ end }}
+    {{ if $isVisible }}
+      {{ $visiblePages = $visiblePages | append . }}
+    {{ end }}
+  {{ end }}
+  {{ $paginator := .Paginate $visiblePages 24 }}
 
   <style>
     .programs-list {
@@ -230,11 +241,11 @@
         <div class="programs-list-copy">{{ . }}</div>
       {{ end }}
       <p class="programs-list-count">
-        전체 {{ len .Pages }}개 중 {{ len $paginator.Pages }}개 표시
+        전체 {{ len $visiblePages }}개 중 {{ len $paginator.Pages }}개 표시
       </p>
     </header>
 
-    {{ if gt (len .Pages) 0 }}
+    {{ if gt (len $visiblePages) 0 }}
       <section class="oi-grid" aria-label="오픈 이노베이션 프로그램">
         {{ range $paginator.Pages }}
           {{ $page := . }}
@@ -269,7 +280,11 @@
             </a>
             <div class="oi-card-top">
               <div class="oi-company">{{ .Params.company | default "Program" }}</div>
-              {{ with .Params.status }}
+              {{ $badgeText := .Params.status }}
+              {{ if and (not $badgeText) .Params.deadline }}
+                {{ $badgeText = printf "Deadline: %s" .Params.deadline }}
+              {{ end }}
+              {{ with $badgeText }}
                 <div class="oi-status">{{ . }}</div>
               {{ end }}
             </div>

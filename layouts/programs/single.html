@@ -118,7 +118,11 @@
         {{ .Title | emojify }}
       </h1>
       <div class="program-meta">
-        {{ with .Params.status }}
+        {{ $badgeText := .Params.status }}
+        {{ if and (not $badgeText) .Params.deadline }}
+          {{ $badgeText = printf "Deadline: %s" .Params.deadline }}
+        {{ end }}
+        {{ with $badgeText }}
           <span class="program-badge">{{ . }}</span>
         {{ end }}
         {{ with .Params.externalUrl }}

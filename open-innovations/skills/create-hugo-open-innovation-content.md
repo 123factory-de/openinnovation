@@ -37,7 +37,7 @@ Do not create content for rows under `## Excluded Or Uncertain Leads` unless the
 ## Conversion Workflow
 
 1. Read the full report and identify the `## Program Details` entries.
-2. For each program, extract the sponsor, source URL, status, eligibility, focus areas, benefits, application path, and notes.
+2. For each program, extract the sponsor, source URL, status, deadline, eligibility, focus areas, benefits, application path, and notes.
 3. Generate a stable slug.
 4. Check whether `content/programs/<slug>/index.md` already exists.
 5. If the bundle exists, do not overwrite it unless the user asks to refresh or replace existing content.
@@ -90,6 +90,7 @@ eligibility:
   - "Startups"
   - "Researchers"
 status: "Always Open"
+deadline: ""
 summary: "One sentence describing the program, sponsor, and collaboration opportunity."
 ---
 ```
@@ -97,7 +98,9 @@ summary: "One sentence describing the program, sponsor, and collaboration opport
 Rules:
 
 - Use the report `Last checked` date as `date`.
-- Use the report `Status` value exactly, including `Deadline: YYYY-MM-DD`.
+- Use `status` only for non-date labels such as `Always Open`, `Active`, `Closed`, or `Unknown`.
+- If the report has a published cutoff date, store it in `deadline` using `YYYY-MM-DD`.
+- Do not write `Deadline: YYYY-MM-DD` into `status`.
 - Convert semicolon-separated `Focus areas` into title-cased list items where appropriate.
 - Convert semicolon-separated `Eligibility` into list items.
 - If eligibility is vague, use conservative values such as `"Startups"`, `"Researchers"`, `"Companies"`, `"Solution Providers"`, or `"Innovators"` only when supported by the report.
@@ -105,6 +108,7 @@ Rules:
 - Do not add `featureimage` when the image is stored in the same bundle as `feature.<ext>`, `cover.<ext>`, or `thumbnail.<ext>`.
 - Add `featureimage` only if a non-standard bundle-local image filename is necessary.
 - Avoid adding frontmatter fields not used by the project unless the user asks.
+- `status` may be omitted when `deadline` alone is enough to describe the program state.
 
 ## Representative Image Workflow
 

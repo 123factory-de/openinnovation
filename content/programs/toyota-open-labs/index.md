@@ -3,6 +3,7 @@ title: "Toyota Open Labs"
 date: 2026-06-09
 draft: false
 company: "Toyota Motor Europe"
+industry: "Automotive"
 externalUrl: "https://www.toyotaopenlabs.com"
 focusAreas:
   - "BEV Energy Ecosystem"

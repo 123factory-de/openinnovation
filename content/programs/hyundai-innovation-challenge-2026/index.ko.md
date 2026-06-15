@@ -3,6 +3,7 @@ title: "Hyundai Innovation Challenge 2026"
 date: 2026-06-09
 draft: false
 company: "Hyundai Motor Company / HMIL / HMIE"
+industry: "Automotive"
 externalUrl: "https://hyundaiinnovationchallenge.com/"
 focusAreas:
   - "ADAS Systems"

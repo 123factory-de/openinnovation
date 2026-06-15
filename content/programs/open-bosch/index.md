@@ -3,6 +3,7 @@ title: Open Bosch
 date: 2026-06-08
 draft: false
 company: Bosch Ventures
+industry: "Manufacturing"
 externalUrl: https://bosch.ventures/open-bosch/
 focusAreas:
 - Venture-Client Partnerships

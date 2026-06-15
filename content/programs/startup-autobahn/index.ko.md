@@ -3,6 +3,7 @@ title: "Startup Autobahn"
 date: 2026-06-09
 draft: false
 company: "Mercedes-Benz"
+industry: "Automotive"
 externalUrl: "https://startup-autobahn.com/"
 focusAreas:
   - "Automotive Technology"

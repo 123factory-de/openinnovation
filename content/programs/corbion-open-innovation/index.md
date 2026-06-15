@@ -3,6 +3,7 @@ title: Corbion Open Innovation
 date: 2026-06-08
 draft: false
 company: Corbion
+industry: "Sustainability"
 externalUrl: https://www.corbion.com/innovation/open-innovation
 focusAreas:
 - Bio-Ingredients

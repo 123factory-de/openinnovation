@@ -384,20 +384,18 @@
     <a class="oi-view-all" href="{{ "programs/" | relLangURL }}">{{ T "view_all_programs" }}</a>
   </div>
 
-  {{ $allFocusAreas := slice }}
+  {{ $allIndustries := slice }}
   {{ range $featuredPrograms }}
-    {{ with .Params.focusAreas }}
-      {{ range . }}
-        {{ $allFocusAreas = $allFocusAreas | append . }}
-      {{ end }}
+    {{ with .Params.industry }}
+      {{ $allIndustries = $allIndustries | append . }}
     {{ end }}
   {{ end }}
-  {{ $filterTags := first 12 (sort ($allFocusAreas | uniq)) }}
-  {{ if gt (len $filterTags) 0 }}
+  {{ $industryTags := sort ($allIndustries | uniq) }}
+  {{ if gt (len $industryTags) 0 }}
     <div class="oi-filter-bar" data-oi-filter-root>
-      <span class="oi-filter-label">{{ T "filter_by_focus" }}</span>
+      <span class="oi-filter-label">{{ T "filter_by_industry" }}</span>
       <button class="oi-filter-tag is-active" type="button" data-filter-tag="all">{{ T "all" }}</button>
-      {{ range $filterTags }}
+      {{ range $industryTags }}
         <button class="oi-filter-tag" type="button" data-filter-tag="{{ . }}">{{ . }}</button>
       {{ end }}
     </div>
@@ -427,7 +425,8 @@
         {{ end }}
       {{ end }}
       {{ $focusAreas := .Params.focusAreas | default (slice) }}
-      <article class="oi-card" data-focus-areas="{{ delimit $focusAreas "||" }}">
+      {{ $industry := .Params.industry | default "" }}
+      <article class="oi-card" data-industry="{{ $industry }}" data-focus-areas="{{ delimit $focusAreas "||" }}">
         <a class="oi-card-media" href="{{ $page.RelPermalink }}" aria-label="{{ $page.Title }}">
           {{ with $featuredURL }}
             <img src="{{ . }}" alt="" loading="lazy" decoding="async">
@@ -455,7 +454,7 @@
         {{ with .Params.focusAreas }}
           <div class="oi-tags">
             {{ range first 4 . }}
-              <button class="oi-tag" type="button" data-filter-tag="{{ . }}">{{ . }}</button>
+              <span class="oi-tag">{{ . }}</span>
             {{ end }}
           </div>
         {{ end }}
@@ -468,7 +467,7 @@
         </div>
       </article>
     {{ end }}
-    <p class="oi-empty" data-oi-empty>{{ T "no_programs_for_tag" }}</p>
+    <p class="oi-empty" data-oi-empty>{{ T "no_programs_for_industry" }}</p>
   </section>
 </section>
 
@@ -486,9 +485,9 @@
     const updateUrl = (tag) => {
       const nextUrl = new URL(window.location.href);
       if (tag === "all") {
-        nextUrl.searchParams.delete("tag");
+        nextUrl.searchParams.delete("industry");
       } else {
-        nextUrl.searchParams.set("tag", tag);
+        nextUrl.searchParams.set("industry", tag);
       }
       window.history.replaceState({}, "", nextUrl);
     };
@@ -496,8 +495,8 @@
     const applyFilter = (tag) => {
       let visibleCount = 0;
       cards.forEach((card) => {
-        const focusAreas = (card.dataset.focusAreas || "").split("||").filter(Boolean);
-        const isVisible = tag === "all" || focusAreas.includes(tag);
+        const industry = card.dataset.industry || "";
+        const isVisible = tag === "all" || industry === tag;
         card.style.display = isVisible ? "" : "none";
         if (isVisible) visibleCount += 1;
       });
@@ -519,8 +518,9 @@
       });
     });
 
-    const initialTag = params.get("tag") || "all";
+    const initialTag = params.get("industry") || "all";
     const knownTag = tagButtons.some((button) => button.dataset.filterTag === initialTag) ? initialTag : "all";
     applyFilter(knownTag);
   })();
 </script>
+

@@ -3,6 +3,7 @@ title: "Siemens Collaborations and Open Innovation"
 date: 2026-06-08
 draft: false
 company: "Siemens"
+industry: "Manufacturing"
 externalUrl: "https://www.siemens.com/en-us/company/innovation/collaborations-partnerships/"
 focusAreas:
   - "Industrial Software"

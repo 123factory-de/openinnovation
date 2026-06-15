@@ -3,6 +3,7 @@ title: "K-Startup Grand Challenge 2026"
 date: 2026-06-08
 draft: false
 company: "Korea Ministry of SMEs and Startups"
+industry: "Cross-Industry"
 externalUrl: "https://ksgc.global/"
 focusAreas:
   - "Korea Market Entry"

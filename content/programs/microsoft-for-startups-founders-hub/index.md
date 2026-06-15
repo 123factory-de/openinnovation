@@ -3,6 +3,7 @@ title: "Microsoft for Startups Founders Hub"
 date: 2026-06-09
 draft: false
 company: "Microsoft"
+industry: "ICT"
 externalUrl: "https://startups.microsoft.com/"
 focusAreas:
   - "Software"

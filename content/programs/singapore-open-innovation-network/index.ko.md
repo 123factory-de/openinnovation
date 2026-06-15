@@ -3,6 +3,7 @@ title: "Singapore Open Innovation Network"
 date: 2026-06-08
 draft: false
 company: "Singapore Government"
+industry: "Cross-Industry"
 externalUrl: "https://www.openinnovationnetwork.gov.sg/"
 focusAreas:
   - "Government Challenges"

@@ -3,6 +3,7 @@ title: "Tomorrow Street (Scaleup X)"
 date: 2026-06-09
 draft: false
 company: "Vodafone Group"
+industry: "ICT"
 externalUrl: "https://www.tomorrowstreet.co/"
 focusAreas:
   - "IoT"

@@ -25,8 +25,14 @@ other = "Official site"
 [no_programs_for_tag]
 other = "No programs match the selected focus tag."
 
+[no_programs_for_industry]
+other = "No programs match the selected industry."
+
 [filter_by_focus]
 other = "Filter by focus"
+
+[filter_by_industry]
+other = "Filter by industry"
 
 [all]
 other = "All"

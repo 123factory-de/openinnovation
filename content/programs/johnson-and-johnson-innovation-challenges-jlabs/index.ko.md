@@ -3,6 +3,7 @@ title: "Johnson & Johnson Innovation Challenges / JLABS"
 date: 2026-06-08
 draft: false
 company: "Johnson & Johnson Innovation"
+industry: "Healthcare"
 externalUrl: "https://jnjinnovation.com/innovation-challenges"
 focusAreas:
   - "Medicine"

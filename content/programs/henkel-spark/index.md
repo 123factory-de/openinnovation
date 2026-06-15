@@ -3,6 +3,7 @@ title: Henkel Spark
 date: 2026-06-08
 draft: false
 company: Henkel
+industry: "FMCG"
 externalUrl: https://www.henkel.com/our-businesses/henkel-consumer-brands/open-innovation
 focusAreas:
 - Novel Hair Technologies

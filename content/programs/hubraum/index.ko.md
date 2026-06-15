@@ -3,6 +3,7 @@ title: "hubraum"
 date: 2026-06-09
 draft: false
 company: "Deutsche Telekom"
+industry: "ICT"
 externalUrl: "https://www.hubraum.com/"
 focusAreas:
   - "5G"

@@ -3,6 +3,7 @@ title: "AstraZeneca Open Innovation"
 date: 2026-06-08
 draft: false
 company: "AstraZeneca"
+industry: "Healthcare"
 externalUrl: "https://www.openinnovation.astrazeneca.com/"
 focusAreas:
   - "Preclinical Research"

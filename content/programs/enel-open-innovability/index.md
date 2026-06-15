@@ -3,6 +3,7 @@ title: Enel Open Innovability
 date: 2026-06-08
 draft: false
 company: Enel
+industry: "Energy"
 externalUrl: https://openinnovability.enel.com/challenges
 focusAreas:
 - Energy Systems

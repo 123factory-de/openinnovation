@@ -3,6 +3,7 @@ title: "Google for Startups Accelerator"
 date: 2026-06-09
 draft: false
 company: "Google"
+industry: "ICT"
 externalUrl: "https://startup.google.com/accelerator/"
 focusAreas:
   - "AI"

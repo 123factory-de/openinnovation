@@ -3,6 +3,7 @@ title: "IMDA Open Innovation Platform"
 date: 2026-06-08
 draft: false
 company: "IMDA Singapore"
+industry: "ICT"
 externalUrl: "https://www.openinnovation.sg/"
 focusAreas:
   - "Business Challenges"

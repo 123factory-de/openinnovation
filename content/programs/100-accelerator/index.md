@@ -3,6 +3,7 @@ title: "100+ Accelerator"
 date: 2026-06-09
 draft: false
 company: "AB InBev et al."
+industry: "Sustainability"
 externalUrl: "https://100accelerator.com/"
 focusAreas:
   - "Water Stewardship"

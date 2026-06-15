@@ -3,6 +3,7 @@ title: "Sony Startup Acceleration Program"
 date: 2026-06-09
 draft: false
 company: "Sony Group"
+industry: "ICT"
 externalUrl: "https://sony-startup-acceleration-program.com/"
 focusAreas:
   - "Business Modeling"

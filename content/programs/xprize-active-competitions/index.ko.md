@@ -3,6 +3,7 @@ title: "XPRIZE Active Competitions"
 date: 2026-06-08
 draft: false
 company: "XPRIZE Foundation"
+industry: "Cross-Industry"
 externalUrl: "https://www.xprize.org/competitions?status=Active"
 focusAreas:
   - "Quantum"

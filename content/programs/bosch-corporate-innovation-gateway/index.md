@@ -3,6 +3,7 @@ title: Bosch Corporate Innovation Gateway
 date: 2026-06-08
 draft: false
 company: Bosch
+industry: "Manufacturing"
 externalUrl: https://innovate-bosch.com/
 focusAreas:
 - Automation

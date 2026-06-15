@@ -25,8 +25,14 @@ other = "공식 사이트"
 [no_programs_for_tag]
 other = "선택한 태그에 해당하는 프로그램이 없습니다."
 
+[no_programs_for_industry]
+other = "선택한 산업에 해당하는 프로그램이 없습니다."
+
 [filter_by_focus]
 other = "분야별 필터"
+
+[filter_by_industry]
+other = "산업별 필터"
 
 [all]
 other = "전체"

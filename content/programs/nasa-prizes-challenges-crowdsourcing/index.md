@@ -3,6 +3,7 @@ title: NASA Prizes, Challenges, and Crowdsourcing
 date: 2026-06-08
 draft: false
 company: NASA
+industry: "Aerospace"
 externalUrl: https://www.nasa.gov/about-prizes-challenges-crowdsourcing/
 focusAreas:
 - Space Exploration

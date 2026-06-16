@@ -1,25 +1,4 @@
 {{ define "main" }}
-  {{ $featured := "" }}
-  {{ $featuredURL := "" }}
-  {{ with .Params.featureimage }}
-    {{ with $.Resources.GetMatch . }}
-      {{ $featured = . }}
-    {{ end }}
-  {{ end }}
-  {{ if not $featured }}
-    {{ $images := .Resources.ByType "image" }}
-    {{ range slice "*feature*" "*cover*" "*thumbnail*" }}
-      {{ if not $featured }}
-        {{ with $images.GetMatch . }}
-          {{ $featured = . }}
-        {{ end }}
-      {{ end }}
-    {{ end }}
-  {{ end }}
-  {{ with $featured }}
-    {{ $featuredURL = .RelPermalink }}
-  {{ end }}
-
   <style>
     .program-page {
       max-width: 56rem;
@@ -38,11 +17,12 @@
     }
 
     .program-meta {
+      align-items: center;
       color: #64748b;
       display: flex;
       flex-wrap: wrap;
       font-size: 0.92rem;
-      gap: 0.5rem;
+      gap: 0.5rem 0.75rem;
       margin-top: 0.75rem;
     }
 
@@ -62,52 +42,6 @@
     .dark .program-badge {
       background: rgba(16, 185, 129, 0.14);
       color: #6ee7b7;
-    }
-
-    .program-feature {
-      background: #ffffff;
-      border: 1px solid #dde5ef;
-      border-radius: 0.5rem;
-      margin: 1.25rem 0 1.75rem;
-      max-width: 32rem;
-      overflow: hidden;
-    }
-
-    .dark .program-feature {
-      background: rgba(31, 41, 55, 0.82);
-      border-color: rgba(148, 163, 184, 0.18);
-    }
-
-    .program-feature img {
-      aspect-ratio: 16 / 7;
-      height: auto;
-      object-fit: cover;
-      width: 100%;
-    }
-
-    .program-caption {
-      color: #64748b;
-      font-size: 0.78rem;
-      padding: 0.6rem 0.8rem;
-    }
-
-    .program-caption a {
-      color: #0284c7;
-      font-weight: 700;
-      text-decoration: none;
-    }
-
-    .program-caption a:hover {
-      text-decoration: underline;
-      text-underline-offset: 0.2rem;
-    }
-
-    .dark .program-caption {
-      color: #cbd5e1;
-    }
-
-    .dark .program-caption a {
-      color: #38bdf8;
     }
   </style>
 
@@ -133,21 +67,7 @@
       </div>
     </header>
 
-    {{ with $featured }}
-      <figure class="program-feature">
-        <img src="{{ $featuredURL }}" alt="{{ .Title }}" loading="lazy" decoding="async">
-        {{ with .Params.source }}
-          <figcaption class="program-caption">
-            Image source:
-            <a href="{{ . }}" target="_blank" rel="noopener">
-              {{ $featured.Params.sourceLabel | default "official source" }}
-            </a>
-          </figcaption>
-        {{ end }}
-      </figure>
-    {{ end }}
-
-    <section class="prose dark:prose-invert max-w-none mb-20">
+    <section class="prose dark:prose-invert max-w-none mt-8 mb-20">
       {{ .Content }}
     </section>
   </article>

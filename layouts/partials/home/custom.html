@@ -227,6 +227,27 @@
     width: 100%;
   }
 
+  /* Logos: light plate + contain so dark/colored marks stay readable and uncropped */
+  .oi-card-media.is-logo,
+  .dark .oi-card-media.is-logo {
+    background: #ffffff;
+    border-color: #e2e8f0;
+  }
+
+  .oi-card-media.is-logo img {
+    height: 100%;
+    object-fit: contain;
+    padding: 0.85rem 1.1rem;
+    width: 100%;
+  }
+
+  /* Logos that are white/light: dark plate so they stay visible */
+  .oi-card-media.is-logo-dark,
+  .dark .oi-card-media.is-logo-dark {
+    background: #111827;
+    border-color: rgba(148, 163, 184, 0.18);
+  }
+
   .oi-card:hover {
     border-color: rgba(5, 150, 105, 0.42);
     box-shadow: 0 18px 42px rgba(15, 23, 42, 0.1);
@@ -404,13 +425,14 @@
   <section class="oi-grid" aria-label="{{ T "programs_aria" }}">
     {{ range $featuredPrograms }}
       {{ $page := . }}
+      {{ $featured := "" }}
       {{ $featuredURL := "" }}
       {{ with $page.Params.featureimage }}
         {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
           {{ $featuredURL = . }}
         {{ else }}
-          {{ with resources.Get . }}
-            {{ $featuredURL = .RelPermalink }}
+          {{ with $page.Resources.GetMatch . }}
+            {{ $featured = . }}{{ $featuredURL = .RelPermalink }}
           {{ end }}
         {{ end }}
       {{ end }}
@@ -419,15 +441,37 @@
         {{ range slice "*feature*" "*cover*" "*thumbnail*" }}
           {{ if not $featuredURL }}
             {{ with $images.GetMatch . }}
-              {{ $featuredURL = .RelPermalink }}
+              {{ $featured = . }}{{ $featuredURL = .RelPermalink }}
             {{ end }}
           {{ end }}
         {{ end }}
       {{ end }}
+
+      {{/* Letterbox (contain + whitespace) instead of cover-cropping for logos /
+           small / extreme-ratio images. Explicit override via featureLogo:
+           true | "dark" | "cover"; else auto-detect from width/height. */}}
+      {{ $isLogo := false }}
+      {{ $logoDark := false }}
+      {{ $force := $page.Params.featureLogo }}
+      {{ if eq $force "dark" }}
+        {{ $isLogo = true }}{{ $logoDark = true }}
+      {{ else if eq $force "cover" }}
+        {{ $isLogo = false }}
+      {{ else if $force }}
+        {{ $isLogo = true }}
+      {{ else if strings.HasSuffix $featuredURL ".svg" }}
+        {{ $isLogo = true }}
+      {{ else if and $featured (gt $featured.Width 0) }}
+        {{ $ratio := div (float $featured.Width) (float $featured.Height) }}
+        {{ if or (ge $ratio 2.6) (le $ratio 0.6) }}{{ $isLogo = true }}{{ end }}
+      {{ end }}
+      {{ $bg := $page.Params.featureBg }}
+      {{ if $bg }}{{ $isLogo = true }}{{ end }}
+
       {{ $focusAreas := .Params.focusAreas | default (slice) }}
       {{ $industry := .Params.industry | default "" }}
       <article class="oi-card" data-industry="{{ $industry }}" data-focus-areas="{{ delimit $focusAreas "||" }}">
-        <a class="oi-card-media" href="{{ $page.RelPermalink }}" aria-label="{{ $page.Title }}">
+        <a class="oi-card-media{{ if $isLogo }} is-logo{{ end }}{{ if $logoDark }} is-logo-dark{{ end }}"{{ with $bg }} style="{{ printf "background:%s;border-color:%s" . . | safeCSS }}"{{ end }} href="{{ $page.RelPermalink }}" aria-label="{{ $page.Title }}">
           {{ with $featuredURL }}
             <img src="{{ . }}" alt="" loading="lazy" decoding="async">
           {{ else }}

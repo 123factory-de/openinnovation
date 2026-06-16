@@ -37,6 +37,3 @@ Bosch Validation Program은 비즈니스 아이디어와 신규 벤처를 검증
 
 - 팀은 공식 Bosch Innovation Consulting Validation Program 페이지에서 프로그램 범위와 참여 방식을 확인할 수 있습니다.
 
-## 공식 페이지
-
-- [Official program page](https://www.bosch-innovation-consulting.com/de/unsere-services/validation-program/)

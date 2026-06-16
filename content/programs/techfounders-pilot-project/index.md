@@ -3,7 +3,7 @@ title: "TechFounders Pilot Project"
 date: 2026-06-16
 draft: false
 company: "TechFounders"
-industry: "Cross-Industry"
+industry: "Manufacturing"
 externalUrl: "https://techfounders.com/pilot-project-program"
 focusAreas:
   - "Corporate Pilots"
@@ -39,6 +39,3 @@ The TechFounders Pilot Project is a program by TechFounders that matches startup
 
 - Learn more about the program and how to participate on the official TechFounders page.
 
-## Official Page
-
-- [Official program page](https://techfounders.com/pilot-project-program)

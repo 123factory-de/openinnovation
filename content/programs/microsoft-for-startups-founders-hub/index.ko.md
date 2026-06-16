@@ -46,6 +46,3 @@ Microsoft for Startups Founders Hub는 초기 B2B 스타트업을 위한 Microso
 
 - 공식 Microsoft for Startups Founders Hub 포털에서 직접 신청합니다. 프로그램은 상시 운영되며, 실제 승인 전에는 자격 검증 절차를 거치게 됩니다.
 
-## 공식 페이지
-
-- [Official program page](https://startups.microsoft.com/)

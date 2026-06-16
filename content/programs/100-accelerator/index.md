@@ -48,6 +48,3 @@ resources:
 
 - Apply through the official 100+ Accelerator website, which routes applicants to the program application flow. Review the live cycle details on the official site before submitting.
 
-## Official Page
-
-- [Official program page](https://100accelerator.com/)

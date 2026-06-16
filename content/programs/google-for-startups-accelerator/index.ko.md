@@ -49,6 +49,3 @@ Google for Startups Accelerator는 초기 기술 스타트업, 특히 AI 중심 
 
 - 공식 Google for Startups Accelerator 포털에서 해당 지역 또는 주제 프로그램을 선택해 지원합니다. 프로그램별 마감일이 다를 수 있으므로 실제 지원 전 현재 공고의 마감일을 다시 확인해야 합니다.
 
-## 공식 페이지
-
-- [Official program page](https://startup.google.com/accelerator/)

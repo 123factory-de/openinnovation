@@ -48,6 +48,3 @@ resources:
 
 - 공식 100+ Accelerator 사이트에서 현재 운영 중인 프로그램 주기와 지원 절차를 확인한 뒤 신청합니다. 세부 일정과 제출 요건은 해당 기수 공고를 기준으로 다시 확인하는 것이 좋습니다.
 
-## 공식 페이지
-
-- [Official program page](https://100accelerator.com/)

@@ -39,6 +39,3 @@ Startup the Future는 산업 스타트업과 기존 제조기업을 연결하는
 
 - Industrie 4.0 Baden-Wuerttemberg 사이트의 공식 Startup the Future 페이지에서 자세한 내용을 확인하고 참여하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.i40-bw.de/startup-the-future/)

@@ -3,7 +3,7 @@ title: "BayStartUP"
 date: 2026-06-16
 draft: false
 company: "BayStartUP"
-industry: "범산업"
+industry: "다분야"
 externalUrl: "https://www.baystartup.de/"
 focusAreas:
   - "사업계획 경진대회"
@@ -45,6 +45,3 @@ BayStartUP은 바이에른의 핵심 스타트업 네트워크로, 창업자를 
 
 - 공식 BayStartUP 페이지에서 진행 중인 경진대회, 투자 라운드, 코칭 프로그램을 확인하고 안내에 따라 지원하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.baystartup.de/)

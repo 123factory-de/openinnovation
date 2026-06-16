@@ -39,6 +39,3 @@ PreZero Innovation Hub는 슈바르츠 그룹의 환경 서비스 부문인 PreZ
 
 - PreZero Innovation Hub 공식 페이지에서 현재 과제와 지원 절차를 확인하고, 제공된 채널을 통해 지원하세요.
 
-## 공식 페이지
-
-- [Official program page](https://innovationhub.prezero.com/de/)

@@ -39,6 +39,3 @@ OTTO DOCK 6 is the venture and innovation arm of OTTO, one of Germany's largest 
 
 - Review the focus areas and contact options on the official OTTO DOCK 6 page to start a conversation.
 
-## Official Page
-
-- [Official program page](https://www.ottodock6.com/)

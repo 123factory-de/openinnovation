@@ -40,6 +40,3 @@ The Thuringian Regional Innovation Program (TRIP) is run by the Foundation for T
 
 - Find current opportunities and join the community through the official TRIP website.
 
-## Official Page
-
-- [Official program page](https://trip.community/)

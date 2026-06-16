@@ -39,6 +39,3 @@ Dell for Startups is a program from Dell Technologies designed to help startups 
 
 - Review program details and eligibility on the official Dell for Startups page and apply through the form provided there.
 
-## Official Page
-
-- [Official program page](https://dellforstartups.com/de-de/join-2024)

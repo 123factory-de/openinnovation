@@ -5,7 +5,7 @@ other = "Global Open Innovation Directory"
 other = "Global Open Innovation Opportunities"
 
 [home_lead]
-other = "We curate programs where corporations, governments, and research organizations look for external technologies, products, patents, research capabilities, and pilot proposals. Each card is structured to help you quickly review application paths and collaboration fit."
+other = "We curate programs where corporations and institutions look for external technologies, products, patents, and research capabilities. For each program, you can quickly review the application path and key benefits."
 
 [program_count]
 other = "Showing {{ .shown }} of {{ .total }} programs"

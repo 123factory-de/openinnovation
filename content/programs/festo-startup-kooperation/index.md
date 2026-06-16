@@ -46,6 +46,3 @@ Festo Start-up Kooperation is the startup cooperation program of Festo, run with
 
 - Startups can explore cooperation and joint-development opportunities through the official Festo Start-up Kooperation page.
 
-## Official Page
-
-- [Official program page](https://www.festo.com/de/de/e/ueber-festo/forschung-und-entwicklung/startup-kooperationen-id_34130/)

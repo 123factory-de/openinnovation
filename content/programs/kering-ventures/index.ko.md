@@ -40,6 +40,3 @@ Kering Ventures는 럭셔리 그룹 Kering의 벤처 투자 부문입니다. 럭
 
 - 공식 Kering Ventures 페이지에서 투자 분야와 연락처를 확인하고 안내된 채널을 통해 문의하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.kering-ventures.com/)

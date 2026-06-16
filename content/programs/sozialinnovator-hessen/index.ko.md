@@ -41,6 +41,3 @@ Sozialinnovator Hessen은 Social Entrepreneurship Netzwerk Deutschland(SEND)가 
 
 - 공식 SEND 프로젝트 페이지에서 프로그램과 참여 방법에 대해 자세히 알아보세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.send-ev.de/projekte-items/sozialinnovator-hessen/)

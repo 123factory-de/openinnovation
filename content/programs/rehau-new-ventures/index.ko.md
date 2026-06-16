@@ -41,6 +41,3 @@ REHAU New Ventures는 REHAU의 기업 벤처링과 오픈 이노베이션을 담
 
 - 공식 REHAU New Ventures 페이지에서 협업 분야와 연락처를 확인하고 안내된 채널을 통해 문의하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.rehau-newventures.com/en-en)

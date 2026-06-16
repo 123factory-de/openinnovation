@@ -39,6 +39,3 @@ ZEISS Ventures is the corporate venture arm of ZEISS. It makes strategic investm
 
 - Startups and scaleups can learn more about strategic investment and partnership opportunities through the official ZEISS Ventures page.
 
-## Official Page
-
-- [Official program page](https://www.zeiss.de/corporate/ueber-zeiss/zukunft/new-business-bei-zeiss/zeiss-ventures.html)

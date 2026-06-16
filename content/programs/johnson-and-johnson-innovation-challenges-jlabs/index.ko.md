@@ -47,8 +47,3 @@ Johnson & Johnson Innovation은 혁신 챌린지와 JLABS 프로그램을 통해
 ## 지원 방법
 
 - Johnson & Johnson Innovation의 개별 챌린지 페이지 또는 JLABS 신청 절차를 통해 지원합니다. 마감일은 챌린지별로 다릅니다.
-
-## 공식 페이지
-
-- [Official innovation challenges page](https://jnjinnovation.com/innovation-challenges)
-- [Official JLABS application page](https://jnjinnovation.com/jlabs/apply)

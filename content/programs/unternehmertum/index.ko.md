@@ -3,7 +3,7 @@ title: "UnternehmerTUM"
 date: 2026-06-16
 draft: false
 company: "UnternehmerTUM"
-industry: "범산업"
+industry: "다분야"
 externalUrl: "https://www.unternehmertum.de/angebot"
 focusAreas:
   - "창업"
@@ -42,6 +42,3 @@ summary: "UnternehmerTUM은 유럽 최대의 창업 및 혁신 센터로, 뮌헨
 
 - 공식 UnternehmerTUM 웹사이트에서 제공되는 프로그램과 서비스를 살펴보세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.unternehmertum.de/angebot)

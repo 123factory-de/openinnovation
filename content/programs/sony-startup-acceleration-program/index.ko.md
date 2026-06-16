@@ -48,6 +48,3 @@ Sony Startup Acceleration Program은 Sony Group이 새로운 사업 아이디어
 
 - 공식 Sony Startup Acceleration Program 사이트에서 제안서를 제출하거나 문의 경로를 통해 협업 가능성을 타진할 수 있습니다. 별도 마감일 없이 상시형 경로로 운영됩니다.
 
-## 공식 페이지
-
-- [Official program page](https://sony-startup-acceleration-program.com/)

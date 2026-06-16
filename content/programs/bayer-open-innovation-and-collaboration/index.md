@@ -48,6 +48,3 @@ Bayer Open Innovation and Collaboration is an open innovation program run by Bay
 
 - Use Bayer’s open innovation page, collaboration network links, and Global Form contact route to initiate collaboration. Current status: `Always Open`.
 
-## Official Page
-
-- [Official program page](https://www.bayer.com/en/innovation/open-innovation-and-collaboration)

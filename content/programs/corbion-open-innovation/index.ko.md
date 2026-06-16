@@ -45,6 +45,3 @@ Corbion Open Innovation은 바이오 원료, 바이오케미컬, 바이오폴리
 
 - Corbion의 오픈 이노베이션 연락 경로를 통해 관련 기술이나 아이디어를 제안합니다. 별도의 마감일 없이 상시 지원할 수 있습니다.
 
-## 공식 페이지
-
-- [Official program page](https://www.corbion.com/innovation/open-innovation)

@@ -39,6 +39,3 @@ Airbus BizLab은 스타트업과 Airbus 내부 창업가를 한데 모아 혁신
 
 - 스타트업 및 프로젝트 모집이 열리면 공식 Airbus BizLab 페이지를 통해 지원하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.airbus.com/en/airbus-bizlab)

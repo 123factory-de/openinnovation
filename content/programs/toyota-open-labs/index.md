@@ -50,6 +50,3 @@ Toyota Open Labs is Toyota Motor Europe's startup collaboration platform for mob
 
 - Submit the official online application form on Toyota Open Labs and review the current challenge domains before applying.
 
-## Official Page
-
-- [Official program page](https://www.toyotaopenlabs.com)

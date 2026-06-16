@@ -40,6 +40,3 @@ Reliance JioGenNext는 Reliance Jio가 운영하는 스타트업 액셀러레이
 
 - 창업자는 공식 JioGenNext 페이지에서 지원 자격을 확인하고 스타트업을 제출할 수 있습니다. 현재 코호트 세부 정보와 지원 절차는 포털에서 확인하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.jiogennext.com/)

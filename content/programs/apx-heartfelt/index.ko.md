@@ -39,6 +39,3 @@ Heartfelt_는 Axel Springer와 Porsche가 후원하는 초기 단계 투자사 A
 
 - 공식 Heartfelt_ 페이지를 통해 피칭을 제출하고 초기 단계 창업자를 위한 안내에 따르세요.
 
-## 공식 페이지
-
-- [Official program page](https://heartfelt.capital/pitch)

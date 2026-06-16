@@ -40,6 +40,3 @@ Google LaunchPad Accelerator is part of the Google for Developers accelerator pr
 
 - Startups can browse current accelerator programs and review eligibility on the official Google for Developers accelerators page, then apply to the relevant program.
 
-## Official Page
-
-- [Official program page](https://developers.google.com/community/accelerators/programs)

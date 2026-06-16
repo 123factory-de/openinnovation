@@ -46,6 +46,3 @@ NASA Prizes, Challenges, and Crowdsourcing은 NASA가 우주 탐사, 항공, 과
 
 - NASA의 prizes, challenges, crowdsourcing 페이지에서 개별 기회를 확인하고 해당 안내에 따라 참여합니다. 마감일은 챌린지별로 다릅니다.
 
-## 공식 페이지
-
-- [Official program page](https://www.nasa.gov/about-prizes-challenges-crowdsourcing/)

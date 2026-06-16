@@ -43,6 +43,40 @@
       background: rgba(16, 185, 129, 0.14);
       color: #6ee7b7;
     }
+
+    .program-official-link {
+      align-items: center;
+      background: #0f172a;
+      border-radius: 999px;
+      color: #ffffff;
+      display: inline-flex;
+      font-size: 0.82rem;
+      font-weight: 800;
+      gap: 0.35rem;
+      line-height: 1;
+      padding: 0.45rem 0.7rem;
+      text-decoration: none;
+    }
+
+    .program-official-link:hover {
+      background: #0284c7;
+      text-decoration: none;
+    }
+
+    .program-official-link::after {
+      content: "↗";
+      font-size: 0.8rem;
+    }
+
+    .dark .program-official-link {
+      background: #e2e8f0;
+      color: #0f172a;
+    }
+
+    .dark .program-official-link:hover {
+      background: #7dd3fc;
+      color: #082f49;
+    }
   </style>
 
   <article class="program-page">
@@ -60,7 +94,7 @@
           <span class="program-badge">{{ . }}</span>
         {{ end }}
         {{ with .Params.externalUrl }}
-          <a class="hover:underline hover:underline-offset-2" href="{{ . }}" target="_blank" rel="noopener">
+          <a class="program-official-link" href="{{ . }}" target="_blank" rel="noopener">
             {{ T "official_site" }}
           </a>
         {{ end }}

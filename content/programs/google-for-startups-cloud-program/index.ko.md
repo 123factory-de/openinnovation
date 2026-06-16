@@ -40,6 +40,3 @@ Google for Startups Cloud Program은 스타트업이 Google Cloud에서 제품�
 
 - 스타트업은 공식 Google for Startups Cloud Program 페이지에서 프로그램 단계와 지원 자격을 확인하고 포털을 통해 직접 지원할 수 있습니다.
 
-## 공식 페이지
-
-- [Official program page](https://startup.google.com/cloud/)

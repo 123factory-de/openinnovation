@@ -46,6 +46,3 @@ SHIP SDGs Holistic Innovation Platform is an open innovation program run by UNDP
 
 - Engage through SHIP program and digital platform pathways. Current status: `Active`.
 
-## Official Page
-
-- [Official program page](https://www.sdgs-ship.com/en)

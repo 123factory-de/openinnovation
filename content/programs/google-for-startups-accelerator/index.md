@@ -49,6 +49,3 @@ Google for Startups Accelerator is an active accelerator platform for early-stag
 
 - Apply through the official Google for Startups Accelerator portal and choose the relevant regional or thematic program. Review the specific live deadline for the track you plan to enter.
 
-## Official Page
-
-- [Official program page](https://startup.google.com/accelerator/)

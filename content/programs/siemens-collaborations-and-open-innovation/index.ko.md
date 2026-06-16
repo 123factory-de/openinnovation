@@ -50,6 +50,3 @@ Siemens Collaborations and Open Innovation은 대학, 연구기관, 스타트업
 
 - Siemens의 협업 프로그램과 오픈 이노베이션 챌린지를 통해 참여합니다. 마감일은 챌린지별로 다릅니다.
 
-## 공식 페이지
-
-- [Official program page](https://www.siemens.com/en-us/company/innovation/collaborations-partnerships/)

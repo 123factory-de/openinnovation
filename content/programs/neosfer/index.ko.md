@@ -42,6 +42,3 @@ neosfer는 Commerzbank의 혁신 사업부입니다. 초기 단계 투자와 벤
 
 - 공식 neosfer 웹사이트에서 자세한 내용을 확인하고 문의하세요.
 
-## 공식 페이지
-
-- [Official program page](https://neosfer.de/)

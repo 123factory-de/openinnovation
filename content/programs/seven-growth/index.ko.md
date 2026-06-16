@@ -40,6 +40,3 @@ Seven Growth는 Commerce & Ventures가 운영하는 ProSiebenSat.1의 성장 단
 
 - Commerce & Ventures 사이트의 공식 Seven Growth 페이지에서 세부 정보를 확인하고 문의하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.commerceandventures.com/investment-stages/sevengrowth)

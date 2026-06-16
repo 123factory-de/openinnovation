@@ -51,6 +51,3 @@ Henkel Spark is an open innovation program run by Henkel. It is relevant for res
 
 - Submit ideas through one of the Henkel Spark priority-area forms. Current status: `Always Open`.
 
-## Official Page
-
-- [Official program page](https://www.henkel.com/our-businesses/henkel-consumer-brands/open-innovation)

@@ -43,6 +43,3 @@ SAP BTP Startup Program은 스타트업이 SAP Business Technology Platform(BTP)
 
 - 스타트업은 공식 SAP data-to-value 프로그램 페이지에서 프로그램 세부 사항을 확인하고 SAP BTP 기반 개발을 시작하는 방법을 알아본 뒤 지원할 수 있습니다.
 
-## 공식 페이지
-
-- [Official program page](https://sap.io/data-to-value/)

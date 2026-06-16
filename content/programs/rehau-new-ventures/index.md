@@ -41,6 +41,3 @@ REHAU New Ventures is the corporate venturing and open innovation arm of REHAU. 
 
 - Review collaboration focus and contact details on the official REHAU New Ventures page and reach out through the channel provided there.
 
-## Official Page
-
-- [Official program page](https://www.rehau-newventures.com/en-en)

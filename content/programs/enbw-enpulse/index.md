@@ -38,6 +38,3 @@ Enpulse is the innovation unit of EnBW, one of Germany's largest energy companie
 
 - Explore current collaboration paths and submission details on the official EnBW innovation page and reach out through the channels listed there.
 
-## Official Page
-
-- [Official program page](https://www.enbw.com/unternehmen/wie-wir-handeln/innovation.html)

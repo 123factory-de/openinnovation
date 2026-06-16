@@ -40,6 +40,3 @@ Porsche Ventures is the corporate venture capital arm of Porsche. It makes strat
 
 - Review investment focus and contact details on the official Porsche Ventures page and reach out through the channel provided there.
 
-## Official Page
-
-- [Official program page](https://www.porsche.ventures/)

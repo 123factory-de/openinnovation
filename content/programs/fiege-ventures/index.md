@@ -3,7 +3,7 @@ title: "FIEGE Ventures"
 date: 2026-06-16
 draft: false
 company: "FIEGE"
-industry: "Cross-Industry"
+industry: "Logistics"
 externalUrl: "https://www.fiege.com/de/fiege-ventures"
 focusAreas:
   - "Logistics"
@@ -39,6 +39,3 @@ FIEGE Ventures is the venture arm of the logistics provider FIEGE, which include
 
 - Startups and scaleups can learn more about investment and collaboration opportunities through the official FIEGE Ventures page.
 
-## Official Page
-
-- [Official program page](https://www.fiege.com/de/fiege-ventures)

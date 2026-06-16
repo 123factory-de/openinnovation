@@ -38,6 +38,3 @@ Enpulse는 독일 최대 에너지 기업 중 하나인 EnBW의 혁신 조직입
 
 - EnBW 공식 혁신 페이지에서 현재 협력 경로와 지원 방법을 확인하고, 안내된 채널을 통해 문의하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.enbw.com/unternehmen/wie-wir-handeln/innovation.html)

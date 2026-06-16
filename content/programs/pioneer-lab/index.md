@@ -39,6 +39,3 @@ Pioneer Lab is the incubator and innovation lab of the Carl Remigius Fresenius E
 
 - Learn more and get involved through the official Pioneer Lab website.
 
-## Official Page
-
-- [Official program page](https://www.pioneerlab.de/)

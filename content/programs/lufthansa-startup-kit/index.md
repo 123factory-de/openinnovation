@@ -42,6 +42,3 @@ The Lufthansa Group Start-up Kit is a benefits program designed to support start
 
 - Register through the official Lufthansa Group Start-up Kit page to access the program and its travel benefits.
 
-## Official Page
-
-- [Official program page](https://business.lufthansagroup.com/tr/en/programs-and-advantages/start-up-kit)

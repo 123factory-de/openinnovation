@@ -53,6 +53,3 @@ Hyundai Innovation Challenge 2026은 Hyundai Motor Company, Hyundai Motor India 
 
 - 공식 Hyundai Innovation Challenge 2026 포털에서 신청합니다. 공식 페이지 기준으로 현재 신청을 받고 있으며, 별도의 마감일은 명시되어 있지 않습니다.
 
-## 공식 페이지
-
-- [Official program page](https://hyundaiinnovationchallenge.com/)

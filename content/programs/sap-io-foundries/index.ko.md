@@ -44,6 +44,3 @@ SAP.iO Foundries는 SAP가 전 세계 여러 거점에서 운영하는 무지분
 
 - 스타트업과 스케일업은 공식 SAP.iO Foundries 프로그램 페이지에서 현재 진행 중인 코호트, 주요 주제, 참여 거점을 확인하고 지원할 수 있습니다.
 
-## 공식 페이지
-
-- [Official program page](https://sap.io/foundries/)

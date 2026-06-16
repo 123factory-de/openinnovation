@@ -4,7 +4,7 @@ title: "MIT Solve Open Challenges"
 date: 2026-06-08
 draft: false
 company: "MIT Solve"
-industry: "범산업"
+industry: "다분야"
 externalUrl: "https://solve.mit.edu/open-challenges"
 focusAreas:
   - "기후"
@@ -49,6 +49,3 @@ MIT Solve Open Challenges는 전 세계 혁신가와 팀이 사회적 문제를 
 
 - MIT Solve의 공개 또는 예정 챌린지를 통해 지원합니다. 상시 신청 창구는 명확하지 않으나, 연례 Global Challenges는 보통 정해진 신청 기간에 접수됩니다.
 
-## 공식 페이지
-
-- [Official program page](https://solve.mit.edu/open-challenges)

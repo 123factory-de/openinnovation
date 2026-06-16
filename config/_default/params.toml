@@ -8,7 +8,7 @@
 colorScheme = "open-innovations"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
-copyright = "© { year } [123 Factory GmbH](https://www.123factory.de/)"
+copyright = "© { year } 123 Factory GmbH"
 
 enableA11y = false
 enableSearch = true

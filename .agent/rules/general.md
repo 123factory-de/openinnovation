@@ -4,12 +4,13 @@ This file provides specific context and operational rules for the Antigravity AI
 
 ## Core Directives
 - **Source of Truth**: Always refer to the following documents for workflow rules:
-    - [docs/branching-strategy.md](docs/branching-strategy.md)
-    - [docs/commit-convention.md](docs/commit-convention.md)
-    - [docs/pr-convention.md](docs/pr-convention.md)
+    - [branching-strategy.md](docs/git-workflow/branching-strategy.md)
+    - [commit-convention.md](docs/git-workflow/commit-convention.md)
+    - [pr-convention.md](docs/git-workflow/pr-convention.md)
 - **Branching**: Follow GitHub Flow. Use `feat/`, `fix/`, `docs/`, etc. Never commit to `main`.
-- **Commits**: Use Conventional Commits as defined in [docs/commit-convention.md](docs/commit-convention.md).
-- **Pull Requests**: Follow the template and standards defined in [docs/pr-convention.md](docs/pr-convention.md).
+- **Commits**: Use Conventional Commits as defined in [commit-convention.md](docs/git-workflow/commit-convention.md).
+- **Pull Requests**: Follow the template and standards defined in [pr-convention.md](docs/git-workflow/pr-convention.md).
+
 - **Language**: All communication, documentation, and code comments must be in **English**.
 
 ## Project Mission

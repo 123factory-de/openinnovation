@@ -21,6 +21,7 @@ Our project follows the **GitHub Flow** strategy to ensure simplicity, speed, an
 
 5.  **Merge into `main` after review and approval.**
     *   Merge only after all checks pass and at least one team member has approved the PR.
+    *   **Always create a merge commit when merging into `main` (use `--no-ff` / No Fast-Forward).** Do not perform fast-forward merges to preserve the branching history.
 
 6.  **Deploy immediately after merging to `main`.**
     *   Delete the feature branch once it has been merged.
@@ -33,3 +34,12 @@ Our project follows the **GitHub Flow** strategy to ensure simplicity, speed, an
 *   `refactor/`: Code changes that neither fix a bug nor add a feature.
 *   `test/`: Adding or correcting tests.
 *   `chore/`: Updates to build tasks, package manager configs, etc.
+
+## Merge Strategy
+
+To ensure a clear, traceable commit history:
+*   **Command Line Merge**: When merging branches locally, always use the `--no-ff` flag to force a merge commit:
+    ```bash
+    git merge --no-ff <branch-name>
+    ```
+*   **GitHub Pull Requests**: Select "Create a merge commit" (not Squash or Rebase) when merging Pull Requests, ensuring all branch history is kept.

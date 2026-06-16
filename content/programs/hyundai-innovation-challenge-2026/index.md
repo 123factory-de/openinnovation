@@ -46,7 +46,7 @@ Hyundai Innovation Challenge 2026 is an open innovation program run by Hyundai M
 
 ## How to Apply
 
-Apply through the official Hyundai Innovation Challenge 2026 portal. Current status: `Active`.
+- Apply through the official Hyundai Innovation Challenge 2026 portal. Current status: `Active`.
 
 ## Sources
 

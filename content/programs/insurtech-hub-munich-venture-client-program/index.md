@@ -36,7 +36,7 @@ The Venture Client Program at InsurTech Hub Munich connects insurance and financ
 
 ## How to Apply
 
-Review the venture client program details and application process on the official InsurTech Hub Munich page.
+- Review the venture client program details and application process on the official InsurTech Hub Munich page.
 
 ## Sources
 

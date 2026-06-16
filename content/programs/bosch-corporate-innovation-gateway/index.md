@@ -46,7 +46,7 @@ Bosch Corporate Innovation Gateway is an open innovation program run by Bosch. I
 
 ## How to Apply
 
-Use Bosch Corporate Innovation Gateway vertical submission routes and contact entry points. Current status: `Always Open`.
+- Use Bosch Corporate Innovation Gateway vertical submission routes and contact entry points. Current status: `Always Open`.
 
 ## Sources
 

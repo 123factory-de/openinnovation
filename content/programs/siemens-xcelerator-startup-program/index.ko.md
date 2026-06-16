@@ -30,14 +30,14 @@ Siemens Xcelerator Startup Program은 스타트업을 Siemens Xcelerator 오픈 
 
 ## Collaboration & Benefits
 
-- Siemens Xcelerator 마켓플레이스 접근
+- Siemens Xcelerator 마켓플레이스 활용
 - Siemens 생태계 파트너와의 연결
 - 디지털 전환 프로젝트 지원
-- 기업 고객에게 도달할 수 있는 기회
+- 기업 고객에게 다가갈 수 있는 기회
 
 ## How to Apply
 
-스타트업은 공식 Siemens Xcelerator 스타트업 솔루션 페이지에서 프로그램을 살펴보고 지원 세부 정보를 확인할 수 있습니다.
+- 스타트업은 공식 Siemens Xcelerator 스타트업 솔루션 페이지에서 프로그램을 살펴보고 지원 세부 정보를 확인할 수 있습니다.
 
 ## Sources
 

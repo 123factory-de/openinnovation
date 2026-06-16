@@ -37,7 +37,7 @@ GO! Start-up Zentrum Oldenburg is a regional startup and founder center operated
 
 ## How to Apply
 
-Find details on coaching, space, and founding support, and get in touch via the official center page.
+- Find details on coaching, space, and founding support, and get in touch via the official center page.
 
 ## Sources
 

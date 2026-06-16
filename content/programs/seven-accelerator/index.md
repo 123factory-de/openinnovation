@@ -37,7 +37,7 @@ Seven Accelerator is the early-stage arm of ProSiebenSat.1, operated through Com
 
 ## How to Apply
 
-Learn more and reach out through the official Seven Accelerator page on the Commerce & Ventures site.
+- Learn more and reach out through the official Seven Accelerator page on the Commerce & Ventures site.
 
 ## Sources
 

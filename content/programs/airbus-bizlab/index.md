@@ -37,7 +37,7 @@ Airbus BizLab is a global aerospace accelerator that brings together startups an
 
 ## How to Apply
 
-Apply through the official Airbus BizLab page when calls for startups and projects are open.
+- Apply through the official Airbus BizLab page when calls for startups and projects are open.
 
 ## Sources
 

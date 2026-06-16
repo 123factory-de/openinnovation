@@ -45,7 +45,7 @@ Enel Open Innovability is an open innovation program run by Enel. It is relevant
 
 ## How to Apply
 
-Register, select an open challenge, or submit a new project on the platform. Current status: `Active`.
+- Register, select an open challenge, or submit a new project on the platform. Current status: `Active`.
 
 ## Sources
 

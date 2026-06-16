@@ -43,7 +43,7 @@ Corbion Open Innovation is an open innovation program run by Corbion. It is rele
 
 ## How to Apply
 
-Use the open innovation contact form and area-of-interest routing on Corbion’s page. Current status: `Always Open`.
+- Use the open innovation contact form and area-of-interest routing on Corbion’s page. Current status: `Always Open`.
 
 ## Sources
 

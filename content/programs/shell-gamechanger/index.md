@@ -43,7 +43,7 @@ Shell GameChanger is an open innovation program run by Shell. It is relevant for
 
 ## How to Apply
 
-Submit a solution through the Shell GameChanger page. Current status: `Always Open`.
+- Submit a solution through the Shell GameChanger page. Current status: `Always Open`.
 
 ## Sources
 

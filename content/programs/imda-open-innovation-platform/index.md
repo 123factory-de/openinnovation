@@ -45,7 +45,7 @@ IMDA Open Innovation Platform is an open innovation program run by IMDA Singapor
 
 ## How to Apply
 
-Submit proposals in OIP quarterly challenges. Current status: `Active`.
+- Submit proposals in OIP quarterly challenges. Current status: `Active`.
 
 ## Sources
 

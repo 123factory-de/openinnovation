@@ -31,13 +31,13 @@ Startup the Future는 산업 스타트업과 기존 제조기업을 연결하는
 ## Collaboration & Benefits
 
 - 스타트업과 제조기업 간 연결
-- Industrie 4.0 Baden-Wuerttemberg 네트워크 접근
+- Industrie 4.0 Baden-Wuerttemberg 네트워크 활용
 - 지역 산업 생태계 내 가시성 확보
 - 공동 디지털 생산 프로젝트 기회
 
 ## How to Apply
 
-Industrie 4.0 Baden-Wuerttemberg 사이트의 공식 Startup the Future 페이지에서 자세한 내용을 확인하고 참여하세요.
+- Industrie 4.0 Baden-Wuerttemberg 사이트의 공식 Startup the Future 페이지에서 자세한 내용을 확인하고 참여하세요.
 
 ## Sources
 

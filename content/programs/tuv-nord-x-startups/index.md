@@ -37,7 +37,7 @@ TUV NORD x Startups is the startup collaboration program of TUV NORD. It brings 
 
 ## How to Apply
 
-Review collaboration details and contact options on the official TUV NORD startups page and reach out through the channel provided there.
+- Review collaboration details and contact options on the official TUV NORD startups page and reach out through the channel provided there.
 
 ## Sources
 

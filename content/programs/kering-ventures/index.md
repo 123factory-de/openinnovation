@@ -38,7 +38,7 @@ Kering Ventures is the venture investment arm of luxury group Kering. It backs i
 
 ## How to Apply
 
-Review investment focus and contact details on the official Kering Ventures page and reach out through the channel provided there.
+- Review investment focus and contact details on the official Kering Ventures page and reach out through the channel provided there.
 
 ## Sources
 

@@ -37,7 +37,7 @@ Lufthansa Innovation Hub is the digital innovation unit of Deutsche Lufthansa, d
 
 ## How to Apply
 
-Reach out through the official Lufthansa Innovation Hub site to explore partnership and collaboration opportunities.
+- Reach out through the official Lufthansa Innovation Hub site to explore partnership and collaboration opportunities.
 
 ## Sources
 

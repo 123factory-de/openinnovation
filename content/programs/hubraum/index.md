@@ -38,7 +38,7 @@ hubraum is Deutsche Telekom's startup program for early-stage technology teams, 
 
 ## How to Apply
 
-Apply through the official hubraum site when relevant calls are open, or use the program's startup submission route where available.
+- Apply through the official hubraum site when relevant calls are open, or use the program's startup submission route where available.
 
 ## Sources
 

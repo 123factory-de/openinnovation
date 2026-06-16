@@ -37,7 +37,7 @@ FIEGE Ventures is the venture arm of the logistics provider FIEGE, which include
 
 ## How to Apply
 
-Startups and scaleups can learn more about investment and collaboration opportunities through the official FIEGE Ventures page.
+- Startups and scaleups can learn more about investment and collaboration opportunities through the official FIEGE Ventures page.
 
 ## Sources
 

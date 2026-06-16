@@ -37,7 +37,7 @@ The Thuringian Regional Innovation Program (TRIP) is run by the Foundation for T
 
 ## How to Apply
 
-Find current opportunities and join the community through the official TRIP website.
+- Find current opportunities and join the community through the official TRIP website.
 
 ## Sources
 

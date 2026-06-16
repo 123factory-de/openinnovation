@@ -37,7 +37,7 @@ The Media Tech Hub Accelerator is run by the Media Tech Hub Potsdam, based in th
 
 ## How to Apply
 
-Find program details and application information on the official Media Tech Hub Accelerator page.
+- Find program details and application information on the official Media Tech Hub Accelerator page.
 
 ## Sources
 

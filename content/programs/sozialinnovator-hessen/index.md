@@ -37,7 +37,7 @@ Sozialinnovator Hessen is a program run by the Social Entrepreneurship Netzwerk 
 
 ## How to Apply
 
-Learn more about the program and how to get involved on the official SEND project page.
+- Learn more about the program and how to get involved on the official SEND project page.
 
 ## Sources
 

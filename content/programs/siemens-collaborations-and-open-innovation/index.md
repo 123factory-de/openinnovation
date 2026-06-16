@@ -48,7 +48,7 @@ Siemens Collaborations and Open Innovation is an open innovation program run by 
 
 ## How to Apply
 
-Engage through Siemens collaboration pages and the Siemens Innovation Ecosystem platform. Current status: `Active`.
+- Engage through Siemens collaboration pages and the Siemens Innovation Ecosystem platform. Current status: `Active`.
 
 ## Sources
 

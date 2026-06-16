@@ -39,7 +39,7 @@ neosfer is the innovation unit of Commerzbank. It operates across early-stage in
 
 ## How to Apply
 
-Learn more and connect through the official neosfer website.
+- Learn more and connect through the official neosfer website.
 
 ## Sources
 

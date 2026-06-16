@@ -38,7 +38,7 @@ Unilever Ventures is the venture capital and private equity arm of Unilever. It 
 
 ## How to Apply
 
-Review investment focus and contact details on the official Unilever Ventures page and reach out through the channel provided there.
+- Review investment focus and contact details on the official Unilever Ventures page and reach out through the channel provided there.
 
 ## Sources
 

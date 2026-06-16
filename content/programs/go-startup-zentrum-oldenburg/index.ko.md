@@ -31,13 +31,13 @@ GO! Start-up Zentrum Oldenburg은 TGO Technologie- und Gruenderzentrum Oldenburg
 ## Collaboration & Benefits
 
 - 창업 과정 전반에 걸친 코칭 및 자문
-- 신생 벤처를 위한 업무 공간 및 인프라 접근
+- 신생 벤처를 위한 업무 공간과 인프라 이용
 - 지역 스타트업 커뮤니티와의 연결
 - 초기 단계 창업자를 위한 실질적 지원
 
 ## How to Apply
 
-공식 센터 페이지에서 코칭, 공간, 창업 지원에 대한 세부 정보를 확인하고 문의하세요.
+- 공식 센터 페이지에서 코칭, 공간, 창업 지원에 대한 세부 정보를 확인하고 문의하세요.
 
 ## Sources
 

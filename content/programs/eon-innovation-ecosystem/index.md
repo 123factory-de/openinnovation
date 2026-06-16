@@ -36,7 +36,7 @@ The E.ON Innovation Ecosystem is a collection of programs through which the ener
 
 ## How to Apply
 
-Explore the available programs and their respective application paths on the official E.ON Innovation Ecosystem page.
+- Explore the available programs and their respective application paths on the official E.ON Innovation Ecosystem page.
 
 ## Sources
 

@@ -37,7 +37,7 @@ Axel Springer Plug and Play is an accelerator program run jointly by Axel Spring
 
 ## How to Apply
 
-Review the accelerator details and apply through the official Plug and Play program page.
+- Review the accelerator details and apply through the official Plug and Play program page.
 
 ## Sources
 

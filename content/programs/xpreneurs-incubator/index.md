@@ -36,7 +36,7 @@ XPRENEURS is the technology incubator run by UnternehmerTUM, one of Europe's lea
 
 ## How to Apply
 
-Review the program timeline and application details on the official UnternehmerTUM XPRENEURS page.
+- Review the program timeline and application details on the official UnternehmerTUM XPRENEURS page.
 
 ## Sources
 

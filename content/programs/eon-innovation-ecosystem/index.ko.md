@@ -32,11 +32,11 @@ E.ON Innovation Ecosystem은 에너지 기업 E.ON이 스타트업 및 파트너
 
 - 전용 프로그램과 챌린지를 통한 다양한 참여 경로
 - E.ON 사업부와의 파일럿 및 확장 기회
-- E.ON의 네트워크, 인프라, 에너지 시장 전문성에 대한 접근
+- E.ON의 네트워크와 인프라, 에너지 시장 전문성 활용
 
 ## How to Apply
 
-E.ON Innovation Ecosystem 공식 페이지에서 제공되는 프로그램과 각 지원 경로를 확인하세요.
+- E.ON Innovation Ecosystem 공식 페이지에서 제공되는 프로그램과 각 지원 경로를 확인하세요.
 
 ## Sources
 

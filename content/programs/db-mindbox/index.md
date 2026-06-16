@@ -37,7 +37,7 @@ DB mindbox is the startup accelerator of Deutsche Bahn. It enables startups to r
 
 ## How to Apply
 
-Review current challenges and application details on the official DB mindbox page.
+- Review current challenges and application details on the official DB mindbox page.
 
 ## Sources
 

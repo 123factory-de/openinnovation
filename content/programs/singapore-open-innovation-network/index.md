@@ -42,7 +42,7 @@ Singapore Open Innovation Network is an open innovation program run by Singapore
 
 ## How to Apply
 
-Browse ongoing challenges or share challenge statements through the OIN portal. Current status: `Active`.
+- Browse ongoing challenges or share challenge statements through the OIN portal. Current status: `Active`.
 
 ## Sources
 

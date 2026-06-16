@@ -43,7 +43,7 @@ BMW Group Startup Garage is an open innovation program run by BMW Group. It is r
 
 ## How to Apply
 
-Use the Startup Garage “Partner with us” route. Current status: `Always Open`.
+- Use the Startup Garage “Partner with us” route. Current status: `Always Open`.
 
 ## Sources
 

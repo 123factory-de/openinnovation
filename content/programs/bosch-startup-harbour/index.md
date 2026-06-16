@@ -35,7 +35,7 @@ Bosch Startup Harbour is a program run by Bosch that connects startups with Bosc
 
 ## How to Apply
 
-Startups can explore collaboration opportunities and submit their solutions through the official Bosch Startup Harbour page.
+- Startups can explore collaboration opportunities and submit their solutions through the official Bosch Startup Harbour page.
 
 ## Sources
 

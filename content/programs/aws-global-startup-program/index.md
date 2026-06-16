@@ -38,7 +38,7 @@ The AWS Global Startup Program is designed for later-stage, product-ready startu
 
 ## How to Apply
 
-Review eligibility and apply through the official AWS Global Startup Program page.
+- Review eligibility and apply through the official AWS Global Startup Program page.
 
 ## Sources
 

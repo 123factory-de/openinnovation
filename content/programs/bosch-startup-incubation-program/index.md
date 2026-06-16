@@ -35,7 +35,7 @@ The Bosch Start-Up Incubation Program is run by Bosch Innovation Consulting to s
 
 ## How to Apply
 
-Teams can learn about the incubation approach and engagement model through the official Bosch Innovation Consulting Incubation Program page.
+- Teams can learn about the incubation approach and engagement model through the official Bosch Innovation Consulting Incubation Program page.
 
 ## Sources
 

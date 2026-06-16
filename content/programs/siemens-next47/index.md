@@ -38,7 +38,7 @@ Next47 is an independent global venture firm backed by Siemens. It invests in gr
 
 ## How to Apply
 
-Founders can learn about Next47's investment focus and contact the team through the official Next47 page.
+- Founders can learn about Next47's investment focus and contact the team through the official Next47 page.
 
 ## Sources
 

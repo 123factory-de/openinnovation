@@ -37,7 +37,7 @@ NTT Startup Challenge is a global incubation and startup challenge run by NTT. I
 
 ## How to Apply
 
-Apply through the official NTT Startup Challenge site when the challenge is open.
+- Apply through the official NTT Startup Challenge site when the challenge is open.
 
 ## Sources
 

@@ -37,7 +37,7 @@ NetApp Excellerator is NetApp's B2B startup accelerator program supporting early
 
 ## How to Apply
 
-Review cohort timelines and eligibility on the official NetApp Excellerator page and apply through the channel listed there.
+- Review cohort timelines and eligibility on the official NetApp Excellerator page and apply through the channel listed there.
 
 ## Sources
 

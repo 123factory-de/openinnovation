@@ -28,7 +28,7 @@ resources:
 
 ## Overview
 
-Johnson & Johnson Innovation은 혁신 챌린지와 JLABS 프로그램을 통해 헬스케어 분야의 기업, 연구자, 학생, 창업자를 발굴합니다. 의약, 의료기기, 디지털 헬스, 생명과학 솔루션을 보유한 조직은 개별 챌린지와 JLABS 신청 경로를 검토할 수 있습니다.
+Johnson & Johnson Innovation은 혁신 챌린지와 JLABS 프로그램을 통해 헬스케어 분야의 기업, 연구자, 학생, 창업자를 발굴합니다. 의약, 의료기기, 디지털 헬스, 생명과학 솔루션을 보유한 조직은 개별 챌린지에 참가하거나 JLABS에 신청할 수 있습니다.
 
 ## Focus Areas
 
@@ -45,7 +45,7 @@ Johnson & Johnson Innovation은 혁신 챌린지와 JLABS 프로그램을 통해
 
 ## How to Apply
 
-Johnson & Johnson Innovation의 개별 챌린지 페이지 또는 JLABS 신청 절차를 통해 지원합니다. 리포트 기준으로 마감일은 챌린지별로 다릅니다.
+- Johnson & Johnson Innovation의 개별 챌린지 페이지 또는 JLABS 신청 절차를 통해 지원합니다. 리포트 기준으로 마감일은 챌린지별로 다릅니다.
 
 ## Sources
 

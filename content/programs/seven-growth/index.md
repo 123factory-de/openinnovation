@@ -38,7 +38,7 @@ Seven Growth is the growth-stage investment arm of ProSiebenSat.1, operated thro
 
 ## How to Apply
 
-Explore details and reach out through the official Seven Growth page on the Commerce & Ventures site.
+- Explore details and reach out through the official Seven Growth page on the Commerce & Ventures site.
 
 ## Sources
 

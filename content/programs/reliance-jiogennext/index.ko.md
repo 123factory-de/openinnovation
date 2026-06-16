@@ -14,7 +14,7 @@ eligibility:
   - "Startups"
 status: "Active"
 deadline: ""
-summary: "Reliance JioGenNext는 디지털, 모바일, 소비자 기술 창업자가 멘토링과 인도 시장 및 Jio 생태계 접근을 통해 성장하도록 돕는 Jio의 스타트업 액셀러레이터입니다."
+summary: "Reliance JioGenNext는 디지털, 모바일, 소비자 기술 창업자가 멘토링을 받고 인도 시장과 Jio 생태계를 활용해 성장하도록 돕는 Jio의 스타트업 액셀러레이터입니다."
 ---
 
 ## Overview
@@ -30,14 +30,14 @@ Reliance JioGenNext는 Reliance Jio가 운영하는 스타트업 액셀러레이
 
 ## Collaboration & Benefits
 
-- Jio 및 업계 전문가의 실질적인 멘토링
-- 인도 시장과 Jio 생태계에 대한 접근
-- 대규모 파트너십 및 유통 기회
-- 제품, 성장, 시장 진입 전략에 대한 가이드
+- Jio와 업계 전문가의 실질적인 멘토링
+- 인도 시장과 Jio 생태계를 활용할 수 있습니다
+- 대규모 파트너십과 유통 기회
+- 제품, 성장, 시장 진입 전략에 관한 자문
 
 ## How to Apply
 
-창업자는 공식 JioGenNext 페이지에서 지원 자격을 확인하고 스타트업을 제출할 수 있습니다. 현재 코호트 세부 정보와 지원 절차는 포털에서 확인하세요.
+- 창업자는 공식 JioGenNext 페이지에서 지원 자격을 확인하고 스타트업을 제출할 수 있습니다. 현재 코호트 세부 정보와 지원 절차는 포털에서 확인하세요.
 
 ## Sources
 

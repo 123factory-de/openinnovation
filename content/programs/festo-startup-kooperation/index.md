@@ -38,7 +38,7 @@ Festo Start-up Kooperation is the startup cooperation program of Festo, run with
 
 ## How to Apply
 
-Startups can explore cooperation and joint-development opportunities through the official Festo Start-up Kooperation page.
+- Startups can explore cooperation and joint-development opportunities through the official Festo Start-up Kooperation page.
 
 ## Sources
 

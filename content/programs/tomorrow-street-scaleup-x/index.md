@@ -38,7 +38,7 @@ Tomorrow Street (Scaleup X) is a Vodafone-linked scaleup collaboration program f
 
 ## How to Apply
 
-Use the official Tomorrow Street contact or application route to initiate participation in Scaleup X and confirm the current intake process on the live program site.
+- Use the official Tomorrow Street contact or application route to initiate participation in Scaleup X and confirm the current intake process on the live program site.
 
 ## Sources
 

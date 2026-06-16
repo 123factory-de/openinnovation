@@ -37,7 +37,7 @@ The TechFounders Pilot Project is a program by TechFounders that matches startup
 
 ## How to Apply
 
-Learn more about the program and how to participate on the official TechFounders page.
+- Learn more about the program and how to participate on the official TechFounders page.
 
 ## Sources
 

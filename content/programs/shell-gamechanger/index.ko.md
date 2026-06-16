@@ -37,13 +37,13 @@ Shell GameChanger는 Shell이 미래 에너지와 탈탄소화 분야의 초기 
 
 ## Collaboration & Benefits
 
-- Shell의 기술 지원과 전문성 활용 가능성
-- 초기 단계 아이디어에 대한 시드 펀딩 가능성
-- Shell과의 후속 협업 경로 탐색
+- Shell의 기술 지원과 전문성을 활용할 수 있는 가능성
+- 초기 단계 아이디어를 위한 시드 펀딩 가능성
+- Shell과의 후속 협업 경로 모색
 
 ## How to Apply
 
-Shell GameChanger 포털을 통해 언제든 솔루션을 제출합니다. 리포트 기준으로 별도 마감일은 확인되지 않았으며, 프로그램 상태는 `Always Open`입니다.
+- Shell GameChanger 포털을 통해 언제든 솔루션을 제출합니다. 리포트 기준으로 별도 마감일은 확인되지 않았으며, 프로그램 상태는 `Always Open`입니다.
 
 ## Sources
 

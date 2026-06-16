@@ -35,11 +35,11 @@ Startup Autobahn은 Mercedes-Benz를 중심으로 여러 산업 파트너가 함
 
 - 빠른 기술 검증
 - 사업부와의 PoC 협업
-- 대기업 및 생태계 파트너 노출
+- 대기업·생태계 파트너와의 접점 확보
 
 ## How to Apply
 
-공식 Startup Autobahn 플랫폼에서 현재 열려 있는 프로그램 또는 지역별 콜을 확인한 뒤 지원합니다.
+- 공식 Startup Autobahn 플랫폼에서 현재 열려 있는 프로그램 또는 지역별 콜을 확인한 뒤 지원합니다.
 
 ## Sources
 

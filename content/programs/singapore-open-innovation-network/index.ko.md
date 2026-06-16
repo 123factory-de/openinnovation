@@ -37,12 +37,12 @@ Singapore Open Innovation Network는 싱가포르 정부 및 기업의 과제를
 ## Collaboration & Benefits
 
 - 과제 보유자와의 연결
-- 구조화된 문제 정의 기반 제안 기회
-- 싱가포르 공공 및 기업 혁신 과제 접근
+- 체계적으로 정의된 문제를 기반으로 한 제안 기회
+- 싱가포르 공공·기업 혁신 과제 참여
 
 ## How to Apply
 
-Open Innovation Network에 게시된 혁신 챌린지를 확인하고 솔루션 제공자로 참여합니다. 리포트 기준 마감일은 과제별로 다릅니다.
+- Open Innovation Network에 게시된 혁신 챌린지를 확인하고 솔루션 제공자로 참여합니다. 리포트 기준 마감일은 과제별로 다릅니다.
 
 ## Sources
 

@@ -33,12 +33,12 @@ Tomorrow Street의 Scaleup X는 Vodafone Group과 연결된 성장 단계 기술
 ## Collaboration & Benefits
 
 - 상업 실증 기회
-- Vodafone 글로벌 생태계 접근
-- 스케일업 및 파트너 연계 지원
+- Vodafone 글로벌 생태계 활용
+- 스케일업·파트너 연계 지원
 
 ## How to Apply
 
-공식 Tomorrow Street 사이트의 지원 또는 문의 경로를 통해 참여 의사를 제출하고, 현재 운영 중인 Scaleup X 절차를 확인합니다.
+- 공식 Tomorrow Street 사이트의 지원 또는 문의 경로를 통해 참여 의사를 제출하고, 현재 운영 중인 Scaleup X 절차를 확인합니다.
 
 ## Sources
 

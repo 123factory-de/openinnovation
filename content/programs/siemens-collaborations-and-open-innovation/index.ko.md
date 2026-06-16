@@ -43,12 +43,12 @@ Siemens Collaborations and Open Innovation은 대학, 연구기관, 스타트업
 ## Collaboration & Benefits
 
 - Siemens와의 협업 가능성
-- 스타트업 소프트웨어 지원 및 마켓플레이스 연결
+- 스타트업 소프트웨어 지원과 마켓플레이스 연결
 - Siemens Innovation Ecosystem 챌린지 참여 가능성
 
 ## How to Apply
 
-Siemens의 협업 프로그램과 오픈 이노베이션 챌린지를 통해 참여합니다. 리포트 기준 마감일은 챌린지별로 다릅니다.
+- Siemens의 협업 프로그램과 오픈 이노베이션 챌린지를 통해 참여합니다. 리포트 기준 마감일은 챌린지별로 다릅니다.
 
 ## Sources
 

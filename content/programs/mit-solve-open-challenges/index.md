@@ -46,7 +46,7 @@ MIT Solve Open Challenges is an open innovation program run by MIT Solve. It is 
 
 ## How to Apply
 
-Apply through MIT Solve challenge pages and use application clinics when available. Current status: `Unknown`.
+- Apply through MIT Solve challenge pages and use application clinics when available. Current status: `Unknown`.
 
 ## Sources
 

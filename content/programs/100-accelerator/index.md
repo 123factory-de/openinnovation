@@ -39,7 +39,7 @@ summary: "A global sustainability-focused accelerator backed by major consumer b
 
 ## How to Apply
 
-Apply through the official 100+ Accelerator website, which routes applicants to the program application flow. Review the live cycle details on the official site before submitting.
+- Apply through the official 100+ Accelerator website, which routes applicants to the program application flow. Review the live cycle details on the official site before submitting.
 
 ## Sources
 

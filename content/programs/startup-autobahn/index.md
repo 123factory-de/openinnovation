@@ -39,7 +39,7 @@ Startup Autobahn is a corporate open innovation platform founded by Mercedes-Ben
 
 ## How to Apply
 
-Apply through the official Startup Autobahn platform and monitor live regional or cohort-specific calls when available.
+- Apply through the official Startup Autobahn platform and monitor live regional or cohort-specific calls when available.
 
 ## Sources
 

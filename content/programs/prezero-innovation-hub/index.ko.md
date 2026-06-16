@@ -30,13 +30,13 @@ PreZero Innovation Hub는 슈바르츠 그룹의 환경 서비스 부문인 PreZ
 
 ## Collaboration & Benefits
 
-- PreZero의 운영 네트워크 내 개념 증명(PoC) 기회
-- 슈바르츠 그룹 생태계의 규모와 자원에 대한 접근
-- 환경 서비스 및 순환 가치 사슬에 대한 도메인 전문성
+- PreZero의 운영 네트워크에서 개념 증명(PoC)을 진행할 기회
+- 슈바르츠 그룹 생태계의 규모와 자원을 활용할 수 있습니다
+- 환경 서비스와 순환 가치 사슬 분야의 전문성을 지원받을 수 있습니다
 
 ## How to Apply
 
-PreZero Innovation Hub 공식 페이지에서 현재 과제와 지원 절차를 확인하고, 제공된 채널을 통해 지원하세요.
+- PreZero Innovation Hub 공식 페이지에서 현재 과제와 지원 절차를 확인하고, 제공된 채널을 통해 지원하세요.
 
 ## Sources
 

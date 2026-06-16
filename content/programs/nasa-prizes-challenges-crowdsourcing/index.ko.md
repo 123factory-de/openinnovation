@@ -38,13 +38,13 @@ NASA Prizes, Challenges, and Crowdsourcing은 NASA가 우주 탐사, 항공, 과
 
 ## Collaboration & Benefits
 
-- NASA 미션 관련 프라이즈 및 챌린지 참여 기회
-- 기술 노출 및 검증 가능성
-- 공공 혁신 경로 접근
+- NASA 미션과 관련된 프라이즈와 챌린지 참여 기회
+- 기술을 알리고 검증할 기회
+- 공공 혁신 경로를 활용할 수 있는 기회
 
 ## How to Apply
 
-NASA의 prizes, challenges, crowdsourcing 페이지에서 개별 기회를 확인하고 해당 안내에 따라 참여합니다. 리포트 기준 마감일은 챌린지별로 다릅니다.
+- NASA의 prizes, challenges, crowdsourcing 페이지에서 개별 기회를 확인하고 해당 안내에 따라 참여합니다. 리포트 기준 마감일은 챌린지별로 다릅니다.
 
 ## Sources
 

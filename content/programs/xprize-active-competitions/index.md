@@ -48,7 +48,7 @@ XPRIZE Active Competitions is an open innovation program run by XPRIZE Foundatio
 
 ## How to Apply
 
-Review active competitions and apply to competition-specific calls. Current status: `Active`.
+- Review active competitions and apply to competition-specific calls. Current status: `Active`.
 
 ## Sources
 

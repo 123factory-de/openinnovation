@@ -37,7 +37,7 @@ Pioneer Lab is the incubator and innovation lab of the Carl Remigius Fresenius E
 
 ## How to Apply
 
-Learn more and get involved through the official Pioneer Lab website.
+- Learn more and get involved through the official Pioneer Lab website.
 
 ## Sources
 

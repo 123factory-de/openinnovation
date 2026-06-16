@@ -34,13 +34,13 @@ summary: "UnternehmerTUM은 유럽 최대의 창업 및 혁신 센터로, 뮌헨
 ## Collaboration & Benefits
 
 - 인큐베이션 및 벤처 개발 지원
-- 멘토, 전문가, 투자자 접근
+- 멘토와 전문가, 투자자를 만날 수 있습니다
 - 기업 혁신 파트너십
-- 워크스페이스, 랩, 폭넓은 생태계 네트워크
+- 워크스페이스와 랩, 폭넓은 생태계 네트워크
 
 ## How to Apply
 
-공식 UnternehmerTUM 웹사이트에서 제공되는 프로그램과 서비스를 살펴보세요.
+- 공식 UnternehmerTUM 웹사이트에서 제공되는 프로그램과 서비스를 살펴보세요.
 
 ## Sources
 

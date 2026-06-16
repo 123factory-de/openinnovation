@@ -44,7 +44,7 @@ NASA Prizes, Challenges, and Crowdsourcing is an open innovation program run by 
 
 ## How to Apply
 
-Review open opportunities under NASA’s prizes, challenges, and crowdsourcing program. Current status: `Active`.
+- Review open opportunities under NASA’s prizes, challenges, and crowdsourcing program. Current status: `Active`.
 
 ## Sources
 

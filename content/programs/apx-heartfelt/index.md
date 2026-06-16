@@ -37,7 +37,7 @@ Heartfelt_ is an early-stage investment initiative from APX, the early-stage inv
 
 ## How to Apply
 
-Submit your pitch through the official Heartfelt_ page and follow the instructions provided for early-stage founders.
+- Submit your pitch through the official Heartfelt_ page and follow the instructions provided for early-stage founders.
 
 ## Sources
 

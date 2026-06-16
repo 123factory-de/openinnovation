@@ -36,7 +36,7 @@ Wurth Elektronik Start-up Management is a dedicated support program from Wurth E
 
 ## How to Apply
 
-Startups can learn more about hardware support and partnership opportunities through the official Wurth Elektronik Start-up Management page.
+- Startups can learn more about hardware support and partnership opportunities through the official Wurth Elektronik Start-up Management page.
 
 ## Sources
 

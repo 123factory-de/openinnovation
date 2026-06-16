@@ -36,7 +36,7 @@ HHLA NEXT is the venture-building unit of HHLA. It builds new ventures and partn
 
 ## How to Apply
 
-Startups can explore venture-building and partnership opportunities through the official HHLA NEXT page.
+- Startups can explore venture-building and partnership opportunities through the official HHLA NEXT page.
 
 ## Sources
 

@@ -31,13 +31,13 @@ FIEGE Ventures는 물류 기업 FIEGE의 벤처 부문으로, F-LOG Ventures 이
 
 ## Collaboration & Benefits
 
-- FIEGE 및 F-LOG Ventures와의 투자 및 파트너십 기회
+- FIEGE와 F-LOG Ventures를 통한 투자 및 파트너십 기회
 - FIEGE의 물류 운영 및 산업 전문성 활용
 - 물류 및 공급망 솔루션 확장을 위한 협업
 
 ## How to Apply
 
-스타트업과 스케일업은 공식 FIEGE Ventures 페이지를 통해 투자 및 협업 기회에 대해 자세히 알아볼 수 있습니다.
+- 스타트업과 스케일업은 공식 FIEGE Ventures 페이지를 통해 투자 및 협업 기회에 대해 자세히 알아볼 수 있습니다.
 
 ## Sources
 

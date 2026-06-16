@@ -37,7 +37,7 @@ Startup the Future is an initiative of Allianz Industrie 4.0 Baden-Wuerttemberg 
 
 ## How to Apply
 
-Learn more and get involved through the official Startup the Future page on the Industrie 4.0 Baden-Wuerttemberg site.
+- Learn more and get involved through the official Startup the Future page on the Industrie 4.0 Baden-Wuerttemberg site.
 
 ## Sources
 

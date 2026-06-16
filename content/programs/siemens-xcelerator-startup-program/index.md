@@ -37,7 +37,7 @@ The Siemens Xcelerator Startup Program brings startups into the Siemens Xcelerat
 
 ## How to Apply
 
-Startups can explore the program and find application details on the official Siemens Xcelerator startup solutions page.
+- Startups can explore the program and find application details on the official Siemens Xcelerator startup solutions page.
 
 ## Sources
 

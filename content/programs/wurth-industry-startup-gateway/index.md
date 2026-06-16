@@ -1,4 +1,5 @@
 ---
+featureLogo: "cover"
 title: "Wurth Industry Start-up Gateway"
 date: 2026-06-16
 draft: false
@@ -28,7 +29,7 @@ Wurth Industry Start-up Gateway is a program from Wurth Industry that engages st
 - Logistics
 - Proof of Concept
 
-## Collaboration & Benefits
+## Benefits
 
 - Joint proof-of-concept projects with Wurth Industry teams
 - Access to industrial supply chain and procurement expertise
@@ -38,6 +39,6 @@ Wurth Industry Start-up Gateway is a program from Wurth Industry that engages st
 
 - Startups can explore collaboration and proof-of-concept opportunities through the official Wurth Industry Start-up Gateway page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.wuerth-industrie.com/web/de/wuerthindustrie/ueberuns/startups/startups.php)

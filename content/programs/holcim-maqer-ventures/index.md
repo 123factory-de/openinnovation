@@ -28,7 +28,7 @@ Holcim MAQER Ventures is the open innovation and corporate venturing arm of Holc
 - Construction tech
 - Corporate venturing
 
-## Collaboration & Benefits
+## Benefits
 
 - Proofs of concept with Holcim business units
 - Access to Holcim's industry expertise and scale
@@ -39,6 +39,6 @@ Holcim MAQER Ventures is the open innovation and corporate venturing arm of Holc
 
 - Startups can learn about collaboration opportunities and reach out through the official Holcim MAQER Ventures page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.holcim.com/innovation/open-innovation/holcim-maqer-ventures)

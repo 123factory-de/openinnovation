@@ -28,7 +28,7 @@ The 3DEXPERIENCE Lab is Dassault Systemes' open innovation accelerator that supp
 - Sustainability
 - 3D Design and Simulation
 
-## Collaboration & Benefits
+## Benefits
 
 - Access to the 3DEXPERIENCE platform and design/simulation tools
 - Mentoring from Dassault Systemes experts
@@ -39,6 +39,6 @@ The 3DEXPERIENCE Lab is Dassault Systemes' open innovation accelerator that supp
 
 - Review the selection criteria and submission process on the official 3DEXPERIENCE Lab page and apply through the channel listed there.
 
-## Sources
+## Official Page
 
 - [Official program page](https://3dexperiencelab.3ds.com/en/)

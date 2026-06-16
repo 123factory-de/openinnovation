@@ -34,7 +34,7 @@ TUV NORD x Startups is the startup collaboration program of TUV NORD. It brings 
 - Industrial Technology
 - Digitalization
 
-## Collaboration & Benefits
+## Benefits
 
 - Collaboration with TUV NORD experts
 - Access to testing and certification expertise
@@ -45,6 +45,6 @@ TUV NORD x Startups is the startup collaboration program of TUV NORD. It brings 
 
 - Review collaboration details and contact options on the official TUV NORD startups page and reach out through the channel provided there.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.tuev-nord.de/de/startups/homepage/)

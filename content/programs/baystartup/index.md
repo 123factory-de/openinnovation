@@ -34,7 +34,7 @@ BayStartUP is Bavaria's central startup network, connecting founders with invest
 - Investor Matching
 - Coaching and Mentoring
 
-## Collaboration & Benefits
+## Benefits
 
 - Access to one of Germany's largest investor networks
 - Structured business plan competitions with expert feedback
@@ -45,6 +45,6 @@ BayStartUP is Bavaria's central startup network, connecting founders with invest
 
 - Explore current competitions, financing rounds, and coaching offers on the official BayStartUP page and follow the application instructions there.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.baystartup.de/)

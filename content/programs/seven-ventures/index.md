@@ -29,7 +29,7 @@ SevenVentures is the media investment arm of ProSiebenSat.1, operated through Co
 - E-Commerce
 - Direct-to-Consumer
 
-## Collaboration & Benefits
+## Benefits
 
 - Media-for-equity and media-for-revenue investment
 - Large-scale TV advertising reach
@@ -40,6 +40,6 @@ SevenVentures is the media investment arm of ProSiebenSat.1, operated through Co
 
 - Find details and contact options on the official SevenVentures page on the Commerce & Ventures site.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.commerceandventures.com/investment-stages/sevenventures)

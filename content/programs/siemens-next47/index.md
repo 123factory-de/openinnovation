@@ -29,7 +29,7 @@ Next47 is an independent global venture firm backed by Siemens. It invests in gr
 - Enterprise innovation
 - Growth-stage investment
 
-## Collaboration & Benefits
+## Benefits
 
 - Growth-stage investment capital
 - Access to enterprise customers and ecosystems
@@ -40,6 +40,6 @@ Next47 is an independent global venture firm backed by Siemens. It invests in gr
 
 - Founders can learn about Next47's investment focus and contact the team through the official Next47 page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://next47.com/)

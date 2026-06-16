@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "Axel Springer Plug and Play"
 date: 2026-06-16
 draft: false
@@ -28,7 +29,7 @@ Axel Springer Plug and Play is an accelerator program run jointly by Axel Spring
 - Investor Access
 - Acceleration and Mentoring
 
-## Collaboration & Benefits
+## Benefits
 
 - Direct connections to corporate partners for pilots and collaboration
 - Access to investors within the Plug and Play network
@@ -39,6 +40,6 @@ Axel Springer Plug and Play is an accelerator program run jointly by Axel Spring
 
 - Review the accelerator details and apply through the official Plug and Play program page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.plugandplaytechcenter.com/innovation-services/startups/accelerator-programs)

@@ -28,7 +28,7 @@ Startup the Future is an initiative of Allianz Industrie 4.0 Baden-Wuerttemberg 
 - Industrial Startups
 - Manufacturer Collaboration
 
-## Collaboration & Benefits
+## Benefits
 
 - Connections between startups and manufacturing companies
 - Access to the Industrie 4.0 Baden-Wuerttemberg network
@@ -39,6 +39,6 @@ Startup the Future is an initiative of Allianz Industrie 4.0 Baden-Wuerttemberg 
 
 - Learn more and get involved through the official Startup the Future page on the Industrie 4.0 Baden-Wuerttemberg site.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.i40-bw.de/startup-the-future/)

@@ -28,7 +28,7 @@ ZEISS Innovation Hubs are collaboration spaces, such as those in Dresden and at 
 - Deep Tech
 - Research Collaboration
 
-## Collaboration & Benefits
+## Benefits
 
 - Co-location with ZEISS teams and academic researchers
 - Shared infrastructure and innovation spaces for deep-tech development
@@ -38,6 +38,6 @@ ZEISS Innovation Hubs are collaboration spaces, such as those in Dresden and at 
 
 - Startups and researchers can explore collaboration and co-location opportunities through the official ZEISS Innovation Hubs page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.zeiss.com/corporate/en/about-zeiss/future/new-business-at-zeiss/zeiss-innovation-hubs.html)

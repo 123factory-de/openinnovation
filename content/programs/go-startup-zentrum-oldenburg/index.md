@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "GO! Start-up Zentrum Oldenburg is a regional founder center offering coaching, workspace, and founding support to startups in the Oldenburg area."
+resources:
+- src: feature.svg
+  title: GO! Start-up Zentrum Oldenburg
+  params:
+    source: https://www.gruenden-oldenburg.de/Media/1/Logo_GO/GO-Logo.svg
+    sourceLabel: TGO Technologie- und Gruenderzentrum Oldenburg official image
 ---
 
 ## Overview
@@ -28,7 +34,7 @@ GO! Start-up Zentrum Oldenburg is a regional startup and founder center operated
 - Workspace and Infrastructure
 - Startup Community
 
-## Collaboration & Benefits
+## Benefits
 
 - Coaching and advisory throughout the founding process
 - Access to workspace and infrastructure for new ventures
@@ -39,6 +45,6 @@ GO! Start-up Zentrum Oldenburg is a regional startup and founder center operated
 
 - Find details on coaching, space, and founding support, and get in touch via the official center page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.gruenden-oldenburg.de/)

@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "OTTO DOCK 6"
 date: 2026-06-16
 draft: false
@@ -28,7 +29,7 @@ OTTO DOCK 6 is the venture and innovation arm of OTTO, one of Germany's largest 
 - Venture Building
 - Investment
 
-## Collaboration & Benefits
+## Benefits
 
 - Venture building support and investment opportunities
 - Access to OTTO's retail and e-commerce expertise
@@ -38,6 +39,6 @@ OTTO DOCK 6 is the venture and innovation arm of OTTO, one of Germany's largest 
 
 - Review the focus areas and contact options on the official OTTO DOCK 6 page to start a conversation.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.ottodock6.com/)

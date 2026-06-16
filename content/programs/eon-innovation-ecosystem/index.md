@@ -34,7 +34,7 @@ The E.ON Innovation Ecosystem is a collection of programs through which the ener
 - Artificial Intelligence
 - Decarbonization
 
-## Collaboration & Benefits
+## Benefits
 
 - Multiple entry points across dedicated programs and challenges
 - Pilot and scaling opportunities with E.ON business units
@@ -44,6 +44,6 @@ The E.ON Innovation Ecosystem is a collection of programs through which the ener
 
 - Explore the available programs and their respective application paths on the official E.ON Innovation Ecosystem page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.eon.com/de/innovation/innovation-ecosystem.html)

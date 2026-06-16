@@ -3,17 +3,17 @@ title: "Festo Start-up Kooperation"
 date: 2026-06-16
 draft: false
 company: "Festo"
-industry: "Manufacturing"
+industry: "제조"
 externalUrl: "https://www.festo.com/de/de/e/ueber-festo/forschung-und-entwicklung/startup-kooperationen-id_34130/"
 focusAreas:
-  - "Automation"
-  - "Robotics"
-  - "Bionics"
-  - "Industrial Technology"
-  - "Proof of Concept"
+  - "자동화"
+  - "로보틱스"
+  - "바이오닉스"
+  - "산업 기술"
+  - "개념증명"
 eligibility:
-  - "Startups"
-status: "Active"
+  - "스타트업"
+status: "운영 중"
 deadline: ""
 summary: "Festo Start-up Kooperation은 공동 개발과 개념증명을 통해 자동화, 로보틱스, 바이오닉스, 산업 기술 분야에서 스타트업과 협력합니다."
 resources:
@@ -24,28 +24,28 @@ resources:
     sourceLabel: Festo official image
 ---
 
-## Overview
+## 개요
 
-Festo Start-up Kooperation은 Festo의 연구 개발 조직 내에서 운영되는 스타트업 협력 프로그램입니다. 공동 개발과 개념증명(PoC) 프로젝트를 통해 자동화, 로보틱스, 바이오닉스, 산업 기술 분야에서 스타트업과 협력합니다. 이를 통해 스타트업은 Festo의 엔지니어링 전문성과 산업 자동화 노하우를 활용할 수 있습니다.
+Festo Start-up Kooperation은 Festo의 연구 개발 조직 내에서 운영되는 스타트업 협력 프로그램입니다. 공동 개발과 개념증명 프로젝트를 통해 자동화, 로보틱스, 바이오닉스, 산업 기술 분야에서 스타트업과 협력합니다. 이를 통해 스타트업은 Festo의 엔지니어링 전문성과 산업 자동화 노하우를 활용할 수 있습니다.
 
-## Focus Areas
+## 주요 분야
 
-- Automation
-- Robotics
-- Bionics
-- Industrial Technology
-- Proof of Concept
+- 자동화
+- 로보틱스
+- 바이오닉스
+- 산업 기술
+- 개념증명
 
-## Collaboration & Benefits
+## 혜택
 
 - Festo와의 공동 개발 및 개념증명 프로젝트
 - Festo의 자동화, 로보틱스, 바이오닉스 전문성 활용
 - Festo의 연구 개발 조직과의 협업
 
-## How to Apply
+## 지원 방법
 
 - 스타트업은 공식 Festo Start-up Kooperation 페이지를 통해 협력 및 공동 개발 기회를 살펴볼 수 있습니다.
 
-## Sources
+## 공식 페이지
 
 - [Official program page](https://www.festo.com/de/de/e/ueber-festo/forschung-und-entwicklung/startup-kooperationen-id_34130/)

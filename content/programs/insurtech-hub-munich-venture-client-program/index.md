@@ -1,4 +1,6 @@
 ---
+featureBg: "#10b6e6"
+featureLogo: true
 title: "Venture Client Program - InsurTech Hub Munich"
 date: 2026-06-16
 draft: false
@@ -28,7 +30,7 @@ The Venture Client Program at InsurTech Hub Munich connects insurance and financ
 - Venture Client Model
 - Pilot Projects
 
-## Collaboration & Benefits
+## Benefits
 
 - Paid pilot projects with corporate clients
 - Real-world validation without giving up equity
@@ -38,6 +40,6 @@ The Venture Client Program at InsurTech Hub Munich connects insurance and financ
 
 - Review the venture client program details and application process on the official InsurTech Hub Munich page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.insurtech-munich.com/themen/venture-client-programme/)

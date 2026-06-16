@@ -29,7 +29,7 @@ FIEGE Ventures is the venture arm of the logistics provider FIEGE, which include
 - Strategic Investment
 - Partnerships
 
-## Collaboration & Benefits
+## Benefits
 
 - Investment and partnership opportunities with FIEGE and F-LOG Ventures
 - Access to FIEGE's logistics operations and industry expertise
@@ -39,6 +39,6 @@ FIEGE Ventures is the venture arm of the logistics provider FIEGE, which include
 
 - Startups and scaleups can learn more about investment and collaboration opportunities through the official FIEGE Ventures page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.fiege.com/de/fiege-ventures)

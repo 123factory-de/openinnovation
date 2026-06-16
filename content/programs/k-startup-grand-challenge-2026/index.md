@@ -34,7 +34,7 @@ K-Startup Grand Challenge 2026 is an open innovation program run by Korea Minist
 - Corporate Partnerships
 - Startup Scaling
 
-## Collaboration & Benefits
+## Benefits
 
 - Government-backed acceleration, local ecosystem access, and business development support
 - Official page says applications opened on May 6, 2026 and the application period runs through June 17, 2026 at 15:00 KST.
@@ -43,6 +43,6 @@ K-Startup Grand Challenge 2026 is an open innovation program run by Korea Minist
 
 - Apply through the official KSGC portal. Deadline: `2026-06-17`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://ksgc.global)

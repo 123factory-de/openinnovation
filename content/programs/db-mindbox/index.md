@@ -28,7 +28,7 @@ DB mindbox is the startup accelerator of Deutsche Bahn. It enables startups to r
 - Proof of Concept Pilots
 - Digitalization
 
-## Collaboration & Benefits
+## Benefits
 
 - Funded proof-of-concept pilots with Deutsche Bahn business units
 - Direct collaboration with a major mobility and logistics operator
@@ -39,6 +39,6 @@ DB mindbox is the startup accelerator of Deutsche Bahn. It enables startups to r
 
 - Review current challenges and application details on the official DB mindbox page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.deutschebahn.com/de/Digitalisierung/startups/dbmindbox-6898904)

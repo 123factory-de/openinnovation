@@ -29,7 +29,7 @@ Seven Growth is the growth-stage investment arm of ProSiebenSat.1, operated thro
 - E-Commerce
 - Scaling and Expansion
 
-## Collaboration & Benefits
+## Benefits
 
 - Growth-stage investment
 - Media power for scaling demand
@@ -40,6 +40,6 @@ Seven Growth is the growth-stage investment arm of ProSiebenSat.1, operated thro
 
 - Explore details and reach out through the official Seven Growth page on the Commerce & Ventures site.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.commerceandventures.com/investment-stages/sevengrowth)

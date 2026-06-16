@@ -28,7 +28,7 @@ XPRENEURS is the technology incubator run by UnternehmerTUM, one of Europe's lea
 - Mentoring
 - Investor Access
 
-## Collaboration & Benefits
+## Benefits
 
 - Intensive mentoring from experienced founders and experts
 - Access to UnternehmerTUM's investor and partner network
@@ -38,6 +38,6 @@ XPRENEURS is the technology incubator run by UnternehmerTUM, one of Europe's lea
 
 - Review the program timeline and application details on the official UnternehmerTUM XPRENEURS page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.unternehmertum.de/angebot/xpreneurs)

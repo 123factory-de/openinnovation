@@ -28,7 +28,7 @@ Dell for Startups is a program from Dell Technologies designed to help startups 
 - AI and Data
 - Hardware
 
-## Collaboration & Benefits
+## Benefits
 
 - Access to Dell technology and solutions
 - Advisory and technical support
@@ -39,6 +39,6 @@ Dell for Startups is a program from Dell Technologies designed to help startups 
 
 - Review program details and eligibility on the official Dell for Startups page and apply through the form provided there.
 
-## Sources
+## Official Page
 
 - [Official program page](https://dellforstartups.com/de-de/join-2024)

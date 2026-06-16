@@ -28,7 +28,7 @@ The Bosch Validation Program is run by Bosch Innovation Consulting to help valid
 - Venture Building
 - Incubation Support
 
-## Collaboration & Benefits
+## Benefits
 
 - Structured market and business validation guidance from Bosch Innovation Consulting
 - Incubation support to move from idea to validated venture
@@ -37,6 +37,6 @@ The Bosch Validation Program is run by Bosch Innovation Consulting to help valid
 
 - Teams can learn about the program scope and engagement model through the official Bosch Innovation Consulting Validation Program page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.bosch-innovation-consulting.com/de/unsere-services/validation-program/)

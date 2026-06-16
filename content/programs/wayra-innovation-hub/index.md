@@ -35,7 +35,7 @@ The Wayra Innovation Hub is the open innovation and corporate venturing arm of T
 - Corporate Venturing
 - Scaling
 
-## Collaboration & Benefits
+## Benefits
 
 - Telefonica as both client and potential investor
 - Commercial pilots with Telefonica business units
@@ -45,6 +45,6 @@ The Wayra Innovation Hub is the open innovation and corporate venturing arm of T
 
 - Review the offer for startups and the application process on the official Wayra page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.wayra.de/de/for-startups)

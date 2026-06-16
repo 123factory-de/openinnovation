@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "Thuringian Regional Innovation Program (TRIP)"
 date: 2026-06-16
 draft: false
@@ -28,7 +29,7 @@ The Thuringian Regional Innovation Program (TRIP) is run by the Foundation for T
 - Founder Community
 - Coaching and Mentoring
 
-## Collaboration & Benefits
+## Benefits
 
 - Access to a founder community and network
 - Coaching and mentoring
@@ -39,6 +40,6 @@ The Thuringian Regional Innovation Program (TRIP) is run by the Foundation for T
 
 - Find current opportunities and join the community through the official TRIP website.
 
-## Sources
+## Official Page
 
 - [Official program page](https://trip.community/)

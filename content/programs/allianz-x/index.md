@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "Allianz X"
 date: 2026-06-16
 draft: false
@@ -29,7 +30,7 @@ Allianz X is the digital investment unit of Allianz, investing in growth-stage c
 - Healthtech
 - Digital Investments
 
-## Collaboration & Benefits
+## Benefits
 
 - Growth-stage investment from Allianz X
 - Partnership opportunities with Allianz business units
@@ -40,6 +41,6 @@ Allianz X is the digital investment unit of Allianz, investing in growth-stage c
 
 - Explore investment and partnership opportunities through the official Allianz X site.
 
-## Sources
+## Official Page
 
 - [Official program page](https://allianzx.com/)

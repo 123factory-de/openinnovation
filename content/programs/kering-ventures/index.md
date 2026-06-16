@@ -29,7 +29,7 @@ Kering Ventures is the venture investment arm of luxury group Kering. It backs i
 - Retail Technology
 - Luxury and Fashion
 
-## Collaboration & Benefits
+## Benefits
 
 - Venture investment from Kering
 - Access to Kering's luxury and fashion expertise
@@ -40,6 +40,6 @@ Kering Ventures is the venture investment arm of luxury group Kering. It backs i
 
 - Review investment focus and contact details on the official Kering Ventures page and reach out through the channel provided there.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.kering-ventures.com/)

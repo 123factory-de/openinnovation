@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: Singapore Open Innovation Network
 date: 2026-06-08
 draft: false
@@ -35,7 +36,7 @@ Singapore Open Innovation Network is an open innovation program run by Singapore
 - Digitalization
 - Applied Technology
 
-## Collaboration & Benefits
+## Benefits
 
 - Support and funding for product-market fit work, validation with challenge owners, and commercial expansion opportunities
 - Official portal lists ongoing challenges with June 2026 end dates and explicit solver benefits.
@@ -44,6 +45,6 @@ Singapore Open Innovation Network is an open innovation program run by Singapore
 
 - Browse ongoing challenges or share challenge statements through the OIN portal. Current status: `Active`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.openinnovationnetwork.gov.sg)

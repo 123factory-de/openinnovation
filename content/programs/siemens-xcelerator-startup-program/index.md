@@ -28,7 +28,7 @@ The Siemens Xcelerator Startup Program brings startups into the Siemens Xcelerat
 - Internet of Things
 - Ecosystem partnerships
 
-## Collaboration & Benefits
+## Benefits
 
 - Access to the Siemens Xcelerator marketplace
 - Connections with Siemens ecosystem partners
@@ -39,6 +39,6 @@ The Siemens Xcelerator Startup Program brings startups into the Siemens Xcelerat
 
 - Startups can explore the program and find application details on the official Siemens Xcelerator startup solutions page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.sw.siemens.com/de-DE/digital-transformation/xcelerator-startup-solutions/)

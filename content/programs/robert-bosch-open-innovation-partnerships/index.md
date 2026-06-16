@@ -28,7 +28,7 @@ Robert Bosch Open Innovation Partnerships is Bosch's open innovation platform fo
 - Industrial Technology
 - Mobility
 
-## Collaboration & Benefits
+## Benefits
 
 - Technology scouting and matching with relevant Bosch business units
 - Co-innovation and joint development opportunities across Bosch domains
@@ -37,6 +37,6 @@ Robert Bosch Open Innovation Partnerships is Bosch's open innovation platform fo
 
 - Startups can submit their technologies and explore co-innovation pathways through the official Bosch open innovation platform.
 
-## Sources
+## Official Page
 
 - [Official program page](https://innovate-bosch.com/)

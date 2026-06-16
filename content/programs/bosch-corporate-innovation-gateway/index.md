@@ -39,7 +39,7 @@ Bosch Corporate Innovation Gateway is an open innovation program run by Bosch. I
 - University Collaboration
 - Startup Collaboration
 
-## Collaboration & Benefits
+## Benefits
 
 - Co-innovation with Bosch experts and guided collaboration matching
 - Official page says Bosch is always looking for leading startups that want to co-innovate.
@@ -48,6 +48,6 @@ Bosch Corporate Innovation Gateway is an open innovation program run by Bosch. I
 
 - Use Bosch Corporate Innovation Gateway vertical submission routes and contact entry points. Current status: `Always Open`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://innovate-bosch.com)

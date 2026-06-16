@@ -28,7 +28,7 @@ HHLA NEXT is the venture-building unit of HHLA. It builds new ventures and partn
 - Port Technology
 - Venture Building
 
-## Collaboration & Benefits
+## Benefits
 
 - Venture building and partnership opportunities with HHLA
 - Access to HHLA's logistics and port operations expertise
@@ -38,6 +38,6 @@ HHLA NEXT is the venture-building unit of HHLA. It builds new ventures and partn
 
 - Startups can explore venture-building and partnership opportunities through the official HHLA NEXT page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://hhla-next.de/de)

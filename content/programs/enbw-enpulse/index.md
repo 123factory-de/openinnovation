@@ -28,7 +28,7 @@ Enpulse is the innovation unit of EnBW, one of Germany's largest energy companie
 - Smart Grids
 - Venture Building
 
-## Collaboration & Benefits
+## Benefits
 
 - Access to EnBW's energy infrastructure, customers, and domain expertise
 - Joint venture building and co-development of new business models
@@ -38,6 +38,6 @@ Enpulse is the innovation unit of EnBW, one of Germany's largest energy companie
 
 - Explore current collaboration paths and submission details on the official EnBW innovation page and reach out through the channels listed there.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.enbw.com/unternehmen/wie-wir-handeln/innovation.html)

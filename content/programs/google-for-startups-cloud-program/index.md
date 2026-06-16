@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "Google for Startups Cloud Program"
 date: 2026-06-16
 draft: false
@@ -28,7 +29,7 @@ Google for Startups Cloud Program helps startups build and grow on Google Cloud.
 - Scaling on GCP
 - Technical support
 
-## Collaboration & Benefits
+## Benefits
 
 - Google Cloud credits
 - Technical support from Google Cloud experts
@@ -39,6 +40,6 @@ Google for Startups Cloud Program helps startups build and grow on Google Cloud.
 
 - Startups can review the program tiers and eligibility on the official Google for Startups Cloud Program page and apply directly through the portal.
 
-## Sources
+## Official Page
 
 - [Official program page](https://startup.google.com/cloud/)

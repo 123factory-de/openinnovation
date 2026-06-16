@@ -28,7 +28,7 @@ Heartfelt_ is an early-stage investment initiative from APX, the early-stage inv
 - Founder Support
 - Pitch and Mentoring
 
-## Collaboration & Benefits
+## Benefits
 
 - Early-stage investment from a Berlin-based investor
 - Hands-on mentoring and operational support for founders
@@ -39,6 +39,6 @@ Heartfelt_ is an early-stage investment initiative from APX, the early-stage inv
 
 - Submit your pitch through the official Heartfelt_ page and follow the instructions provided for early-stage founders.
 
-## Sources
+## Official Page
 
 - [Official program page](https://heartfelt.capital/pitch)

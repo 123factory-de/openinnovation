@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "Google for Startups Accelerator"
 date: 2026-06-09
 draft: false
@@ -37,7 +38,7 @@ Google for Startups Accelerator is an active accelerator platform for early-stag
 - ClimateTech
 - FinTech
 
-## Collaboration & Benefits
+## Benefits
 
 - Equity-free support
 - Google expert mentoring
@@ -48,6 +49,6 @@ Google for Startups Accelerator is an active accelerator platform for early-stag
 
 - Apply through the official Google for Startups Accelerator portal and choose the relevant regional or thematic program. Review the specific live deadline for the track you plan to enter.
 
-## Sources
+## Official Page
 
 - [Official program page](https://startup.google.com/accelerator/)

@@ -28,7 +28,7 @@ Seven Accelerator is the early-stage arm of ProSiebenSat.1, operated through Com
 - E-Commerce
 - Direct-to-Consumer Brands
 
-## Collaboration & Benefits
+## Benefits
 
 - Media-for-equity investment
 - Access to TV and digital advertising reach
@@ -39,6 +39,6 @@ Seven Accelerator is the early-stage arm of ProSiebenSat.1, operated through Com
 
 - Learn more and reach out through the official Seven Accelerator page on the Commerce & Ventures site.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.commerceandventures.com/investment-stages/sevenaccelerator)

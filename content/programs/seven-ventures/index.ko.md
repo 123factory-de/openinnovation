@@ -6,40 +6,40 @@ company: "ProSiebenSat.1"
 industry: "ICT"
 externalUrl: "https://www.commerceandventures.com/investment-stages/sevenventures"
 focusAreas:
-  - "Consumer Brands"
-  - "Digital Media"
-  - "E-Commerce"
-  - "Direct-to-Consumer"
+  - "소비재 브랜드"
+  - "디지털 미디어"
+  - "이커머스"
+  - "D2C"
 eligibility:
-  - "Startups"
-  - "Scaleups"
-status: "Active"
+  - "스타트업"
+  - "스케일업"
+status: "운영 중"
 deadline: ""
 summary: "SevenVentures는 ProSiebenSat.1의 미디어 투자 사업부로, 성장 단계 소비자 브랜드에 TV 광고 도달력을 제공하는 미디어-포-에쿼티 및 미디어-포-레버뉴 거래를 제공합니다."
 ---
 
-## Overview
+## 개요
 
 SevenVentures는 Commerce & Ventures가 운영하는 ProSiebenSat.1의 미디어 투자 사업부입니다. 성장 단계 소비자 기업과 협력하여 지분이나 매출 공유를 받는 대가로 TV와 크로스미디어 광고 도달력을 제공합니다. 이 모델은 브랜드 인지도와 수요를 대규모로 빠르게 키우도록 설계되었습니다.
 
-## Focus Areas
+## 주요 분야
 
-- Consumer Brands
-- Digital Media
-- E-Commerce
-- Direct-to-Consumer
+- 소비재 브랜드
+- 디지털 미디어
+- 이커머스
+- D2C
 
-## Collaboration & Benefits
+## 혜택
 
 - 미디어-포-에쿼티 및 미디어-포-레버뉴 투자
 - 대규모 TV 광고 도달력
 - 크로스미디어 캠페인 지원
 - ProSiebenSat.1 네트워크를 활용할 수 있습니다
 
-## How to Apply
+## 지원 방법
 
 - Commerce & Ventures 사이트의 공식 SevenVentures 페이지에서 세부 정보와 문의 방법을 확인하세요.
 
-## Sources
+## 공식 페이지
 
 - [Official program page](https://www.commerceandventures.com/investment-stages/sevenventures)

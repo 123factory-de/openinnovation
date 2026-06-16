@@ -28,7 +28,7 @@ Startup Lounge - REWE is a collaboration program from REWE Group that connects s
 - E-Commerce
 - Pilots and Proofs of Concept
 
-## Collaboration & Benefits
+## Benefits
 
 - Pilots and proofs of concept with REWE
 - Access to REWE Group retail operations
@@ -39,6 +39,6 @@ Startup Lounge - REWE is a collaboration program from REWE Group that connects s
 
 - Find current opportunities and apply through the official Startup Lounge - REWE page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://innovation.rewe.de/start-up-lounge)

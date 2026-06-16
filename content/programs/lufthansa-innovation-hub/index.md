@@ -28,7 +28,7 @@ Lufthansa Innovation Hub is the digital innovation unit of Deutsche Lufthansa, d
 - Venture Building
 - Digital Customer Experience
 
-## Collaboration & Benefits
+## Benefits
 
 - Partnerships with travel-tech startups
 - Access to Lufthansa Group market knowledge and reach
@@ -39,6 +39,6 @@ Lufthansa Innovation Hub is the digital innovation unit of Deutsche Lufthansa, d
 
 - Reach out through the official Lufthansa Innovation Hub site to explore partnership and collaboration opportunities.
 
-## Sources
+## Official Page
 
 - [Official program page](https://lh-innovationhub.de/)

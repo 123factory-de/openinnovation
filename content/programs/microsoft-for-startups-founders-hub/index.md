@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "Microsoft for Startups Founders Hub"
 date: 2026-06-09
 draft: false
@@ -34,7 +35,7 @@ Microsoft for Startups Founders Hub is Microsoft's evergreen support and enablem
 - Cloud integration
 - B2B technology
 
-## Collaboration & Benefits
+## Benefits
 
 - Up to $150K in Azure credits
 - OpenAI model access
@@ -45,6 +46,6 @@ Microsoft for Startups Founders Hub is Microsoft's evergreen support and enablem
 
 - Apply directly through the official Microsoft for Startups Founders Hub portal and complete the verification steps described on the live site.
 
-## Sources
+## Official Page
 
 - [Official program page](https://startups.microsoft.com/)

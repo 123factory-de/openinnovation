@@ -1,4 +1,5 @@
 ---
+featureLogo: "dark"
 title: "NetApp Excellerator"
 date: 2026-06-16
 draft: false
@@ -28,7 +29,7 @@ NetApp Excellerator is NetApp's B2B startup accelerator program supporting early
 - Deep Tech
 - AI and Machine Learning
 
-## Collaboration & Benefits
+## Benefits
 
 - Mentoring from NetApp leaders and experts
 - Proof-of-concept opportunities with NetApp
@@ -39,6 +40,6 @@ NetApp Excellerator is NetApp's B2B startup accelerator program supporting early
 
 - Review cohort timelines and eligibility on the official NetApp Excellerator page and apply through the channel listed there.
 
-## Sources
+## Official Page
 
 - [Official program page](https://startup.netapp.in/)

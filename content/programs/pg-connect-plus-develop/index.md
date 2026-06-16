@@ -41,7 +41,7 @@ P&G Connect + Develop is an open innovation program run by P&G. It is relevant f
 - Ecommerce
 - Supply Chain
 
-## Collaboration & Benefits
+## Benefits
 
 - Potential partnership with P&G business teams and commercialization pathways
 - Official page explicitly says “See P&G Needs & Submit Your Innovation Today” and invites innovators to partner.
@@ -50,6 +50,6 @@ P&G Connect + Develop is an open innovation program run by P&G. It is relevant f
 
 - Browse current needs and submit an innovation through the Connect + Develop portal. Current status: `Always Open`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://pgconnectdevelop.com)

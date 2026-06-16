@@ -34,7 +34,7 @@ Startup Lounge - REWE Sued is a collaboration program from REWE Sued that brings
 - Grocery
 - In-Store Proof of Concepts
 
-## Collaboration & Benefits
+## Benefits
 
 - In-store pilots and proofs of concept
 - Access to REWE Sued retail operations
@@ -45,6 +45,6 @@ Startup Lounge - REWE Sued is a collaboration program from REWE Sued that brings
 
 - Find current opportunities and submit through the official Startup Lounge - REWE Sued website.
 
-## Sources
+## Official Page
 
 - [Official program page](https://startuplounge.rewesued.de/)

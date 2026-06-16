@@ -31,7 +31,7 @@ UnternehmerTUM, affiliated with the Technical University of Munich, is Europe's 
 - Corporate Innovation
 - Deep Tech
 
-## Collaboration & Benefits
+## Benefits
 
 - Incubation and venture development support
 - Access to mentors, experts, and investors
@@ -42,6 +42,6 @@ UnternehmerTUM, affiliated with the Technical University of Munich, is Europe's 
 
 - Explore the available programs and offerings on the official UnternehmerTUM website.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.unternehmertum.de/angebot)

@@ -35,7 +35,7 @@ SAP.iO Foundries is a no-equity startup accelerator program run by SAP across mu
 - Cloud and SaaS
 - B2B Innovation
 
-## Collaboration & Benefits
+## Benefits
 
 - No-equity acceleration with mentorship from SAP experts and partners
 - Technical integration with SAP solutions and access to SAP customers and go-to-market channels
@@ -44,6 +44,6 @@ SAP.iO Foundries is a no-equity startup accelerator program run by SAP across mu
 
 - Startups and scaleups can review the open cohorts and apply through the official SAP.iO Foundries program page, which lists current focus themes and participating locations.
 
-## Sources
+## Official Page
 
 - [Official program page](https://sap.io/foundries/)

@@ -1,4 +1,6 @@
 ---
+featureBg: "#232f3e"
+featureLogo: true
 title: "AWS Global Startup Program"
 date: 2026-06-16
 draft: false
@@ -29,7 +31,7 @@ The AWS Global Startup Program is designed for later-stage, product-ready startu
 - Go-to-Market
 - Technical Enablement
 
-## Collaboration & Benefits
+## Benefits
 
 - Co-sell opportunities with AWS sales teams
 - Technical and architectural support
@@ -40,6 +42,6 @@ The AWS Global Startup Program is designed for later-stage, product-ready startu
 
 - Review eligibility and apply through the official AWS Global Startup Program page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://aws.amazon.com/de/partners/programs/global-startup/)

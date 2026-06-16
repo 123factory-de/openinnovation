@@ -28,7 +28,7 @@ Vodafone UPLIFT is a startup collaboration and accelerator program that connects
 - Digital Solutions
 - Proof of Concept
 
-## Collaboration & Benefits
+## Benefits
 
 - Proof-of-concept projects with Vodafone business units
 - Access to Vodafone's network, infrastructure, and customers
@@ -39,6 +39,6 @@ Vodafone UPLIFT is a startup collaboration and accelerator program that connects
 
 - Apply and learn more through the official Vodafone UPLIFT page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.vodafone.de/business/digitalisierung/uplift/)

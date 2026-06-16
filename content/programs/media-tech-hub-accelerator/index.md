@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "Media Tech Hub Accelerator"
 date: 2026-06-16
 draft: false
@@ -28,7 +29,7 @@ The Media Tech Hub Accelerator is run by the Media Tech Hub Potsdam, based in th
 - Artificial Intelligence
 - Mentorship and Networking
 
-## Collaboration & Benefits
+## Benefits
 
 - Mentorship from media tech and industry experts
 - Access to the Potsdam-Babelsberg media ecosystem
@@ -39,6 +40,6 @@ The Media Tech Hub Accelerator is run by the Media Tech Hub Potsdam, based in th
 
 - Find program details and application information on the official Media Tech Hub Accelerator page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://mth-potsdam.de/accelerator/)

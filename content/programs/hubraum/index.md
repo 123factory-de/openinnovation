@@ -36,7 +36,7 @@ hubraum is Deutsche Telekom's startup program for early-stage technology teams, 
 - XR
 - Magenta Business APIs
 
-## Collaboration & Benefits
+## Benefits
 
 - Seed financing
 - Mentoring and workspace access
@@ -46,6 +46,6 @@ hubraum is Deutsche Telekom's startup program for early-stage technology teams, 
 
 - Apply through the official hubraum site when relevant calls are open, or use the program's startup submission route where available.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.hubraum.com/)

@@ -1,4 +1,6 @@
 ---
+featureBg: "#1e1c48"
+featureLogo: true
 title: "Sozialinnovator Hessen"
 date: 2026-06-16
 draft: false
@@ -28,7 +30,7 @@ Sozialinnovator Hessen is a program run by the Social Entrepreneurship Netzwerk 
 - Impact Ventures
 - Ecosystem Building
 
-## Collaboration & Benefits
+## Benefits
 
 - Support tailored to impact-driven and mission-led startups
 - Connections to the regional social entrepreneurship ecosystem
@@ -39,6 +41,6 @@ Sozialinnovator Hessen is a program run by the Social Entrepreneurship Netzwerk 
 
 - Learn more about the program and how to get involved on the official SEND project page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.send-ev.de/projekte-items/sozialinnovator-hessen/)

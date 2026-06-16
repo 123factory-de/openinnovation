@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "100+ Accelerator"
 date: 2026-06-09
 draft: false
@@ -37,7 +38,7 @@ resources:
 - Sustainable agriculture
 - Biodiversity
 
-## Collaboration & Benefits
+## Benefits
 
 - Pilot funding of up to $100K
 - Mentorship and validation support
@@ -47,6 +48,6 @@ resources:
 
 - Apply through the official 100+ Accelerator website, which routes applicants to the program application flow. Review the live cycle details on the official site before submitting.
 
-## Sources
+## Official Page
 
 - [Official program page](https://100accelerator.com/)

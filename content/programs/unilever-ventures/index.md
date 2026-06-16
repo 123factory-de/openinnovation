@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "Unilever Ventures"
 date: 2026-06-16
 draft: false
@@ -29,7 +30,7 @@ Unilever Ventures is the venture capital and private equity arm of Unilever. It 
 - Brands and Consumer
 - Growth Investment
 
-## Collaboration & Benefits
+## Benefits
 
 - Venture capital and private equity investment
 - Access to Unilever's expertise and global scale
@@ -40,6 +41,6 @@ Unilever Ventures is the venture capital and private equity arm of Unilever. It 
 
 - Review investment focus and contact details on the official Unilever Ventures page and reach out through the channel provided there.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.unileverventures.com/)

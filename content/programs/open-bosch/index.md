@@ -32,7 +32,7 @@ Open Bosch is an open innovation program run by Bosch Ventures. It is relevant f
 - Startup Solution Testing
 - Bosch Business-Unit Needs
 
-## Collaboration & Benefits
+## Benefits
 
 - Testing with Bosch units and venture-client partnership setup
 - Official page defines Open Bosch as Bosch’s venture client unit for testing leading startup solutions and setting up partnerships.
@@ -41,6 +41,6 @@ Open Bosch is an open innovation program run by Bosch Ventures. It is relevant f
 
 - Follow Open Bosch / openbosch.com venture-client contact path. Current status: `Always Open`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://bosch.ventures/open-bosch)

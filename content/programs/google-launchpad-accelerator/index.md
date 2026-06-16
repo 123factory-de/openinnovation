@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "Google LaunchPad Accelerator"
 date: 2026-06-16
 draft: false
@@ -28,7 +29,7 @@ Google LaunchPad Accelerator is part of the Google for Developers accelerator pr
 - Mobile development
 - Cloud technology
 
-## Collaboration & Benefits
+## Benefits
 
 - Equity-free participation
 - Technical mentorship from Google engineers
@@ -39,6 +40,6 @@ Google LaunchPad Accelerator is part of the Google for Developers accelerator pr
 
 - Startups can browse current accelerator programs and review eligibility on the official Google for Developers accelerators page, then apply to the relevant program.
 
-## Sources
+## Official Page
 
 - [Official program page](https://developers.google.com/community/accelerators/programs)

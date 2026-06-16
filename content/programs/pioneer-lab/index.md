@@ -28,7 +28,7 @@ Pioneer Lab is the incubator and innovation lab of the Carl Remigius Fresenius E
 - Founder Support
 - Coaching and Mentoring
 
-## Collaboration & Benefits
+## Benefits
 
 - Coaching and mentoring for founders
 - Access to resources and expertise
@@ -39,6 +39,6 @@ Pioneer Lab is the incubator and innovation lab of the Carl Remigius Fresenius E
 
 - Learn more and get involved through the official Pioneer Lab website.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.pioneerlab.de/)

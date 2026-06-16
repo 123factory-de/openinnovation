@@ -1,4 +1,5 @@
 ---
+featureLogo: "dark"
 title: MIT Solve Open Challenges
 date: 2026-06-08
 draft: false
@@ -39,7 +40,7 @@ MIT Solve Open Challenges is an open innovation program run by MIT Solve. It is 
 - Indigenous Communities
 - Youth Innovation
 
-## Collaboration & Benefits
+## Benefits
 
 - Funding opportunities, network access, application support, and challenge-specific partnerships
 - Official page includes “Open and Upcoming Challenges” and “How to apply,” so active status is based on the current challenge pipeline rather than a single evergreen portal.
@@ -48,6 +49,6 @@ MIT Solve Open Challenges is an open innovation program run by MIT Solve. It is 
 
 - Apply through MIT Solve challenge pages and use application clinics when available. Current status: `Unknown`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://solve.mit.edu/challenges)

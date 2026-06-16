@@ -28,7 +28,7 @@ The L'Oreal Beauty Tech Atelier is L'Oreal's open innovation program that partne
 - Sustainable Packaging
 - Digital and AI
 
-## Collaboration & Benefits
+## Benefits
 
 - Co-development opportunities with L'Oreal teams
 - Access to L'Oreal's scientific and technical expertise
@@ -39,6 +39,6 @@ The L'Oreal Beauty Tech Atelier is L'Oreal's open innovation program that partne
 
 - Review eligibility and submission details on the official L'Oreal Open Innovation program page and follow the application route provided there.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.loreal.com/en/beauty-science-and-technology/l-oreal-open-innovation/l-oreal-innovation-program/)

@@ -28,7 +28,7 @@ The TechFounders Pilot Project is a program by TechFounders that matches startup
 - Industrial Tech
 - B2B Innovation
 
-## Collaboration & Benefits
+## Benefits
 
 - Matching with corporate partners for pilot projects
 - Real-world proof-of-concept opportunities
@@ -39,6 +39,6 @@ The TechFounders Pilot Project is a program by TechFounders that matches startup
 
 - Learn more about the program and how to participate on the official TechFounders page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://techfounders.com/pilot-project-program)

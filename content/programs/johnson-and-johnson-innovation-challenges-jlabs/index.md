@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: Johnson & Johnson Innovation Challenges / JLABS
 date: 2026-06-08
 draft: false
@@ -38,7 +39,7 @@ Johnson & Johnson Innovation Challenges / JLABS is an open innovation program ru
 - Digital Health
 - Life Sciences
 
-## Collaboration & Benefits
+## Benefits
 
 - Challenge awards, mentorship, visibility with J&J teams, and possible ecosystem access
 - The official portal remains live and says innovators are invited to apply, but the current surfaced examples in crawl results showed several challenge cards marked closed. Status kept conservative.
@@ -47,6 +48,6 @@ Johnson & Johnson Innovation Challenges / JLABS is an open innovation program ru
 
 - Monitor QuickFire Challenge pages and apply to challenge-specific calls when open. Current status: `Active`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://jnjinnovation.com/innovation-challenges)

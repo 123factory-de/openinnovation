@@ -28,7 +28,7 @@ Airbus BizLab is a global aerospace accelerator that brings together startups an
 - Defense
 - Acceleration and PoCs
 
-## Collaboration & Benefits
+## Benefits
 
 - Acceleration program with Airbus mentors and experts
 - Proof-of-concept projects with Airbus business units
@@ -39,6 +39,6 @@ Airbus BizLab is a global aerospace accelerator that brings together startups an
 
 - Apply through the official Airbus BizLab page when calls for startups and projects are open.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.airbus.com/en/airbus-bizlab)

@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "PreZero Innovation Hub"
 date: 2026-06-16
 draft: false
@@ -28,7 +29,7 @@ The PreZero Innovation Hub is the open innovation arm of PreZero, the environmen
 - Waste Management
 - Sustainability
 
-## Collaboration & Benefits
+## Benefits
 
 - Proof-of-concept opportunities within PreZero's operational network
 - Access to the scale and resources of the Schwarz Group ecosystem
@@ -38,6 +39,6 @@ The PreZero Innovation Hub is the open innovation arm of PreZero, the environmen
 
 - Review current challenges and the submission process on the official PreZero Innovation Hub page and apply through the channels provided there.
 
-## Sources
+## Official Page
 
 - [Official program page](https://innovationhub.prezero.com/de/)

@@ -28,7 +28,7 @@ SpinLab - The HHL Accelerator is a Leipzig-based accelerator affiliated with the
 - Corporate Network
 - Investor Access
 
-## Collaboration & Benefits
+## Benefits
 
 - Equity-free participation in the accelerator
 - Mentoring from experienced entrepreneurs and experts
@@ -39,6 +39,6 @@ SpinLab - The HHL Accelerator is a Leipzig-based accelerator affiliated with the
 
 - Review program details and application timelines on the official SpinLab page.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.spinlab.co/)

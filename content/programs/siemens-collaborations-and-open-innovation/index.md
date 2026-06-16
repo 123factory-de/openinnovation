@@ -41,7 +41,7 @@ Siemens Collaborations and Open Innovation is an open innovation program run by 
 - Startup Software
 - University Partnerships
 
-## Collaboration & Benefits
+## Benefits
 
 - Access to Siemens collaboration channels, startup software support, and innovation ecosystem challenges
 - Official page explicitly says Siemens is open for open innovation and points to challenge-based access on its ecosystem platform.
@@ -50,6 +50,6 @@ Siemens Collaborations and Open Innovation is an open innovation program run by 
 
 - Engage through Siemens collaboration pages and the Siemens Innovation Ecosystem platform. Current status: `Active`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.siemens.com/en-us/company/innovation/collaborations-partnerships)

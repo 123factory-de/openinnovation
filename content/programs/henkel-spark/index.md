@@ -42,7 +42,7 @@ Henkel Spark is an open innovation program run by Henkel. It is relevant for res
 - Martech And Adtech
 - Wildcard Consumer Challenges
 
-## Collaboration & Benefits
+## Benefits
 
 - Proof-of-concept development, pilot testing, and scale-up potential
 - Official page lists multiple “Submit your idea” calls and describes Spark, Screen, Select, Scale workflow.
@@ -51,6 +51,6 @@ Henkel Spark is an open innovation program run by Henkel. It is relevant for res
 
 - Submit ideas through one of the Henkel Spark priority-area forms. Current status: `Always Open`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.henkel.com/our-businesses/henkel-consumer-brands/open-innovation)

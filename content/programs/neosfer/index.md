@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "neosfer"
 date: 2026-06-16
 draft: false
@@ -30,7 +31,7 @@ neosfer is the innovation unit of Commerzbank. It operates across early-stage in
 - Venture Building
 - Startup Scouting
 
-## Collaboration & Benefits
+## Benefits
 
 - Early-stage investment opportunities
 - Venture building and co-creation
@@ -41,6 +42,6 @@ neosfer is the innovation unit of Commerzbank. It operates across early-stage in
 
 - Learn more and connect through the official neosfer website.
 
-## Sources
+## Official Page
 
 - [Official program page](https://neosfer.de/)

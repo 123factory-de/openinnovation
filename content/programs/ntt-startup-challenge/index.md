@@ -28,7 +28,7 @@ NTT Startup Challenge is a global incubation and startup challenge run by NTT. I
 - Digital Innovation
 - Group Collaboration
 
-## Collaboration & Benefits
+## Benefits
 
 - Collaboration with NTT group companies
 - Incubation and acceleration support
@@ -39,6 +39,6 @@ NTT Startup Challenge is a global incubation and startup challenge run by NTT. I
 
 - Apply through the official NTT Startup Challenge site when the challenge is open.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.ntt-startupchallenge.com/)

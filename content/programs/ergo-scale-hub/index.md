@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "ERGO Scale Hub"
 date: 2026-06-16
 draft: false
@@ -29,7 +30,7 @@ The ERGO Scale Hub is the scaling program of ERGO, the primary insurance arm of 
 - Customer Experience
 - Process Automation
 
-## Collaboration & Benefits
+## Benefits
 
 - Structured proof-of-concept process with ERGO business units
 - Path to commercial partnership and scaling within ERGO
@@ -39,6 +40,6 @@ The ERGO Scale Hub is the scaling program of ERGO, the primary insurance arm of 
 
 - Review the program details and submission process on the official ERGO Scale Hub page and apply through the channels provided there.
 
-## Sources
+## Official Page
 
 - [Official program page](https://scalehub.ergo.com/)

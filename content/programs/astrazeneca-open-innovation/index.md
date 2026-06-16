@@ -37,7 +37,7 @@ AstraZeneca Open Innovation is an open innovation program run by AstraZeneca. It
 - Screening Libraries
 - Disease Biology
 
-## Collaboration & Benefits
+## Benefits
 
 - Access to AstraZeneca compounds, tools, libraries, expertise, and possible collaboration
 - Official search snippet states the program offers collaboration opportunities, invites external researchers, and says submissions go through internal review.
@@ -46,6 +46,6 @@ AstraZeneca Open Innovation is an open innovation program run by AstraZeneca. It
 
 - Submit collaboration opportunities through the AstraZeneca Open Innovation program. Current status: `Always Open`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.openinnovation.astrazeneca.com)

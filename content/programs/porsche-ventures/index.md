@@ -29,7 +29,7 @@ Porsche Ventures is the corporate venture capital arm of Porsche. It makes strat
 - Sustainability
 - Deep Tech
 
-## Collaboration & Benefits
+## Benefits
 
 - Strategic venture capital investment
 - Access to Porsche's expertise and network
@@ -40,6 +40,6 @@ Porsche Ventures is the corporate venture capital arm of Porsche. It makes strat
 
 - Review investment focus and contact details on the official Porsche Ventures page and reach out through the channel provided there.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.porsche.ventures/)

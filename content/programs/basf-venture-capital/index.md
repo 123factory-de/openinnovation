@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "BASF Venture Capital"
 date: 2026-06-16
 draft: false
@@ -29,7 +30,7 @@ BASF Venture Capital is the corporate venture capital company of BASF, one of th
 - Sustainability
 - Digitalization
 
-## Collaboration & Benefits
+## Benefits
 
 - Equity investment from a strategic corporate partner
 - Access to BASF's research, technology, and global market reach
@@ -39,6 +40,6 @@ BASF Venture Capital is the corporate venture capital company of BASF, one of th
 
 - BASF Venture Capital typically invests after a proof of concept. Review the investment focus and contact details on the official BASF Venture Capital page to start a conversation.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.basf.com/global/de/who-we-are/organization/group-companies/BASF_Venture-Capital)

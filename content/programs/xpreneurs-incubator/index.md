@@ -1,0 +1,43 @@
+---
+title: "XPRENEURS Incubator"
+date: 2026-06-16
+draft: false
+company: "UnternehmerTUM"
+industry: "Cross-Industry"
+externalUrl: "https://www.unternehmertum.de/angebot/xpreneurs"
+focusAreas:
+  - "Deep Tech"
+  - "B2B Software"
+  - "Mentoring"
+  - "Investor Access"
+eligibility:
+  - "Startups"
+status: "Active"
+deadline: ""
+summary: "XPRENEURS is UnternehmerTUM's incubator for deep-tech and B2B startups, offering intensive mentoring and access to investors."
+---
+
+## Overview
+
+XPRENEURS is the technology incubator run by UnternehmerTUM, one of Europe's leading centers for innovation and entrepreneurship. It supports deep-tech and B2B startups with an intensive program of mentoring, workshops, and structured guidance. Participants build their business and gain access to UnternehmerTUM's extensive investor and partner network.
+
+## Focus Areas
+
+- Deep Tech
+- B2B Software
+- Mentoring
+- Investor Access
+
+## Benefits
+
+- Intensive mentoring from experienced founders and experts
+- Access to UnternehmerTUM's investor and partner network
+- Structured curriculum to accelerate go-to-market
+
+## How to Apply
+
+- Review the program timeline and application details on the official UnternehmerTUM XPRENEURS page.
+
+## Official Page
+
+- [Official program page](https://www.unternehmertum.de/angebot/xpreneurs)

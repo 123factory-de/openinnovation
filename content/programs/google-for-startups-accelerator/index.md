@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "Google for Startups Accelerator"
 date: 2026-06-09
 draft: false
@@ -17,6 +18,12 @@ eligibility:
 status: "Active"
 deadline: "2026-06-30"
 summary: "Google for Startups Accelerator runs active AI-first startup programs with regional and thematic calls across machine learning, energy transition, climate tech, and fintech."
+resources:
+- src: feature.webp
+  title: Google for Startups Accelerator
+  params:
+    source: https://www.gstatic.com/marketing-cms/assets/images/e1/e7/0e15fdc14410aa5b524c01fda2b3/unnamed-1.webp
+    sourceLabel: Google official image
 ---
 
 ## Overview
@@ -31,7 +38,7 @@ Google for Startups Accelerator is an active accelerator platform for early-stag
 - ClimateTech
 - FinTech
 
-## Collaboration & Benefits
+## Benefits
 
 - Equity-free support
 - Google expert mentoring
@@ -40,8 +47,8 @@ Google for Startups Accelerator is an active accelerator platform for early-stag
 
 ## How to Apply
 
-Apply through the official Google for Startups Accelerator portal and choose the relevant regional or thematic program. Review the specific live deadline for the track you plan to enter.
+- Apply through the official Google for Startups Accelerator portal and choose the relevant regional or thematic program. Review the specific live deadline for the track you plan to enter.
 
-## Sources
+## Official Page
 
 - [Official program page](https://startup.google.com/accelerator/)

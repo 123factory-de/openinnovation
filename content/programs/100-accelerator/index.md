@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "100+ Accelerator"
 date: 2026-06-09
 draft: false
@@ -17,6 +18,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "A global sustainability-focused accelerator backed by major consumer brands for startups and scaleups piloting solutions in water, packaging, climate, agriculture, and biodiversity."
+resources:
+- src: feature.png
+  title: 100+ Accelerator
+  params:
+    source: https://www.100accelerator.com/opengraph-image.png
+    sourceLabel: AB InBev et al. official image
 ---
 
 ## Overview
@@ -31,7 +38,7 @@ summary: "A global sustainability-focused accelerator backed by major consumer b
 - Sustainable agriculture
 - Biodiversity
 
-## Collaboration & Benefits
+## Benefits
 
 - Pilot funding of up to $100K
 - Mentorship and validation support
@@ -39,8 +46,8 @@ summary: "A global sustainability-focused accelerator backed by major consumer b
 
 ## How to Apply
 
-Apply through the official 100+ Accelerator website, which routes applicants to the program application flow. Review the live cycle details on the official site before submitting.
+- Apply through the official 100+ Accelerator website, which routes applicants to the program application flow. Review the live cycle details on the official site before submitting.
 
-## Sources
+## Official Page
 
 - [Official program page](https://100accelerator.com/)

@@ -36,15 +36,15 @@ Shell GameChanger is an open innovation program run by Shell. It is relevant for
 - Early-Stage Technology
 - High-Impact Concepts
 
-## Collaboration & Benefits
+## Benefits
 
 - Shell support, expertise, seed funding, and collaboration pathways
 - Official page says “Submit your solution, anytime” and that Shell continuously scouts for startups.
 
 ## How to Apply
 
-Submit a solution through the Shell GameChanger page. Current status: `Always Open`.
+- Submit a solution through the Shell GameChanger page. Current status: `Always Open`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.shell.com/what-we-do/technology-and-innovation/innovate-with-shell/shell-gamechanger.html)

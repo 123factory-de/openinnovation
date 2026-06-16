@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: "Sony Startup Acceleration Program"
 date: 2026-06-09
 draft: false
@@ -17,6 +18,12 @@ eligibility:
 status: "Always Open"
 deadline: ""
 summary: "Sony’s Startup Acceleration Program is an always-open platform for internal teams, startups, and partners working on business modeling, prototyping, validation, and new venture development."
+resources:
+- src: feature.png
+  title: Sony Startup Acceleration Program
+  params:
+    source: https://sony-acceleration-platform.com/common/img/share.png
+    sourceLabel: Sony Group official image
 ---
 
 ## Overview
@@ -30,7 +37,7 @@ Sony Startup Acceleration Program is Sony Group's platform for developing and ac
 - Market validation
 - Technology convergence
 
-## Collaboration & Benefits
+## Benefits
 
 - Business development support
 - Acceleration services
@@ -39,8 +46,8 @@ Sony Startup Acceleration Program is Sony Group's platform for developing and ac
 
 ## How to Apply
 
-Submit a proposal or use the contact path on the official Sony Startup Acceleration Program site to explore collaboration and program participation.
+- Submit a proposal or use the contact path on the official Sony Startup Acceleration Program site to explore collaboration and program participation.
 
-## Sources
+## Official Page
 
 - [Official program page](https://sony-startup-acceleration-program.com/)

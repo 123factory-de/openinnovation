@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Tomorrow Street’s Scaleup X program connects later-stage technology scaleups with Vodafone’s global ecosystem for commercial trials and international scaling support."
+resources:
+- src: feature.png
+  title: Tomorrow Street (Scaleup X)
+  params:
+    source: https://cdn.prod.website-files.com/69ca5824bacd8335fcf22e88/69e8a30b2ceb199aa279efa3_new.png
+    sourceLabel: Vodafone Group official image
 ---
 
 ## Overview
@@ -30,7 +36,7 @@ Tomorrow Street (Scaleup X) is a Vodafone-linked scaleup collaboration program f
 - Digital transformation
 - Telecom technology
 
-## Collaboration & Benefits
+## Benefits
 
 - Commercial trials
 - Access to Vodafone's global ecosystem
@@ -38,8 +44,8 @@ Tomorrow Street (Scaleup X) is a Vodafone-linked scaleup collaboration program f
 
 ## How to Apply
 
-Use the official Tomorrow Street contact or application route to initiate participation in Scaleup X and confirm the current intake process on the live program site.
+- Use the official Tomorrow Street contact or application route to initiate participation in Scaleup X and confirm the current intake process on the live program site.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.tomorrowstreet.co/)

@@ -38,15 +38,15 @@ Enel Open Innovability is an open innovation program run by Enel. It is relevant
 - Sustainability
 - Local-Community Innovation
 
-## Collaboration & Benefits
+## Benefits
 
 - Evaluation by challenge owners, collaboration opportunities, and visibility inside Enel’s innovation ecosystem
 - Official platform gives active submission instructions and says users can submit proposals even when no listed challenge fits.
 
 ## How to Apply
 
-Register, select an open challenge, or submit a new project on the platform. Current status: `Active`.
+- Register, select an open challenge, or submit a new project on the platform. Current status: `Active`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://openinnovability.enel.com/challenges)

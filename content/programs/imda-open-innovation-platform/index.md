@@ -1,4 +1,5 @@
 ---
+featureLogo: true
 title: IMDA Open Innovation Platform
 date: 2026-06-08
 draft: false
@@ -38,15 +39,15 @@ IMDA Open Innovation Platform is an open innovation program run by IMDA Singapor
 - Prototype Development
 - Commercial Pilots
 
-## Collaboration & Benefits
+## Benefits
 
 - Opportunity to compete on a level playing field and work on challenge-owner problems
 - Official search snippet says users can submit proposals in the quarterly OIP challenge. The live page rendered poorly in this crawl, so the status is based on the official snippet.
 
 ## How to Apply
 
-Submit proposals in OIP quarterly challenges. Current status: `Active`.
+- Submit proposals in OIP quarterly challenges. Current status: `Active`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.openinnovation.sg)

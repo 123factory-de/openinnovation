@@ -19,6 +19,12 @@ eligibility:
 status: Always Open
 summary: Bayer Open Innovation and Collaboration is an open innovation program run
   by Bayer focused on Health, Agriculture, Nutrition.
+resources:
+- src: feature.svg
+  title: Bayer Open Innovation and Collaboration
+  params:
+    source: https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Bayer.svg
+    sourceLabel: Bayer official image
 ---
 
 ## Overview
@@ -33,15 +39,15 @@ Bayer Open Innovation and Collaboration is an open innovation program run by Bay
 - Strategic Alliances
 - Venture Investment
 
-## Collaboration & Benefits
+## Benefits
 
 - Scientific partnerships, investment pathways, incubation, mentoring, and access to Bayer collaboration programs
 - Official page says “we invite you to innovate with us,” lists ongoing collaboration vehicles, and exposes a live “Get in Touch” global form, so this is treated as an evergreen collaboration entry point rather than a dated challenge call.
 
 ## How to Apply
 
-Use Bayer’s open innovation page, collaboration network links, and Global Form contact route to initiate collaboration. Current status: `Always Open`.
+- Use Bayer’s open innovation page, collaboration network links, and Global Form contact route to initiate collaboration. Current status: `Always Open`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.bayer.com/en/innovation/open-innovation-and-collaboration)

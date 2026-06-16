@@ -39,15 +39,15 @@ Hyundai Innovation Challenge 2026 is an open innovation program run by Hyundai M
 - Factory Optimization
 - Industrial Edge AI
 
-## Collaboration & Benefits
+## Benefits
 
 - PoC co-development with Hyundai Motor India Limited, testing and validation with Hyundai Motor India Engineering, expert guidance, PoC grants, market exposure, and potential follow-on investment
 - Official page explicitly says “Applications are open, Apply now!” and describes a six-month startup collaboration program with Hyundai entities in India.
 
 ## How to Apply
 
-Apply through the official Hyundai Innovation Challenge 2026 portal. Current status: `Active`.
+- Apply through the official Hyundai Innovation Challenge 2026 portal. Current status: `Active`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://hyundaiinnovationchallenge.com)

@@ -36,15 +36,15 @@ Corbion Open Innovation is an open innovation program run by Corbion. It is rele
 - Biopolymers
 - Sustainability
 
-## Collaboration & Benefits
+## Benefits
 
 - Collaboration with Corbion teams and access to a direct contact route for open innovation topics
 - Official page says Corbion is constantly on the lookout for opportunities to create value through collaboration and open innovation.
 
 ## How to Apply
 
-Use the open innovation contact form and area-of-interest routing on Corbion’s page. Current status: `Always Open`.
+- Use the open innovation contact form and area-of-interest routing on Corbion’s page. Current status: `Always Open`.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.corbion.com/innovation/open-innovation)

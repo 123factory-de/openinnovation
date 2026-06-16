@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "hubraum is Deutsche Telekom’s active startup platform for early-stage tech teams working on 5G, AI, IoT, XR, and telecom-linked API opportunities."
+resources:
+- src: feature.svg
+  title: hubraum
+  params:
+    source: https://www.hubraum.com/wp-content/uploads/2026/01/hubraum-logo.svg
+    sourceLabel: Deutsche Telekom official image
 ---
 
 ## Overview
@@ -30,7 +36,7 @@ hubraum is Deutsche Telekom's startup program for early-stage technology teams, 
 - XR
 - Magenta Business APIs
 
-## Collaboration & Benefits
+## Benefits
 
 - Seed financing
 - Mentoring and workspace access
@@ -38,8 +44,8 @@ hubraum is Deutsche Telekom's startup program for early-stage technology teams, 
 
 ## How to Apply
 
-Apply through the official hubraum site when relevant calls are open, or use the program's startup submission route where available.
+- Apply through the official hubraum site when relevant calls are open, or use the program's startup submission route where available.
 
-## Sources
+## Official Page
 
 - [Official program page](https://www.hubraum.com/)

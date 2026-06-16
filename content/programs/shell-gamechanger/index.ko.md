@@ -43,7 +43,7 @@ Shell GameChanger는 Shell이 미래 에너지와 탈탄소화 분야의 초기 
 
 ## How to Apply
 
-- Shell GameChanger 포털을 통해 언제든 솔루션을 제출합니다. 리포트 기준으로 별도 마감일은 확인되지 않았으며, 프로그램 상태는 `Always Open`입니다.
+- Shell GameChanger 포털을 통해 언제든 솔루션을 제출합니다. 별도의 마감일 없이 상시 지원할 수 있습니다.
 
 ## Sources
 

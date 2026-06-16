@@ -46,7 +46,7 @@ Bosch Corporate Innovation Gateway는 Bosch가 스타트업, 대학, 대기업, 
 
 ## How to Apply
 
-- Bosch Corporate Innovation Gateway에서 관심 분야를 확인하고 협업 제안을 제출합니다. 리포트 기준으로 별도 마감일은 확인되지 않았으며, 프로그램 상태는 `Always Open`입니다.
+- Bosch Corporate Innovation Gateway에서 관심 분야를 확인하고 협업 제안을 제출합니다. 별도의 마감일 없이 상시 지원할 수 있습니다.
 
 ## Sources
 

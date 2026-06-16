@@ -42,7 +42,7 @@ Singapore Open Innovation Network는 싱가포르 정부 및 기업의 과제를
 
 ## How to Apply
 
-- Open Innovation Network에 게시된 혁신 챌린지를 확인하고 솔루션 제공자로 참여합니다. 리포트 기준 마감일은 과제별로 다릅니다.
+- Open Innovation Network에 게시된 혁신 챌린지를 확인하고 솔루션 제공자로 참여합니다. 마감일은 과제별로 다릅니다.
 
 ## Sources
 

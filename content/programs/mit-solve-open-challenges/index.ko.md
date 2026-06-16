@@ -46,7 +46,7 @@ MIT Solve Open Challenges는 전 세계 혁신가와 팀이 사회적 문제를 
 
 ## How to Apply
 
-- MIT Solve의 공개 또는 예정 챌린지를 통해 지원합니다. 리포트 기준 상태는 `Unknown`이며, 연례 Global Challenges는 일반적으로 정해진 신청 기간에 접수됩니다.
+- MIT Solve의 공개 또는 예정 챌린지를 통해 지원합니다. 상시 신청 창구는 명확하지 않으나, 연례 Global Challenges는 보통 정해진 신청 기간에 접수됩니다.
 
 ## Sources
 

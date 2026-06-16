@@ -36,7 +36,7 @@
     .programs-list-count {
       color: #64748b;
       font-size: 0.9rem;
-      margin: -0.5rem 0 1.25rem;
+      margin: 0.5rem 0 1.25rem;
     }
 
     .dark .programs-list-count {
@@ -263,7 +263,6 @@
       border: 1px solid #e2e8f0;
       border-radius: 999px;
       color: #334155;
-      cursor: pointer;
       font-size: 0.75rem;
       line-height: 1;
       padding: 0.4rem 0.55rem;
@@ -313,18 +312,42 @@
     }
 
     .oi-card-source {
-      color: #94a3b8;
-      font-size: 0.85rem;
-      font-weight: 700;
+      align-items: center;
+      background: #ffffff;
+      border: 1px solid #cbd5e1;
+      border-radius: 999px;
+      color: #334155;
+      display: inline-flex;
+      font-size: 0.8rem;
+      font-weight: 800;
+      gap: 0.35rem;
+      line-height: 1;
+      padding: 0.45rem 0.65rem;
       text-decoration: none;
     }
 
     .oi-card-source:hover {
-      color: #0284c7;
+      background: #e0f2fe;
+      border-color: #7dd3fc;
+      color: #075985;
+      text-decoration: none;
     }
 
     .dark .oi-card-source:hover {
-      color: #38bdf8;
+      background: rgba(14, 165, 233, 0.18);
+      border-color: rgba(125, 211, 252, 0.45);
+      color: #bae6fd;
+    }
+
+    .dark .oi-card-source {
+      background: rgba(15, 23, 42, 0.36);
+      border-color: rgba(148, 163, 184, 0.24);
+      color: #e2e8f0;
+    }
+
+    .oi-card-source::after {
+      content: "↗";
+      font-size: 0.78rem;
     }
   </style>
 

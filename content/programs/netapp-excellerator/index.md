@@ -40,6 +40,3 @@ NetApp Excellerator is NetApp's B2B startup accelerator program supporting early
 
 - Review cohort timelines and eligibility on the official NetApp Excellerator page and apply through the channel listed there.
 
-## Official Page
-
-- [Official program page](https://startup.netapp.in/)

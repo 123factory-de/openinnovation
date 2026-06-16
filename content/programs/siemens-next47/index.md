@@ -3,7 +3,7 @@ title: "Next47"
 date: 2026-06-16
 draft: false
 company: "Siemens"
-industry: "Cross-Industry"
+industry: "Manufacturing"
 externalUrl: "https://next47.com/"
 focusAreas:
   - "Industrial Technology"
@@ -40,6 +40,3 @@ Next47 is an independent global venture firm backed by Siemens. It invests in gr
 
 - Founders can learn about Next47's investment focus and contact the team through the official Next47 page.
 
-## Official Page
-
-- [Official program page](https://next47.com/)

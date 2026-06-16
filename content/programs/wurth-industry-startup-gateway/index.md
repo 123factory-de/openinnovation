@@ -39,6 +39,3 @@ Wurth Industry Start-up Gateway is a program from Wurth Industry that engages st
 
 - Startups can explore collaboration and proof-of-concept opportunities through the official Wurth Industry Start-up Gateway page.
 
-## Official Page
-
-- [Official program page](https://www.wuerth-industrie.com/web/de/wuerthindustrie/ueberuns/startups/startups.php)

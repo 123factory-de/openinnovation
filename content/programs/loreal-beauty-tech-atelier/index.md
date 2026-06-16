@@ -39,6 +39,3 @@ The L'Oreal Beauty Tech Atelier is L'Oreal's open innovation program that partne
 
 - Review eligibility and submission details on the official L'Oreal Open Innovation program page and follow the application route provided there.
 
-## Official Page
-
-- [Official program page](https://www.loreal.com/en/beauty-science-and-technology/l-oreal-open-innovation/l-oreal-innovation-program/)

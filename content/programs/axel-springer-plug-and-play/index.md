@@ -4,7 +4,7 @@ title: "Axel Springer Plug and Play"
 date: 2026-06-16
 draft: false
 company: "Axel Springer"
-industry: "Cross-Industry"
+industry: "ICT"
 externalUrl: "https://www.plugandplaytechcenter.com/innovation-services/startups/accelerator-programs"
 focusAreas:
   - "Digital and Media Tech"
@@ -40,6 +40,3 @@ Axel Springer Plug and Play is an accelerator program run jointly by Axel Spring
 
 - Review the accelerator details and apply through the official Plug and Play program page.
 
-## Official Page
-
-- [Official program page](https://www.plugandplaytechcenter.com/innovation-services/startups/accelerator-programs)

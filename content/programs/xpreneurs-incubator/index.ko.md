@@ -3,7 +3,7 @@ title: "XPRENEURS Incubator"
 date: 2026-06-16
 draft: false
 company: "UnternehmerTUM"
-industry: "범산업"
+industry: "다분야"
 externalUrl: "https://www.unternehmertum.de/angebot/xpreneurs"
 focusAreas:
   - "딥테크"
@@ -38,6 +38,3 @@ XPRENEURS는 유럽 최고의 혁신·창업 센터 중 하나인 UnternehmerTUM
 
 - UnternehmerTUM XPRENEURS 공식 페이지에서 프로그램 일정과 지원 세부 사항을 확인하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.unternehmertum.de/angebot/xpreneurs)

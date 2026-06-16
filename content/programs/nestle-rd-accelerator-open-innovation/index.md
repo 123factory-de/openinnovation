@@ -50,6 +50,3 @@ Nestle R+D Accelerator / Open Innovation is an open innovation program run by Ne
 
 - Apply through Nestlé’s R+D Accelerator open challenges and accelerator pathways. Current status: `Active`.
 
-## Official Page
-
-- [Official program page](https://www.nestle.com/about/research-development/open-innovation)

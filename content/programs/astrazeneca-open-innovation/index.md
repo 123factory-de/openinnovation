@@ -46,6 +46,3 @@ AstraZeneca Open Innovation is an open innovation program run by AstraZeneca. It
 
 - Submit collaboration opportunities through the AstraZeneca Open Innovation program. Current status: `Always Open`.
 
-## Official Page
-
-- [Official program page](https://www.openinnovation.astrazeneca.com)

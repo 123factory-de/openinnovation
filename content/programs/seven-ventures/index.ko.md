@@ -40,6 +40,3 @@ SevenVentures는 Commerce & Ventures가 운영하는 ProSiebenSat.1의 미디어
 
 - Commerce & Ventures 사이트의 공식 SevenVentures 페이지에서 세부 정보와 문의 방법을 확인하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.commerceandventures.com/investment-stages/sevenventures)

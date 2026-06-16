@@ -48,6 +48,3 @@ Sony Startup Acceleration Program is Sony Group's platform for developing and ac
 
 - Submit a proposal or use the contact path on the official Sony Startup Acceleration Program site to explore collaboration and program participation.
 
-## Official Page
-
-- [Official program page](https://sony-startup-acceleration-program.com/)

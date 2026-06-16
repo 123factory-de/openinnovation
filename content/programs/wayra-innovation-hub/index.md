@@ -45,6 +45,3 @@ The Wayra Innovation Hub is the open innovation and corporate venturing arm of T
 
 - Review the offer for startups and the application process on the official Wayra page.
 
-## Official Page
-
-- [Official program page](https://www.wayra.de/de/for-startups)

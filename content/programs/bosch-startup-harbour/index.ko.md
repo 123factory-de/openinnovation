@@ -43,6 +43,3 @@ Bosch Startup Harbour는 스타트업을 Bosch 사업부와 연결하여 협업 
 
 - 스타트업은 공식 Bosch Startup Harbour 페이지에서 협업 기회를 살펴보고 솔루션을 제출할 수 있습니다.
 
-## 공식 페이지
-
-- [Official program page](https://www.startup-harbour.com/)

@@ -50,6 +50,3 @@ P&G Connect + Develop is an open innovation program run by P&G. It is relevant f
 
 - Browse current needs and submit an innovation through the Connect + Develop portal. Current status: `Always Open`.
 
-## Official Page
-
-- [Official program page](https://pgconnectdevelop.com)

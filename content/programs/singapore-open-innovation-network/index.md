@@ -45,6 +45,3 @@ Singapore Open Innovation Network is an open innovation program run by Singapore
 
 - Browse ongoing challenges or share challenge statements through the OIN portal. Current status: `Active`.
 
-## Official Page
-
-- [Official program page](https://www.openinnovationnetwork.gov.sg)

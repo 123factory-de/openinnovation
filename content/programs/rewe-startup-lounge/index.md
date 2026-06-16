@@ -39,6 +39,3 @@ Startup Lounge - REWE is a collaboration program from REWE Group that connects s
 
 - Find current opportunities and apply through the official Startup Lounge - REWE page.
 
-## Official Page
-
-- [Official program page](https://innovation.rewe.de/start-up-lounge)

@@ -37,6 +37,3 @@ The Bosch Validation Program is run by Bosch Innovation Consulting to help valid
 
 - Teams can learn about the program scope and engagement model through the official Bosch Innovation Consulting Validation Program page.
 
-## Official Page
-
-- [Official program page](https://www.bosch-innovation-consulting.com/de/unsere-services/validation-program/)

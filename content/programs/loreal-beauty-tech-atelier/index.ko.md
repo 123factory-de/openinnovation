@@ -39,6 +39,3 @@ L'Oreal Beauty Tech Atelier는 스타트업과 외부 혁신가와 협력하는 
 
 - 공식 L'Oreal 오픈 이노베이션 프로그램 페이지에서 지원 자격과 제출 방법을 확인하고 안내된 절차에 따라 지원하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.loreal.com/en/beauty-science-and-technology/l-oreal-open-innovation/l-oreal-innovation-program/)

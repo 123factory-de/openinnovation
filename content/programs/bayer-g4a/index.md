@@ -44,6 +44,3 @@ G4A is Bayer's digital health partnership program. It connects healthtech and di
 
 - Startups can explore current partnership tracks and submit their interest through the official G4A program page.
 
-## Official Page
-
-- [Official program page](https://www.g4a.health/)

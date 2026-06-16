@@ -41,6 +41,3 @@ Open Bosch is an open innovation program run by Bosch Ventures. It is relevant f
 
 - Follow Open Bosch / openbosch.com venture-client contact path. Current status: `Always Open`.
 
-## Official Page
-
-- [Official program page](https://bosch.ventures/open-bosch)

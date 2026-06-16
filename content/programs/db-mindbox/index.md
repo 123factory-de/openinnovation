@@ -3,7 +3,7 @@ title: "DB mindbox"
 date: 2026-06-16
 draft: false
 company: "Deutsche Bahn"
-industry: "Cross-Industry"
+industry: "Mobility"
 externalUrl: "https://www.deutschebahn.com/de/Digitalisierung/startups/dbmindbox-6898904"
 focusAreas:
   - "Mobility Tech"
@@ -39,6 +39,3 @@ DB mindbox is the startup accelerator of Deutsche Bahn. It enables startups to r
 
 - Review current challenges and application details on the official DB mindbox page.
 
-## Official Page
-
-- [Official program page](https://www.deutschebahn.com/de/Digitalisierung/startups/dbmindbox-6898904)

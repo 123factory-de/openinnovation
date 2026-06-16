@@ -45,6 +45,3 @@ Shell GameChanger는 Shell이 미래 에너지와 탈탄소화 분야의 초기 
 
 - Shell GameChanger 포털을 통해 언제든 솔루션을 제출합니다. 별도의 마감일 없이 상시 지원할 수 있습니다.
 
-## 공식 페이지
-
-- [Official program page](https://www.shell.com/what-we-do/technology-and-innovation/innovate-with-shell/shell-gamechanger.html)

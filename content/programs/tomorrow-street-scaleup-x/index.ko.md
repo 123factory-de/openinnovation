@@ -46,6 +46,3 @@ Tomorrow Street의 Scaleup X는 Vodafone Group과 연결된 성장 단계 기술
 
 - 공식 Tomorrow Street 사이트의 지원 또는 문의 경로를 통해 참여 의사를 제출하고, 현재 운영 중인 Scaleup X 절차를 확인합니다.
 
-## 공식 페이지
-
-- [Official program page](https://www.tomorrowstreet.co/)

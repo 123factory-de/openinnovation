@@ -39,6 +39,3 @@ The PreZero Innovation Hub is the open innovation arm of PreZero, the environmen
 
 - Review current challenges and the submission process on the official PreZero Innovation Hub page and apply through the channels provided there.
 
-## Official Page
-
-- [Official program page](https://innovationhub.prezero.com/de/)

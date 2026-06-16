@@ -47,6 +47,3 @@ Startup Autobahn은 Mercedes-Benz를 중심으로 여러 산업 파트너가 함
 
 - 공식 Startup Autobahn 플랫폼에서 현재 열려 있는 프로그램 또는 지역별 콜을 확인한 뒤 지원합니다.
 
-## 공식 페이지
-
-- [Official program page](https://startup-autobahn.com/)

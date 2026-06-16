@@ -39,6 +39,3 @@ SpinLab - The HHL Accelerator is a Leipzig-based accelerator affiliated with the
 
 - Review program details and application timelines on the official SpinLab page.
 
-## Official Page
-
-- [Official program page](https://www.spinlab.co/)

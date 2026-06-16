@@ -39,6 +39,3 @@ The 3DEXPERIENCE Lab is Dassault Systemes' open innovation accelerator that supp
 
 - Review the selection criteria and submission process on the official 3DEXPERIENCE Lab page and apply through the channel listed there.
 
-## Official Page
-
-- [Official program page](https://3dexperiencelab.3ds.com/en/)

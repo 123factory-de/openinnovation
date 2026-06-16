@@ -4,7 +4,7 @@ title: "Singapore Open Innovation Network"
 date: 2026-06-08
 draft: false
 company: "Singapore Government"
-industry: "범산업"
+industry: "다분야"
 externalUrl: "https://www.openinnovationnetwork.gov.sg/"
 focusAreas:
   - "정부 과제"
@@ -45,6 +45,3 @@ Singapore Open Innovation Network는 싱가포르 정부 및 기업의 과제를
 
 - Open Innovation Network에 게시된 혁신 챌린지를 확인하고 솔루션 제공자로 참여합니다. 마감일은 과제별로 다릅니다.
 
-## 공식 페이지
-
-- [Official program page](https://www.openinnovationnetwork.gov.sg/)

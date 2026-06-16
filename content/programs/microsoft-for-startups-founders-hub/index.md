@@ -46,6 +46,3 @@ Microsoft for Startups Founders Hub is Microsoft's evergreen support and enablem
 
 - Apply directly through the official Microsoft for Startups Founders Hub portal and complete the verification steps described on the live site.
 
-## Official Page
-
-- [Official program page](https://startups.microsoft.com/)

@@ -3,7 +3,7 @@ title: "GO! Start-up Zentrum Oldenburg"
 date: 2026-06-16
 draft: false
 company: "TGO Technologie- und Gruenderzentrum Oldenburg"
-industry: "범산업"
+industry: "다분야"
 externalUrl: "https://www.gruenden-oldenburg.de/"
 focusAreas:
   - "창업자 지원"
@@ -45,6 +45,3 @@ GO! Start-up Zentrum Oldenburg은 TGO Technologie- und Gruenderzentrum Oldenburg
 
 - 공식 센터 페이지에서 코칭, 공간, 창업 지원에 대한 세부 정보를 확인하고 문의하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.gruenden-oldenburg.de/)

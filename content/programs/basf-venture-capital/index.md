@@ -40,6 +40,3 @@ BASF Venture Capital is the corporate venture capital company of BASF, one of th
 
 - BASF Venture Capital typically invests after a proof of concept. Review the investment focus and contact details on the official BASF Venture Capital page to start a conversation.
 
-## Official Page
-
-- [Official program page](https://www.basf.com/global/de/who-we-are/organization/group-companies/BASF_Venture-Capital)

@@ -44,6 +44,3 @@ E.ON Innovation Ecosystem은 에너지 기업 E.ON이 스타트업 및 파트너
 
 - E.ON Innovation Ecosystem 공식 페이지에서 제공되는 프로그램과 각 지원 경로를 확인하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.eon.com/de/innovation/innovation-ecosystem.html)

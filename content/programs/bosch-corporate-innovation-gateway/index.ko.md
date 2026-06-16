@@ -48,6 +48,3 @@ Bosch Corporate Innovation Gateway는 Bosch가 스타트업, 대학, 대기업, 
 
 - Bosch Corporate Innovation Gateway에서 관심 분야를 확인하고 협업 제안을 제출합니다. 별도의 마감일 없이 상시 지원할 수 있습니다.
 
-## 공식 페이지
-
-- [Official program page](https://innovate-bosch.com/)

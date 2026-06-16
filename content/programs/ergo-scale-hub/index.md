@@ -40,6 +40,3 @@ The ERGO Scale Hub is the scaling program of ERGO, the primary insurance arm of 
 
 - Review the program details and submission process on the official ERGO Scale Hub page and apply through the channels provided there.
 
-## Official Page
-
-- [Official program page](https://scalehub.ergo.com/)

@@ -3,7 +3,7 @@ title: "Pioneer Lab"
 date: 2026-06-16
 draft: false
 company: "Carl Remigius Fresenius Education Group"
-industry: "범산업"
+industry: "다분야"
 externalUrl: "https://www.pioneerlab.de/"
 focusAreas:
   - "에듀테크"
@@ -39,6 +39,3 @@ Pioneer Lab은 Carl Remigius Fresenius Education Group의 인큐베이터이자 
 
 - 공식 Pioneer Lab 웹사이트에서 자세히 알아보고 참여하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.pioneerlab.de/)

@@ -3,7 +3,7 @@ title: "TUV NORD x Startups"
 date: 2026-06-16
 draft: false
 company: "TUV NORD"
-industry: "Cross-Industry"
+industry: "Manufacturing"
 externalUrl: "https://www.tuev-nord.de/de/startups/homepage/"
 focusAreas:
   - "Testing and Certification"
@@ -45,6 +45,3 @@ TUV NORD x Startups is the startup collaboration program of TUV NORD. It brings 
 
 - Review collaboration details and contact options on the official TUV NORD startups page and reach out through the channel provided there.
 
-## Official Page
-
-- [Official program page](https://www.tuev-nord.de/de/startups/homepage/)

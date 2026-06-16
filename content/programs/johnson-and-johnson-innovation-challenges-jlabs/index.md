@@ -48,6 +48,3 @@ Johnson & Johnson Innovation Challenges / JLABS is an open innovation program ru
 
 - Monitor QuickFire Challenge pages and apply to challenge-specific calls when open. Current status: `Active`.
 
-## Official Page
-
-- [Official program page](https://jnjinnovation.com/innovation-challenges)

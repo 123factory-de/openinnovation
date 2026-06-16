@@ -37,6 +37,3 @@ Robert Bosch Open Innovation Partnerships is Bosch's open innovation platform fo
 
 - Startups can submit their technologies and explore co-innovation pathways through the official Bosch open innovation platform.
 
-## Official Page
-
-- [Official program page](https://innovate-bosch.com/)

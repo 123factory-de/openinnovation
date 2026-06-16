@@ -37,6 +37,3 @@ Robert Bosch Open Innovation Partnerships는 Bosch가 사업 영역 전반에서
 
 - 스타트업은 공식 Bosch 오픈 이노베이션 플랫폼에서 기술을 제출하고 공동 혁신 방안을 살펴볼 수 있습니다.
 
-## 공식 페이지
-
-- [Official program page](https://innovate-bosch.com/)

@@ -41,6 +41,3 @@ Allianz X is the digital investment unit of Allianz, investing in growth-stage c
 
 - Explore investment and partnership opportunities through the official Allianz X site.
 
-## Official Page
-
-- [Official program page](https://allianzx.com/)

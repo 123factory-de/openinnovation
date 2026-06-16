@@ -47,6 +47,3 @@ Startup Autobahn is a corporate open innovation platform founded by Mercedes-Ben
 
 - Apply through the official Startup Autobahn platform and monitor live regional or cohort-specific calls when available.
 
-## Official Page
-
-- [Official program page](https://startup-autobahn.com/)

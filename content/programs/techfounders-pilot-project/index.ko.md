@@ -3,7 +3,7 @@ title: "TechFounders Pilot Project"
 date: 2026-06-16
 draft: false
 company: "TechFounders"
-industry: "범산업"
+industry: "제조"
 externalUrl: "https://techfounders.com/pilot-project-program"
 focusAreas:
   - "기업 파일럿"
@@ -39,6 +39,3 @@ TechFounders Pilot Project는 스타트업을 기업 파트너와 매칭하여 �
 
 - 공식 TechFounders 페이지에서 프로그램과 참여 방법에 대해 자세히 알아보세요.
 
-## 공식 페이지
-
-- [Official program page](https://techfounders.com/pilot-project-program)

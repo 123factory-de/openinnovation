@@ -45,6 +45,3 @@ Startup Lounge - REWE Sued is a collaboration program from REWE Sued that brings
 
 - Find current opportunities and submit through the official Startup Lounge - REWE Sued website.
 
-## Official Page
-
-- [Official program page](https://startuplounge.rewesued.de/)

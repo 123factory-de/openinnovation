@@ -45,6 +45,3 @@ Wayra Innovation Hub는 텔레포니카(O2 Telefonica)의 오픈 이노베이션
 
 - Wayra 공식 페이지에서 스타트업 대상 제공 내용과 지원 절차를 확인하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.wayra.de/de/for-startups)

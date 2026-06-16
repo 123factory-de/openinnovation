@@ -39,6 +39,3 @@ The CUBIC Start Hub Program is part of Buhler Group's CUBIC innovation hub, crea
 
 - Learn more and explore collaboration opportunities through the official CUBIC Start Hub page on the Buhler Group site.
 
-## Official Page
-
-- [Official program page](https://www.buhlergroup.com/global/de/about-us/cubic-start-hub.html)

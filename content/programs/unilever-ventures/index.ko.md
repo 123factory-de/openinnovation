@@ -41,6 +41,3 @@ Unilever Ventures는 Unilever의 벤처캐피털·사모펀드 부문입니다. 
 
 - 공식 Unilever Ventures 페이지에서 투자 분야와 연락처를 확인하고 안내된 채널을 통해 문의하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.unileverventures.com/)

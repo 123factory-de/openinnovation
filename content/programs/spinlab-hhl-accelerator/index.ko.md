@@ -3,7 +3,7 @@ title: "SpinLab - The HHL Accelerator"
 date: 2026-06-16
 draft: false
 company: "HHL Leipzig Graduate School of Management"
-industry: "범산업"
+industry: "다분야"
 externalUrl: "https://www.spinlab.co/"
 focusAreas:
   - "지분 없는 액셀러레이션"
@@ -39,6 +39,3 @@ SpinLab - The HHL Accelerator는 HHL Leipzig Graduate School of Management과 �
 
 - 공식 SpinLab 페이지에서 프로그램 세부 정보와 지원 일정을 확인하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.spinlab.co/)

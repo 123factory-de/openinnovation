@@ -45,6 +45,3 @@ BayStartUP is Bavaria's central startup network, connecting founders with invest
 
 - Explore current competitions, financing rounds, and coaching offers on the official BayStartUP page and follow the application instructions there.
 
-## Official Page
-
-- [Official program page](https://www.baystartup.de/)

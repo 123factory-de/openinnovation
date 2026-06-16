@@ -42,6 +42,3 @@ UnternehmerTUM, affiliated with the Technical University of Munich, is Europe's 
 
 - Explore the available programs and offerings on the official UnternehmerTUM website.
 
-## Official Page
-
-- [Official program page](https://www.unternehmertum.de/angebot)

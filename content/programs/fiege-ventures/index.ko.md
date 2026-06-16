@@ -3,7 +3,7 @@ title: "FIEGE Ventures"
 date: 2026-06-16
 draft: false
 company: "FIEGE"
-industry: "범산업"
+industry: "물류"
 externalUrl: "https://www.fiege.com/de/fiege-ventures"
 focusAreas:
   - "물류"
@@ -39,6 +39,3 @@ FIEGE Ventures는 물류 기업 FIEGE의 벤처 부문으로, F-LOG Ventures 이
 
 - 스타트업과 스케일업은 공식 FIEGE Ventures 페이지를 통해 투자 및 협업 기회에 대해 자세히 알아볼 수 있습니다.
 
-## 공식 페이지
-
-- [Official program page](https://www.fiege.com/de/fiege-ventures)

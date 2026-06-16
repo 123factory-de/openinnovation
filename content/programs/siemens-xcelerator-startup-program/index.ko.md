@@ -39,6 +39,3 @@ Siemens Xcelerator Startup Program은 스타트업을 Siemens Xcelerator 오픈 
 
 - 스타트업은 공식 Siemens Xcelerator 스타트업 솔루션 페이지에서 프로그램을 살펴보고 지원 세부 정보를 확인할 수 있습니다.
 
-## 공식 페이지
-
-- [Official program page](https://www.sw.siemens.com/de-DE/digital-transformation/xcelerator-startup-solutions/)

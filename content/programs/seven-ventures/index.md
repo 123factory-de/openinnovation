@@ -40,6 +40,3 @@ SevenVentures is the media investment arm of ProSiebenSat.1, operated through Co
 
 - Find details and contact options on the official SevenVentures page on the Commerce & Ventures site.
 
-## Official Page
-
-- [Official program page](https://www.commerceandventures.com/investment-stages/sevenventures)

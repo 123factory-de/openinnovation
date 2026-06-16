@@ -39,6 +39,3 @@ Vodafone UPLIFT is a startup collaboration and accelerator program that connects
 
 - Apply and learn more through the official Vodafone UPLIFT page.
 
-## Official Page
-
-- [Official program page](https://www.vodafone.de/business/digitalisierung/uplift/)

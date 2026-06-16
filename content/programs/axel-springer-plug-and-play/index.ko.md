@@ -4,7 +4,7 @@ title: "Axel Springer Plug and Play"
 date: 2026-06-16
 draft: false
 company: "Axel Springer"
-industry: "범산업"
+industry: "ICT"
 externalUrl: "https://www.plugandplaytechcenter.com/innovation-services/startups/accelerator-programs"
 focusAreas:
   - "디지털 및 미디어 테크"
@@ -40,6 +40,3 @@ Axel Springer Plug and Play는 Axel Springer와 Plug and Play가 공동으로 �
 
 - 액셀러레이터 세부 정보를 검토하고 공식 Plug and Play 프로그램 페이지를 통해 지원하세요.
 
-## 공식 페이지
-
-- [Official program page](https://www.plugandplaytechcenter.com/innovation-services/startups/accelerator-programs)

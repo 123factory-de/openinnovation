@@ -1,0 +1,42 @@
+---
+title: "Bosch Start-Up Incubation Program"
+date: 2026-06-16
+draft: false
+company: "Bosch"
+industry: "Manufacturing"
+externalUrl: "https://www.bosch-innovation-consulting.com/de/unsere-services/incubation-program/"
+focusAreas:
+  - "Venture Incubation"
+  - "Idea to Scale"
+  - "Startup Building"
+  - "Innovation Consulting"
+eligibility:
+  - "Startups"
+status: "Active"
+deadline: ""
+summary: "Bosch Innovation Consulting이 운영하는 Bosch Start-Up Incubation Program은 아이디어 단계부터 확장까지 신규 벤처와 스타트업을 지원합니다."
+---
+
+## Overview
+
+Bosch Start-Up Incubation Program은 아이디어 단계부터 확장까지 신규 벤처와 스타트업을 지원하기 위해 Bosch Innovation Consulting이 운영하는 프로그램입니다. 벤처 구축 초기 단계 전반에 걸쳐 체계적인 인큐베이션 가이드를 제공합니다. Bosch의 혁신 전문성을 바탕으로 실질적인 지원을 원하는 스타트업과 벤처 팀을 위한 활발한 경로로 자리매김하고 있습니다.
+
+## Focus Areas
+
+- Venture Incubation
+- Idea to Scale
+- Startup Building
+- Innovation Consulting
+
+## Collaboration & Benefits
+
+- 아이디어에서 확장까지 이어지는 전 과정 인큐베이션 지원
+- 벤처 여정 전반에 걸친 Bosch Innovation Consulting의 가이드와 전문성
+
+## How to Apply
+
+팀은 공식 Bosch Innovation Consulting Incubation Program 페이지에서 인큐베이션 방식과 참여 모델을 확인할 수 있습니다.
+
+## Sources
+
+- [Official program page](https://www.bosch-innovation-consulting.com/de/unsere-services/incubation-program/)

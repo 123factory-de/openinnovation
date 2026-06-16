@@ -1,0 +1,43 @@
+---
+title: "Wurth Industry Start-up Gateway"
+date: 2026-06-16
+draft: false
+company: "Wurth Industry"
+industry: "Manufacturing"
+externalUrl: "https://www.wuerth-industrie.com/web/de/wuerthindustrie/ueberuns/startups/startups.php"
+focusAreas:
+  - "Supply Chain"
+  - "Procurement Innovation"
+  - "Logistics"
+  - "Proof of Concept"
+eligibility:
+  - "Startups"
+status: "Active"
+deadline: ""
+summary: "Wurth Industry Start-up Gateway는 산업, 물류, C-parts 스타트업과 협력하여 공동 개념증명을 통해 공급망 및 조달 혁신을 추진합니다."
+---
+
+## Overview
+
+Wurth Industry Start-up Gateway는 산업, 물류, C-parts 솔루션을 다루는 스타트업과 협력하는 Wurth Industry의 프로그램입니다. 공급망 및 조달 혁신에 중점을 두고 유망 스타트업과 개념증명(PoC) 프로젝트를 진행합니다. 이 프로그램은 창업자를 Wurth Industry의 산업 공급 전문성 및 고객 기반과 연결합니다.
+
+## Focus Areas
+
+- Supply Chain
+- Procurement Innovation
+- Logistics
+- Proof of Concept
+
+## Collaboration & Benefits
+
+- Wurth Industry 팀과의 공동 개념증명 프로젝트
+- 산업 공급망 및 조달 전문성 활용
+- Wurth Industry의 고객 및 물류 네트워크와의 연결
+
+## How to Apply
+
+스타트업은 공식 Wurth Industry Start-up Gateway 페이지를 통해 협업 및 개념증명 기회를 살펴볼 수 있습니다.
+
+## Sources
+
+- [Official program page](https://www.wuerth-industrie.com/web/de/wuerthindustrie/ueberuns/startups/startups.php)

@@ -15,6 +15,12 @@ eligibility:
 status: "Always Open"
 deadline: ""
 summary: "Microsoft for Startups Founders Hub는 초기 B2B 스타트업을 위한 상시 플랫폼으로, 클라우드, AI, 소프트웨어 도구, 멘토링 지원을 제공합니다."
+resources:
+- src: feature.jpg
+  title: Microsoft for Startups Founders Hub
+  params:
+    source: https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/53950-Twitter-Img3-2000x2000
+    sourceLabel: Microsoft official image
 ---
 
 ## Overview

@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "E.ON Innovation Ecosystem은 GenAI Innovation, E.ON Grid Startup Challenge, Free Electrons 등의 프로그램을 통해 에너지, 전력망, AI 솔루션을 확장합니다."
+resources:
+- src: feature.svg
+  title: E.ON Innovation Ecosystem
+  params:
+    source: https://upload.wikimedia.org/wikipedia/commons/6/6a/Logo_E.ON.svg
+    sourceLabel: E.ON official image
 ---
 
 ## Overview

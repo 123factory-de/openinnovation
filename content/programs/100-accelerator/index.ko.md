@@ -17,6 +17,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "100+ Accelerator는 글로벌 소비재 기업들이 함께 운영하는 지속가능성 중심 프로그램으로, 물, 패키징, 기후, 농업, 생물다양성 분야의 스타트업과 스케일업을 찾습니다."
+resources:
+- src: feature.png
+  title: 100+ Accelerator
+  params:
+    source: https://www.100accelerator.com/opengraph-image.png
+    sourceLabel: AB InBev et al. official image
 ---
 
 ## Overview

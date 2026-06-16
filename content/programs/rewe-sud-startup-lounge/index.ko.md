@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Startup Lounge - REWE Sued는 식품, 식료품, 리테일 스타트업을 REWE Sued와 연결하여 매장 내 파일럿과 개념 증명을 진행하는 리테일 협업 프로그램입니다."
+resources:
+- src: feature.svg
+  title: Startup Lounge - REWE Sued
+  params:
+    source: https://startuplounge.rewesued.de/typo3conf/ext/vnr_rewestartup/Resources/Public/img/Start_Up_Lounge_Logo.svg
+    sourceLabel: REWE Sued official image
 ---
 
 ## Overview

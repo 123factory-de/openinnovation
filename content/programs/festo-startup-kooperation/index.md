@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Festo Start-up Kooperation collaborates with startups on automation, robotics, bionics, and industrial technology through joint development and proofs of concept."
+resources:
+- src: feature.svg
+  title: Festo Start-up Kooperation
+  params:
+    source: https://upload.wikimedia.org/wikipedia/commons/8/86/Festo_logo.svg
+    sourceLabel: Festo official image
 ---
 
 ## Overview

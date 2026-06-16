@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "G4A는 Bayer의 디지털 헬스 파트너십 프로그램으로, 헬스테크 스타트업을 Bayer와 연결해 제약 및 컨슈머 헬스 전반에서 파트너십과 공동 개발을 추진합니다."
+resources:
+- src: feature.webp
+  title: G4A
+  params:
+    source: https://g4a.health/
+    sourceLabel: Bayer official image
 ---
 
 ## Overview

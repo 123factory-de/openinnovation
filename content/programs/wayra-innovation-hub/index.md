@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Wayra Innovation Hub is Telefonica's open innovation and corporate venturing arm, helping startups scale with Telefonica as both client and investor."
+resources:
+- src: feature.svg
+  title: Wayra Innovation Hub
+  params:
+    source: https://cdn.prod.website-files.com/69c269c9bfe79bf5d80cd9bd/69c269c9bfe79bf5d80cd9e7_nav-logo.svg
+    sourceLabel: O2 Telefonica official image
 ---
 
 ## Overview

@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Wayra Innovation Hub는 텔레포니카의 오픈 이노베이션·기업 벤처링 조직으로, 텔레포니카가 고객이자 투자자로서 스타트업의 성장을 돕습니다."
+resources:
+- src: feature.svg
+  title: Wayra Innovation Hub
+  params:
+    source: https://cdn.prod.website-files.com/69c269c9bfe79bf5d80cd9bd/69c269c9bfe79bf5d80cd9e7_nav-logo.svg
+    sourceLabel: O2 Telefonica official image
 ---
 
 ## Overview

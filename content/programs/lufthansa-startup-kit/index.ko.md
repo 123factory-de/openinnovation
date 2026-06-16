@@ -14,6 +14,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Lufthansa Group Start-up Kit은 Lufthansa Group 프로그램 포트폴리오의 하나로, 스타트업에게 비즈니스 여행 혜택을 제공합니다."
+resources:
+- src: feature.svg
+  title: Lufthansa Group Start-up Kit
+  params:
+    source: https://upload.wikimedia.org/wikipedia/commons/f/fb/Lufthansa_Group_2025.svg
+    sourceLabel: Deutsche Lufthansa official image
 ---
 
 ## Overview

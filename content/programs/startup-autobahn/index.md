@@ -17,6 +17,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Mercedes-Benz-backed Startup Autobahn connects startups and scaleups with corporate partners for fast validation and PoC work in automotive, production, digital services, sustainability, and software."
+resources:
+- src: feature.jpg
+  title: Startup Autobahn
+  params:
+    source: https://startup-autobahn.com/wp-content/uploads/2019/02/cropped-SA_EXPODAY_5_-66-scaled.jpg
+    sourceLabel: Mercedes-Benz official image
 ---
 
 ## Overview

@@ -17,6 +17,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "A global sustainability-focused accelerator backed by major consumer brands for startups and scaleups piloting solutions in water, packaging, climate, agriculture, and biodiversity."
+resources:
+- src: feature.png
+  title: 100+ Accelerator
+  params:
+    source: https://www.100accelerator.com/opengraph-image.png
+    sourceLabel: AB InBev et al. official image
 ---
 
 ## Overview

@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "TUV NORD x Startups is a collaboration program connecting startups with TUV NORD's expertise in testing, certification, safety, and industrial technology."
+resources:
+- src: feature.svg
+  title: TUV NORD x Startups
+  params:
+    source: https://upload.wikimedia.org/wikipedia/commons/2/22/Tuev-nord.svg
+    sourceLabel: TUV NORD official image
 ---
 
 ## Overview

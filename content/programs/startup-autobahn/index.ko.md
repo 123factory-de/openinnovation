@@ -17,6 +17,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Startup Autobahn은 Mercedes-Benz가 중심이 된 오픈 이노베이션 플랫폼으로, 자동차, 생산, 디지털 서비스, 지속가능성, 소프트웨어 분야 스타트업과 협업합니다."
+resources:
+- src: feature.jpg
+  title: Startup Autobahn
+  params:
+    source: https://startup-autobahn.com/wp-content/uploads/2019/02/cropped-SA_EXPODAY_5_-66-scaled.jpg
+    sourceLabel: Mercedes-Benz official image
 ---
 
 ## Overview

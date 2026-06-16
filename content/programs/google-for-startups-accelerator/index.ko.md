@@ -17,6 +17,12 @@ eligibility:
 status: "Active"
 deadline: "2026-06-30"
 summary: "Google for Startups Accelerator는 AI 중심 초기 스타트업을 위한 액셀러레이터로, 머신러닝, 에너지 전환, 기후 기술, 핀테크 분야의 활성 프로그램을 운영합니다."
+resources:
+- src: feature.webp
+  title: Google for Startups Accelerator
+  params:
+    source: https://www.gstatic.com/marketing-cms/assets/images/e1/e7/0e15fdc14410aa5b524c01fda2b3/unnamed-1.webp
+    sourceLabel: Google official image
 ---
 
 ## Overview

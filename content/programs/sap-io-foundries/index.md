@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "SAP.iO Foundries is SAP's no-equity startup accelerator running in multiple global locations, helping B2B startups integrate with SAP solutions and reach SAP customers."
+resources:
+- src: feature.svg
+  title: SAP.iO Foundries
+  params:
+    source: https://commons.wikimedia.org/wiki/Special:FilePath/SAP_2011_logo.svg
+    sourceLabel: SAP official image
 ---
 
 ## Overview

@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "hubraum is Deutsche Telekom’s active startup platform for early-stage tech teams working on 5G, AI, IoT, XR, and telecom-linked API opportunities."
+resources:
+- src: feature.svg
+  title: hubraum
+  params:
+    source: https://www.hubraum.com/wp-content/uploads/2026/01/hubraum-logo.svg
+    sourceLabel: Deutsche Telekom official image
 ---
 
 ## Overview

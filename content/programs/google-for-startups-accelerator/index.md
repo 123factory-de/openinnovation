@@ -17,6 +17,12 @@ eligibility:
 status: "Active"
 deadline: "2026-06-30"
 summary: "Google for Startups Accelerator runs active AI-first startup programs with regional and thematic calls across machine learning, energy transition, climate tech, and fintech."
+resources:
+- src: feature.webp
+  title: Google for Startups Accelerator
+  params:
+    source: https://www.gstatic.com/marketing-cms/assets/images/e1/e7/0e15fdc14410aa5b524c01fda2b3/unnamed-1.webp
+    sourceLabel: Google official image
 ---
 
 ## Overview

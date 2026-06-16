@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "BayStartUP은 바이에른의 스타트업 네트워크로, 사업계획 경진대회와 투자 라운드를 통해 스타트업과 투자자를 연결하고 코칭을 제공합니다."
+resources:
+- src: feature.svg
+  title: BayStartUP
+  params:
+    source: https://www.baystartup.de/
+    sourceLabel: BayStartUP official image
 ---
 
 ## Overview

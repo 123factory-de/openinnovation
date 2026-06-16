@@ -19,6 +19,12 @@ eligibility:
 status: "Always Open"
 deadline: ""
 summary: "Toyota Open Labs is an always-open collaboration route for startups, scaleups, and SMEs working on mobility, energy, hydrogen, circular economy, and community innovation."
+resources:
+- src: feature.png
+  title: Toyota Open Labs
+  params:
+    source: https://toyotaopenlabs.com/wp-content/uploads/2025/08/preview.png
+    sourceLabel: Toyota Motor Europe official image
 ---
 
 ## Overview

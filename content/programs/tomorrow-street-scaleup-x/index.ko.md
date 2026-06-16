@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Tomorrow Street의 Scaleup X는 Vodafone 생태계와 연계해 IoT, AI, 보안, 디지털 전환 분야의 성장 단계 기술 기업을 지원하는 프로그램입니다."
+resources:
+- src: feature.png
+  title: Tomorrow Street (Scaleup X)
+  params:
+    source: https://cdn.prod.website-files.com/69ca5824bacd8335fcf22e88/69e8a30b2ceb199aa279efa3_new.png
+    sourceLabel: Vodafone Group official image
 ---
 
 ## Overview

@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "SAP BTP Startup Program은 SAP Business Technology Platform 위에서 애플리케이션을 구축하는 스타트업을 지원하며, 클라우드, AI, 분석 통합으로 데이터를 가치로 전환합니다."
+resources:
+- src: feature.svg
+  title: SAP BTP Startup Program
+  params:
+    source: https://commons.wikimedia.org/wiki/Special:FilePath/SAP_2011_logo.svg
+    sourceLabel: SAP official image
 ---
 
 ## Overview

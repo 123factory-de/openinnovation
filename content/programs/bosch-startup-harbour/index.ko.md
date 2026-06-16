@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Bosch Startup Harbour는 스타트업을 Bosch 사업부와 연결해 산업 기술, IoT, 모빌리티 전반에서 협업과 개념 증명(PoC)을 진행합니다."
+resources:
+- src: feature.jpg
+  title: Bosch Startup Harbour
+  params:
+    source: https://www.bosch-business-innovations.com/stories/startupharbour-biu/
+    sourceLabel: Bosch official image
 ---
 
 ## Overview

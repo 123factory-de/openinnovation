@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "G4A is Bayer's digital health partnership program, connecting healthtech startups with Bayer for partnerships and co-development across pharma and consumer health."
+resources:
+- src: feature.webp
+  title: G4A
+  params:
+    source: https://g4a.health/
+    sourceLabel: Bayer official image
 ---
 
 ## Overview

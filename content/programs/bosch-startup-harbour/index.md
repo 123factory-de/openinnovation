@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Bosch Startup Harbour connects startups with Bosch business units for collaboration and proofs of concept across industrial tech, IoT, and mobility."
+resources:
+- src: feature.jpg
+  title: Bosch Startup Harbour
+  params:
+    source: https://www.bosch-business-innovations.com/stories/startupharbour-biu/
+    sourceLabel: Bosch official image
 ---
 
 ## Overview

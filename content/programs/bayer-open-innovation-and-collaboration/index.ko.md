@@ -18,6 +18,12 @@ eligibility:
   - "Alliance Partners"
 status: "Always Open"
 summary: "Bayer Open Innovation and Collaboration은 헬스, 농업, 영양 분야의 전략적 협업과 오픈 이노베이션 가능성을 소개하는 Bayer의 협업 채널입니다."
+resources:
+- src: feature.svg
+  title: Bayer Open Innovation and Collaboration
+  params:
+    source: https://commons.wikimedia.org/wiki/Special:FilePath/Logo_Bayer.svg
+    sourceLabel: Bayer official image
 ---
 
 ## Overview

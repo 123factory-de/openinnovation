@@ -19,6 +19,12 @@ eligibility:
 status: "Always Open"
 deadline: ""
 summary: "Toyota Open Labs는 배터리, 수소, 탄소 저감, 순환경제, 커뮤니티, 모빌리티 분야 스타트업과 중소기업을 위한 Toyota의 상시 협업 플랫폼입니다."
+resources:
+- src: feature.png
+  title: Toyota Open Labs
+  params:
+    source: https://toyotaopenlabs.com/wp-content/uploads/2025/08/preview.png
+    sourceLabel: Toyota Motor Europe official image
 ---
 
 ## Overview

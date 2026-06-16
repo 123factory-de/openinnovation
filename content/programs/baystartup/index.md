@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "BayStartUP is Bavaria's startup network, running business plan competitions and financing rounds that connect startups with investors, plus coaching."
+resources:
+- src: feature.svg
+  title: BayStartUP
+  params:
+    source: https://www.baystartup.de/
+    sourceLabel: BayStartUP official image
 ---
 
 ## Overview

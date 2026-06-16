@@ -17,6 +17,12 @@ eligibility:
 status: "Always Open"
 deadline: ""
 summary: "Sony Startup Acceleration Program은 사내 팀, 외부 스타트업, 파트너를 대상으로 사업화, 프로토타이핑, 검증을 지원하는 Sony의 상시형 프로그램입니다."
+resources:
+- src: feature.png
+  title: Sony Startup Acceleration Program
+  params:
+    source: https://sony-acceleration-platform.com/common/img/share.png
+    sourceLabel: Sony Group official image
 ---
 
 ## Overview

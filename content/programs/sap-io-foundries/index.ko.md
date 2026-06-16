@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "SAP.iO Foundries는 여러 글로벌 거점에서 운영되는 SAP의 무지분 스타트업 액셀러레이터로, B2B 스타트업이 SAP 솔루션과 통합하고 SAP 고객사를 만날 수 있도록 지원합니다."
+resources:
+- src: feature.svg
+  title: SAP.iO Foundries
+  params:
+    source: https://commons.wikimedia.org/wiki/Special:FilePath/SAP_2011_logo.svg
+    sourceLabel: SAP official image
 ---
 
 ## Overview

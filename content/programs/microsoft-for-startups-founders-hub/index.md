@@ -15,6 +15,12 @@ eligibility:
 status: "Always Open"
 deadline: ""
 summary: "Microsoft for Startups Founders Hub is an always-open startup platform offering cloud, AI, tooling, and mentoring support for early-stage B2B software companies."
+resources:
+- src: feature.jpg
+  title: Microsoft for Startups Founders Hub
+  params:
+    source: https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/53950-Twitter-Img3-2000x2000
+    sourceLabel: Microsoft official image
 ---
 
 ## Overview

@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "hubraum은 Deutsche Telekom의 스타트업 프로그램으로, 5G, AI, IoT, XR, API 기반 기술을 다루는 초기 스타트업과 협업합니다."
+resources:
+- src: feature.svg
+  title: hubraum
+  params:
+    source: https://www.hubraum.com/wp-content/uploads/2026/01/hubraum-logo.svg
+    sourceLabel: Deutsche Telekom official image
 ---
 
 ## Overview

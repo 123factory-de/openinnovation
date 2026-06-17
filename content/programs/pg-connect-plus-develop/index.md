@@ -20,7 +20,6 @@ eligibility:
 - Business Partners
 status: Always Open
 summary: "P&G Connect + Develop is an always-open innovation program seeking collaboration with external companies that have innovations in product, packaging, e-commerce, and supply chain."
-  Product Technologies, Packaging, In-Store.
 resources:
 - src: feature.jpg
   title: P&G Connect + Develop

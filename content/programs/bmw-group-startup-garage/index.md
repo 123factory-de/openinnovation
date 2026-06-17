@@ -16,7 +16,6 @@ eligibility:
 - Startups
 status: Always Open
 summary: "BMW Group Startup Garage connects startups worldwide with BMW business units to pilot automotive, production, software, and mobility solutions."
-  on Automotive, Production, Software.
 resources:
 - src: feature.jpeg
   title: BMW Group Startup Garage

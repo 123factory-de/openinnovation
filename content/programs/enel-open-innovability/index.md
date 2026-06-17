@@ -18,7 +18,6 @@ eligibility:
 - Challenge Participants
 status: Active
 summary: "Enel Open Innovability is a global energy open innovation platform seeking solutions in sustainable energy, grid resilience, and local-community innovation."
-  on Energy Systems, Grid Resilience, Sustainability.
 resources:
 - src: feature.png
   title: Enel Open Innovability

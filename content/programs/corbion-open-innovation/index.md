@@ -16,7 +16,6 @@ eligibility:
 - Innovators
 status: Always Open
 summary: "Corbion Open Innovation is a collaboration channel that continuously seeks external technologies and ideas in sustainable bio-ingredients, biochemicals, and biopolymers."
-  on Bio-Ingredients, Biochemicals, Biopolymers.
 resources:
 - src: feature.png
   title: Corbion Open Innovation

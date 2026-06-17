@@ -13,7 +13,6 @@ eligibility:
 - Startups
 status: Always Open
 summary: "Open Bosch is a venture-client unit run by Bosch Ventures that connects the needs of Bosch business units with startup solutions."
-  Venture-Client Partnerships, Startup Solution Testing, Bosch Business-Unit Needs.
 resources:
 - src: feature.png
   title: Open Bosch

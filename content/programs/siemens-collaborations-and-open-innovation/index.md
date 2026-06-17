@@ -19,8 +19,7 @@ eligibility:
 - Technology Enthusiasts
 - Customers
 status: Active
-summary: Siemens Collaborations and Open Innovation is an open innovation program
-  run by Siemens focused on Industrial Software, Digital Transformation, Sustainability.
+summary: "Siemens Collaborations and Open Innovation connects external partnerships and challenges across industrial software, digital transformation, and sustainability."
 resources:
 - src: feature.jpg
   title: Siemens Collaborations and Open Innovation

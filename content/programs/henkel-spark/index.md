@@ -20,7 +20,6 @@ eligibility:
 - Venture Capital Partners
 status: Always Open
 summary: "Henkel Spark is Henkel Consumer Brands' always-open innovation program seeking external technologies and partnerships in laundry, home care, hair, and sustainable ingredients."
-  Hair Technologies, Laundry And Home Care, Sustainable Ingredients.
 resources:
 - src: feature.png
   title: Henkel Spark

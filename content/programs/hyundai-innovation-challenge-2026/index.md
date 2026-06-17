@@ -17,7 +17,6 @@ eligibility:
 - Registered Business Entities
 status: Active
 summary: "Hyundai Innovation Challenge 2026 is a six-month program where Hyundai and startups pursue proof-of-concept and co-development in ADAS, EV, mobility-as-a-service, materials, and manufacturing innovation."
-  Motor Company / HMIL / HMIE focused on ADAS Systems, EV Charging, Mobility-as-a-Service.
 resources:
 - src: feature.png
   title: Hyundai Innovation Challenge 2026

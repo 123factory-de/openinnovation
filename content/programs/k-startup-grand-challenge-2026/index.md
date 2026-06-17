@@ -14,7 +14,6 @@ eligibility:
 - Global Startups
 deadline: '2026-06-17'
 summary: "K-Startup Grand Challenge 2026 is a government-led program supporting foreign startups with Korean market entry, incorporation, proof-of-concept, and corporate partnerships."
-  Ministry of SMEs and Startups focused on Korea Market Entry, PoC, Corporate Partnerships.
 resources:
 - src: feature.png
   title: K-Startup Grand Challenge 2026

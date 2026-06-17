@@ -16,7 +16,6 @@ eligibility:
 - Challenge Solvers
 status: Active
 summary: "Singapore Open Innovation Network is Singapore's official open innovation network connecting government and enterprise challenges with solution providers."
-  Government focused on Government Challenges, Enterprise Challenges, Digitalization.
 resources:
 - src: feature.png
   title: Singapore Open Innovation Network

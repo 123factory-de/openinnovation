@@ -18,7 +18,6 @@ eligibility:
 - Teams
 status: Unknown
 summary: "MIT Solve Open Challenges is a challenge platform recruiting teams with technology-based solutions to social problems across climate, learning, health, and economic prosperity."
-  focused on Climate, Learning, Health.
 resources:
 - src: feature.webp
   title: MIT Solve

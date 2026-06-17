@@ -18,7 +18,6 @@ eligibility:
 - Technology Partners
 status: Always Open
 summary: "Bosch Corporate Innovation Gateway is a global entry point where startups, universities, and enterprises can propose technology collaborations with Bosch business units."
-  focused on Automation, Mobility, Manufacturing Technology.
 resources:
 - src: feature.png
   title: Bosch Corporate Innovation Gateway

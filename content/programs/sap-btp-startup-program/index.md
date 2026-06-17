@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "SAP"
 industry: "ICT"
-externalUrl: "https://sap.io/data-to-value/"
+externalUrl: "https://www.sap.com/products/technology-platform.html"
 focusAreas:
   - "SAP Business Technology Platform"
   - "Data to Value"
@@ -41,5 +41,5 @@ The SAP BTP Startup Program is run by SAP to help startups build and extend appl
 
 ## How to Apply
 
-- Review program details on the official SAP data-to-value program page, which outlines how to get started building on SAP BTP, and apply there.
+- Review program details on the official SAP Business Technology Platform page, which outlines how to get started building on SAP BTP, and apply there.
 

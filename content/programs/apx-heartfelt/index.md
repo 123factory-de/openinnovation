@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "APX"
 industry: "Cross-Industry"
-externalUrl: "https://heartfelt.capital/pitch"
+externalUrl: "https://pitch.heartfelt.vc/"
 focusAreas:
   - "Early-Stage Investment"
   - "Pre-Seed Funding"

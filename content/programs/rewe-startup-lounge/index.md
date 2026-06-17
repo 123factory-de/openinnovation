@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Startup Lounge - REWE is the REWE Group retail collaboration program connecting grocery, retail, and e-commerce startups with REWE for pilots and partnerships."
+resources:
+  - src: "feature.webp"
+    title: "Startup Lounge - REWE"
+    params:
+      source: "https://pimcore.ino.rewe.leonex-projekt.de/_default_upload_bucket/stage-1440.webp"
+      sourceLabel: "REWE official image"
 ---
 
 ## Overview

@@ -5,7 +5,7 @@ date: 2026-06-08
 draft: false
 company: "BMW Group"
 industry: "자동차"
-externalUrl: "https://www.bmwgroup.com/en/innovation/open-innovation/startup-garage.html"
+externalUrl: "https://www.bmwstartupgarage.com/"
 focusAreas:
   - "자동차"
   - "생산"

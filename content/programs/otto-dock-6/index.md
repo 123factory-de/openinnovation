@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "OTTO DOCK 6"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "OTTO DOCK 6 is the venture and innovation arm of e-commerce retailer OTTO, building and investing in commerce and retail tech startups."
+resources:
+  - src: "feature.jpg"
+    title: "OTTO DOCK 6"
+    params:
+      source: "https://www.ottodock6.com/wp-content/uploads/2025/08/OTTO-Dock-6-04634-scaled-e1754557250212.jpg"
+      sourceLabel: "OTTO official image"
 ---
 
 ## Overview

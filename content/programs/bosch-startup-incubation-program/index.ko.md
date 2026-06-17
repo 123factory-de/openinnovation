@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Bosch"
 industry: "제조"
-externalUrl: "https://www.bosch-innovation-consulting.com/de/unsere-services/incubation-program/"
+externalUrl: "https://www.bosch-innovation-consulting.com/de/en/our-services/incubation-program/"
 focusAreas:
   - "벤처 인큐베이션"
   - "아이디어부터 스케일까지"
@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Bosch Innovation Consulting이 운영하는 Bosch Start-Up Incubation Program은 아이디어 단계부터 확장까지 신규 벤처와 스타트업을 지원합니다."
+resources:
+  - src: "feature.jpg"
+    title: "Bosch Start-Up Incubation Program"
+    params:
+      source: "https://www.bosch-innovation-consulting.com/de/images/content/customer.jpg"
+      sourceLabel: "Bosch official image"
 ---
 
 ## 개요

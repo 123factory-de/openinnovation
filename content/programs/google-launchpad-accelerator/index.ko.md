@@ -16,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Google LaunchPad Accelerator는 Google for Developers의 지분 없는 액셀러레이터 프로그램으로, 스타트업의 성장을 위한 기술 멘토링과 리소스를 제공합니다."
+resources:
+  - src: "feature.jpg"
+    title: "Google LaunchPad Accelerator"
+    params:
+      source: "https://developers.google.com/static/community/accelerators/programs/img/deepmind.jpg"
+      sourceLabel: "Google official image"
 ---
 
 ## 개요

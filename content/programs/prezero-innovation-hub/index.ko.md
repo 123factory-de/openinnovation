@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "PreZero Innovation Hub"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "PreZero Innovation Hub는 슈바르츠 그룹 환경 부문의 오픈 이노베이션 프로그램으로, 순환 경제, 재활용, 폐기물 관리 스타트업을 위한 것입니다."
+resources:
+  - src: "feature.jpg"
+    title: "PreZero Innovation Hub"
+    params:
+      source: "https://innovationhub.prezero.com/wp-content/uploads/2023/03/Sortieranlage-Roboterarm.jpg"
+      sourceLabel: "Schwarz Gruppe official image"
 ---
 
 ## 개요

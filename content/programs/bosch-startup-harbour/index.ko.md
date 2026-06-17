@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Bosch"
 industry: "제조"
-externalUrl: "https://www.startup-harbour.com/"
+externalUrl: "https://www.bosch-business-innovations.com/stories/startupharbour-biu/"
 focusAreas:
   - "산업 기술"
   - "IoT"

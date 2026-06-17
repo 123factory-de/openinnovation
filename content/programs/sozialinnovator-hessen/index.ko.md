@@ -17,6 +17,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Sozialinnovator Hessen은 헤센 지역의 임팩트 중심 스타트업과 사회적 기업가를 지원하는 사회 혁신 프로그램입니다."
+resources:
+  - src: "feature.jpg"
+    title: "Sozialinnovator Hessen"
+    params:
+      source: "https://www.send-ev.de/wp-content/uploads/2021/03/@2xGroup-3.jpg"
+      sourceLabel: "Social Entrepreneurship Netzwerk Deutschland official image"
 ---
 
 ## 개요

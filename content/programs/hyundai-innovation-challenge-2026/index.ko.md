@@ -15,7 +15,8 @@ focusAreas:
 eligibility:
   - "스타트업"
   - "등록된 사업체"
-status: "운영 중"
+status: ""
+deadline: "2026-06-30"
 summary: "Hyundai Innovation Challenge 2026은 현대와 스타트업이 ADAS, EV, 서비스형 모빌리티(MaaS), 소재, 제조 혁신 분야에서 개념증명과 공동개발을 추진하는 6개월 프로그램입니다."
 resources:
   - src: "feature.png"

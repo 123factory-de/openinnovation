@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Pioneer Lab은 Carl Remigius Fresenius Education Group의 인큐베이터로, 코칭과 리소스를 통해 에듀테크 및 보건 교육 분야의 창업자를 지원합니다."
+resources:
+  - src: "feature.jpg"
+    title: "Pioneer Lab"
+    params:
+      source: "https://www.pioneerlab.de/wp-content/uploads/web10startseiteneu.jpg"
+      sourceLabel: "Carl Remigius Fresenius Education Group official image"
 ---
 
 ## 개요

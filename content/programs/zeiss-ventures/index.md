@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "ZEISS Ventures is the corporate venture arm of ZEISS, making strategic investments and building partnerships with startups in optics, photonics, medical, semiconductor, and deep-tech fields."
+resources:
+  - src: "feature.png"
+    title: "ZEISS Ventures"
+    params:
+      source: "https://www.zeiss.de/content/dam/cco/reference-master/about-us/future/new-business/venture/images/microoptics-portfolio.png"
+      sourceLabel: "ZEISS official image"
 ---
 
 ## Overview

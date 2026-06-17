@@ -6,7 +6,7 @@ date: 2026-06-16
 draft: false
 company: "REHAU"
 industry: "Manufacturing"
-externalUrl: "https://www.rehau-newventures.com/en-en"
+externalUrl: "https://www.rehau-newventures.com/"
 focusAreas:
   - "Polymer and Materials"
   - "Construction"

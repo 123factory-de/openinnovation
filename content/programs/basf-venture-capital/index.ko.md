@@ -17,6 +17,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "BASF Venture Capital은 화학, 첨단 소재, 지속가능성, 디지털화 분야의 스타트업에 투자하는 BASF의 기업형 벤처 투자 조직입니다."
+resources:
+  - src: "feature.jpg"
+    title: "BASF Venture Capital"
+    params:
+      source: "https://www.basf.com/api/imaging/focalarea/16x9/800x/dam/jcr%3A02acd74c-6913-4bc0-bf18-70f65ceeb244/basf%20venture%20capital%20main.png?vid=eolXVpyRlaY.Pk0wfyT.0PNyRDbogNxV"
+      sourceLabel: "BASF official image"
 ---
 
 ## 개요

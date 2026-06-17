@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Holcim MAQER Ventures는 지속 가능한 건설과 건축 자재 분야의 스타트업과 협력해 사업부와 함께 개념증명을 진행하는 Holcim의 오픈 이노베이션·기업 벤처링 조직입니다."
+resources:
+  - src: "feature.webp"
+    title: "Holcim MAQER Ventures"
+    params:
+      source: "https://www.holcim.com/sites/holcim/files/styles/large/public/2023-09/holcim_2021_hilo_18_isocv2.jpg.webp?itok=t2hqAOx7"
+      sourceLabel: "Holcim official image"
 ---
 
 ## 개요

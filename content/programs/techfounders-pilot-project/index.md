@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "TechFounders"
 industry: "Manufacturing"
-externalUrl: "https://techfounders.com/pilot-project-program"
+externalUrl: "https://techfounders.com/"
 focusAreas:
   - "Corporate Pilots"
   - "Proof of Concept"

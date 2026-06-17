@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Robert Bosch Open Innovation Partnerships is Bosch's open innovation platform for technology scouting and co-innovation with startups across Bosch domains."
+resources:
+  - src: "feature.png"
+    title: "Robert Bosch Open Innovation Partnerships"
+    params:
+      source: "https://innovate-bosch.com/media/images/content/sec1_new_small.png"
+      sourceLabel: "Bosch official image"
 ---
 
 ## Overview

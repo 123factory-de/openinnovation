@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Siemens"
 industry: "Manufacturing"
-externalUrl: "https://next47.com/"
+externalUrl: "https://www.n47.com/"
 focusAreas:
   - "Industrial Technology"
   - "B2B Software"

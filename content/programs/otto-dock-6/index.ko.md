@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "OTTO DOCK 6"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "OTTO DOCK 6은 이커머스 리테일 기업 OTTO의 벤처·혁신 조직으로, 커머스 및 리테일 테크 스타트업을 구축하고 투자합니다."
+resources:
+  - src: "feature.jpg"
+    title: "OTTO DOCK 6"
+    params:
+      source: "https://www.ottodock6.com/wp-content/uploads/2025/08/OTTO-Dock-6-04634-scaled-e1754557250212.jpg"
+      sourceLabel: "OTTO official image"
 ---
 
 ## 개요

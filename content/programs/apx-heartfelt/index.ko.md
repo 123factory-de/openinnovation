@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "APX"
 industry: "다분야"
-externalUrl: "https://heartfelt.capital/pitch"
+externalUrl: "https://pitch.heartfelt.vc/"
 focusAreas:
   - "초기 단계 투자"
   - "프리시드 투자"

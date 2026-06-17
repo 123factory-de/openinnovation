@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "ERGO Scale Hub"
 date: 2026-06-16
 draft: false
@@ -17,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "ERGO Scale Hub is the insurtech scaling program of ERGO that runs proofs of concept and partnerships between startups and ERGO business units."
+resources:
+  - src: "feature.png"
+    title: "ERGO Scale Hub"
+    params:
+      source: "https://scalehub.ergo.com/sites/default/files/2026-05/Hero-image.png"
+      sourceLabel: "ERGO (Munich Re) official image"
 ---
 
 ## Overview

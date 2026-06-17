@@ -17,6 +17,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "UnternehmerTUM은 유럽 최대의 창업 및 혁신 센터로, 뮌헨공과대학교를 기반으로 인큐베이션, 벤처 지원, 기업 혁신 프로그램을 제공합니다."
+resources:
+  - src: "feature.jpg"
+    title: "UnternehmerTUM"
+    params:
+      source: "https://ut-um.transforms.svdcdn.com/production/media/images/about/unternehmertum-about.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1588231458&s=28fa3b747633217993128ddeab4bf86b"
+      sourceLabel: "UnternehmerTUM official image"
 ---
 
 ## 개요

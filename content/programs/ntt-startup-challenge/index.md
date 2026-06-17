@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "NTT Startup Challenge is a global incubation and startup challenge focused on ICT, telecom, and digital innovation in collaboration with the NTT group."
+resources:
+  - src: "feature.webp"
+    title: "NTT Startup Challenge"
+    params:
+      source: "https://www.ntt-startupchallenge.com/info-session/final-day-ntt-startup-challange-day.webp"
+      sourceLabel: "NTT official image"
 ---
 
 ## Overview

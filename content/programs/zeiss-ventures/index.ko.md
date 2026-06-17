@@ -16,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "ZEISS Ventures는 ZEISS의 기업형 벤처 부문으로, 광학, 포토닉스, 의료, 반도체, 딥테크 분야 스타트업에 전략적 투자를 하고 파트너십을 구축합니다."
+resources:
+  - src: "feature.png"
+    title: "ZEISS Ventures"
+    params:
+      source: "https://www.zeiss.de/content/dam/cco/reference-master/about-us/future/new-business/venture/images/microoptics-portfolio.png"
+      sourceLabel: "ZEISS official image"
 ---
 
 ## 개요

@@ -17,6 +17,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Sozialinnovator Hessen is a social innovation program supporting impact-driven startups and social entrepreneurs in the Hessen region."
+resources:
+  - src: "feature.jpg"
+    title: "Sozialinnovator Hessen"
+    params:
+      source: "https://www.send-ev.de/wp-content/uploads/2021/03/@2xGroup-3.jpg"
+      sourceLabel: "Social Entrepreneurship Netzwerk Deutschland official image"
 ---
 
 ## Overview

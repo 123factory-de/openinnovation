@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "TechFounders"
 industry: "제조"
-externalUrl: "https://techfounders.com/pilot-project-program"
+externalUrl: "https://techfounders.com/"
 focusAreas:
   - "기업 파일럿"
   - "개념증명"

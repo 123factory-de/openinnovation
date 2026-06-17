@@ -5,7 +5,7 @@ date: 2026-06-16
 draft: false
 company: "Bayer"
 industry: "Healthcare"
-externalUrl: "https://www.g4a.health/"
+externalUrl: "https://g4a.health/"
 focusAreas:
   - "Digital Health"
   - "Healthtech"

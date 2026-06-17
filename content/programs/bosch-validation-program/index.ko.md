@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Bosch"
 industry: "제조"
-externalUrl: "https://www.bosch-innovation-consulting.com/de/unsere-services/validation-program/"
+externalUrl: "https://www.bosch-innovation-consulting.com/de/en/our-services/validation-program/"
 focusAreas:
   - "사업 검증"
   - "시장 검증"
@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Bosch Innovation Consulting이 운영하는 Bosch Validation Program은 시장 검증과 인큐베이션 지원을 통해 비즈니스 아이디어와 벤처를 검증하도록 돕습니다."
+resources:
+  - src: "feature.png"
+    title: "Bosch Validation Program"
+    params:
+      source: "https://www.bosch-innovation-consulting.com/de/images/content/design-ohne-titel-(23).png"
+      sourceLabel: "Bosch official image"
 ---
 
 ## 개요

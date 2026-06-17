@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Lufthansa Innovation Hub is Deutsche Lufthansa's digital innovation unit focused on travel and mobility technology, venture building, and partnerships with travel-tech startups."
+resources:
+  - src: "feature.jpg"
+    title: "Lufthansa Innovation Hub"
+    params:
+      source: "https://lh-innovationhub.de/wp-content/uploads/2026/02/Lufthansa_Innovation_Hub.jpg"
+      sourceLabel: "Deutsche Lufthansa official image"
 ---
 
 ## Overview

@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Bayer Co.Lab is Bayer's life-science incubator offering lab space and mentorship to biotech and healthtech startups across locations including Co.Lab Berlin."
+resources:
+  - src: "feature.jpg"
+    title: "Bayer Co.Lab"
+    params:
+      source: "https://skipsolabs-bayer.s3.eu-west-1.amazonaws.com/frontend/CoLab_all_4_Locations_on-scree_Logo_100dpi_RGB.jpg"
+      sourceLabel: "Bayer official image"
 ---
 
 ## Overview

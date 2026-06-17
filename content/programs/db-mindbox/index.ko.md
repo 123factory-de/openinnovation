@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Deutsche Bahn"
 industry: "모빌리티"
-externalUrl: "https://www.deutschebahn.com/de/Digitalisierung/startups/dbmindbox-6898904"
+externalUrl: "https://www.deutschebahn.com/en/Digitalization/startups/dbmindbox-6935420"
 focusAreas:
   - "모빌리티 기술"
   - "철도 및 물류"
@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "DB mindbox는 Deutsche Bahn의 스타트업 액셀러레이터로, 철도, 모빌리티, 물류 기술 분야에서 DB 사업부와 함께 자금이 지원되는 개념증명 파일럿을 진행합니다."
+resources:
+  - src: "feature.jpg"
+    title: "DB mindbox"
+    params:
+      source: "https://www.deutschebahn.com/resource/image/6953530/16:9/1200/630/dc979af8a915ab11004af1be13176200/78D7F4FC7775811EC7A91424433CAFE5/B9H1B500_Header.jpg"
+      sourceLabel: "Deutsche Bahn official image"
 ---
 
 ## 개요

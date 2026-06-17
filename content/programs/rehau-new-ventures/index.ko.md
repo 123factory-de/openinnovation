@@ -6,7 +6,7 @@ date: 2026-06-16
 draft: false
 company: "REHAU"
 industry: "제조"
-externalUrl: "https://www.rehau-newventures.com/en-en"
+externalUrl: "https://www.rehau-newventures.com/"
 focusAreas:
   - "폴리머 및 소재"
   - "건설"

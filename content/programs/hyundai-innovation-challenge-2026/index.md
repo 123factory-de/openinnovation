@@ -15,7 +15,8 @@ focusAreas:
 eligibility:
 - Startups
 - Registered Business Entities
-status: Active
+status: ""
+deadline: "2026-06-30"
 summary: "Hyundai Innovation Challenge 2026 is a six-month program where Hyundai and startups pursue proof-of-concept and co-development in ADAS, EV, mobility-as-a-service, materials, and manufacturing innovation."
 resources:
 - src: feature.png

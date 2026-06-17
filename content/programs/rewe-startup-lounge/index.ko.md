@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Startup Lounge - REWE는 식료품, 리테일, 이커머스 스타트업을 REWE와 연결하여 파일럿과 파트너십을 진행하는 REWE 그룹의 리테일 협업 프로그램입니다."
+resources:
+  - src: "feature.webp"
+    title: "Startup Lounge - REWE"
+    params:
+      source: "https://pimcore.ino.rewe.leonex-projekt.de/_default_upload_bucket/stage-1440.webp"
+      sourceLabel: "REWE official image"
 ---
 
 ## 개요

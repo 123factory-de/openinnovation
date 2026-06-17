@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "ERGO Scale Hub"
 date: 2026-06-16
 draft: false
@@ -17,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "ERGO Scale Hub는 ERGO의 인슈어테크 스케일링 프로그램으로, 스타트업과 ERGO 사업부 간의 개념증명과 파트너십을 운영합니다."
+resources:
+  - src: "feature.png"
+    title: "ERGO Scale Hub"
+    params:
+      source: "https://scalehub.ergo.com/sites/default/files/2026-05/Hero-image.png"
+      sourceLabel: "ERGO (Munich Re) official image"
 ---
 
 ## 개요

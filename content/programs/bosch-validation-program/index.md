@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Bosch"
 industry: "Manufacturing"
-externalUrl: "https://www.bosch-innovation-consulting.com/de/unsere-services/validation-program/"
+externalUrl: "https://www.bosch-innovation-consulting.com/de/en/our-services/validation-program/"
 focusAreas:
   - "Business Validation"
   - "Market Validation"
@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "The Bosch Validation Program, run by Bosch Innovation Consulting, helps validate business ideas and ventures through market validation and incubation support."
+resources:
+  - src: "feature.png"
+    title: "Bosch Validation Program"
+    params:
+      source: "https://www.bosch-innovation-consulting.com/de/images/content/design-ohne-titel-(23).png"
+      sourceLabel: "Bosch official image"
 ---
 
 ## Overview

@@ -16,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "FIEGE Ventures는 물류 기업 FIEGE의 벤처 부문으로, F-LOG Ventures를 포함하며 물류 및 공급망 기술 기업에 투자하고 협력합니다."
+resources:
+  - src: "feature.jpg"
+    title: "FIEGE Ventures"
+    params:
+      source: "https://www.fiege.com/sites/default/files/styles/open_graph/public/2022-09/venture-general-fiege.jpg?itok=mJMED76l"
+      sourceLabel: "FIEGE official image"
 ---
 
 ## 개요

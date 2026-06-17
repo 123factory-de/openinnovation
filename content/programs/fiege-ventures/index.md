@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "FIEGE Ventures is the venture arm of logistics provider FIEGE, including F-LOG Ventures, investing in and collaborating with logistics and supply-chain tech companies."
+resources:
+  - src: "feature.jpg"
+    title: "FIEGE Ventures"
+    params:
+      source: "https://www.fiege.com/sites/default/files/styles/open_graph/public/2022-09/venture-general-fiege.jpg?itok=mJMED76l"
+      sourceLabel: "FIEGE official image"
 ---
 
 ## Overview

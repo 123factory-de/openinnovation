@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Siemens Xcelerator Startup Program connects startups to the Siemens Xcelerator marketplace, supporting digital transformation through software, IoT, and ecosystem partnerships."
+resources:
+  - src: "feature.jpg"
+    title: "Siemens Xcelerator Startup Program"
+    params:
+      source: "https://images.sw.cdn.siemens.com/siemens-disw-assets/public/1w4nO3PhKEDJMXteXSfqUs/en-US/siem-xcel-31891-og-1200x630.jpg?auto=format%2Ccompress&w=1200&h=630&fit=crop&crop=faces%2Cedges&q=60"
+      sourceLabel: "Siemens official image"
 ---
 
 ## Overview

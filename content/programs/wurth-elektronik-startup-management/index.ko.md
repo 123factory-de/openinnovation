@@ -16,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Wurth Elektronik Start-up Management는 전자 부품, 하드웨어 개발 지원, 파트너십 기회를 통해 스타트업을 지원합니다."
+resources:
+  - src: "feature.jpg"
+    title: "Wurth Elektronik Start-up Management"
+    params:
+      source: "https://www.we-online.com/apps/services/image.cfm?source=jpg1/_dsc3161-12.jpg"
+      sourceLabel: "Wurth Elektronik official image"
 ---
 
 ## 개요

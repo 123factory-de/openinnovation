@@ -38,5 +38,5 @@ Google LaunchPad is a Google program that supports founders and startups as they
 
 ## How to Apply
 
-- Founders can learn about eligibility and current opportunities on the official Google LaunchPad page and follow the listed application steps.
+- Learn about eligibility and current opportunities on the official Google LaunchPad page and follow the listed application steps.
 

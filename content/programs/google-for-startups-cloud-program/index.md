@@ -38,5 +38,5 @@ Google for Startups Cloud Program helps startups build and grow on Google Cloud.
 
 ## How to Apply
 
-- Startups can review the program tiers and eligibility on the official Google for Startups Cloud Program page and apply directly through the portal.
+- Review the program tiers and eligibility on the official Google for Startups Cloud Program page and apply directly through the portal.
 

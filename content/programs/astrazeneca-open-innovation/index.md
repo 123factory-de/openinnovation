@@ -15,7 +15,7 @@ eligibility:
 - External Scientists
 - Researchers
 status: Always Open
-summary: AstraZeneca Open Innovation is an open innovation program run by AstraZeneca
+summary: "AstraZeneca Open Innovation accepts external research collaborations in drug discovery, compounds, research tools, and disease biology on a rolling basis."
   focused on Preclinical Research, Compounds, Research Tools.
 resources:
 - src: feature.png
@@ -27,7 +27,7 @@ resources:
 
 ## Overview
 
-AstraZeneca Open Innovation is an open innovation program run by AstraZeneca. It is relevant for external scientists, researchers working on preclinical research, compounds, research tools, screening libraries. The current collaboration path is described through official materials for Global participation in the Pharma space.
+AstraZeneca Open Innovation opens drug discovery collaboration opportunities to external scientists and researchers worldwide. Research institutes, biotech startups, and pharma-focused technology organizations can propose collaborations around compounds, research tools, and disease biology.
 
 ## Focus Areas
 
@@ -39,10 +39,10 @@ AstraZeneca Open Innovation is an open innovation program run by AstraZeneca. It
 
 ## Benefits
 
-- Access to AstraZeneca compounds, tools, libraries, expertise, and possible collaboration
-- Official search snippet states the program offers collaboration opportunities, invites external researchers, and says submissions go through internal review.
+- Access to AstraZeneca compounds, tools, libraries, and expertise
+- Possible research collaboration
 
 ## How to Apply
 
-- Submit collaboration opportunities through the AstraZeneca Open Innovation program. Current status: `Always Open`.
+- Submit collaboration opportunities through the AstraZeneca Open Innovation program.
 

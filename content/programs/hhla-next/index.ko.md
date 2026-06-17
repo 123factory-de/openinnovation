@@ -3,7 +3,7 @@ title: "HHLA NEXT"
 date: 2026-06-16
 draft: false
 company: "HHLA"
-industry: "제조"
+industry: "물류"
 externalUrl: "https://hhla-next.de/de"
 focusAreas:
   - "물류"

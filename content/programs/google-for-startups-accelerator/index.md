@@ -28,7 +28,7 @@ resources:
 
 ## Overview
 
-Google for Startups Accelerator is an active accelerator platform for early-stage technology startups, especially AI-first companies. The report confirms multiple live 2026 programs with published application deadlines on the official portal.
+Google for Startups Accelerator is an active accelerator platform for early-stage technology startups, especially AI-first companies. Multiple regional and thematic programs run in 2026, some with set application deadlines.
 
 ## Focus Areas
 

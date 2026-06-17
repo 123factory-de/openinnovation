@@ -25,7 +25,7 @@ resources:
 
 ## Overview
 
-The SAP BTP Startup Program is run by SAP to help startups build and extend applications on the SAP Business Technology Platform (BTP). It focuses on turning data into value by leveraging SAP's cloud, AI, and analytics capabilities. It is positioned as an active route for startups that want to develop on SAP BTP and integrate with enterprise data and the broader SAP ecosystem.
+The SAP BTP Startup Program is run by SAP to help startups build and extend applications on the SAP Business Technology Platform (BTP). It focuses on turning data into value by leveraging SAP's cloud, AI, and analytics capabilities. Startups that want to build on SAP BTP and integrate with enterprise data and the broader SAP ecosystem can use it to find a growth path.
 
 ## Focus Areas
 
@@ -41,5 +41,5 @@ The SAP BTP Startup Program is run by SAP to help startups build and extend appl
 
 ## How to Apply
 
-- Startups can learn about program details and apply through the official SAP data-to-value program page, which outlines how to get started building on SAP BTP.
+- Review program details on the official SAP data-to-value program page, which outlines how to get started building on SAP BTP, and apply there.
 

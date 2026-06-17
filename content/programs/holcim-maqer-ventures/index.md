@@ -37,5 +37,5 @@ Holcim MAQER Ventures is the open innovation and corporate venturing arm of Holc
 
 ## How to Apply
 
-- Startups can learn about collaboration opportunities and reach out through the official Holcim MAQER Ventures page.
+- Review collaboration opportunities on the official Holcim MAQER Ventures page and reach out from there.
 

@@ -29,7 +29,7 @@ resources:
 
 ## Overview
 
-Bayer Open Innovation and Collaboration is an open innovation program run by Bayer. It is relevant for startups, strategic partners, researchers, alliance partners working on health, agriculture, nutrition, strategic alliances. The current collaboration path is described through official materials for Global participation in the Health and agriculture space.
+Bayer Open Innovation and Collaboration is the official channel describing how Bayer works with external partners across health, agriculture, and nutrition. Organizations interested in Bayer's strategic collaboration, alliance, and investment ecosystem can explore the collaboration network on the official page and get in touch through the Global Form.
 
 ## Focus Areas
 
@@ -41,10 +41,13 @@ Bayer Open Innovation and Collaboration is an open innovation program run by Bay
 
 ## Benefits
 
-- Scientific partnerships, investment pathways, incubation, mentoring, and access to Bayer collaboration programs
-- Official page says “we invite you to innovate with us,” lists ongoing collaboration vehicles, and exposes a live “Get in Touch” global form, so this is treated as an evergreen collaboration entry point rather than a dated challenge call.
+- Scientific partnerships
+- Investment pathways
+- Incubation
+- Mentoring
+- Access to Bayer collaboration programs
 
 ## How to Apply
 
-- Use Bayer’s open innovation page, collaboration network links, and Global Form contact route to initiate collaboration. Current status: `Always Open`.
+- Use Bayer’s open innovation page, collaboration network links, and Global Form contact route to initiate collaboration.
 

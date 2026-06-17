@@ -17,7 +17,7 @@ eligibility:
 - Large Enterprises
 - Technology Partners
 status: Always Open
-summary: Bosch Corporate Innovation Gateway is an open innovation program run by Bosch
+summary: "Bosch Corporate Innovation Gateway is a global entry point where startups, universities, and enterprises can propose technology collaborations with Bosch business units."
   focused on Automation, Mobility, Manufacturing Technology.
 resources:
 - src: feature.png
@@ -29,7 +29,7 @@ resources:
 
 ## Overview
 
-Bosch Corporate Innovation Gateway is an open innovation program run by Bosch. It is relevant for startups, universities, large enterprises, technology partners working on automation, mobility, manufacturing technology, university collaboration. The current collaboration path is described through official materials for Global participation in the Industrial technology space.
+Bosch Corporate Innovation Gateway is a global entry point through which Bosch receives collaboration proposals from startups, universities, large enterprises, and technology partners. Organizations with technologies that connect to Bosch's areas of interest, such as automation, mobility, and manufacturing technology, can propose a collaboration.
 
 ## Focus Areas
 
@@ -41,10 +41,10 @@ Bosch Corporate Innovation Gateway is an open innovation program run by Bosch. I
 
 ## Benefits
 
-- Co-innovation with Bosch experts and guided collaboration matching
-- Official page says Bosch is always looking for leading startups that want to co-innovate.
+- Co-innovation with Bosch experts
+- Guided collaboration matching
 
 ## How to Apply
 
-- Use Bosch Corporate Innovation Gateway vertical submission routes and contact entry points. Current status: `Always Open`.
+- Use Bosch Corporate Innovation Gateway vertical submission routes and contact entry points.
 

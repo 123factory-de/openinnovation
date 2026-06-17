@@ -30,7 +30,7 @@ resources:
 
 ## Overview
 
-Johnson & Johnson Innovation Challenges / JLABS is an open innovation program run by Johnson & Johnson Innovation. It is relevant for entrepreneurs, companies, researchers, students, jlabs applicants working on medicine, medtech, digital health, life sciences. The current collaboration path is described through official materials for Global participation in the Healthcare space.
+Johnson & Johnson Innovation identifies healthcare companies, researchers, students, and founders through its innovation challenges and JLABS program. Organizations with solutions in medicine, medtech, digital health, or life sciences can enter individual challenges or apply to JLABS.
 
 ## Focus Areas
 
@@ -41,10 +41,12 @@ Johnson & Johnson Innovation Challenges / JLABS is an open innovation program ru
 
 ## Benefits
 
-- Challenge awards, mentorship, visibility with J&J teams, and possible ecosystem access
-- The official portal remains live and says innovators are invited to apply, but the current surfaced examples in crawl results showed several challenge cards marked closed. Status kept conservative.
+- Challenge awards
+- Mentorship
+- Visibility with J&J teams
+- Possible ecosystem access
 
 ## How to Apply
 
-- Monitor QuickFire Challenge pages and apply to challenge-specific calls when open. Current status: `Active`.
+- Monitor QuickFire Challenge pages and apply to challenge-specific calls when open.
 

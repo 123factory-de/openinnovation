@@ -27,7 +27,7 @@ resources:
 
 ## Overview
 
-NASA Prizes, Challenges, and Crowdsourcing is an open innovation program run by NASA. It is relevant for members of the public, global participants working on space exploration, aeronautics, science, technology transfer. The current collaboration path is described through official materials for Global / US-led participation in the Aerospace and science space.
+NASA Prizes, Challenges, and Crowdsourcing is a route through which NASA solves problems in space exploration, aeronautics, science, and technology transfer together with the public. Interested companies and research teams can review the eligibility and global participation options for individual challenges.
 
 ## Focus Areas
 
@@ -39,10 +39,11 @@ NASA Prizes, Challenges, and Crowdsourcing is an open innovation program run by 
 
 ## Benefits
 
-- Prize opportunities, challenge participation, and access to NASA problem statements
-- Official page links to open opportunities and states the program engages the public worldwide in NASA research problems.
+- Prize opportunities
+- Challenge participation
+- Access to NASA problem statements
 
 ## How to Apply
 
-- Review open opportunities under NASA’s prizes, challenges, and crowdsourcing program. Current status: `Active`.
+- Review open opportunities under NASA’s prizes, challenges, and crowdsourcing program.
 

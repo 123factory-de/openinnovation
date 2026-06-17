@@ -27,7 +27,7 @@ resources:
 
 ## Overview
 
-Startup Autobahn is a corporate open innovation platform founded by Mercedes-Benz with additional ecosystem partners. It is positioned as an active collaboration route for startups and scaleups seeking pilot and validation work with major industry players.
+Startup Autobahn is an open innovation platform led by Mercedes-Benz together with additional industry partners. It is designed for startups and scaleups with automotive, manufacturing, digital services, and software technologies to quickly run pilots and collaborations with major industry players.
 
 ## Focus Areas
 

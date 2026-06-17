@@ -26,7 +26,7 @@ resources:
 
 ## Overview
 
-Microsoft for Startups Founders Hub is Microsoft's evergreen support and enablement platform for early-stage B2B startups. The report classifies it as always open with a rolling application model through the official portal.
+Microsoft for Startups Founders Hub is Microsoft's evergreen support and enablement platform for early-stage B2B startups. It operates on an always-open, rolling application model.
 
 ## Focus Areas
 
@@ -44,5 +44,5 @@ Microsoft for Startups Founders Hub is Microsoft's evergreen support and enablem
 
 ## How to Apply
 
-- Apply directly through the official Microsoft for Startups Founders Hub portal and complete the verification steps described on the live site.
+- Apply directly through the official Microsoft for Startups Founders Hub portal and complete the verification steps.
 

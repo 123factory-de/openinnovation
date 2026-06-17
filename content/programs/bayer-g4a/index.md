@@ -26,7 +26,7 @@ resources:
 
 ## Overview
 
-G4A is Bayer's digital health partnership program. It connects healthtech and digital health startups with Bayer to pursue partnerships and co-development opportunities across pharmaceuticals and consumer health. It is positioned as an active collaboration route for startups seeking to bring digital health solutions to market alongside a major life-science company.
+G4A is Bayer's digital health partnership program. It connects healthtech and digital health startups with Bayer to pursue partnerships and co-development across pharmaceuticals and consumer health. Startups looking to bring digital health solutions to market alongside a major life-science company can use it as a collaboration route.
 
 ## Focus Areas
 
@@ -42,5 +42,5 @@ G4A is Bayer's digital health partnership program. It connects healthtech and di
 
 ## How to Apply
 
-- Startups can explore current partnership tracks and submit their interest through the official G4A program page.
+- Explore current partnership tracks and submit your interest through the official G4A program page.
 

@@ -18,7 +18,7 @@ eligibility:
 - Researchers
 - Innovators
 status: Active
-summary: XPRIZE Active Competitions is an open innovation program run by XPRIZE Foundation
+summary: "XPRIZE Active Competitions is a large-incentive, prize-based innovation program targeting global challenges in quantum, climate, health, food, and exploration."
   focused on Quantum, Climate, Health.
 resources:
 - src: feature.svg
@@ -30,7 +30,7 @@ resources:
 
 ## Overview
 
-XPRIZE Active Competitions is an open innovation program run by XPRIZE Foundation. It is relevant for teams, companies, researchers, innovators working on quantum, climate, health, food. The current collaboration path is described through official materials for Global participation in the Deep tech and social impact space.
+XPRIZE Active Competitions is a prize-based program in which teams, companies, researchers, and innovators worldwide tackle major social and technological challenges. You can check directly whether each competition's rules and focus areas match your technology or research capabilities.
 
 ## Focus Areas
 
@@ -43,10 +43,11 @@ XPRIZE Active Competitions is an open innovation program run by XPRIZE Foundatio
 
 ## Benefits
 
-- Prize funding, visibility, and competition-specific support
-- Official page is filtered to active competitions and lists multiple current active XPRIZE programs.
+- Prize funding
+- Visibility
+- Competition-specific support
 
 ## How to Apply
 
-- Review active competitions and apply to competition-specific calls. Current status: `Active`.
+- Review active competitions and apply to competition-specific calls.
 

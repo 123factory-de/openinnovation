@@ -19,7 +19,7 @@ eligibility:
 - Suppliers
 - Venture Capital Partners
 status: Always Open
-summary: Henkel Spark is an open innovation program run by Henkel focused on Novel
+summary: "Henkel Spark is Henkel Consumer Brands' always-open innovation program seeking external technologies and partnerships in laundry, home care, hair, and sustainable ingredients."
   Hair Technologies, Laundry And Home Care, Sustainable Ingredients.
 resources:
 - src: feature.png
@@ -31,7 +31,7 @@ resources:
 
 ## Overview
 
-Henkel Spark is an open innovation program run by Henkel. It is relevant for researchers, academia, startups, suppliers, venture capital partners working on novel hair technologies, laundry and home care, sustainable ingredients, carbon capture utilization. The current collaboration path is described through official materials for Global participation in the Consumer goods space.
+Henkel Spark is a global open innovation program through which Henkel Consumer Brands collaborates with research institutes, academia, startups, and suppliers. If you have differentiated technologies or solutions in laundry, home care, hair care, sustainable ingredients, packaging, or marketing technology, you can submit a proposal at any time.
 
 ## Focus Areas
 
@@ -44,10 +44,11 @@ Henkel Spark is an open innovation program run by Henkel. It is relevant for res
 
 ## Benefits
 
-- Proof-of-concept development, pilot testing, and scale-up potential
-- Official page lists multiple “Submit your idea” calls and describes Spark, Screen, Select, Scale workflow.
+- Proof-of-concept development
+- Pilot testing
+- Scale-up potential
 
 ## How to Apply
 
-- Submit ideas through one of the Henkel Spark priority-area forms. Current status: `Always Open`.
+- Submit ideas through one of the Henkel Spark priority-area forms.
 

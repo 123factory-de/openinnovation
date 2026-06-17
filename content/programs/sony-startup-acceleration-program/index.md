@@ -28,7 +28,7 @@ resources:
 
 ## Overview
 
-Sony Startup Acceleration Program is Sony Group's platform for developing and accelerating new businesses with both internal and external participants. The report treated it as always open based on the current official positioning and submission path.
+Sony Startup Acceleration Program is Sony Group's platform for developing and accelerating new businesses with both internal and external participants. It runs as an always-open program, welcoming internal teams as well as external startups and partner organizations.
 
 ## Focus Areas
 

@@ -15,7 +15,7 @@ eligibility:
 - Entrepreneurs
 - Businesses
 status: Always Open
-summary: Shell GameChanger is an open innovation program run by Shell focused on Future
+summary: "Shell GameChanger is an open innovation program that continuously reviews early-stage, high-risk technology ideas in future energy and decarbonization."
   Energy, Decarbonization, Early-Stage Technology.
 resources:
 - src: feature.jpg
@@ -27,7 +27,7 @@ resources:
 
 ## Overview
 
-Shell GameChanger is an open innovation program run by Shell. It is relevant for startups, entrepreneurs, businesses working on future energy, decarbonization, early-stage technology, high-impact concepts. The current collaboration path is described through official materials for Global participation in the Energy space.
+Shell GameChanger is an always-open program through which Shell identifies early-stage ideas in future energy and decarbonization. If you have an unproven but potentially high-impact energy technology, you can submit your idea to the program.
 
 ## Focus Areas
 
@@ -38,10 +38,12 @@ Shell GameChanger is an open innovation program run by Shell. It is relevant for
 
 ## Benefits
 
-- Shell support, expertise, seed funding, and collaboration pathways
-- Official page says “Submit your solution, anytime” and that Shell continuously scouts for startups.
+- Shell support
+- Shell expertise
+- Seed funding
+- Collaboration pathways
 
 ## How to Apply
 
-- Submit a solution through the Shell GameChanger page. Current status: `Always Open`.
+- Submit a solution through the Shell GameChanger page.
 

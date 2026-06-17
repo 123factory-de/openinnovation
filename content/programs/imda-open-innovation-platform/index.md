@@ -18,7 +18,7 @@ eligibility:
 - Research Institutes
 - Problem Owners
 status: Active
-summary: IMDA Open Innovation Platform is an open innovation program run by IMDA Singapore
+summary: "IMDA Open Innovation Platform is a challenge platform that opens digital problems from Singapore's enterprises and agencies to global solvers, startups, and research institutes."
   focused on Business Challenges, Digital Transformation, Prototype Development.
 resources:
 - src: feature.png
@@ -30,7 +30,7 @@ resources:
 
 ## Overview
 
-IMDA Open Innovation Platform is an open innovation program run by IMDA Singapore. It is relevant for problem solvers, startups, solution providers, research institutes, problem owners working on business challenges, digital transformation, prototype development, commercial pilots. The current collaboration path is described through official materials for Singapore / Global solvers participation in the Digital innovation space.
+IMDA Open Innovation Platform connects problem owners in Singapore with solvers worldwide through digital innovation challenges. Startups, solution providers, and research institutes can propose prototypes or commercially viable solutions in response to quarterly innovation calls and open challenges.
 
 ## Focus Areas
 
@@ -41,10 +41,10 @@ IMDA Open Innovation Platform is an open innovation program run by IMDA Singapor
 
 ## Benefits
 
-- Opportunity to compete on a level playing field and work on challenge-owner problems
-- Official search snippet says users can submit proposals in the quarterly OIP challenge. The live page rendered poorly in this crawl, so the status is based on the official snippet.
+- Opportunity to compete on a level playing field
+- Opportunity to work on challenge-owner problems
 
 ## How to Apply
 
-- Submit proposals in OIP quarterly challenges. Current status: `Active`.
+- Submit proposals in OIP quarterly challenges.
 

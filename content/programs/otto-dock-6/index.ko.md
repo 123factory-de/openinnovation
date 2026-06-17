@@ -4,7 +4,7 @@ title: "OTTO DOCK 6"
 date: 2026-06-16
 draft: false
 company: "OTTO"
-industry: "소비재"
+industry: "ICT"
 externalUrl: "https://www.ottodock6.com/"
 focusAreas:
   - "커머스 테크"

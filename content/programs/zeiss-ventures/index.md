@@ -37,5 +37,5 @@ ZEISS Ventures is the corporate venture arm of ZEISS. It makes strategic investm
 
 ## How to Apply
 
-- Startups and scaleups can learn more about strategic investment and partnership opportunities through the official ZEISS Ventures page.
+- Learn more about strategic investment and partnership opportunities on the official ZEISS Ventures page.
 

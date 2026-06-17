@@ -38,5 +38,5 @@ Reliance JioGenNext is the startup accelerator program run by Reliance Jio. It s
 
 ## How to Apply
 
-- Founders can review eligibility and submit their startups through the official JioGenNext page. Check the portal for current cohort details and application steps.
+- Review eligibility and submit your startup through the official JioGenNext page. Check the portal for current cohort details and application steps.
 

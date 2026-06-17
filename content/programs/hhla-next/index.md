@@ -3,7 +3,7 @@ title: "HHLA NEXT"
 date: 2026-06-16
 draft: false
 company: "HHLA"
-industry: "Manufacturing"
+industry: "Logistics"
 externalUrl: "https://hhla-next.de/de"
 focusAreas:
   - "Logistics"
@@ -36,5 +36,5 @@ HHLA NEXT is the venture-building unit of HHLA. It builds new ventures and partn
 
 ## How to Apply
 
-- Startups can explore venture-building and partnership opportunities through the official HHLA NEXT page.
+- Explore venture-building and partnership opportunities through the official HHLA NEXT page.
 

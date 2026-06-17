@@ -3,7 +3,7 @@ title: "Lufthansa Group Start-up Kit"
 date: 2026-06-16
 draft: false
 company: "Deutsche Lufthansa"
-industry: "항공우주"
+industry: "모빌리티"
 externalUrl: "https://business.lufthansagroup.com/tr/en/programs-and-advantages/start-up-kit"
 focusAreas:
   - "출장"

@@ -17,7 +17,7 @@ eligibility:
 - Innovators
 - Teams
 status: Unknown
-summary: MIT Solve Open Challenges is an open innovation program run by MIT Solve
+summary: "MIT Solve Open Challenges is a challenge platform recruiting teams with technology-based solutions to social problems across climate, learning, health, and economic prosperity."
   focused on Climate, Learning, Health.
 resources:
 - src: feature.webp
@@ -29,7 +29,7 @@ resources:
 
 ## Overview
 
-MIT Solve Open Challenges is an open innovation program run by MIT Solve. It is relevant for innovators, teams working on climate, learning, health, economic prosperity. The current collaboration path is described through official materials for Global participation in the Social impact space.
+MIT Solve Open Challenges is a challenge platform where innovators and teams worldwide propose technology-based solutions to social problems. Solutions can be submitted to Solve's open and upcoming challenges across areas such as climate, learning, health, and economic prosperity.
 
 ## Focus Areas
 
@@ -42,10 +42,12 @@ MIT Solve Open Challenges is an open innovation program run by MIT Solve. It is 
 
 ## Benefits
 
-- Funding opportunities, network access, application support, and challenge-specific partnerships
-- Official page includes “Open and Upcoming Challenges” and “How to apply,” so active status is based on the current challenge pipeline rather than a single evergreen portal.
+- Funding opportunities
+- Network access
+- Application support
+- Challenge-specific partnerships
 
 ## How to Apply
 
-- Apply through MIT Solve challenge pages and use application clinics when available. Current status: `Unknown`.
+- Apply through MIT Solve challenge pages and use application clinics when available.
 

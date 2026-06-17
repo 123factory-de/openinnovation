@@ -15,7 +15,7 @@ eligibility:
 - Technology Providers
 - Innovators
 status: Always Open
-summary: Corbion Open Innovation is an open innovation program run by Corbion focused
+summary: "Corbion Open Innovation is a collaboration channel that continuously seeks external technologies and ideas in sustainable bio-ingredients, biochemicals, and biopolymers."
   on Bio-Ingredients, Biochemicals, Biopolymers.
 resources:
 - src: feature.png
@@ -27,7 +27,7 @@ resources:
 
 ## Overview
 
-Corbion Open Innovation is an open innovation program run by Corbion. It is relevant for collaboration partners, technology providers, innovators working on bio-ingredients, biochemicals, biopolymers, sustainability. The current collaboration path is described through official materials for Global participation in the Bio-ingredients and biochemicals space.
+Corbion Open Innovation seeks technologies and ideas from external partners across bio-ingredients, biochemicals, biopolymers, and sustainability. Materials, chemicals, and bio-based organizations can explore collaboration with Corbion's innovation team.
 
 ## Focus Areas
 
@@ -38,10 +38,10 @@ Corbion Open Innovation is an open innovation program run by Corbion. It is rele
 
 ## Benefits
 
-- Collaboration with Corbion teams and access to a direct contact route for open innovation topics
-- Official page says Corbion is constantly on the lookout for opportunities to create value through collaboration and open innovation.
+- Collaboration with Corbion teams
+- Access to a direct contact route for open innovation topics
 
 ## How to Apply
 
-- Use the open innovation contact form and area-of-interest routing on Corbion’s page. Current status: `Always Open`.
+- Use the open innovation contact form and area-of-interest routing on Corbion’s page.
 

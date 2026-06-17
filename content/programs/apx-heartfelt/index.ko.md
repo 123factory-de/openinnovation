@@ -3,7 +3,7 @@ title: "Heartfelt_"
 date: 2026-06-16
 draft: false
 company: "APX"
-industry: "ICT"
+industry: "다분야"
 externalUrl: "https://heartfelt.capital/pitch"
 focusAreas:
   - "초기 단계 투자"

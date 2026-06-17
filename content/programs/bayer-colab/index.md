@@ -19,7 +19,7 @@ summary: "Bayer Co.Lab is Bayer's life-science incubator offering lab space and 
 
 ## Overview
 
-Bayer Co.Lab is a life-science incubator run by Bayer, with locations including Co.Lab Berlin. It provides lab space, infrastructure, and mentorship to biotech and healthtech startups. It is positioned as an active route for early-stage life-science startups that need physical lab facilities and access to Bayer's scientific expertise to advance their work.
+Bayer Co.Lab is a life-science incubator run by Bayer, with locations including Co.Lab Berlin. It provides lab space, infrastructure, and mentorship to biotech and healthtech startups. Early-stage life-science startups that need physical lab facilities and access to Bayer's scientific expertise can use it to advance their work.
 
 ## Focus Areas
 
@@ -35,5 +35,5 @@ Bayer Co.Lab is a life-science incubator run by Bayer, with locations including 
 
 ## How to Apply
 
-- Startups can review eligibility and the application process for the relevant Co.Lab location through the official Bayer Co.Lab page.
+- Review eligibility and the application process for the relevant Co.Lab location through the official Bayer Co.Lab page.
 

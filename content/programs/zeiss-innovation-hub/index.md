@@ -36,5 +36,5 @@ ZEISS Innovation Hubs are collaboration spaces, such as those in Dresden and at 
 
 ## How to Apply
 
-- Startups and researchers can explore collaboration and co-location opportunities through the official ZEISS Innovation Hubs page.
+- Explore collaboration and co-location opportunities through the official ZEISS Innovation Hubs page.
 

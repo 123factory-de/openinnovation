@@ -19,7 +19,7 @@ eligibility:
 - Patent Holders
 - Business Partners
 status: Always Open
-summary: P&G Connect + Develop is an open innovation program run by P&G focused on
+summary: "P&G Connect + Develop is an always-open innovation program seeking collaboration with external companies that have innovations in product, packaging, e-commerce, and supply chain."
   Product Technologies, Packaging, In-Store.
 resources:
 - src: feature.jpg
@@ -31,7 +31,7 @@ resources:
 
 ## Overview
 
-P&G Connect + Develop is an open innovation program run by P&G. It is relevant for innovators, entrepreneurs, startups, inventors, patent holders, business partners working on product technologies, packaging, in-store, ecommerce. The current collaboration path is described through official materials for Global participation in the Consumer goods space.
+P&G Connect + Develop is a global open innovation program through which P&G collaborates with external innovators, startups, inventors, patent holders, and business partners. If you have technologies or solutions that match P&G's needs in product, packaging, retail, e-commerce, or supply chain, you can submit a proposal at any time.
 
 ## Focus Areas
 
@@ -43,10 +43,10 @@ P&G Connect + Develop is an open innovation program run by P&G. It is relevant f
 
 ## Benefits
 
-- Potential partnership with P&G business teams and commercialization pathways
-- Official page explicitly says “See P&G Needs & Submit Your Innovation Today” and invites innovators to partner.
+- Potential partnership with P&G business teams
+- Commercialization pathways
 
 ## How to Apply
 
-- Browse current needs and submit an innovation through the Connect + Develop portal. Current status: `Always Open`.
+- Browse current needs and submit an innovation through the Connect + Develop portal.
 

@@ -16,7 +16,7 @@ eligibility:
 - Startups
 - Registered Business Entities
 status: Active
-summary: Hyundai Innovation Challenge 2026 is an open innovation program run by Hyundai
+summary: "Hyundai Innovation Challenge 2026 is a six-month program where Hyundai and startups pursue proof-of-concept and co-development in ADAS, EV, mobility-as-a-service, materials, and manufacturing innovation."
   Motor Company / HMIL / HMIE focused on ADAS Systems, EV Charging, Mobility-as-a-Service.
 resources:
 - src: feature.png
@@ -28,7 +28,7 @@ resources:
 
 ## Overview
 
-Hyundai Innovation Challenge 2026 is an open innovation program run by Hyundai Motor Company / HMIL / HMIE. It is relevant for startups, registered business entities working on adas systems, ev charging, mobility-as-a-service, smart materials. The current collaboration path is described through official materials for India / Global startups participation in the Mobility and automotive innovation space.
+Hyundai Innovation Challenge 2026 is a six-month open innovation program created by Hyundai Motor Company, Hyundai Motor India Limited, and Hyundai Motor India Engineering to collaborate with promising startups. Participants can take part in real proof-of-concept and co-development work across the Indian market and Hyundai's mobility ecosystem.
 
 ## Focus Areas
 
@@ -41,10 +41,14 @@ Hyundai Innovation Challenge 2026 is an open innovation program run by Hyundai M
 
 ## Benefits
 
-- PoC co-development with Hyundai Motor India Limited, testing and validation with Hyundai Motor India Engineering, expert guidance, PoC grants, market exposure, and potential follow-on investment
-- Official page explicitly says “Applications are open, Apply now!” and describes a six-month startup collaboration program with Hyundai entities in India.
+- PoC co-development with Hyundai Motor India Limited
+- Testing and validation with Hyundai Motor India Engineering
+- Expert guidance
+- PoC grants
+- Market exposure
+- Potential follow-on investment
 
 ## How to Apply
 
-- Apply through the official Hyundai Innovation Challenge 2026 portal. Current status: `Active`.
+- Apply through the official Hyundai Innovation Challenge 2026 portal.
 

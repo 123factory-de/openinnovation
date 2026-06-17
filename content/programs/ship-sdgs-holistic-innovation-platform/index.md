@@ -28,7 +28,7 @@ resources:
 
 ## Overview
 
-SHIP SDGs Holistic Innovation Platform is an open innovation program run by UNDP and Japan Innovation Network. It is relevant for startups, innovators working on sdgs, corporate challenges, social innovation, startup collaboration. The current collaboration path is described through official materials for Global / Japan participation in the SDGs and corporate innovation space.
+SHIP, the SDGs Holistic Innovation Platform, is run by UNDP and the Japan Innovation Network and is centered on the SDGs and corporate innovation challenges. If you have solutions for social value, sustainability, or corporate challenges, you can take part in the related challenges posted on the platform.
 
 ## Focus Areas
 
@@ -39,10 +39,10 @@ SHIP SDGs Holistic Innovation Platform is an open innovation program run by UNDP
 
 ## Benefits
 
-- Access to SHIP ecosystem programs, workshops, and challenge-related collaboration models
-- Official site clearly presents SHIP as an open innovation platform, but the homepage crawl did not expose a clearly current open challenge or submission window.
+- Access to SHIP ecosystem programs and workshops
+- Challenge-related collaboration models
 
 ## How to Apply
 
-- Engage through SHIP program and digital platform pathways. Current status: `Active`.
+- Engage through SHIP program and digital platform pathways.
 

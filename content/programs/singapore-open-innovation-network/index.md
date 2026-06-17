@@ -15,7 +15,7 @@ eligibility:
 - Solution Providers
 - Challenge Solvers
 status: Active
-summary: Singapore Open Innovation Network is an open innovation program run by Singapore
+summary: "Singapore Open Innovation Network is Singapore's official open innovation network connecting government and enterprise challenges with solution providers."
   Government focused on Government Challenges, Enterprise Challenges, Digitalization.
 resources:
 - src: feature.png
@@ -27,7 +27,7 @@ resources:
 
 ## Overview
 
-Singapore Open Innovation Network is an open innovation program run by Singapore Government. It is relevant for solution providers, challenge solvers working on government challenges, enterprise challenges, digitalization, applied technology. The current collaboration path is described through official materials for Singapore participation in the Public-sector and enterprise innovation space.
+Singapore Open Innovation Network is an official network that connects Singapore's government and enterprise challenges with solution providers. If you have solutions in digitalization, public-sector or enterprise challenges, or applied technology, you can join the published challenges as a solution provider.
 
 ## Focus Areas
 
@@ -38,10 +38,11 @@ Singapore Open Innovation Network is an open innovation program run by Singapore
 
 ## Benefits
 
-- Support and funding for product-market fit work, validation with challenge owners, and commercial expansion opportunities
-- Official portal lists ongoing challenges with June 2026 end dates and explicit solver benefits.
+- Support and funding for product-market fit work
+- Validation with challenge owners
+- Commercial expansion opportunities
 
 ## How to Apply
 
-- Browse ongoing challenges or share challenge statements through the OIN portal. Current status: `Active`.
+- Browse ongoing challenges or share challenge statements through the OIN portal.
 

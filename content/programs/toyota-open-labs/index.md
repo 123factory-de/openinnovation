@@ -29,7 +29,7 @@ resources:
 
 ## Overview
 
-Toyota Open Labs is Toyota Motor Europe's startup collaboration platform for mobility, energy, and sustainability themes. The report re-verified it as an always-open route with rolling applications through the official site.
+Toyota Open Labs is Toyota Motor Europe's startup collaboration platform for mobility, energy, and sustainability themes. It is an always-open route with rolling applications.
 
 ## Focus Areas
 

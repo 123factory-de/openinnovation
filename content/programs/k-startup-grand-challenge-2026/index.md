@@ -13,7 +13,7 @@ focusAreas:
 eligibility:
 - Global Startups
 deadline: '2026-06-17'
-summary: K-Startup Grand Challenge 2026 is an open innovation program run by Korea
+summary: "K-Startup Grand Challenge 2026 is a government-led program supporting foreign startups with Korean market entry, incorporation, proof-of-concept, and corporate partnerships."
   Ministry of SMEs and Startups focused on Korea Market Entry, PoC, Corporate Partnerships.
 resources:
 - src: feature.png
@@ -25,7 +25,7 @@ resources:
 
 ## Overview
 
-K-Startup Grand Challenge 2026 is an open innovation program run by Korea Ministry of SMEs and Startups. It is relevant for global startups working on korea market entry, poc, corporate partnerships, startup scaling. The current collaboration path is described through official materials for Korea / Global startups participation in the Startup market entry space.
+K-Startup Grand Challenge 2026 is a program run by Korea's Ministry of SMEs and Startups to help global startups enter and grow in the Korean market. Global startups can pursue proof-of-concept, partnership, and market-entry collaborations with Korean companies.
 
 ## Focus Areas
 
@@ -36,8 +36,9 @@ K-Startup Grand Challenge 2026 is an open innovation program run by Korea Minist
 
 ## Benefits
 
-- Government-backed acceleration, local ecosystem access, and business development support
-- Official page says applications opened on May 6, 2026 and the application period runs through June 17, 2026 at 15:00 KST.
+- Government-backed acceleration
+- Local ecosystem access
+- Business development support
 
 ## How to Apply
 

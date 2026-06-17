@@ -19,7 +19,7 @@ summary: "The Bosch Start-Up Incubation Program, run by Bosch Innovation Consult
 
 ## Overview
 
-The Bosch Start-Up Incubation Program is run by Bosch Innovation Consulting to support new ventures and startups from idea to scaling. It provides structured incubation guidance through the early stages of building a venture. It is positioned as an active route for startups and venture teams that want hands-on support backed by Bosch's innovation expertise.
+The Bosch Start-Up Incubation Program is run by Bosch Innovation Consulting to support new ventures and startups from idea to scaling. It provides structured incubation guidance through the early stages of building a venture. Startups and venture teams that want hands-on support backed by Bosch's innovation expertise can use it for structured incubation.
 
 ## Focus Areas
 
@@ -35,5 +35,5 @@ The Bosch Start-Up Incubation Program is run by Bosch Innovation Consulting to s
 
 ## How to Apply
 
-- Teams can learn about the incubation approach and engagement model through the official Bosch Innovation Consulting Incubation Program page.
+- Review the incubation approach and engagement model on the official Bosch Innovation Consulting Incubation Program page.
 

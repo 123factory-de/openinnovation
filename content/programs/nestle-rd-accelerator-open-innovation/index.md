@@ -31,7 +31,7 @@ resources:
 
 ## Overview
 
-Nestle R+D Accelerator / Open Innovation is an open innovation program run by Nestle. It is relevant for startups, students, researchers, smes, innovation partners working on food and beverage innovation, nutrition, packaging, entrepreneurship. The current collaboration path is described through official materials for Global participation in the Food and nutrition space.
+Nestlé's Open Innovation and R+D Accelerator are aimed at startups, students, researchers, SMEs, and innovation partners working on food, beverage, nutrition, and packaging innovation. Participants can explore challenge-driven collaboration with Nestlé's R&D centers.
 
 ## Focus Areas
 
@@ -43,10 +43,11 @@ Nestle R+D Accelerator / Open Innovation is an open innovation program run by Ne
 
 ## Benefits
 
-- Access to Nestlé R&D infrastructure, science expertise, and possible accelerator collaboration
-- Nestlé’s official open innovation page describes the accelerator network, and official Nestlé accelerator-domain snippets currently point to open challenges and “submit your application today,” which is enough to treat the program as active.
+- Access to Nestlé R&D infrastructure
+- Science expertise
+- Possible accelerator collaboration
 
 ## How to Apply
 
-- Apply through Nestlé’s R+D Accelerator open challenges and accelerator pathways. Current status: `Active`.
+- Apply through Nestlé’s R+D Accelerator open challenges and accelerator pathways.
 

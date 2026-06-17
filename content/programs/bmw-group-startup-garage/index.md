@@ -15,7 +15,7 @@ focusAreas:
 eligibility:
 - Startups
 status: Always Open
-summary: BMW Group Startup Garage is an open innovation program run by BMW Group focused
+summary: "BMW Group Startup Garage connects startups worldwide with BMW business units to pilot automotive, production, software, and mobility solutions."
   on Automotive, Production, Software.
 resources:
 - src: feature.jpeg
@@ -27,7 +27,7 @@ resources:
 
 ## Overview
 
-BMW Group Startup Garage is an open innovation program run by BMW Group. It is relevant for startups working on automotive, production, software, mobility. The current collaboration path is described through official materials for Global participation in the Mobility space.
+BMW Group Startup Garage is a venture-client open innovation program through which BMW collaborates with startups worldwide. If you have solutions in automotive, production, software, or sustainable mobility, you can validate them together with BMW business units.
 
 ## Focus Areas
 
@@ -39,10 +39,11 @@ BMW Group Startup Garage is an open innovation program run by BMW Group. It is r
 
 ## Benefits
 
-- Four-month pilot projects, supplier pathway, and long-term partnership potential
-- Official page says BMW is looking for startups from all over the world and links directly to “Partner with us.”
+- Four-month pilot projects
+- Supplier pathway
+- Long-term partnership potential
 
 ## How to Apply
 
-- Use the Startup Garage “Partner with us” route. Current status: `Always Open`.
+- Use the Startup Garage “Partner with us” route.
 

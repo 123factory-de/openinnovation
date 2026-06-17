@@ -49,5 +49,3 @@ Nestle의 Open Innovation과 R+D Accelerator는 식품, 영양, 패키징 혁신
 ## 지원 방법
 
 - Nestle R+D Accelerator, Youth Entrepreneurship Platform 또는 특정 오픈 이노베이션 챌린지를 통해 참여합니다. 마감일은 챌린지별로 다릅니다.
-
-- [Representative image source](https://www.nestle.com/sites/default/files/styles/full_width_image_1920x795_/public/about-innovation-open-innovation-header.jpg.webp?itok=TZpZPRiZ)

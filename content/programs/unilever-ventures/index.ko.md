@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Unilever Ventures"
 date: 2026-06-16
 draft: false
@@ -17,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Unilever Ventures는 Unilever의 벤처캐피털·사모펀드 부문으로, 성장 잠재력이 높은 뷰티, 퍼스널 케어, 디지털 커머스 기업에 투자합니다."
+resources:
+  - src: "feature.jpg"
+    title: "Unilever Ventures"
+    params:
+      source: "https://www.unileverventures.com/wp-content/uploads/2023/12/INKEY-IMG_3692-Inkey-e1702469621448.jpg"
+      sourceLabel: "Unilever official image"
 ---
 
 ## 개요

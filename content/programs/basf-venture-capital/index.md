@@ -17,6 +17,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "BASF Venture Capital is BASF's corporate venture arm investing in startups across chemicals, advanced materials, sustainability, and digitalization."
+resources:
+  - src: "feature.jpg"
+    title: "BASF Venture Capital"
+    params:
+      source: "https://www.basf.com/api/imaging/focalarea/16x9/800x/dam/jcr%3A02acd74c-6913-4bc0-bf18-70f65ceeb244/basf%20venture%20capital%20main.png?vid=eolXVpyRlaY.Pk0wfyT.0PNyRDbogNxV"
+      sourceLabel: "BASF official image"
 ---
 
 ## Overview

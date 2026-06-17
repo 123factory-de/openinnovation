@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "NTT Startup Challenge는 NTT 그룹과 협업하여 ICT, 통신, 디지털 혁신에 집중하는 글로벌 인큐베이션 및 스타트업 챌린지입니다."
+resources:
+  - src: "feature.webp"
+    title: "NTT Startup Challenge"
+    params:
+      source: "https://www.ntt-startupchallenge.com/info-session/final-day-ntt-startup-challange-day.webp"
+      sourceLabel: "NTT official image"
 ---
 
 ## 개요

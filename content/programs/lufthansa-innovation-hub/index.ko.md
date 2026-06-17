@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Lufthansa Innovation Hub은 여행 및 모빌리티 기술, 벤처 빌딩, 트래블테크 스타트업과의 협업에 집중하는 Deutsche Lufthansa의 디지털 혁신 조직입니다."
+resources:
+  - src: "feature.jpg"
+    title: "Lufthansa Innovation Hub"
+    params:
+      source: "https://lh-innovationhub.de/wp-content/uploads/2026/02/Lufthansa_Innovation_Hub.jpg"
+      sourceLabel: "Deutsche Lufthansa official image"
 ---
 
 ## 개요

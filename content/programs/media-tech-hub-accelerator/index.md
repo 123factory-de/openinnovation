@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Media Tech Hub Accelerator"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Media Tech Hub Accelerator supports media tech, immersive media, and AI startups in Potsdam-Babelsberg with mentorship and ecosystem access."
+resources:
+  - src: "feature.jpg"
+    title: "Media Tech Hub Accelerator"
+    params:
+      source: "https://mth-potsdam.de/accelerator/"
+      sourceLabel: "Media Tech Hub Potsdam official image"
 ---
 
 ## Overview

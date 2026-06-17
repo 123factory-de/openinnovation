@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Bosch"
 industry: "Manufacturing"
-externalUrl: "https://www.bosch-innovation-consulting.com/de/unsere-services/incubation-program/"
+externalUrl: "https://www.bosch-innovation-consulting.com/de/en/our-services/incubation-program/"
 focusAreas:
   - "Venture Incubation"
   - "Idea to Scale"
@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "The Bosch Start-Up Incubation Program, run by Bosch Innovation Consulting, supports new ventures and startups from idea through scaling."
+resources:
+  - src: "feature.jpg"
+    title: "Bosch Start-Up Incubation Program"
+    params:
+      source: "https://www.bosch-innovation-consulting.com/de/images/content/customer.jpg"
+      sourceLabel: "Bosch official image"
 ---
 
 ## Overview

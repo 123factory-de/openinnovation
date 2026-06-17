@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "NetApp Excellerator is a B2B startup accelerator offering mentoring, technical resources, and proof-of-concept opportunities in data, cloud, and deep tech."
+resources:
+  - src: "feature.jpg"
+    title: "NetApp Excellerator"
+    params:
+      source: "https://startup.netapp.in/assets/images/Insights/ai-submit/Microsoft-AI-Ecosystem-Panel-Discussion.jpg"
+      sourceLabel: "NetApp official image"
 ---
 
 ## Overview

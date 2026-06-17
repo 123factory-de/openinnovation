@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "neosfer"
 date: 2026-06-16
 draft: false
@@ -17,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "neosfer는 초기 단계 투자와 벤처 빌딩, 스카우팅을 함께 펼치는 Commerzbank의 혁신 사업부로, 핀테크와 지속가능성 기술에 중점을 둡니다."
+resources:
+  - src: "feature.webp"
+    title: "사무실의 neosfer 팀"
+    params:
+      source: "https://neosfer.de/wp-content/uploads/2024/11/Anbout-Us-Neosfer.png-1.webp"
+      sourceLabel: "neosfer 공식 이미지"
 ---
 
 ## 개요

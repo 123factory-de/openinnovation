@@ -16,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Kering Ventures는 럭셔리 그룹 Kering의 벤처 부문으로, 럭셔리 및 패션을 위한 지속가능성, 소재 혁신, 리테일 테크에 투자합니다."
+resources:
+  - src: "feature.jpg"
+    title: "Kering Ventures"
+    params:
+      source: "https://www.kering-ventures.com/"
+      sourceLabel: "Kering official image"
 ---
 
 ## 개요

@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "ZEISS Innovation Hubs는 스타트업과 연구자를 ZEISS와 한 공간에 모아 딥테크, 광학, 반도체 협업을 이끄는 공동 혁신 공간입니다."
+resources:
+  - src: "feature.jpg"
+    title: "ZEISS Innovation Hub"
+    params:
+      source: "https://www.zeiss.com/content/dam/cco/reference-master/about-us/future/new-business/zeiss-innovation-hubs/images/innovation-hubs.jpg"
+      sourceLabel: "ZEISS official image"
 ---
 
 ## 개요

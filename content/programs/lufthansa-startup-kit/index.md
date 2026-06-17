@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Deutsche Lufthansa"
 industry: "Mobility"
-externalUrl: "https://business.lufthansagroup.com/tr/en/programs-and-advantages/start-up-kit"
+externalUrl: "https://business.lufthansagroup.com/al/en/programs-and-advantages/start-up-kit"
 focusAreas:
   - "Business Travel"
   - "Startup Benefits"

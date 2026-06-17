@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Allianz X"
 date: 2026-06-16
 draft: false
@@ -17,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Allianz X는 인슈어테크, 핀테크, 헬스테크 분야에서 성장 단계 투자를 집행하고 파트너십을 구축하는 Allianz의 디지털 투자 조직입니다."
+resources:
+  - src: "feature.jpg"
+    title: "Allianz X"
+    params:
+      source: "https://allianzx.com/fileadmin/user_upload/0_unsorted/harshit-joshi-trGhiLiRgsI-unsplash.jpg"
+      sourceLabel: "Allianz official image"
 ---
 
 ## 개요

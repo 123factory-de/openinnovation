@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Kering Ventures is the venture arm of luxury group Kering, investing in sustainability, material innovation, and retail tech for luxury and fashion."
+resources:
+  - src: "feature.jpg"
+    title: "Kering Ventures"
+    params:
+      source: "https://www.kering-ventures.com/"
+      sourceLabel: "Kering official image"
 ---
 
 ## Overview

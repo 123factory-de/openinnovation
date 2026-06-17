@@ -17,6 +17,7 @@ eligibility:
   - "대기업"
   - "기술 파트너"
 status: "상시 운영"
+featureContain: true
 summary: "Bosch Corporate Innovation Gateway는 스타트업, 대학, 기업이 Bosch 사업부와 기술 협업을 제안할 수 있는 글로벌 협업 창구입니다."
 resources:
   - src: "feature.png"

@@ -13,8 +13,15 @@ focusAreas:
 eligibility:
   - "스타트업"
 status: "운영 중"
+featureContain: true
 deadline: ""
 summary: "Robert Bosch Open Innovation Partnerships는 Bosch의 오픈 이노베이션 플랫폼으로, Bosch 전 영역에서 스타트업과의 기술 스카우팅 및 공동 혁신을 진행합니다."
+resources:
+  - src: "feature.jpg"
+    title: "Robert Bosch Open Innovation Partnerships"
+    params:
+      source: "https://innovate-bosch.com/media/images/content/sec1_new_small.png"
+      sourceLabel: "Bosch official image"
 ---
 
 ## 개요

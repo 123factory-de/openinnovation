@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Thuringian Regional Innovation Program (TRIP)"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "TRIP는 튀링겐 지역의 혁신·액셀러레이션 프로그램으로, 커뮤니티와 코칭, 체계적인 액셀러레이션을 통해 창업자를 지원합니다."
+resources:
+  - src: "feature.jpg"
+    title: "Thuringian Regional Innovation Program (TRIP)"
+    params:
+      source: "https://trip.community/wp-content/uploads/2024/07/20240306_TRIP-Demo-Day_Foto_Thomas_Mueller063.jpg"
+      sourceLabel: "Stiftung fuer Technologie, Innovation und Forschung Thueringen official image"
 ---
 
 ## 개요

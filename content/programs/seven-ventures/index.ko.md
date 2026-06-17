@@ -16,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "SevenVentures는 ProSiebenSat.1의 미디어 투자 사업부로, 성장 단계 소비자 브랜드에 TV 광고 도달력을 제공하는 미디어-포-에쿼티 및 미디어-포-레버뉴 거래를 제공합니다."
+resources:
+  - src: "feature.jpg"
+    title: "SevenVentures"
+    params:
+      source: "https://s3-images.t1p-publishing.aws.route71.net/2024/09/12/b34eb5d9-60ba-47eb-84ec-0b26bbbb482b.jpeg"
+      sourceLabel: "Commerce & Ventures official image"
 ---
 
 ## 개요

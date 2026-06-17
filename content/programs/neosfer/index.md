@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "neosfer"
 date: 2026-06-16
 draft: false
@@ -17,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "neosfer is Commerzbank's innovation unit combining early-stage investing, venture building, and scouting, with a focus on fintech and sustainability technology."
+resources:
+  - src: "feature.webp"
+    title: "neosfer team at the office"
+    params:
+      source: "https://neosfer.de/wp-content/uploads/2024/11/Anbout-Us-Neosfer.png-1.webp"
+      sourceLabel: "neosfer official image"
 ---
 
 ## Overview

@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "PreZero Innovation Hub"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "PreZero Innovation Hub is the Schwarz Group environmental division's open innovation program for circular-economy, recycling, and waste-management startups."
+resources:
+  - src: "feature.jpg"
+    title: "PreZero Innovation Hub"
+    params:
+      source: "https://innovationhub.prezero.com/wp-content/uploads/2023/03/Sortieranlage-Roboterarm.jpg"
+      sourceLabel: "Schwarz Gruppe official image"
 ---
 
 ## Overview

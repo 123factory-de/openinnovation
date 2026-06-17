@@ -5,7 +5,7 @@ date: 2026-06-09
 draft: false
 company: "Sony Group"
 industry: "ICT"
-externalUrl: "https://sony-startup-acceleration-program.com/"
+externalUrl: "https://sony-acceleration-platform.com/"
 focusAreas:
   - "비즈니스 모델링"
   - "프로토타이핑"

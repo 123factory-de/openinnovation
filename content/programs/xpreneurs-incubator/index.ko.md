@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "XPRENEURS는 딥테크·B2B 스타트업을 위한 UnternehmerTUM의 인큐베이터로, 집중 멘토링과 함께 투자자를 만날 기회를 제공합니다."
+resources:
+  - src: "feature.jpg"
+    title: "XPRENEURS Incubator"
+    params:
+      source: "https://ut-um.transforms.svdcdn.com/production/media/images/services/xpreneurs/services-xpreneurs.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1590774763&s=aaf0cca83fc01ca6bb71154786592565"
+      sourceLabel: "UnternehmerTUM official image"
 ---
 
 ## 개요

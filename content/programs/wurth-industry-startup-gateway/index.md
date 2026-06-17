@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Wurth Industry Start-up Gateway partners with industrial, logistics, and C-parts startups on supply chain and procurement innovation through joint proofs of concept."
+resources:
+  - src: "feature.png"
+    title: "Wurth Industry Start-up Gateway"
+    params:
+      source: "https://www.wuerth-industrie.com/web/media/pictures/wuerthindustrie/unternehmen/start_up/startup_innovation_res_wl2_frontpage_1200.png"
+      sourceLabel: "Wurth Industry official image"
 ---
 
 ## Overview

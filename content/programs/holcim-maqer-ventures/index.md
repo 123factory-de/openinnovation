@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Holcim MAQER Ventures is Holcim's open innovation and corporate venturing arm partnering with startups on sustainable construction and building materials through proofs of concept with business units."
+resources:
+  - src: "feature.webp"
+    title: "Holcim MAQER Ventures"
+    params:
+      source: "https://www.holcim.com/sites/holcim/files/styles/large/public/2023-09/holcim_2021_hilo_18_isocv2.jpg.webp?itok=t2hqAOx7"
+      sourceLabel: "Holcim official image"
 ---
 
 ## Overview

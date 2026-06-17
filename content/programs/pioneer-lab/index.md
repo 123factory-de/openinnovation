@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Pioneer Lab is the incubator of the Carl Remigius Fresenius Education Group, supporting founders in edtech and health education with coaching and resources."
+resources:
+  - src: "feature.jpg"
+    title: "Pioneer Lab"
+    params:
+      source: "https://www.pioneerlab.de/wp-content/uploads/web10startseiteneu.jpg"
+      sourceLabel: "Carl Remigius Fresenius Education Group official image"
 ---
 
 ## Overview

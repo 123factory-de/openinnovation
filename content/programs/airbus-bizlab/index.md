@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Airbus BizLab is a global aerospace accelerator supporting startups and Airbus intrapreneurs across aerospace, mobility, and defense through acceleration and proof-of-concept projects."
+resources:
+  - src: "feature.jpg"
+    title: "Airbus BizLab"
+    params:
+      source: "https://www.airbus.com/sites/g/files/jlcbta136/files/styles/w750h1140/public/2021-11/bizlab-teaser-2.jpg?itok=lj8nOGVT"
+      sourceLabel: "Airbus official image"
 ---
 
 ## Overview

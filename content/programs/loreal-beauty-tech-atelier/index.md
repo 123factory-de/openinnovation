@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "L'Oreal"
 industry: "FMCG"
-externalUrl: "https://www.loreal.com/en/beauty-science-and-technology/l-oreal-open-innovation/l-oreal-innovation-program/"
+externalUrl: "https://www.loreal.com/en/beauty-science-and-technology/l-oreal-open-innovation/beauty-tech-atelier/"
 focusAreas:
   - "Beauty Tech"
   - "Sustainability"
@@ -14,12 +14,18 @@ eligibility:
   - "Startups"
 status: "Active"
 deadline: ""
-summary: "L'Oreal's open innovation program connects the company with startups to co-develop beauty tech, sustainable packaging, and digital and AI solutions."
+summary: "The L'Oreal Beauty Tech Atelier is L'Oreal's beauty startup accelerator, run with Incubateur HEC Paris at Station F, supporting early-stage beauty-tech startups through a semester-long program."
+resources:
+  - src: "feature.jpg"
+    title: "L'Oreal Beauty Tech Atelier"
+    params:
+      source: "https://www.loreal.com/-/media/project/loreal/brand-sites/corp/master/lcorp/5-science-and-technology/open-innovation-rework/apply-page/herro-apply-page-open-innovation.jpg"
+      sourceLabel: "L'Oreal Beauty Tech Atelier official image"
 ---
 
 ## Overview
 
-The L'Oreal Beauty Tech Atelier is L'Oreal's open innovation program that partners with startups and external innovators. It focuses on co-developing breakthrough solutions across beauty technology, sustainability, packaging, and digital experiences. Selected startups gain access to L'Oreal's expertise, resources, and global reach.
+The L'Oreal Beauty Tech Atelier is L'Oreal's beauty startup accelerator, run together with Incubateur HEC Paris at Station F in Paris. Each semester it supports a cohort of early-stage beauty-tech startups through a semester-long, cost-free program, with a hybrid option for founders based outside Paris. Selected startups receive tailored mentoring and access to L'Oreal's experts, R&D, and the Station F ecosystem.
 
 ## Focus Areas
 

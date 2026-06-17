@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "HHLA NEXT is the venture-building unit of HHLA, building ventures and partnering with startups in maritime, logistics, and port technology."
+resources:
+  - src: "feature.png"
+    title: "HHLA NEXT"
+    params:
+      source: "https://hhla-next.de/de"
+      sourceLabel: "HHLA official image"
 ---
 
 ## Overview

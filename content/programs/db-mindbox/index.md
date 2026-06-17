@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Deutsche Bahn"
 industry: "Mobility"
-externalUrl: "https://www.deutschebahn.com/de/Digitalisierung/startups/dbmindbox-6898904"
+externalUrl: "https://www.deutschebahn.com/en/Digitalization/startups/dbmindbox-6935420"
 focusAreas:
   - "Mobility Tech"
   - "Rail and Logistics"
@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "DB mindbox is Deutsche Bahn's startup accelerator running funded proof-of-concept pilots with DB business units across rail, mobility, and logistics tech."
+resources:
+  - src: "feature.jpg"
+    title: "DB mindbox"
+    params:
+      source: "https://www.deutschebahn.com/resource/image/6953530/16:9/1200/630/dc979af8a915ab11004af1be13176200/78D7F4FC7775811EC7A91424433CAFE5/B9H1B500_Header.jpg"
+      sourceLabel: "Deutsche Bahn official image"
 ---
 
 ## Overview

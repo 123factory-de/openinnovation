@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Porsche Ventures is Porsche's corporate venture capital unit making strategic investments in mobility, automotive, sustainability, and deep-tech startups."
+resources:
+  - src: "feature.jpg"
+    title: "Porsche Ventures"
+    params:
+      source: "https://newsroom.porsche.com/en/company/porsche-and-start-ups/porsche-ventures.html"
+      sourceLabel: "Porsche official image"
 ---
 
 ## Overview

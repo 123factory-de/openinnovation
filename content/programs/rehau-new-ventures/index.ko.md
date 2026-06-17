@@ -1,12 +1,10 @@
 ---
-featureBg: "#000000"
-featureLogo: true
 title: "REHAU New Ventures"
 date: 2026-06-16
 draft: false
 company: "REHAU"
 industry: "제조"
-externalUrl: "https://www.rehau-newventures.com/en-en"
+externalUrl: "https://www.rehau-newventures.com/"
 focusAreas:
   - "폴리머 및 소재"
   - "건설"
@@ -17,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "REHAU New Ventures는 REHAU의 기업 벤처링과 오픈 이노베이션을 담당하는 부문으로, 폴리머, 건설, 지속가능성 분야 스타트업과 협업하고 투자합니다."
+resources:
+  - src: "feature.jpg"
+    title: "REHAU New Ventures"
+    params:
+      source: "https://www.rehau-newventures.com/"
+      sourceLabel: "REHAU official image"
 ---
 
 ## 개요

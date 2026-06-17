@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "SpinLab은 라이프치히에 기반을 둔 지분 무상 액셀러레이터로, 멘토링과 함께 다양한 산업을 아우르는 폭넓은 기업·투자자 네트워크를 활용할 수 있게 해 줍니다."
+resources:
+  - src: "feature.jpg"
+    title: "SpinLab - The HHL Accelerator"
+    params:
+      source: "https://www.spinlab.co/hubfs/Images/Redesign%20Images/SpinLab/SK8_2343.jpg"
+      sourceLabel: "HHL Leipzig Graduate School of Management official image"
 ---
 
 ## 개요

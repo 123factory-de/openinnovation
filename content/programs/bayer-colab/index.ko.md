@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Bayer Co.Lab은 Bayer의 생명과학 인큐베이터로, Co.Lab Berlin을 비롯한 여러 거점에서 바이오테크 및 헬스테크 스타트업에 실험 공간과 멘토링을 제공합니다."
+resources:
+  - src: "feature.jpg"
+    title: "Bayer Co.Lab"
+    params:
+      source: "https://skipsolabs-bayer.s3.eu-west-1.amazonaws.com/frontend/CoLab_all_4_Locations_on-scree_Logo_100dpi_RGB.jpg"
+      sourceLabel: "Bayer official image"
 ---
 
 ## 개요

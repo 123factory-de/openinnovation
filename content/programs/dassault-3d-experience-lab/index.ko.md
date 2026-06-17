@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Dassault Systemes의 오픈 이노베이션 랩이자 액셀러레이터로, 3D 설계 및 시뮬레이션 도구, 멘토링, 자원을 통해 딥테크 및 하드웨어 스타트업을 지원합니다."
+resources:
+  - src: "feature.jpg"
+    title: "3DEXPERIENCE Lab"
+    params:
+      source: "https://www.3ds.com/assets/invest/styles/card_og_image/public/2025-07/velizy-showroom.jpg"
+      sourceLabel: "Dassault Systemes official image"
 ---
 
 ## 개요

@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Axel Springer Plug and Play"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Axel Springer Plug and Play is an accelerator connecting startups with corporate partners and investors, with a strong focus on media and digital ventures."
+resources:
+  - src: "feature.jpg"
+    title: "Axel Springer headquarters in Berlin"
+    params:
+      source: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Berlin%2C_Kreuzberg%2C_Rudi-Dutschke-Strasse%2C_Axel-Springer-Hochhaus.jpg"
+      sourceLabel: "Wikimedia Commons press image"
 ---
 
 ## Overview

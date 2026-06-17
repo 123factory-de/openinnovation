@@ -227,6 +227,11 @@
     width: 100%;
   }
 
+  /* Photos that should not be cropped: contain inside the box (bars show the media background) */
+  .oi-card-media.is-contain img {
+    object-fit: contain;
+  }
+
   /* Logos: light plate + contain so dark/colored marks stay readable and uncropped */
   .oi-card-media.is-logo,
   .dark .oi-card-media.is-logo {
@@ -490,11 +495,12 @@
       {{ end }}
       {{ $bg := $page.Params.featureBg }}
       {{ if $bg }}{{ $isLogo = true }}{{ end }}
+      {{ $isContain := $page.Params.featureContain }}
 
       {{ $focusAreas := .Params.focusAreas | default (slice) }}
       {{ $industry := .Params.industry | default "" }}
       <article class="oi-card" data-industry="{{ $industry }}" data-focus-areas="{{ delimit $focusAreas "||" }}">
-        <a class="oi-card-media{{ if $isLogo }} is-logo{{ end }}{{ if $logoDark }} is-logo-dark{{ end }}"{{ with $bg }} style="{{ printf "background:%s;border-color:%s" . . | safeCSS }}"{{ end }} href="{{ $page.RelPermalink }}" aria-label="{{ $page.Title }}">
+        <a class="oi-card-media{{ if $isLogo }} is-logo{{ end }}{{ if $logoDark }} is-logo-dark{{ end }}{{ if $isContain }} is-contain{{ end }}"{{ with $bg }} style="{{ printf "background:%s;border-color:%s" . . | safeCSS }}"{{ end }} href="{{ $page.RelPermalink }}" aria-label="{{ $page.Title }}">
           {{ with $featuredURL }}
             <img src="{{ . }}" alt="" loading="lazy" decoding="async">
           {{ else }}

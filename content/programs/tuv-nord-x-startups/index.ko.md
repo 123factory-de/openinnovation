@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "TUV NORD"
 industry: "제조"
-externalUrl: "https://www.tuev-nord.de/de/startups/homepage/"
+externalUrl: "https://www.tuev-nord-group.com/en/company/innovation/"
 focusAreas:
   - "시험 및 인증"
   - "안전"

@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Google LaunchPad Accelerator offers equity-free accelerator programs from Google for Developers, providing technical mentorship and resources to help startups scale."
+resources:
+  - src: "feature.jpg"
+    title: "Google LaunchPad Accelerator"
+    params:
+      source: "https://developers.google.com/static/community/accelerators/programs/img/deepmind.jpg"
+      sourceLabel: "Google official image"
 ---
 
 ## Overview

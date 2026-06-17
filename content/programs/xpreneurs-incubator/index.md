@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "XPRENEURS is UnternehmerTUM's incubator for deep-tech and B2B startups, offering intensive mentoring and access to investors."
+resources:
+  - src: "feature.jpg"
+    title: "XPRENEURS Incubator"
+    params:
+      source: "https://ut-um.transforms.svdcdn.com/production/media/images/services/xpreneurs/services-xpreneurs.jpg?w=1200&h=630&q=82&auto=format&fit=crop&dm=1590774763&s=aaf0cca83fc01ca6bb71154786592565"
+      sourceLabel: "UnternehmerTUM official image"
 ---
 
 ## Overview

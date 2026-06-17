@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Siemens"
 industry: "Manufacturing"
-externalUrl: "https://next47.com/"
+externalUrl: "https://www.n47.com/"
 focusAreas:
   - "Industrial Technology"
   - "B2B Software"
@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Next47 is a Siemens-backed independent global venture firm investing in growth-stage B2B and industrial technology startups and scaleups."
+resources:
+  - src: "feature.png"
+    title: "Next47"
+    params:
+      source: "https://cdn.prod.website-files.com/6846bf604cd20cc47e2b90b5/68a327fd7e1c857e33d4bd66_OG%20image.png"
+      sourceLabel: "Siemens official image"
 ---
 
 ## Overview

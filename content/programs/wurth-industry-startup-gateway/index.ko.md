@@ -16,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Wurth Industry Start-up Gateway는 산업, 물류, C-parts 스타트업과 협력하여 공동 개념증명을 통해 공급망·조달 혁신을 추진합니다."
+resources:
+  - src: "feature.png"
+    title: "Wurth Industry Start-up Gateway"
+    params:
+      source: "https://www.wuerth-industrie.com/web/media/pictures/wuerthindustrie/unternehmen/start_up/startup_innovation_res_wl2_frontpage_1200.png"
+      sourceLabel: "Wurth Industry official image"
 ---
 
 ## 개요

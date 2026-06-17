@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "ZEISS Innovation Hubs co-locate startups and researchers with ZEISS to drive deep-tech, optics, and semiconductor collaboration in shared innovation spaces."
+resources:
+  - src: "feature.jpg"
+    title: "ZEISS Innovation Hub"
+    params:
+      source: "https://www.zeiss.com/content/dam/cco/reference-master/about-us/future/new-business/zeiss-innovation-hubs/images/innovation-hubs.jpg"
+      sourceLabel: "ZEISS official image"
 ---
 
 ## Overview

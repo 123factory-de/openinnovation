@@ -16,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "NetApp Excellerator는 데이터, 클라우드, 딥테크 분야에서 멘토링, 기술 자원, 개념증명 기회를 제공하는 B2B 스타트업 액셀러레이터입니다."
+resources:
+  - src: "feature.jpg"
+    title: "NetApp Excellerator"
+    params:
+      source: "https://startup.netapp.in/assets/images/Insights/ai-submit/Microsoft-AI-Ecosystem-Panel-Discussion.jpg"
+      sourceLabel: "NetApp official image"
 ---
 
 ## 개요

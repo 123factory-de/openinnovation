@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "CUBIC Start Hub Program은 식품 가공, 모빌리티, 첨단 소재 분야에서 스타트업 협업과 개념증명 프로젝트를 위한 Buhler의 혁신 허브입니다."
+resources:
+  - src: "feature.jpg"
+    title: "CUBIC Start Hub Program"
+    params:
+      source: "https://www.buhlergroup.com/global/de/about-us/cubic-start-hub.html"
+      sourceLabel: "Buhler Group official image"
 ---
 
 ## 개요

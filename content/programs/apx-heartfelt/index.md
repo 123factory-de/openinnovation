@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "APX"
 industry: "Cross-Industry"
-externalUrl: "https://heartfelt.capital/pitch"
+externalUrl: "https://pitch.heartfelt.vc/"
 focusAreas:
   - "Early-Stage Investment"
   - "Pre-Seed Funding"
@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Heartfelt_ is an early-stage pitch and investment initiative from APX, backed by Axel Springer and Porsche, supporting founders at the earliest stages."
+resources:
+  - src: "feature.png"
+    title: "Heartfelt_"
+    params:
+      source: "https://storage.tally.so/8bd113ca-1c1e-4cfb-a4af-78e686999248/Team-picture-with-Manuel-4-2-.png"
+      sourceLabel: "APX official image"
 ---
 
 ## Overview

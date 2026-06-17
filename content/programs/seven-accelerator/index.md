@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Seven Accelerator is ProSiebenSat.1's early-stage program (via Commerce & Ventures) that supports consumer and digital startups with media reach and media-for-equity investment."
+resources:
+  - src: "feature.jpg"
+    title: "Seven Accelerator"
+    params:
+      source: "https://s3-images.t1p-publishing.aws.route71.net/2023/08/01/e1450c76-5624-4b05-8fd5-c845a8990754.jpeg"
+      sourceLabel: "Commerce & Ventures official image"
 ---
 
 ## Overview

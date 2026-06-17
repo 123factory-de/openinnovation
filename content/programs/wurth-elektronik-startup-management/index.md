@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Wurth Elektronik Start-up Management supports startups with electronic components, hardware development assistance, and partnership opportunities."
+resources:
+  - src: "feature.jpg"
+    title: "Wurth Elektronik Start-up Management"
+    params:
+      source: "https://www.we-online.com/apps/services/image.cfm?source=jpg1/_dsc3161-12.jpg"
+      sourceLabel: "Wurth Elektronik official image"
 ---
 
 ## Overview

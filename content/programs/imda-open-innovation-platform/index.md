@@ -5,7 +5,7 @@ date: 2026-06-08
 draft: false
 company: IMDA Singapore
 industry: "ICT"
-externalUrl: https://www.openinnovation.sg/
+externalUrl: https://www.openinnovation.gov.sg/
 focusAreas:
 - Business Challenges
 - Digital Transformation
@@ -23,7 +23,7 @@ resources:
 - src: feature.png
   title: IMDA Open Innovation Platform
   params:
-    source: https://www.openinnovation.sg/
+    source: https://www.openinnovation.gov.sg/
     sourceLabel: IMDA Open Innovation Platform official inline image
 ---
 

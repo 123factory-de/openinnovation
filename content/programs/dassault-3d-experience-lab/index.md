@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Dassault Systemes' open innovation lab and accelerator supports deep-tech and hardware startups with 3D design and simulation tools, mentoring, and resources."
+resources:
+  - src: "feature.jpg"
+    title: "3DEXPERIENCE Lab"
+    params:
+      source: "https://www.3ds.com/assets/invest/styles/card_og_image/public/2025-07/velizy-showroom.jpg"
+      sourceLabel: "Dassault Systemes official image"
 ---
 
 ## Overview

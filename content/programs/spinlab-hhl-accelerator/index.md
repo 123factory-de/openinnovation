@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "SpinLab is a Leipzig-based, equity-free accelerator offering mentoring and access to a broad corporate and investor network across sectors."
+resources:
+  - src: "feature.jpg"
+    title: "SpinLab - The HHL Accelerator"
+    params:
+      source: "https://www.spinlab.co/hubfs/Images/Redesign%20Images/SpinLab/SK8_2343.jpg"
+      sourceLabel: "HHL Leipzig Graduate School of Management official image"
 ---
 
 ## Overview

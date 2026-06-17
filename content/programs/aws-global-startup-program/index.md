@@ -1,6 +1,4 @@
 ---
-featureBg: "#232f3e"
-featureLogo: true
 title: "AWS Global Startup Program"
 date: 2026-06-16
 draft: false
@@ -18,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "The AWS Global Startup Program supports later-stage startups with co-sell opportunities, technical and go-to-market support, and cloud credits."
+resources:
+  - src: "feature.png"
+    title: "AWS Global Startup Program"
+    params:
+      source: "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/partners/approved/images/aws-global-startup-video.314cd780ae92c62b95da9fe699efe4b99a73d67d.png"
+      sourceLabel: "Amazon Web Services official image"
 ---
 
 ## Overview

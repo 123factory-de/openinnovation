@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Reliance JioGenNext"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Reliance JioGenNext is Jio's startup accelerator that helps digital, mobile, and consumer-tech founders scale through mentorship and access to the Indian market and Jio ecosystem."
+resources:
+  - src: "feature.jpg"
+    title: "Reliance Jio headquarters building"
+    params:
+      source: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jio_LYF_building.jpg"
+      sourceLabel: "Wikimedia Commons press image"
 ---
 
 ## Overview

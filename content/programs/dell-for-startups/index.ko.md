@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Dell for Startups는 기술, 자문 지원, 파트너 혜택을 제공하여 스타트업이 Dell Technologies와 함께 인프라를 확장하도록 돕습니다."
+resources:
+  - src: "feature.png"
+    title: "Dell for Startups"
+    params:
+      source: "https://dellforstartups.com/"
+      sourceLabel: "Dell Technologies official image"
 ---
 
 ## 개요

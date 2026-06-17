@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Media Tech Hub Accelerator"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Media Tech Hub Accelerator는 포츠담-바벨스베르크의 미디어 테크, 이머시브 미디어, AI 스타트업을 멘토링과 생태계 연결을 통해 지원합니다."
+resources:
+  - src: "feature.jpg"
+    title: "Media Tech Hub Accelerator"
+    params:
+      source: "https://mth-potsdam.de/accelerator/"
+      sourceLabel: "Media Tech Hub Potsdam official image"
 ---
 
 ## 개요

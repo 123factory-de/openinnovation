@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Unilever Ventures"
 date: 2026-06-16
 draft: false
@@ -17,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Unilever Ventures is Unilever's venture capital and private equity arm, investing in beauty, personal care, and digital commerce companies poised for growth."
+resources:
+  - src: "feature.jpg"
+    title: "Unilever Ventures"
+    params:
+      source: "https://www.unileverventures.com/wp-content/uploads/2023/12/INKEY-IMG_3692-Inkey-e1702469621448.jpg"
+      sourceLabel: "Unilever official image"
 ---
 
 ## Overview

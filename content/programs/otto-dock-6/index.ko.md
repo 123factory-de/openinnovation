@@ -13,6 +13,7 @@ focusAreas:
 eligibility:
   - "스타트업"
 status: "운영 중"
+featureContain: true
 deadline: ""
 summary: "OTTO DOCK 6은 이커머스 리테일 기업 OTTO의 벤처·혁신 조직으로, 커머스 및 리테일 테크 스타트업을 구축하고 투자합니다."
 resources:

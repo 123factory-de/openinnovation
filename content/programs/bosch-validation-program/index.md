@@ -16,7 +16,7 @@ status: "Active"
 deadline: ""
 summary: "The Bosch Validation Program, run by Bosch Innovation Consulting, helps validate business ideas and ventures through market validation and incubation support."
 resources:
-  - src: "feature.png"
+  - src: "feature.jpg"
     title: "Bosch Validation Program"
     params:
       source: "https://www.bosch-innovation-consulting.com/de/images/content/design-ohne-titel-(23).png"

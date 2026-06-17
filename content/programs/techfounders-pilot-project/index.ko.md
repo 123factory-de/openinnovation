@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "TechFounders Pilot Project는 스타트업과 기업을 매칭하여 산업 및 B2B 기술에 중점을 둔 파일럿 프로젝트와 개념증명을 진행합니다."
+resources:
+  - src: "feature.webp"
+    title: "TechFounders Pilot Project"
+    params:
+      source: "https://techfounders.com/"
+      sourceLabel: "TechFounders official image"
 ---
 
 ## 개요

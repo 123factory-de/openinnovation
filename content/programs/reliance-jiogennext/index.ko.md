@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Reliance JioGenNext"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Reliance JioGenNext는 디지털, 모바일, 소비자 기술 창업자가 멘토링을 받고 인도 시장과 Jio 생태계를 활용해 성장하도록 돕는 Jio의 스타트업 액셀러레이터입니다."
+resources:
+  - src: "feature.jpg"
+    title: "Reliance Jio 본사 건물"
+    params:
+      source: "https://upload.wikimedia.org/wikipedia/commons/d/d4/Jio_LYF_building.jpg"
+      sourceLabel: "Wikimedia Commons 보도 이미지"
 ---
 
 ## 개요

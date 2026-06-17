@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "TechFounders Pilot Project matches startups with corporates to run pilot projects and proofs of concept, focused on industrial and B2B technology."
+resources:
+  - src: "feature.webp"
+    title: "TechFounders Pilot Project"
+    params:
+      source: "https://techfounders.com/"
+      sourceLabel: "TechFounders official image"
 ---
 
 ## Overview

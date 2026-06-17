@@ -16,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Porsche Ventures는 Porsche의 기업형 벤처캐피털 부문으로, 모빌리티, 자동차, 지속가능성, 딥테크 스타트업에 전략적으로 투자합니다."
+resources:
+  - src: "feature.jpg"
+    title: "Porsche Ventures"
+    params:
+      source: "https://newsroom.porsche.com/en/company/porsche-and-start-ups/porsche-ventures.html"
+      sourceLabel: "Porsche official image"
 ---
 
 ## 개요

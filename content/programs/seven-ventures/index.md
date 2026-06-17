@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "SevenVentures is ProSiebenSat.1's media investment arm, offering media-for-equity and media-for-revenue deals that give growth-stage consumer brands access to TV advertising reach."
+resources:
+  - src: "feature.jpg"
+    title: "SevenVentures"
+    params:
+      source: "https://s3-images.t1p-publishing.aws.route71.net/2024/09/12/b34eb5d9-60ba-47eb-84ec-0b26bbbb482b.jpeg"
+      sourceLabel: "Commerce & Ventures official image"
 ---
 
 ## Overview

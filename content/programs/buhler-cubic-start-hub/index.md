@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "The CUBIC Start Hub Program is Buhler's innovation hub for startup collaboration and proof-of-concept projects across food processing, mobility, and advanced materials."
+resources:
+  - src: "feature.jpg"
+    title: "CUBIC Start Hub Program"
+    params:
+      source: "https://www.buhlergroup.com/global/de/about-us/cubic-start-hub.html"
+      sourceLabel: "Buhler Group official image"
 ---
 
 ## Overview

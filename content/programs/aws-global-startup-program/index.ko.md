@@ -1,6 +1,4 @@
 ---
-featureBg: "#232f3e"
-featureLogo: true
 title: "AWS Global Startup Program"
 date: 2026-06-16
 draft: false
@@ -18,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "AWS Global Startup Program은 후기 단계 스타트업에게 공동 판매 기회, 기술 및 시장 진출 지원, 클라우드 크레딧을 제공합니다."
+resources:
+  - src: "feature.png"
+    title: "AWS Global Startup Program"
+    params:
+      source: "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/partners/approved/images/aws-global-startup-video.314cd780ae92c62b95da9fe699efe4b99a73d67d.png"
+      sourceLabel: "Amazon Web Services official image"
 ---
 
 ## 개요

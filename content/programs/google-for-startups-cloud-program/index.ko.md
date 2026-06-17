@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Google for Startups Cloud Program"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Google for Startups Cloud Program은 스타트업이 Google Cloud Platform에서 제품을 구축하고 확장하도록 클라우드 크레딧, 기술 지원, AI 도구를 제공합니다."
+resources:
+  - src: "feature.webp"
+    title: "Google for Startups Cloud Program"
+    params:
+      source: "https://startup.google.com/cloud/"
+      sourceLabel: "Google official image"
 ---
 
 ## 개요

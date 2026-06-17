@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Google for Startups Cloud Program"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Google for Startups Cloud Program provides Google Cloud credits, technical support, and AI tools to help startups build and scale on Google Cloud Platform."
+resources:
+  - src: "feature.webp"
+    title: "Google for Startups Cloud Program"
+    params:
+      source: "https://startup.google.com/cloud/"
+      sourceLabel: "Google official image"
 ---
 
 ## Overview

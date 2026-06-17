@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "HHLA NEXT는 HHLA의 벤처 빌딩 부문으로, 해양, 물류, 항만 기술 분야에서 벤처를 구축하고 스타트업과 협력합니다."
+resources:
+  - src: "feature.png"
+    title: "HHLA NEXT"
+    params:
+      source: "https://hhla-next.de/de"
+      sourceLabel: "HHLA official image"
 ---
 
 ## 개요

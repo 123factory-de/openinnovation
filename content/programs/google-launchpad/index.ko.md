@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Google LaunchPad"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Google LaunchPad는 창업자와 스타트업이 제품을 구축하고 확장할 수 있도록 클라우드 리소스, 기술 가이드, 멘토링을 제공하는 프로그램입니다."
+resources:
+  - src: "feature.webp"
+    title: "Google LaunchPad"
+    params:
+      source: "https://startup.google.com/programs/accelerator/"
+      sourceLabel: "Google official image"
 ---
 
 ## 개요

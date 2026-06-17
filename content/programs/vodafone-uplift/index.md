@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Vodafone UPLIFT is a startup collaboration and accelerator program focused on connectivity, IoT, and digital solutions, running proof-of-concept projects with Vodafone units."
+resources:
+  - src: "feature.jpg"
+    title: "Vodafone UPLIFT"
+    params:
+      source: "https://www.vodafone.de/business/media/1x-dimetor-x-vodafone-uplift-m.jpeg"
+      sourceLabel: "Vodafone official image"
 ---
 
 ## Overview

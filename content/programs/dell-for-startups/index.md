@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Dell for Startups offers technology, advisory support, and partner benefits to help startups scale their infrastructure with Dell Technologies."
+resources:
+  - src: "feature.png"
+    title: "Dell for Startups"
+    params:
+      source: "https://dellforstartups.com/"
+      sourceLabel: "Dell Technologies official image"
 ---
 
 ## Overview

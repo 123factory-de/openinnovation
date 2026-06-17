@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Seven Accelerator는 ProSiebenSat.1이 Commerce & Ventures를 통해 운영하는 초기 단계 프로그램으로, 미디어 도달력과 미디어-포-에쿼티 투자로 소비자 및 디지털 스타트업을 지원합니다."
+resources:
+  - src: "feature.jpg"
+    title: "Seven Accelerator"
+    params:
+      source: "https://s3-images.t1p-publishing.aws.route71.net/2023/08/01/e1450c76-5624-4b05-8fd5-c845a8990754.jpeg"
+      sourceLabel: "Commerce & Ventures official image"
 ---
 
 ## 개요

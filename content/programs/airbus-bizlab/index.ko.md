@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Airbus BizLab은 가속화 및 개념증명 프로젝트를 통해 항공우주, 모빌리티, 국방 분야의 스타트업과 Airbus 내부 창업가를 지원하는 글로벌 항공우주 액셀러레이터입니다."
+resources:
+  - src: "feature.jpg"
+    title: "Airbus BizLab"
+    params:
+      source: "https://www.airbus.com/sites/g/files/jlcbta136/files/styles/w750h1140/public/2021-11/bizlab-teaser-2.jpg?itok=lj8nOGVT"
+      sourceLabel: "Airbus official image"
 ---
 
 ## 개요

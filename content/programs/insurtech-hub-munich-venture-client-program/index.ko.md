@@ -1,6 +1,4 @@
 ---
-featureBg: "#10b6e6"
-featureLogo: true
 title: "Venture Client Program - InsurTech Hub Munich"
 date: 2026-06-16
 draft: false
@@ -17,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "InsurTech Hub Munich의 Venture Client Program은 보험·금융 스타트업을 대기업과 연결해 유상 파일럿 프로젝트를 진행합니다."
+resources:
+  - src: "feature.webp"
+    title: "Venture Client Program - InsurTech Hub Munich"
+    params:
+      source: "https://www.insurtech-munich.com/themen/venture-client-programme/"
+      sourceLabel: "InsurTech Hub Munich official image"
 ---
 
 ## 개요

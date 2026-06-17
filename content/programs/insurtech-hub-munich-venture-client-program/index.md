@@ -1,6 +1,4 @@
 ---
-featureBg: "#10b6e6"
-featureLogo: true
 title: "Venture Client Program - InsurTech Hub Munich"
 date: 2026-06-16
 draft: false
@@ -17,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "The InsurTech Hub Munich Venture Client Program matches insurance and finance startups with corporates for paid pilot projects."
+resources:
+  - src: "feature.webp"
+    title: "Venture Client Program - InsurTech Hub Munich"
+    params:
+      source: "https://www.insurtech-munich.com/themen/venture-client-programme/"
+      sourceLabel: "InsurTech Hub Munich official image"
 ---
 
 ## Overview

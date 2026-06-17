@@ -15,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Startup the Future is an Industrie 4.0 Baden-Wuerttemberg initiative connecting industrial startups with manufacturers to advance digital production."
+resources:
+  - src: "feature.png"
+    title: "Startup the Future"
+    params:
+      source: "https://www.i40-bw.de/wp-content/uploads/2021/06/STF-2021_Infoletter.png"
+      sourceLabel: "Allianz Industrie 4.0 Baden-Wuerttemberg official image"
 ---
 
 ## Overview

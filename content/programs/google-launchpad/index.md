@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Google LaunchPad"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Google LaunchPad supports founders and startups with cloud resources, technical guidance, and mentorship to help them build and scale their products."
+resources:
+  - src: "feature.webp"
+    title: "Google LaunchPad"
+    params:
+      source: "https://startup.google.com/programs/accelerator/"
+      sourceLabel: "Google official image"
 ---
 
 ## Overview

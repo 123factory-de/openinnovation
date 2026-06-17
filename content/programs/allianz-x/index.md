@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Allianz X"
 date: 2026-06-16
 draft: false
@@ -17,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Allianz X is Allianz's digital investment unit making growth-stage investments and forming partnerships across insurtech, fintech, and healthtech."
+resources:
+  - src: "feature.jpg"
+    title: "Allianz X"
+    params:
+      source: "https://allianzx.com/fileadmin/user_upload/0_unsorted/harshit-joshi-trGhiLiRgsI-unsplash.jpg"
+      sourceLabel: "Allianz official image"
 ---
 
 ## Overview

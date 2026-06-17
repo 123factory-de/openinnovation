@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Axel Springer Plug and Play"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Axel Springer Plug and Play는 스타트업을 기업 파트너 및 투자자와 연결하는 액셀러레이터로, 미디어 및 디지털 벤처에 중점을 둡니다."
+resources:
+  - src: "feature.jpg"
+    title: "베를린의 Axel Springer 본사"
+    params:
+      source: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Berlin%2C_Kreuzberg%2C_Rudi-Dutschke-Strasse%2C_Axel-Springer-Hochhaus.jpg"
+      sourceLabel: "Wikimedia Commons 보도 이미지"
 ---
 
 ## 개요

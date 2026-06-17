@@ -13,6 +13,7 @@ focusAreas:
 eligibility:
   - "Startups"
 status: "Active"
+featureContain: true
 deadline: ""
 summary: "OTTO DOCK 6 is the venture and innovation arm of e-commerce retailer OTTO, building and investing in commerce and retail tech startups."
 resources:

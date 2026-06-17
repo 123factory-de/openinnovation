@@ -16,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Seven Growth는 ProSiebenSat.1이 Commerce & Ventures를 통해 운영하는 성장 단계 투자 사업부로, 자본과 미디어 파워로 소비자 및 디지털 기업의 스케일업을 지원합니다."
+resources:
+  - src: "feature.jpg"
+    title: "Seven Growth"
+    params:
+      source: "https://s3-images.t1p-publishing.aws.route71.net/2023/08/07/bc6d71db-86bc-4960-b589-38d08239a6f1.jpeg"
+      sourceLabel: "Commerce & Ventures official image"
 ---
 
 ## 개요

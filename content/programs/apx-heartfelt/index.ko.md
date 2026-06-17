@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Heartfelt_는 Axel Springer와 Porsche가 후원하는 APX의 초기 단계 피칭 및 투자 이니셔티브로, 가장 이른 단계의 창업자를 지원합니다."
+resources:
+  - src: "feature.png"
+    title: "Heartfelt_"
+    params:
+      source: "https://storage.tally.so/8bd113ca-1c1e-4cfb-a4af-78e686999248/Team-picture-with-Manuel-4-2-.png"
+      sourceLabel: "APX official image"
 ---
 
 ## 개요

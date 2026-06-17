@@ -16,6 +16,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Next47은 성장 단계의 B2B·산업 기술 스타트업과 스케일업에 투자하는 Siemens 지원 독립 글로벌 벤처 기업입니다."
+resources:
+  - src: "feature.png"
+    title: "Next47"
+    params:
+      source: "https://cdn.prod.website-files.com/6846bf604cd20cc47e2b90b5/68a327fd7e1c857e33d4bd66_OG%20image.png"
+      sourceLabel: "Siemens official image"
 ---
 
 ## 개요

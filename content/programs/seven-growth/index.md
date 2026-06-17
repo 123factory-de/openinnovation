@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Seven Growth is ProSiebenSat.1's growth-stage investment arm (via Commerce & Ventures) that helps consumer and digital businesses scale with capital and media power."
+resources:
+  - src: "feature.jpg"
+    title: "Seven Growth"
+    params:
+      source: "https://s3-images.t1p-publishing.aws.route71.net/2023/08/07/bc6d71db-86bc-4960-b589-38d08239a6f1.jpeg"
+      sourceLabel: "Commerce & Ventures official image"
 ---
 
 ## Overview

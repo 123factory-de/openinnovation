@@ -15,6 +15,12 @@ eligibility:
 status: "운영 중"
 deadline: ""
 summary: "Vodafone UPLIFT는 커넥티비티, IoT, 디지털 솔루션에 집중하며 Vodafone 사업부와 개념증명 프로젝트를 진행하는 스타트업 협업 및 액셀러레이터 프로그램입니다."
+resources:
+  - src: "feature.jpg"
+    title: "Vodafone UPLIFT"
+    params:
+      source: "https://www.vodafone.de/business/media/1x-dimetor-x-vodafone-uplift-m.jpeg"
+      sourceLabel: "Vodafone official image"
 ---
 
 ## 개요

@@ -1,5 +1,4 @@
 ---
-featureLogo: true
 title: "Thuringian Regional Innovation Program (TRIP)"
 date: 2026-06-16
 draft: false
@@ -16,6 +15,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "TRIP is a regional innovation and acceleration program in Thuringia that supports founders through community, coaching, and structured acceleration."
+resources:
+  - src: "feature.jpg"
+    title: "Thuringian Regional Innovation Program (TRIP)"
+    params:
+      source: "https://trip.community/wp-content/uploads/2024/07/20240306_TRIP-Demo-Day_Foto_Thomas_Mueller063.jpg"
+      sourceLabel: "Stiftung fuer Technologie, Innovation und Forschung Thueringen official image"
 ---
 
 ## Overview

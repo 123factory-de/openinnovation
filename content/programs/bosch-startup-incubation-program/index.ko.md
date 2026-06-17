@@ -19,7 +19,7 @@ summary: "Bosch Innovation Consulting이 운영하는 Bosch Start-Up Incubation 
 
 ## 개요
 
-Bosch Start-Up Incubation Program은 아이디어 단계부터 확장까지 신규 벤처와 스타트업을 지원하기 위해 Bosch Innovation Consulting이 운영하는 프로그램입니다. 벤처 구축 초기 단계 전반에 걸쳐 체계적인 인큐베이션 가이드를 제공합니다. Bosch의 혁신 전문성을 바탕으로 실질적인 지원을 원하는 스타트업과 벤처 팀이 활용할 수 있는 프로그램입니다.
+Bosch Start-Up Incubation Program은 아이디어 단계부터 확장까지 신규 벤처와 스타트업을 지원하기 위해 Bosch Innovation Consulting이 운영하는 프로그램입니다. 벤처 구축 초기 단계 전반에 걸쳐 체계적인 인큐베이션 가이드를 제공합니다. Bosch의 혁신 전문성을 바탕으로 실질적인 지원을 받고 싶다면, 이 프로그램을 활용할 수 있습니다.
 
 ## 주요 분야
 

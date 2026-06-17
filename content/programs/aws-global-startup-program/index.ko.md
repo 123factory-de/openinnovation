@@ -40,5 +40,5 @@ AWS Global Startup Program은 AWS 기반으로 구축하는 후기 단계의 제
 
 ## 지원 방법
 
-- 공식 AWS Global Startup Program 페이지에서 자격 요건을 확인하고 지원하세요.
+- 공식 AWS Global Startup Program 페이지에서 자격 요건을 확인하고 지원할 수 있습니다.
 

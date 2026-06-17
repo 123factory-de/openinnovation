@@ -31,10 +31,10 @@ XPRENEURS는 유럽 최고의 혁신·창업 센터 중 하나인 UnternehmerTUM
 ## 혜택
 
 - 경험 많은 창업자와 전문가의 집중 멘토링
-- UnternehmerTUM의 투자자·파트너 네트워크를 활용할 수 있습니다
+- UnternehmerTUM의 투자자·파트너 네트워크 활용
 - 시장 진입을 가속하는 체계적인 커리큘럼
 
 ## 지원 방법
 
-- UnternehmerTUM XPRENEURS 공식 페이지에서 프로그램 일정과 지원 세부 사항을 확인하세요.
+- UnternehmerTUM XPRENEURS 공식 페이지에서 프로그램 일정과 지원 세부 사항을 확인할 수 있습니다.
 

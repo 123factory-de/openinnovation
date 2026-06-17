@@ -19,7 +19,7 @@ summary: "Robert Bosch Open Innovation Partnerships는 Bosch의 오픈 이노베
 
 ## 개요
 
-Robert Bosch Open Innovation Partnerships는 Bosch가 사업 영역 전반에서 스타트업과 기술을 발굴하고 함께 혁신하기 위해 운영하는 오픈 이노베이션 플랫폼입니다. 외부 혁신가를 관련 Bosch 팀과 연결해 솔루션을 공동으로 개발합니다. 글로벌 산업 기업과 파트너십을 맺고 함께 개발하려는 스타트업에게 활발한 협업 경로가 되고 있습니다.
+Robert Bosch Open Innovation Partnerships는 Bosch가 사업 영역 전반에서 스타트업과 기술을 발굴하고 함께 혁신하기 위해 운영하는 오픈 이노베이션 플랫폼입니다. 외부 혁신가를 관련 Bosch 팀과 연결해 솔루션을 공동으로 개발합니다. 글로벌 산업 기업과 파트너십을 맺고 함께 개발하고 싶다면, 이 프로그램을 협업 경로로 활용할 수 있습니다.
 
 ## 주요 분야
 

@@ -37,5 +37,5 @@ Lufthansa Innovation Hub은 여행과 모빌리티의 미래를 탐색하고 만
 
 ## 지원 방법
 
-- 공식 Lufthansa Innovation Hub 사이트를 통해 파트너십 및 협업 기회를 문의하세요.
+- 공식 Lufthansa Innovation Hub 사이트를 통해 파트너십 및 협업 기회를 문의할 수 있습니다.
 

@@ -28,7 +28,7 @@ resources:
 
 ## 개요
 
-Bosch Corporate Innovation Gateway는 Bosch가 스타트업, 대학, 대기업, 기술 파트너의 협업 제안을 받기 위해 운영하는 글로벌 창구입니다. 자동화, 모빌리티, 제조 기술 등 Bosch 관심 분야와 연결되는 기술을 보유한 조직은 제안을 검토할 수 있습니다.
+Bosch Corporate Innovation Gateway는 Bosch가 스타트업, 대학, 대기업, 기술 파트너의 협업 제안을 받기 위해 운영하는 글로벌 창구입니다. 자동화, 모빌리티, 제조 기술 등 Bosch의 관심 분야와 연결되는 기술을 보유한 조직은 협업을 제안할 수 있습니다.
 
 ## 주요 분야
 

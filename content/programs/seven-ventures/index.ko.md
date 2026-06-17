@@ -34,9 +34,9 @@ SevenVentures는 Commerce & Ventures가 운영하는 ProSiebenSat.1의 미디어
 - 미디어-포-에쿼티 및 미디어-포-레버뉴 투자
 - 대규모 TV 광고 도달력
 - 크로스미디어 캠페인 지원
-- ProSiebenSat.1 네트워크를 활용할 수 있습니다
+- ProSiebenSat.1 네트워크 활용
 
 ## 지원 방법
 
-- Commerce & Ventures 사이트의 공식 SevenVentures 페이지에서 세부 정보와 문의 방법을 확인하세요.
+- Commerce & Ventures 사이트의 공식 SevenVentures 페이지에서 세부 정보와 문의 방법을 확인할 수 있습니다.
 

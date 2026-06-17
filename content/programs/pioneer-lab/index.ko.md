@@ -37,5 +37,5 @@ Pioneer Lab은 Carl Remigius Fresenius Education Group의 인큐베이터이자 
 
 ## 지원 방법
 
-- 공식 Pioneer Lab 웹사이트에서 자세히 알아보고 참여하세요.
+- 공식 Pioneer Lab 웹사이트에서 자세히 알아보고 참여할 수 있습니다.
 

@@ -34,9 +34,9 @@ Seven Growth는 Commerce & Ventures가 운영하는 ProSiebenSat.1의 성장 단
 - 성장 단계 투자
 - 수요 확대를 뒷받침하는 미디어 파워
 - 브랜드와 시장 확장 지원
-- ProSiebenSat.1 생태계를 활용할 수 있습니다
+- ProSiebenSat.1 생태계 활용
 
 ## 지원 방법
 
-- Commerce & Ventures 사이트의 공식 Seven Growth 페이지에서 세부 정보를 확인하고 문의하세요.
+- Commerce & Ventures 사이트의 공식 Seven Growth 페이지에서 세부 정보를 확인하고 문의할 수 있습니다.
 

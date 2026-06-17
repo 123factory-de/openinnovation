@@ -25,7 +25,7 @@ resources:
 
 ## 개요
 
-SAP BTP Startup Program은 스타트업이 SAP Business Technology Platform(BTP) 위에서 애플리케이션을 구축하고 확장하도록 돕기 위해 SAP가 운영하는 프로그램입니다. SAP의 클라우드, AI, 분석 역량을 활용해 데이터를 가치로 전환하는 데 중점을 둡니다. SAP BTP에서 개발하고 엔터프라이즈 데이터와 폭넓은 SAP 생태계에 연동하려는 스타트업에게 활발한 성장 경로가 되고 있습니다.
+SAP BTP Startup Program은 스타트업이 SAP Business Technology Platform(BTP) 위에서 애플리케이션을 구축하고 확장하도록 돕기 위해 SAP가 운영하는 프로그램입니다. SAP의 클라우드, AI, 분석 역량을 활용해 데이터를 가치로 전환하는 데 중점을 둡니다. SAP BTP에서 개발하고 엔터프라이즈 데이터와 폭넓은 SAP 생태계에 연동하고 싶다면, 이 프로그램을 통해 성장 경로를 마련할 수 있습니다.
 
 ## 주요 분야
 

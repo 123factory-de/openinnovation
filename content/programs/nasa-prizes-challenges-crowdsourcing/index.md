@@ -15,8 +15,7 @@ eligibility:
 - Members Of The Public
 - Global Participants
 status: Active
-summary: NASA Prizes, Challenges, and Crowdsourcing is an open innovation program
-  run by NASA focused on Space Exploration, Aeronautics, Science.
+summary: "NASA Prizes, Challenges, and Crowdsourcing engage the public and global participants to help solve problems in space, aeronautics, and science."
 resources:
 - src: feature.jpg
   title: NASA Prizes, Challenges, and Crowdsourcing

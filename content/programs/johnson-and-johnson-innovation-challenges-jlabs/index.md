@@ -18,8 +18,7 @@ eligibility:
 - Students
 - JLABS Applicants
 status: Active
-summary: Johnson & Johnson Innovation Challenges / JLABS is an open innovation program
-  run by Johnson & Johnson Innovation focused on Medicine, Medtech, Digital Health.
+summary: "Johnson & Johnson Innovation Challenges and JLABS connect innovative companies and researchers across medicine, medtech, digital health, and life sciences."
 resources:
 - src: feature.png
   title: Johnson & Johnson Innovation

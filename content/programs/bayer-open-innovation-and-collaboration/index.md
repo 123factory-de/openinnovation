@@ -17,8 +17,7 @@ eligibility:
 - Researchers
 - Alliance Partners
 status: Always Open
-summary: Bayer Open Innovation and Collaboration is an open innovation program run
-  by Bayer focused on Health, Agriculture, Nutrition.
+summary: "Bayer Open Innovation and Collaboration is Bayer's channel for strategic collaboration and open innovation across health, agriculture, and nutrition."
 resources:
 - src: feature.svg
   title: Bayer Open Innovation and Collaboration

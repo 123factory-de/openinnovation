@@ -19,7 +19,6 @@ eligibility:
 - Innovators
 status: Active
 summary: "XPRIZE Active Competitions is a large-incentive, prize-based innovation program targeting global challenges in quantum, climate, health, food, and exploration."
-  focused on Quantum, Climate, Health.
 resources:
 - src: feature.svg
   title: XPRIZE

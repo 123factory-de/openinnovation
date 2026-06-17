@@ -16,7 +16,6 @@ eligibility:
 - Researchers
 status: Always Open
 summary: "AstraZeneca Open Innovation accepts external research collaborations in drug discovery, compounds, research tools, and disease biology on a rolling basis."
-  focused on Preclinical Research, Compounds, Research Tools.
 resources:
 - src: feature.png
   title: AstraZeneca Open Innovation

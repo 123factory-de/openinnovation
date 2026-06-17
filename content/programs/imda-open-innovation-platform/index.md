@@ -19,7 +19,6 @@ eligibility:
 - Problem Owners
 status: Active
 summary: "IMDA Open Innovation Platform is a challenge platform that opens digital problems from Singapore's enterprises and agencies to global solvers, startups, and research institutes."
-  focused on Business Challenges, Digital Transformation, Prototype Development.
 resources:
 - src: feature.png
   title: IMDA Open Innovation Platform

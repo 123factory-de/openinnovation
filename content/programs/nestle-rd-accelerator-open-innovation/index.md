@@ -19,8 +19,7 @@ eligibility:
 - SMEs
 - Innovation Partners
 status: Active
-summary: Nestle R+D Accelerator / Open Innovation is an open innovation program run
-  by Nestle focused on Food And Beverage Innovation, Nutrition, Packaging.
+summary: "Nestlé's R+D Accelerator and Open Innovation connect startups and research partners in food, nutrition, and packaging with Nestlé's R&D ecosystem."
 resources:
 - src: feature.webp
   title: Nestle R+D Accelerator / Open Innovation

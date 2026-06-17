@@ -16,7 +16,6 @@ eligibility:
 - Businesses
 status: Always Open
 summary: "Shell GameChanger is an open innovation program that continuously reviews early-stage, high-risk technology ideas in future energy and decarbonization."
-  Energy, Decarbonization, Early-Stage Technology.
 resources:
 - src: feature.jpg
   title: Shell GameChanger

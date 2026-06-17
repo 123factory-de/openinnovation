@@ -38,5 +38,5 @@ BASF Venture Capital은 세계 최대 화학 기업 중 하나인 BASF의 기업
 
 ## 지원 방법
 
-- BASF Venture Capital은 일반적으로 개념증명 이후에 투자합니다. BASF Venture Capital 공식 페이지에서 투자 분야와 연락처를 확인하고 논의를 시작하세요.
+- BASF Venture Capital은 일반적으로 개념증명 이후에 투자합니다. BASF Venture Capital 공식 페이지에서 투자 분야와 연락처를 확인하고 논의를 시작할 수 있습니다.
 

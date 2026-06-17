@@ -43,5 +43,5 @@ GO! Start-up Zentrum Oldenburg은 TGO Technologie- und Gruenderzentrum Oldenburg
 
 ## 지원 방법
 
-- 공식 센터 페이지에서 코칭, 공간, 창업 지원에 대한 세부 정보를 확인하고 문의하세요.
+- 공식 센터 페이지에서 코칭, 공간, 창업 지원에 대한 세부 정보를 확인하고 문의할 수 있습니다.
 

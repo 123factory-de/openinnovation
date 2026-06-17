@@ -30,7 +30,7 @@ resources:
 
 ## 개요
 
-Nestle의 Open Innovation과 R+D Accelerator는 식품, 영양, 패키징 혁신을 보유한 스타트업, 학생, 연구자, 중소기업, 혁신 파트너를 대상으로 합니다. 관심 있는 팀과 조직은 Nestle의 R&D 센터와 과제 기반 협업 가능성을 검토할 수 있습니다.
+Nestle의 Open Innovation과 R+D Accelerator는 식품, 영양, 패키징 혁신을 보유한 스타트업, 학생, 연구자, 중소기업, 혁신 파트너를 대상으로 합니다. Nestle의 R&D 센터와 과제 기반으로 협업할 가능성을 모색할 수 있습니다.
 
 ## 주요 분야
 

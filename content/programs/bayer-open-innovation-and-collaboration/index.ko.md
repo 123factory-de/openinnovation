@@ -28,7 +28,7 @@ resources:
 
 ## 개요
 
-Bayer Open Innovation and Collaboration은 Bayer가 헬스, 농업, 영양 분야에서 외부 파트너와 협업하는 방식을 소개하는 공식 채널입니다. 관심 있는 조직은 Bayer의 전략적 협업, 제휴, 투자 생태계와의 접점을 검토할 수 있으며, 공식 페이지의 협업 네트워크와 Global Form을 통해 협업 문의를 시작할 수 있습니다.
+Bayer Open Innovation and Collaboration은 Bayer가 헬스, 농업, 영양 분야에서 외부 파트너와 협업하는 방식을 소개하는 공식 채널입니다. Bayer의 전략적 협업·제휴·투자 생태계에 관심 있는 조직은 공식 페이지의 협업 네트워크를 살펴보고, Global Form을 통해 협업을 문의할 수 있습니다.
 
 ## 주요 분야
 

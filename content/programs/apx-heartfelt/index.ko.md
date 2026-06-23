@@ -3,13 +3,12 @@ title: "Heartfelt_"
 date: 2026-06-16
 draft: false
 company: "APX"
-industry: "다분야"
+industry:
+- "Business Products and Services"
 externalUrl: "https://pitch.heartfelt.vc/"
-focusAreas:
-  - "초기 단계 투자"
-  - "프리시드 투자"
-  - "창업자 지원"
-  - "피칭 및 멘토링"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "스타트업"
 status: "운영 중"

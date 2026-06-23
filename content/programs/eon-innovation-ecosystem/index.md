@@ -3,13 +3,13 @@ title: "E.ON Innovation Ecosystem"
 date: 2026-06-16
 draft: false
 company: "E.ON"
-industry: "Energy"
+industry:
+- "Energy"
 externalUrl: "https://www.eon.com/de/innovation/innovation-ecosystem.html"
-focusAreas:
-  - "Energy"
-  - "Smart Grids"
-  - "Artificial Intelligence"
-  - "Decarbonization"
+verticals:
+  - "Cleantech"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Climate Tech"
 eligibility:
   - "Startups"
 status: "Active"

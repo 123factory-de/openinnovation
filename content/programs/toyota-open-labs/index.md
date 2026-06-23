@@ -3,15 +3,13 @@ title: "Toyota Open Labs"
 date: 2026-06-09
 draft: false
 company: "Toyota Motor Europe"
-industry: "Automotive"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.toyotaopenlabs.com"
-focusAreas:
-  - "BEV Energy Ecosystem"
-  - "Hydrogen Ecosystem"
-  - "Carbon Capture and Reduction"
-  - "Circular Economy"
-  - "Smart Communities"
-  - "Mobility for All"
+verticals:
+  - "Mobility Tech"
+  - "Cleantech"
+  - "Climate Tech"
 eligibility:
   - "Startups"
   - "Scaleups"

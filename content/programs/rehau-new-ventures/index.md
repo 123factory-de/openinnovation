@@ -3,13 +3,13 @@ title: "REHAU New Ventures"
 date: 2026-06-16
 draft: false
 company: "REHAU"
-industry: "Manufacturing"
+industry:
+- "Materials and Resources"
 externalUrl: "https://www.rehau-newventures.com/"
-focusAreas:
-  - "Polymer and Materials"
-  - "Construction"
-  - "Sustainability"
-  - "Industrial Innovation"
+verticals:
+  - "Advanced Manufacturing"
+  - "Construction Technology"
+  - "Cleantech"
 eligibility:
   - "Startups"
 status: "Active"

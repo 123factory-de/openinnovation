@@ -3,12 +3,13 @@ title: "Open Bosch"
 date: 2026-06-08
 draft: false
 company: "Bosch Ventures"
-industry: "제조"
+industry:
+- "Business Products and Services"
 externalUrl: "https://bosch.ventures/open-bosch/"
-focusAreas:
-  - "벤처 클라이언트 파트너십"
-  - "스타트업 솔루션 검증"
-  - "Bosch 사업부 수요"
+verticals:
+  - "Advanced Manufacturing"
+  - "Internet of Things (IoT)"
+  - "Software as a Service (SaaS)"
 eligibility:
   - "스타트업"
 status: "상시 운영"

@@ -3,15 +3,13 @@ title: "Henkel Spark"
 date: 2026-06-08
 draft: false
 company: "Henkel"
-industry: "소비재"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.henkel.com/our-businesses/henkel-consumer-brands/open-innovation"
-focusAreas:
-  - "차세대 헤어 기술"
-  - "세탁 및 홈케어"
-  - "지속가능 원료"
-  - "탄소 포집 활용"
-  - "마테크 및 애드테크"
-  - "소비재 일반 과제"
+verticals:
+  - "Beauty"
+  - "Cleantech"
+  - "Marketing Tech"
 eligibility:
   - "연구자"
   - "학계"

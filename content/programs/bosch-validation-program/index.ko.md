@@ -3,13 +3,13 @@ title: "Bosch Validation Program"
 date: 2026-06-16
 draft: false
 company: "Bosch"
-industry: "제조"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.bosch-innovation-consulting.com/de/en/our-services/validation-program/"
-focusAreas:
-  - "사업 검증"
-  - "시장 검증"
-  - "벤처 빌딩"
-  - "인큐베이션 지원"
+verticals:
+  - "Advanced Manufacturing"
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "스타트업"
 status: "운영 중"

@@ -3,15 +3,13 @@ title: Henkel Spark
 date: 2026-06-08
 draft: false
 company: Henkel
-industry: "FMCG"
+industry:
+- "Consumer Products and Services"
 externalUrl: https://www.henkel.com/our-businesses/henkel-consumer-brands/open-innovation
-focusAreas:
-- Novel Hair Technologies
-- Laundry And Home Care
-- Sustainable Ingredients
-- Carbon Capture Utilization
-- Martech And Adtech
-- Wildcard Consumer Challenges
+verticals:
+- Beauty
+- Cleantech
+- Marketing Tech
 eligibility:
 - Researchers
 - Academia

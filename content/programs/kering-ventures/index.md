@@ -3,13 +3,13 @@ title: "Kering Ventures"
 date: 2026-06-16
 draft: false
 company: "Kering"
-industry: "FMCG"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.kering-ventures.com/"
-focusAreas:
-  - "Sustainability"
-  - "Material Innovation"
-  - "Retail Technology"
-  - "Luxury and Fashion"
+verticals:
+  - "Ecommerce"
+  - "Cleantech"
+  - "Beauty"
 eligibility:
   - "Startups"
   - "Scaleups"

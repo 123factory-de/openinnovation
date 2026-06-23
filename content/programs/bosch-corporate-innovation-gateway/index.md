@@ -3,14 +3,13 @@ title: Bosch Corporate Innovation Gateway
 date: 2026-06-08
 draft: false
 company: Bosch
-industry: "Manufacturing"
+industry:
+- "Business Products and Services"
 externalUrl: https://innovate-bosch.com/
-focusAreas:
-- Automation
-- Mobility
-- Manufacturing Technology
-- University Collaboration
-- Startup Collaboration
+verticals:
+- Advanced Manufacturing
+- Mobility Tech
+- Robotics & Drones
 eligibility:
 - Startups
 - Universities

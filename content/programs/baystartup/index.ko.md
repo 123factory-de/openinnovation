@@ -3,13 +3,12 @@ title: "BayStartUP"
 date: 2026-06-16
 draft: false
 company: "BayStartUP"
-industry: "다분야"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.baystartup.de/"
-focusAreas:
-  - "사업계획 경진대회"
-  - "스타트업 자금조달"
-  - "투자자 매칭"
-  - "코칭 및 멘토링"
+verticals:
+  - "Fintech"
+  - "Software as a Service (SaaS)"
 eligibility:
   - "스타트업"
 status: "운영 중"

@@ -3,14 +3,13 @@ title: "UnternehmerTUM"
 date: 2026-06-16
 draft: false
 company: "UnternehmerTUM"
-industry: "Cross-Industry"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.unternehmertum.de/angebot"
-focusAreas:
-  - "Entrepreneurship"
-  - "Incubation"
-  - "Venture Support"
-  - "Corporate Innovation"
-  - "Deep Tech"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Advanced Manufacturing"
 eligibility:
   - "Startups"
   - "Scaleups"

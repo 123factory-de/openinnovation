@@ -4,14 +4,12 @@ title: "Nestle R+D Accelerator / Open Innovation"
 date: 2026-06-08
 draft: false
 company: "Nestle"
-industry: "소비재"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.nestle.com/about/research-development/open-innovation"
-focusAreas:
-  - "식음료 혁신"
-  - "영양"
-  - "패키징"
-  - "창업"
-  - "R&D 액셀러레이션"
+verticals:
+  - "Foodtech"
+  - "Cleantech"
 eligibility:
   - "스타트업"
   - "학생"

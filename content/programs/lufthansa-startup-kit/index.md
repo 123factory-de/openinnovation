@@ -3,12 +3,11 @@ title: "Lufthansa Group Start-up Kit"
 date: 2026-06-16
 draft: false
 company: "Deutsche Lufthansa"
-industry: "Mobility"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://business.lufthansagroup.com/al/en/programs-and-advantages/start-up-kit"
-focusAreas:
-  - "Business Travel"
-  - "Startup Benefits"
-  - "Corporate Mobility"
+verticals:
+  - "Mobility Tech"
 eligibility:
   - "Startups"
 status: "Active"

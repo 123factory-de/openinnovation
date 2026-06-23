@@ -4,13 +4,12 @@ title: "BASF Venture Capital"
 date: 2026-06-16
 draft: false
 company: "BASF"
-industry: "Manufacturing"
+industry:
+- "Materials and Resources"
 externalUrl: "https://www.basf.com/global/de/who-we-are/organization/group-companies/BASF_Venture-Capital"
-focusAreas:
-  - "Chemicals"
-  - "Advanced Materials"
-  - "Sustainability"
-  - "Digitalization"
+verticals:
+  - "Advanced Manufacturing"
+  - "Cleantech"
 eligibility:
   - "Startups"
   - "Scaleups"

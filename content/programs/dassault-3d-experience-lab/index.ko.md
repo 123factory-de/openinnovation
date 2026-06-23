@@ -3,13 +3,13 @@ title: "3DEXPERIENCE Lab"
 date: 2026-06-16
 draft: false
 company: "Dassault Systemes"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://3dexperiencelab.3ds.com/en/"
-focusAreas:
-  - "딥테크"
-  - "하드웨어"
-  - "지속가능성"
-  - "3D 설계 및 시뮬레이션"
+verticals:
+  - "Advanced Manufacturing"
+  - "3D Printing"
+  - "Climate Tech"
 eligibility:
   - "스타트업"
 status: "운영 중"

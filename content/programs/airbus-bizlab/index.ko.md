@@ -3,13 +3,12 @@ title: "Airbus BizLab"
 date: 2026-06-16
 draft: false
 company: "Airbus"
-industry: "항공우주"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.airbus.com/en/airbus-bizlab"
-focusAreas:
-  - "항공우주"
-  - "모빌리티"
-  - "국방"
-  - "액셀러레이션 및 개념증명"
+verticals:
+  - "Space Tech"
+  - "Mobility Tech"
 eligibility:
   - "스타트업"
 status: "운영 중"

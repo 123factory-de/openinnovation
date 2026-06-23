@@ -3,15 +3,13 @@ title: "Toyota Open Labs"
 date: 2026-06-09
 draft: false
 company: "Toyota Motor Europe"
-industry: "자동차"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.toyotaopenlabs.com"
-focusAreas:
-  - "배터리 전기차(BEV) 에너지 생태계"
-  - "수소 생태계"
-  - "탄소 포집 및 감축"
-  - "순환 경제"
-  - "스마트 커뮤니티"
-  - "모두를 위한 모빌리티"
+verticals:
+  - "Mobility Tech"
+  - "Cleantech"
+  - "Climate Tech"
 eligibility:
   - "스타트업"
   - "스케일업"

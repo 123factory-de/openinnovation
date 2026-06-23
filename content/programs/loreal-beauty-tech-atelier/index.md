@@ -3,13 +3,13 @@ title: "L'Oreal Beauty Tech Atelier"
 date: 2026-06-16
 draft: false
 company: "L'Oreal"
-industry: "FMCG"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.loreal.com/en/beauty-science-and-technology/l-oreal-open-innovation/beauty-tech-atelier/"
-focusAreas:
-  - "Beauty Tech"
-  - "Sustainability"
-  - "Sustainable Packaging"
-  - "Digital and AI"
+verticals:
+  - "Beauty"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Cleantech"
 eligibility:
   - "Startups"
 status: "Active"

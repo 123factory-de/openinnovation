@@ -3,14 +3,12 @@ title: "Festo Start-up Kooperation"
 date: 2026-06-16
 draft: false
 company: "Festo"
-industry: "Manufacturing"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.festo.com/de/de/e/ueber-festo/forschung-und-entwicklung/startup-kooperationen-id_34130/"
-focusAreas:
-  - "Automation"
-  - "Robotics"
-  - "Bionics"
-  - "Industrial Technology"
-  - "Proof of Concept"
+verticals:
+  - "Robotics & Drones"
+  - "Advanced Manufacturing"
 eligibility:
   - "Startups"
 status: "Active"

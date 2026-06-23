@@ -4,14 +4,13 @@ title: BMW Group Startup Garage
 date: 2026-06-08
 draft: false
 company: BMW Group
-industry: "Automotive"
+industry:
+- "Consumer Products and Services"
 externalUrl: https://www.bmwstartupgarage.com/
-focusAreas:
-- Automotive
-- Production
-- Software
-- Mobility
-- Venture-Client Pilots
+verticals:
+- Mobility Tech
+- Advanced Manufacturing
+- Software as a Service (SaaS)
 eligibility:
 - Startups
 status: Always Open

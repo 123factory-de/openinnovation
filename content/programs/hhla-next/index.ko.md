@@ -3,13 +3,12 @@ title: "HHLA NEXT"
 date: 2026-06-16
 draft: false
 company: "HHLA"
-industry: "물류"
+industry:
+- "Business Products and Services"
 externalUrl: "https://hhla-next.de/de"
-focusAreas:
-  - "물류"
-  - "해양 기술"
-  - "항만 기술"
-  - "벤처 빌딩"
+verticals:
+  - "Supply Chain Technology"
+  - "Infrastructure"
 eligibility:
   - "스타트업"
 status: "운영 중"

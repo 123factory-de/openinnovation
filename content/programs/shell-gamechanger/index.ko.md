@@ -3,13 +3,12 @@ title: "Shell GameChanger"
 date: 2026-06-08
 draft: false
 company: "Shell"
-industry: "에너지"
+industry:
+- "Energy"
 externalUrl: "https://www.shell.com/what-we-do/technology-and-innovation/innovate-with-shell/shell-gamechanger.html"
-focusAreas:
-  - "미래 에너지"
-  - "탈탄소화"
-  - "초기 단계 기술"
-  - "고임팩트 개념"
+verticals:
+  - "Cleantech"
+  - "Climate Tech"
 eligibility:
   - "스타트업"
   - "창업자"

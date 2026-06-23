@@ -3,13 +3,12 @@ title: Enel Open Innovability
 date: 2026-06-08
 draft: false
 company: Enel
-industry: "Energy"
+industry:
+- "Energy"
 externalUrl: https://openinnovability.enel.com/challenges
-focusAreas:
-- Energy Systems
-- Grid Resilience
-- Sustainability
-- Local-Community Innovation
+verticals:
+- Cleantech
+- Climate Tech
 eligibility:
 - Innovators
 - Startups

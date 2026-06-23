@@ -4,13 +4,13 @@ title: "Microsoft for Startups Founders Hub"
 date: 2026-06-09
 draft: false
 company: "Microsoft"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://startups.microsoft.com/"
-focusAreas:
-  - "Software"
-  - "AI"
-  - "Cloud Integration"
-  - "B2B Technology"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Cloudtech & DevOps"
 eligibility:
   - "Early-Stage B2B Startups"
 status: "Always Open"

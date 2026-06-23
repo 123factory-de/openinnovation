@@ -3,13 +3,13 @@ title: "Bosch Start-Up Incubation Program"
 date: 2026-06-16
 draft: false
 company: "Bosch"
-industry: "제조"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.bosch-innovation-consulting.com/de/en/our-services/incubation-program/"
-focusAreas:
-  - "벤처 인큐베이션"
-  - "아이디어부터 스케일까지"
-  - "스타트업 빌딩"
-  - "혁신 컨설팅"
+verticals:
+  - "Advanced Manufacturing"
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "스타트업"
 status: "운영 중"

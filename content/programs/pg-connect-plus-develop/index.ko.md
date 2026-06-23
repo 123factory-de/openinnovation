@@ -3,14 +3,13 @@ title: "P&G Connect + Develop"
 date: 2026-06-08
 draft: false
 company: "P&G"
-industry: "소비재"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://pgconnectdevelop.com/"
-focusAreas:
-  - "제품 기술"
-  - "패키징"
-  - "매장 내"
-  - "이커머스"
-  - "공급망"
+verticals:
+  - "Ecommerce"
+  - "Supply Chain Technology"
+  - "Cleantech"
 eligibility:
   - "혁신가"
   - "창업자"

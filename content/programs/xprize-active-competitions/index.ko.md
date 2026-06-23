@@ -3,15 +3,14 @@ title: "XPRIZE Active Competitions"
 date: 2026-06-08
 draft: false
 company: "XPRIZE Foundation"
-industry: "다분야"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.xprize.org/competitions?status=Active"
-focusAreas:
-  - "양자"
-  - "기후"
-  - "헬스"
-  - "식품"
-  - "탐사"
-  - "사회적 임팩트"
+verticals:
+  - "Climate Tech"
+  - "Digital Health"
+  - "Foodtech"
+  - "Space Tech"
 eligibility:
   - "팀"
   - "기업"

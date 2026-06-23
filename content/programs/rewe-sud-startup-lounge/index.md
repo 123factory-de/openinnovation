@@ -3,13 +3,12 @@ title: "Startup Lounge - REWE Sued"
 date: 2026-06-16
 draft: false
 company: "REWE Sued"
-industry: "FMCG"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://startuplounge.rewesued.de/"
-focusAreas:
-  - "Food Innovation"
-  - "Retail Technology"
-  - "Grocery"
-  - "In-Store Proof of Concepts"
+verticals:
+  - "Foodtech"
+  - "Ecommerce"
 eligibility:
   - "Startups"
 status: "Active"

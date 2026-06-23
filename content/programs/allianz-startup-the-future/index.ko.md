@@ -3,13 +3,11 @@ title: "Startup the Future"
 date: 2026-06-16
 draft: false
 company: "Allianz Industrie 4.0 Baden-Wuerttemberg"
-industry: "제조"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.i40-bw.de/startup-the-future/"
-focusAreas:
-  - "인더스트리 4.0"
-  - "디지털 생산"
-  - "산업 스타트업"
-  - "제조사 협업"
+verticals:
+  - "Advanced Manufacturing"
 eligibility:
   - "스타트업"
 status: "운영 중"

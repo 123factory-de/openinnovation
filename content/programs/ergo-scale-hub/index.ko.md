@@ -3,13 +3,11 @@ title: "ERGO Scale Hub"
 date: 2026-06-16
 draft: false
 company: "ERGO (Munich Re)"
-industry: "ICT"
+industry:
+- "Financial Services"
 externalUrl: "https://scalehub.ergo.com/"
-focusAreas:
-  - "인슈어테크"
-  - "디지털 보험"
-  - "고객 경험"
-  - "프로세스 자동화"
+verticals:
+  - "Insurtech"
 eligibility:
   - "스타트업"
   - "스케일업"

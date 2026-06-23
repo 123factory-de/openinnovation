@@ -3,13 +3,13 @@ title: "Siemens Xcelerator Startup Program"
 date: 2026-06-16
 draft: false
 company: "Siemens"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://www.sw.siemens.com/de-DE/digital-transformation/xcelerator-startup-solutions/"
-focusAreas:
-  - "Digital Transformation"
-  - "Industrial Software"
-  - "Internet of Things"
-  - "Ecosystem Partnerships"
+verticals:
+  - "Advanced Manufacturing"
+  - "Internet of Things (IoT)"
+  - "Software as a Service (SaaS)"
 eligibility:
   - "Startups"
 status: "Active"

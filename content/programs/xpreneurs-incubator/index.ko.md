@@ -3,13 +3,12 @@ title: "XPRENEURS Incubator"
 date: 2026-06-16
 draft: false
 company: "UnternehmerTUM"
-industry: "다분야"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.unternehmertum.de/angebot/xpreneurs"
-focusAreas:
-  - "딥테크"
-  - "B2B 소프트웨어"
-  - "멘토링"
-  - "투자자 접근"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "스타트업"
 status: "운영 중"

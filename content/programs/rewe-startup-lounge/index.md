@@ -3,13 +3,12 @@ title: "Startup Lounge - REWE"
 date: 2026-06-16
 draft: false
 company: "REWE"
-industry: "FMCG"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://innovation.rewe.de/start-up-lounge"
-focusAreas:
-  - "Grocery Retail"
-  - "Retail Technology"
-  - "E-Commerce"
-  - "Pilots and Proofs of Concept"
+verticals:
+  - "Ecommerce"
+  - "Foodtech"
 eligibility:
   - "Startups"
 status: "Active"

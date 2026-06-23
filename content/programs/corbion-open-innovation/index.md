@@ -3,13 +3,14 @@ title: Corbion Open Innovation
 date: 2026-06-08
 draft: false
 company: Corbion
-industry: "Sustainability"
+industry:
+- "Materials and Resources"
+- "Consumer Products and Services"
 externalUrl: https://www.corbion.com/innovation/open-innovation
-focusAreas:
-- Bio-Ingredients
-- Biochemicals
-- Biopolymers
-- Sustainability
+verticals:
+- Foodtech
+- Life Sciences
+- Cleantech
 eligibility:
 - Collaboration Partners
 - Technology Providers

@@ -3,13 +3,13 @@ title: "Robert Bosch Open Innovation Partnerships"
 date: 2026-06-16
 draft: false
 company: "Bosch"
-industry: "제조"
+industry:
+- "Business Products and Services"
 externalUrl: "https://innovate-bosch.com/"
-focusAreas:
-  - "기술 스카우팅"
-  - "공동 혁신"
-  - "산업 기술"
-  - "모빌리티"
+verticals:
+  - "Advanced Manufacturing"
+  - "Mobility Tech"
+  - "Internet of Things (IoT)"
 eligibility:
   - "스타트업"
 status: "운영 중"

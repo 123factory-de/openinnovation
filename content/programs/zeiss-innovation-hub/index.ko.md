@@ -3,13 +3,13 @@ title: "ZEISS Innovation Hub"
 date: 2026-06-16
 draft: false
 company: "ZEISS"
-industry: "제조"
+industry:
+- "Business Products and Services"
+- "Healthcare"
 externalUrl: "https://www.zeiss.com/corporate/en/about-zeiss/future/new-business-at-zeiss/zeiss-innovation-hubs.html"
-focusAreas:
-  - "광학 및 포토닉스"
-  - "반도체 기술"
-  - "딥테크"
-  - "연구 협력"
+verticals:
+  - "Advanced Manufacturing"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "스타트업"
 status: "운영 중"

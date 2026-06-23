@@ -3,14 +3,13 @@ title: "hubraum"
 date: 2026-06-09
 draft: false
 company: "Deutsche Telekom"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://www.hubraum.com/"
-focusAreas:
-  - "5G"
-  - "AI"
-  - "IoT"
-  - "XR"
-  - "Magenta Business APIs"
+verticals:
+  - "Technology, Media & Telecommunications (TMT)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Internet of Things (IoT)"
 eligibility:
   - "Early-Stage Tech Startups"
 status: "Active"

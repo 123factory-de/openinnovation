@@ -3,13 +3,12 @@ title: "Pioneer Lab"
 date: 2026-06-16
 draft: false
 company: "Carl Remigius Fresenius Education Group"
-industry: "다분야"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.pioneerlab.de/"
-focusAreas:
-  - "에듀테크"
-  - "보건 교육"
-  - "창업자 지원"
-  - "코칭 및 멘토링"
+verticals:
+  - "Edtech"
+  - "Digital Health"
 eligibility:
   - "스타트업"
 status: "운영 중"

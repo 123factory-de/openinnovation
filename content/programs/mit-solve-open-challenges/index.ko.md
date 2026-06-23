@@ -4,15 +4,14 @@ title: "MIT Solve Open Challenges"
 date: 2026-06-08
 draft: false
 company: "MIT Solve"
-industry: "다분야"
+industry:
+- "Business Products and Services"
 externalUrl: "https://solve.mit.edu/open-challenges"
-focusAreas:
-  - "기후"
-  - "학습"
-  - "헬스"
-  - "경제적 번영"
-  - "원주민 공동체"
-  - "청년 혁신"
+verticals:
+  - "Climate Tech"
+  - "Edtech"
+  - "Digital Health"
+  - "Impact Investing"
 eligibility:
   - "혁신가"
   - "팀"

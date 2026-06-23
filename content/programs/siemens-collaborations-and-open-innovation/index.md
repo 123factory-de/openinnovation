@@ -3,14 +3,13 @@ title: Siemens Collaborations and Open Innovation
 date: 2026-06-08
 draft: false
 company: Siemens
-industry: "Manufacturing"
+industry:
+- "Business Products and Services"
 externalUrl: https://www.siemens.com/en-us/company/innovation/collaborations-partnerships/
-focusAreas:
-- Industrial Software
-- Digital Transformation
-- Sustainability
-- Startup Software
-- University Partnerships
+verticals:
+- Advanced Manufacturing
+- Software as a Service (SaaS)
+- Climate Tech
 eligibility:
 - Universities
 - Research Institutes

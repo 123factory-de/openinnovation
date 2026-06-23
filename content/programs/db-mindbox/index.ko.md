@@ -3,13 +3,12 @@ title: "DB mindbox"
 date: 2026-06-16
 draft: false
 company: "Deutsche Bahn"
-industry: "모빌리티"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.deutschebahn.com/en/Digitalization/startups/dbmindbox-6935420"
-focusAreas:
-  - "모빌리티 기술"
-  - "철도 및 물류"
-  - "개념증명 파일럿"
-  - "디지털화"
+verticals:
+  - "Mobility Tech"
+  - "Supply Chain Technology"
 eligibility:
   - "스타트업"
 status: "운영 중"

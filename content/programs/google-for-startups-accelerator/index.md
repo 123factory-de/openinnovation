@@ -4,14 +4,13 @@ title: "Google for Startups Accelerator"
 date: 2026-06-09
 draft: false
 company: "Google"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://startup.google.com/accelerator/"
-focusAreas:
-  - "AI"
-  - "Machine Learning"
-  - "Energy Transition"
-  - "ClimateTech"
-  - "FinTech"
+verticals:
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Climate Tech"
+  - "Fintech"
 eligibility:
   - "Seed-Stage Startups"
   - "Series A Startups"

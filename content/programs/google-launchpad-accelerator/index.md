@@ -4,13 +4,13 @@ title: "Google LaunchPad Accelerator"
 date: 2026-06-16
 draft: false
 company: "Google"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://developers.google.com/community/accelerators/programs"
-focusAreas:
-  - "Artificial Intelligence"
-  - "Machine Learning"
-  - "Mobile Development"
-  - "Cloud Technology"
+verticals:
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Mobile"
+  - "Cloudtech & DevOps"
 eligibility:
   - "Startups"
 status: "Active"

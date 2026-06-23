@@ -3,14 +3,14 @@ title: "Tomorrow Street (Scaleup X)"
 date: 2026-06-09
 draft: false
 company: "Vodafone Group"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://www.tomorrowstreet.co/"
-focusAreas:
-  - "IoT"
-  - "AI"
-  - "사이버보안"
-  - "디지털 전환"
-  - "통신 기술"
+verticals:
+  - "Internet of Things (IoT)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Cybersecurity"
+  - "Technology, Media & Telecommunications (TMT)"
 eligibility:
   - "후기 단계 기술 스케일업"
 status: "운영 중"

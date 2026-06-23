@@ -3,13 +3,12 @@ title: "Next47"
 date: 2026-06-16
 draft: false
 company: "Siemens"
-industry: "Manufacturing"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.n47.com/"
-focusAreas:
-  - "Industrial Technology"
-  - "B2B Software"
-  - "Enterprise Innovation"
-  - "Growth-Stage Investment"
+verticals:
+  - "Advanced Manufacturing"
+  - "Software as a Service (SaaS)"
 eligibility:
   - "Startups"
   - "Scaleups"

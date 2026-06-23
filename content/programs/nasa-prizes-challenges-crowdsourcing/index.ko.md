@@ -3,14 +3,11 @@ title: "NASA Prizes, Challenges, and Crowdsourcing"
 date: 2026-06-08
 draft: false
 company: "NASA"
-industry: "항공우주"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.nasa.gov/about-prizes-challenges-crowdsourcing/"
-focusAreas:
-  - "우주 탐사"
-  - "항공"
-  - "과학"
-  - "기술 이전"
-  - "공공 문제 해결"
+verticals:
+  - "Space Tech"
 eligibility:
   - "일반 대중"
   - "글로벌 참가자"

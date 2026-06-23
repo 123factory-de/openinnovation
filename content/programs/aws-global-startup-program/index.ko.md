@@ -3,13 +3,12 @@ title: "AWS Global Startup Program"
 date: 2026-06-16
 draft: false
 company: "Amazon Web Services"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://aws.amazon.com/de/partners/programs/global-startup/"
-focusAreas:
-  - "클라우드 기술"
-  - "공동 판매"
-  - "시장 진출"
-  - "기술 지원"
+verticals:
+  - "Cloudtech & DevOps"
+  - "Software as a Service (SaaS)"
 eligibility:
   - "스타트업"
   - "스케일업"

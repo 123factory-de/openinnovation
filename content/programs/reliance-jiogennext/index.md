@@ -3,13 +3,13 @@ title: "Reliance JioGenNext"
 date: 2026-06-16
 draft: false
 company: "Reliance Jio"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://www.jiogennext.com/"
-focusAreas:
-  - "Digital Consumer Tech"
-  - "Mobile Applications"
-  - "Artificial Intelligence"
-  - "Enterprise Solutions"
+verticals:
+  - "Mobile"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Software as a Service (SaaS)"
 eligibility:
   - "Startups"
 status: "Active"

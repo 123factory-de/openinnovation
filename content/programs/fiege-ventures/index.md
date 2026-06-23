@@ -3,13 +3,11 @@ title: "FIEGE Ventures"
 date: 2026-06-16
 draft: false
 company: "FIEGE"
-industry: "Logistics"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.fiege.com/de/fiege-ventures"
-focusAreas:
-  - "Logistics"
+verticals:
   - "Supply Chain Technology"
-  - "Strategic Investment"
-  - "Partnerships"
 eligibility:
   - "Startups"
   - "Scaleups"

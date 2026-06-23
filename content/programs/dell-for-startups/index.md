@@ -3,13 +3,13 @@ title: "Dell for Startups"
 date: 2026-06-16
 draft: false
 company: "Dell Technologies"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://dellforstartups.com/de-de/join-2024"
-focusAreas:
-  - "Infrastructure"
-  - "Cloud"
-  - "AI and Data"
-  - "Hardware"
+verticals:
+  - "Cloudtech & DevOps"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Big Data"
 eligibility:
   - "Startups"
 status: "Active"

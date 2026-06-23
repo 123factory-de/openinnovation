@@ -3,13 +3,12 @@ title: "Startup Lounge - REWE"
 date: 2026-06-16
 draft: false
 company: "REWE"
-industry: "소비재"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://innovation.rewe.de/start-up-lounge"
-focusAreas:
-  - "식료품 리테일"
-  - "리테일 기술"
-  - "이커머스"
-  - "파일럿 및 개념증명"
+verticals:
+  - "Ecommerce"
+  - "Foodtech"
 eligibility:
   - "스타트업"
 status: "운영 중"

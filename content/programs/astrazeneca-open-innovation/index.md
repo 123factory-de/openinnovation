@@ -3,14 +3,11 @@ title: AstraZeneca Open Innovation
 date: 2026-06-08
 draft: false
 company: AstraZeneca
-industry: "Healthcare"
+industry:
+- "Healthcare"
 externalUrl: https://www.openinnovation.astrazeneca.com/
-focusAreas:
-- Preclinical Research
-- Compounds
-- Research Tools
-- Screening Libraries
-- Disease Biology
+verticals:
+- Life Sciences
 eligibility:
 - External Scientists
 - Researchers

@@ -3,13 +3,12 @@ title: "PreZero Innovation Hub"
 date: 2026-06-16
 draft: false
 company: "Schwarz Gruppe"
-industry: "지속가능성"
+industry:
+- "Materials and Resources"
 externalUrl: "https://innovationhub.prezero.com/de/"
-focusAreas:
-  - "순환 경제"
-  - "재활용 기술"
-  - "폐기물 관리"
-  - "지속가능성"
+verticals:
+  - "Cleantech"
+  - "Climate Tech"
 eligibility:
   - "스타트업"
 status: "운영 중"

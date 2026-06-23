@@ -4,13 +4,13 @@ title: "Sony Startup Acceleration Program"
 date: 2026-06-09
 draft: false
 company: "Sony Group"
-industry: "ICT"
+industry:
+- "Information Technology"
+- "Consumer Products and Services"
 externalUrl: "https://sony-acceleration-platform.com/"
-focusAreas:
-  - "Business Modeling"
-  - "Prototyping"
-  - "Market Validation"
-  - "Technology Convergence"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "Internal Employees"
   - "External Startups"

@@ -4,13 +4,12 @@ title: Singapore Open Innovation Network
 date: 2026-06-08
 draft: false
 company: Singapore Government
-industry: "Cross-Industry"
+industry:
+- "Business Products and Services"
 externalUrl: https://www.openinnovationnetwork.gov.sg/
-focusAreas:
-- Government Challenges
-- Enterprise Challenges
-- Digitalization
-- Applied Technology
+verticals:
+- Software as a Service (SaaS)
+- Artificial Intelligence & Machine Learning (AI/ML)
 eligibility:
 - Solution Providers
 - Challenge Solvers

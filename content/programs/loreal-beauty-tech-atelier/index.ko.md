@@ -3,13 +3,13 @@ title: "L'Oreal Beauty Tech Atelier"
 date: 2026-06-16
 draft: false
 company: "L'Oreal"
-industry: "소비재"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.loreal.com/en/beauty-science-and-technology/l-oreal-open-innovation/beauty-tech-atelier/"
-focusAreas:
-  - "뷰티 테크"
-  - "지속가능성"
-  - "지속가능 패키징"
-  - "디지털 및 AI"
+verticals:
+  - "Beauty"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Cleantech"
 eligibility:
   - "스타트업"
 status: "운영 중"

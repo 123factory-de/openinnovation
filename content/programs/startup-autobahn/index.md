@@ -3,14 +3,14 @@ title: "Startup Autobahn"
 date: 2026-06-09
 draft: false
 company: "Mercedes-Benz"
-industry: "Automotive"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://startup-autobahn.com/"
-focusAreas:
-  - "Automotive Technology"
-  - "Digital Services"
-  - "Smart Production"
-  - "Sustainability"
-  - "Software"
+verticals:
+  - "Mobility Tech"
+  - "Advanced Manufacturing"
+  - "Software as a Service (SaaS)"
+  - "Climate Tech"
 eligibility:
   - "Startups"
   - "Scaleups"

@@ -3,14 +3,12 @@ title: "neosfer"
 date: 2026-06-16
 draft: false
 company: "Commerzbank"
-industry: "ICT"
+industry:
+- "Financial Services"
 externalUrl: "https://neosfer.de/"
-focusAreas:
-  - "핀테크"
-  - "지속가능성 기술"
-  - "초기 단계 투자"
-  - "벤처 빌딩"
-  - "스타트업 발굴"
+verticals:
+  - "Fintech"
+  - "Climate Tech"
 eligibility:
   - "스타트업"
 status: "운영 중"

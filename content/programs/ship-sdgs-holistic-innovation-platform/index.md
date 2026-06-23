@@ -4,13 +4,12 @@ title: SHIP SDGs Holistic Innovation Platform
 date: 2026-06-08
 draft: false
 company: UNDP and Japan Innovation Network
-industry: "Cross-Industry"
+industry:
+- "Business Products and Services"
 externalUrl: https://www.sdgs-ship.com/en/
-focusAreas:
-- SDGs
-- Corporate Challenges
-- Social Innovation
-- Startup Collaboration
+verticals:
+- Impact Investing
+- Climate Tech
 eligibility:
 - Startups
 - Innovators

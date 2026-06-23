@@ -3,13 +3,12 @@ title: "K-Startup Grand Challenge 2026"
 date: 2026-06-08
 draft: false
 company: "Korea Ministry of SMEs and Startups"
-industry: "다분야"
+industry:
+- "Business Products and Services"
 externalUrl: "https://ksgc.global/"
-focusAreas:
-  - "한국 시장 진입"
-  - "개념증명"
-  - "기업 파트너십"
-  - "스타트업 스케일링"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "글로벌 스타트업"
 deadline: "2026-06-17"

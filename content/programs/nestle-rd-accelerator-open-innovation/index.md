@@ -4,14 +4,12 @@ title: Nestle R+D Accelerator / Open Innovation
 date: 2026-06-08
 draft: false
 company: Nestle
-industry: "FMCG"
+industry:
+- "Consumer Products and Services"
 externalUrl: https://www.nestle.com/about/research-development/open-innovation
-focusAreas:
-- Food And Beverage Innovation
-- Nutrition
-- Packaging
-- Entrepreneurship
-- R&D Acceleration
+verticals:
+- Foodtech
+- Cleantech
 eligibility:
 - Startups
 - Students

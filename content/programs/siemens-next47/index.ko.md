@@ -3,13 +3,12 @@ title: "Next47"
 date: 2026-06-16
 draft: false
 company: "Siemens"
-industry: "제조"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.n47.com/"
-focusAreas:
-  - "산업 기술"
-  - "B2B 소프트웨어"
-  - "엔터프라이즈 혁신"
-  - "성장 단계 투자"
+verticals:
+  - "Advanced Manufacturing"
+  - "Software as a Service (SaaS)"
 eligibility:
   - "스타트업"
   - "스케일업"

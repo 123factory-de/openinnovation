@@ -3,13 +3,12 @@ title: "Unilever Ventures"
 date: 2026-06-16
 draft: false
 company: "Unilever"
-industry: "FMCG"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.unileverventures.com/"
-focusAreas:
-  - "Beauty and Personal Care"
-  - "Digital Commerce"
-  - "Brands and Consumer"
-  - "Growth Investment"
+verticals:
+  - "Beauty"
+  - "Ecommerce"
 eligibility:
   - "Startups"
   - "Scaleups"

@@ -3,13 +3,12 @@ title: "Startup Lounge - REWE Sued"
 date: 2026-06-16
 draft: false
 company: "REWE Sued"
-industry: "소비재"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://startuplounge.rewesued.de/"
-focusAreas:
-  - "식품 혁신"
-  - "리테일 기술"
-  - "식료품"
-  - "매장 내 개념증명"
+verticals:
+  - "Foodtech"
+  - "Ecommerce"
 eligibility:
   - "스타트업"
 status: "운영 중"

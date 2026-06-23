@@ -3,13 +3,12 @@ title: "Thuringian Regional Innovation Program (TRIP)"
 date: 2026-06-16
 draft: false
 company: "Stiftung fuer Technologie, Innovation und Forschung Thueringen"
-industry: "Cross-Industry"
+industry:
+- "Business Products and Services"
 externalUrl: "https://trip.community/"
-focusAreas:
-  - "Regional Innovation"
-  - "Startup Acceleration"
-  - "Founder Community"
-  - "Coaching and Mentoring"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "Startups"
 status: "Active"

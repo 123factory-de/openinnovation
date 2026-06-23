@@ -3,13 +3,12 @@ title: "TUV NORD x Startups"
 date: 2026-06-16
 draft: false
 company: "TUV NORD"
-industry: "Manufacturing"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.tuev-nord-group.com/en/company/innovation/"
-focusAreas:
-  - "Testing and Certification"
-  - "Safety"
-  - "Industrial Technology"
-  - "Digitalization"
+verticals:
+  - "Advanced Manufacturing"
+  - "Software as a Service (SaaS)"
 eligibility:
   - "Startups"
 status: "Active"

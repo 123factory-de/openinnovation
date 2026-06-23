@@ -3,14 +3,12 @@ title: "neosfer"
 date: 2026-06-16
 draft: false
 company: "Commerzbank"
-industry: "ICT"
+industry:
+- "Financial Services"
 externalUrl: "https://neosfer.de/"
-focusAreas:
+verticals:
   - "Fintech"
-  - "Sustainability Tech"
-  - "Early-Stage Investing"
-  - "Venture Building"
-  - "Startup Scouting"
+  - "Climate Tech"
 eligibility:
   - "Startups"
 status: "Active"

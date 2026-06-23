@@ -3,13 +3,11 @@ title: "Axel Springer Plug and Play"
 date: 2026-06-16
 draft: false
 company: "Axel Springer"
-industry: "ICT"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.plugandplaytechcenter.com/innovation-services/startups/accelerator-programs"
-focusAreas:
-  - "Digital and Media Tech"
-  - "Corporate Partnerships"
-  - "Investor Access"
-  - "Acceleration and Mentoring"
+verticals:
+  - "Technology, Media & Telecommunications (TMT)"
 eligibility:
   - "Startups"
 status: "Active"

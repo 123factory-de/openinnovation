@@ -4,13 +4,12 @@ title: "G4A"
 date: 2026-06-16
 draft: false
 company: "Bayer"
-industry: "헬스케어"
+industry:
+- "Healthcare"
 externalUrl: "https://g4a.health/"
-focusAreas:
-  - "디지털 헬스"
-  - "헬스테크"
-  - "제약 혁신"
-  - "컨슈머 헬스"
+verticals:
+  - "Digital Health"
+  - "Life Sciences"
 eligibility:
   - "스타트업"
 status: "운영 중"

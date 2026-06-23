@@ -3,13 +3,12 @@ title: K-Startup Grand Challenge 2026
 date: 2026-06-08
 draft: false
 company: Korea Ministry of SMEs and Startups
-industry: "Cross-Industry"
+industry:
+- "Business Products and Services"
 externalUrl: https://ksgc.global/
-focusAreas:
-- Korea Market Entry
-- PoC
-- Corporate Partnerships
-- Startup Scaling
+verticals:
+- Software as a Service (SaaS)
+- Artificial Intelligence & Machine Learning (AI/ML)
 eligibility:
 - Global Startups
 deadline: '2026-06-17'

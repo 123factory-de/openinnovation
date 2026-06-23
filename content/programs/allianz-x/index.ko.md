@@ -3,13 +3,13 @@ title: "Allianz X"
 date: 2026-06-16
 draft: false
 company: "Allianz"
-industry: "ICT"
+industry:
+- "Financial Services"
 externalUrl: "https://allianzx.com/"
-focusAreas:
-  - "인슈어테크"
-  - "핀테크"
-  - "헬스테크"
-  - "디지털 투자"
+verticals:
+  - "Insurtech"
+  - "Fintech"
+  - "Digital Health"
 eligibility:
   - "스타트업"
   - "스케일업"

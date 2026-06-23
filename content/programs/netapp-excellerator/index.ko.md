@@ -4,13 +4,13 @@ title: "NetApp Excellerator"
 date: 2026-06-16
 draft: false
 company: "NetApp"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://startup.netapp.in/"
-focusAreas:
-  - "데이터 관리"
-  - "클라우드"
-  - "딥테크"
-  - "AI 및 머신러닝"
+verticals:
+  - "Big Data"
+  - "Cloudtech & DevOps"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "스타트업"
 status: "운영 중"

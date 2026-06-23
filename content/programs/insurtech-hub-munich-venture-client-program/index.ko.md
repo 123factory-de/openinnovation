@@ -3,13 +3,12 @@ title: "Venture Client Program - InsurTech Hub Munich"
 date: 2026-06-16
 draft: false
 company: "InsurTech Hub Munich"
-industry: "ICT"
+industry:
+- "Financial Services"
 externalUrl: "https://www.insurtech-munich.com/themen/venture-client-programme/"
-focusAreas:
-  - "인슈어테크"
-  - "핀테크"
-  - "벤처 클라이언트 모델"
-  - "파일럿 프로젝트"
+verticals:
+  - "Insurtech"
+  - "Fintech"
 eligibility:
   - "스타트업"
 status: "운영 중"

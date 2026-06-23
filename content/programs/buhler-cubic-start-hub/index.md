@@ -3,13 +3,13 @@ title: "CUBIC Start Hub Program"
 date: 2026-06-16
 draft: false
 company: "Buhler Group"
-industry: "Manufacturing"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.buhlergroup.com/global/de/about-us/cubic-start-hub.html"
-focusAreas:
-  - "Food Processing"
-  - "Mobility"
-  - "Advanced Materials"
-  - "Startup Collaboration"
+verticals:
+  - "Foodtech"
+  - "Advanced Manufacturing"
+  - "Mobility Tech"
 eligibility:
   - "Startups"
 status: "Active"

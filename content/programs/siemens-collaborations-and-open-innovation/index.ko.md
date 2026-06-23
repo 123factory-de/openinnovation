@@ -3,14 +3,13 @@ title: "Siemens Collaborations and Open Innovation"
 date: 2026-06-08
 draft: false
 company: "Siemens"
-industry: "제조"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.siemens.com/en-us/company/innovation/collaborations-partnerships/"
-focusAreas:
-  - "산업 소프트웨어"
-  - "디지털 전환"
-  - "지속가능성"
-  - "스타트업 소프트웨어"
-  - "대학 파트너십"
+verticals:
+  - "Advanced Manufacturing"
+  - "Software as a Service (SaaS)"
+  - "Climate Tech"
 eligibility:
   - "대학"
   - "연구기관"

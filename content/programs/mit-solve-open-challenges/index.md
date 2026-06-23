@@ -4,15 +4,14 @@ title: MIT Solve Open Challenges
 date: 2026-06-08
 draft: false
 company: MIT Solve
-industry: "Cross-Industry"
+industry:
+- "Business Products and Services"
 externalUrl: https://solve.mit.edu/open-challenges
-focusAreas:
-- Climate
-- Learning
-- Health
-- Economic Prosperity
-- Indigenous Communities
-- Youth Innovation
+verticals:
+- Climate Tech
+- Edtech
+- Digital Health
+- Impact Investing
 eligibility:
 - Innovators
 - Teams

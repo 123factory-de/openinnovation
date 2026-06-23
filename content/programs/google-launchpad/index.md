@@ -3,13 +3,12 @@ title: "Google LaunchPad"
 date: 2026-06-16
 draft: false
 company: "Google"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://cloud.google.com/edu/faculty/career-launchpad"
-focusAreas:
-  - "Cloud Technology"
-  - "Artificial Intelligence"
-  - "Founder Development"
-  - "Product Growth"
+verticals:
+  - "Cloudtech & DevOps"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "Startups"
 status: "Active"

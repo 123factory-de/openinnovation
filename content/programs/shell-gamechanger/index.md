@@ -3,13 +3,12 @@ title: Shell GameChanger
 date: 2026-06-08
 draft: false
 company: Shell
-industry: "Energy"
+industry:
+- "Energy"
 externalUrl: https://www.shell.com/what-we-do/technology-and-innovation/innovate-with-shell/shell-gamechanger.html
-focusAreas:
-- Future Energy
-- Decarbonization
-- Early-Stage Technology
-- High-Impact Concepts
+verticals:
+- Cleantech
+- Climate Tech
 eligibility:
 - Startups
 - Entrepreneurs

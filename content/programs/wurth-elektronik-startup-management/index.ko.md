@@ -4,13 +4,12 @@ title: "Wurth Elektronik Start-up Management"
 date: 2026-06-16
 draft: false
 company: "Wurth Elektronik"
-industry: "제조"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.we-online.com/de/support/zusammenarbeit/start-up-management"
-focusAreas:
-  - "전자 부품"
-  - "하드웨어 개발"
-  - "전자"
-  - "파트너십"
+verticals:
+  - "Advanced Manufacturing"
+  - "Internet of Things (IoT)"
 eligibility:
   - "스타트업"
 status: "운영 중"

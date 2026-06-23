@@ -3,14 +3,13 @@ title: "Bosch Corporate Innovation Gateway"
 date: 2026-06-08
 draft: false
 company: "Bosch"
-industry: "제조"
+industry:
+- "Business Products and Services"
 externalUrl: "https://innovate-bosch.com/"
-focusAreas:
-  - "자동화"
-  - "모빌리티"
-  - "제조 기술"
-  - "대학 협력"
-  - "스타트업 협업"
+verticals:
+  - "Advanced Manufacturing"
+  - "Mobility Tech"
+  - "Robotics & Drones"
 eligibility:
   - "스타트업"
   - "대학"

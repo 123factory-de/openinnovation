@@ -3,13 +3,13 @@ title: "EnBW Innovation"
 date: 2026-06-16
 draft: false
 company: "EnBW"
-industry: "Energy"
+industry:
+- "Energy"
 externalUrl: "https://www.enbw.com/unternehmen/wie-wir-handeln/innovation.html"
-focusAreas:
-  - "Energy Transition"
-  - "E-Mobility"
-  - "Smart Grids"
-  - "Venture Building"
+verticals:
+  - "Cleantech"
+  - "Climate Tech"
+  - "Mobility Tech"
 eligibility:
   - "Startups"
 status: "Active"

@@ -4,13 +4,12 @@ title: "Johnson & Johnson Innovation Challenges / JLABS"
 date: 2026-06-08
 draft: false
 company: "Johnson & Johnson Innovation"
-industry: "헬스케어"
+industry:
+- "Healthcare"
 externalUrl: "https://jnjinnovation.com/innovation-challenges"
-focusAreas:
-  - "의약"
-  - "메드테크"
-  - "디지털 헬스"
-  - "생명과학"
+verticals:
+  - "Life Sciences"
+  - "Digital Health"
 eligibility:
   - "창업자"
   - "기업"

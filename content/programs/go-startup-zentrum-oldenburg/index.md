@@ -3,13 +3,12 @@ title: "GO! Start-up Zentrum Oldenburg"
 date: 2026-06-16
 draft: false
 company: "TGO Technologie- und Gruenderzentrum Oldenburg"
-industry: "Cross-Industry"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.gruenden-oldenburg.de/"
-focusAreas:
-  - "Founder Support"
-  - "Coaching and Advisory"
-  - "Workspace and Infrastructure"
-  - "Startup Community"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "Startups"
 status: "Active"

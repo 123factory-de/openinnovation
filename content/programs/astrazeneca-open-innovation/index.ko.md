@@ -3,14 +3,11 @@ title: "AstraZeneca Open Innovation"
 date: 2026-06-08
 draft: false
 company: "AstraZeneca"
-industry: "헬스케어"
+industry:
+- "Healthcare"
 externalUrl: "https://www.openinnovation.astrazeneca.com/"
-focusAreas:
-  - "전임상 연구"
-  - "화합물"
-  - "연구 도구"
-  - "스크리닝 라이브러리"
-  - "질환 생물학"
+verticals:
+  - "Life Sciences"
 eligibility:
   - "외부 과학자"
   - "연구자"

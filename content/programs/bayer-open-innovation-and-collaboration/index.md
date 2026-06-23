@@ -3,14 +3,12 @@ title: Bayer Open Innovation and Collaboration
 date: 2026-06-08
 draft: false
 company: Bayer
-industry: "Healthcare"
+industry:
+- "Healthcare"
 externalUrl: https://www.bayer.com/en/innovation/open-innovation-and-collaboration
-focusAreas:
-- Health
-- Agriculture
-- Nutrition
-- Strategic Alliances
-- Venture Investment
+verticals:
+- Life Sciences
+- Agtech
 eligibility:
 - Startups
 - Strategic Partners

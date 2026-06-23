@@ -3,13 +3,12 @@ title: "SevenVentures"
 date: 2026-06-16
 draft: false
 company: "ProSiebenSat.1"
-industry: "ICT"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.commerceandventures.com/investment-stages/sevenventures"
-focusAreas:
-  - "Consumer Brands"
-  - "Digital Media"
-  - "E-Commerce"
-  - "Direct-to-Consumer"
+verticals:
+  - "Ecommerce"
+  - "Technology, Media & Telecommunications (TMT)"
 eligibility:
   - "Startups"
   - "Scaleups"

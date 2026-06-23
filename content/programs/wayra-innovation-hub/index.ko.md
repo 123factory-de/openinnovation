@@ -3,13 +3,11 @@ title: "Wayra Innovation Hub"
 date: 2026-06-16
 draft: false
 company: "O2 Telefonica"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://www.wayra.de/de/for-startups"
-focusAreas:
-  - "커넥티비티"
-  - "디지털 서비스"
-  - "기업 벤처링"
-  - "스케일링"
+verticals:
+  - "Technology, Media & Telecommunications (TMT)"
 eligibility:
   - "스타트업"
   - "스케일업"

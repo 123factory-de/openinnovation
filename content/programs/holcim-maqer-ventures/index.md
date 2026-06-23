@@ -3,13 +3,13 @@ title: "Holcim MAQER Ventures"
 date: 2026-06-16
 draft: false
 company: "Holcim"
-industry: "Manufacturing"
+industry:
+- "Materials and Resources"
 externalUrl: "https://www.holcim.com/innovation/open-innovation/holcim-maqer-ventures"
-focusAreas:
-  - "Sustainable Construction"
-  - "Building Materials"
-  - "Construction Tech"
-  - "Corporate Venturing"
+verticals:
+  - "Construction Technology"
+  - "Cleantech"
+  - "Advanced Manufacturing"
 eligibility:
   - "Startups"
 status: "Active"

@@ -4,14 +4,14 @@ title: "100+ Accelerator"
 date: 2026-06-09
 draft: false
 company: "AB InBev et al."
-industry: "지속가능성"
+industry:
+- "Consumer Products and Services"
+- "Materials and Resources"
 externalUrl: "https://100accelerator.com/"
-focusAreas:
-  - "물 관리"
-  - "순환형 패키징"
-  - "기후 대응"
-  - "지속가능 농업"
-  - "생물다양성"
+verticals:
+  - "Climate Tech"
+  - "Cleantech"
+  - "Agtech"
 eligibility:
   - "스타트업"
   - "스케일업"

@@ -3,13 +3,12 @@ title: "TechFounders Pilot Project"
 date: 2026-06-16
 draft: false
 company: "TechFounders"
-industry: "Manufacturing"
+industry:
+- "Business Products and Services"
 externalUrl: "https://techfounders.com/"
-focusAreas:
-  - "Corporate Pilots"
-  - "Proof of Concept"
-  - "Industrial Tech"
-  - "B2B Innovation"
+verticals:
+  - "Advanced Manufacturing"
+  - "Software as a Service (SaaS)"
 eligibility:
   - "Startups"
 status: "Active"

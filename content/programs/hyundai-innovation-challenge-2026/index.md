@@ -3,15 +3,13 @@ title: Hyundai Innovation Challenge 2026
 date: 2026-06-09
 draft: false
 company: Hyundai Motor Company / HMIL / HMIE
-industry: "Automotive"
+industry:
+- "Consumer Products and Services"
 externalUrl: https://hyundaiinnovationchallenge.com/
-focusAreas:
-- ADAS Systems
-- EV Charging
-- Mobility-as-a-Service
-- Smart Materials
-- Factory Optimization
-- Industrial Edge AI
+verticals:
+- Mobility Tech
+- Advanced Manufacturing
+- Artificial Intelligence & Machine Learning (AI/ML)
 eligibility:
 - Startups
 - Registered Business Entities

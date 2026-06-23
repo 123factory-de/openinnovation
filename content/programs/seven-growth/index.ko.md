@@ -3,13 +3,12 @@ title: "Seven Growth"
 date: 2026-06-16
 draft: false
 company: "ProSiebenSat.1"
-industry: "ICT"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.commerceandventures.com/investment-stages/sevengrowth"
-focusAreas:
-  - "소비재 브랜드"
-  - "디지털 비즈니스"
-  - "이커머스"
-  - "스케일링 및 확장"
+verticals:
+  - "Ecommerce"
+  - "Technology, Media & Telecommunications (TMT)"
 eligibility:
   - "스타트업"
   - "스케일업"

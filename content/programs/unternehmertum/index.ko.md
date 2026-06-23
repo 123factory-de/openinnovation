@@ -3,14 +3,13 @@ title: "UnternehmerTUM"
 date: 2026-06-16
 draft: false
 company: "UnternehmerTUM"
-industry: "다분야"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.unternehmertum.de/angebot"
-focusAreas:
-  - "창업"
-  - "인큐베이션"
-  - "벤처 지원"
-  - "기업 혁신"
-  - "딥테크"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Advanced Manufacturing"
 eligibility:
   - "스타트업"
   - "스케일업"

@@ -10,7 +10,8 @@
       {{ $visiblePages = $visiblePages | append . }}
     {{ end }}
   {{ end }}
-  {{ $paginator := .Paginate $visiblePages 24 }}
+  {{/* Render the full catalog; filtering + pagination are handled client-side
+       so an industry filter spans every program, not just one paginator page. */}}
 
   <style>
     .programs-list {
@@ -354,6 +355,47 @@
       content: "↗";
       font-size: 0.78rem;
     }
+
+    .oi-pagination {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      justify-content: center;
+      margin-top: 1.5rem;
+    }
+
+    .oi-page-btn {
+      border: 1px solid #e2e8f0;
+      background: #fff;
+      color: #0f172a;
+      border-radius: 0.5rem;
+      padding: 0.35rem 0.7rem;
+      font-size: 0.85rem;
+      line-height: 1;
+      cursor: pointer;
+    }
+
+    .oi-page-btn:hover:not(:disabled):not(.is-active) {
+      background: #f1f5f9;
+    }
+
+    .oi-page-btn.is-active {
+      background: #0ea5e9;
+      border-color: #0ea5e9;
+      color: #fff;
+      cursor: default;
+    }
+
+    .oi-page-btn:disabled {
+      opacity: 0.4;
+      cursor: default;
+    }
+
+    .dark .oi-page-btn {
+      background: rgba(15, 23, 42, 0.36);
+      border-color: rgba(148, 163, 184, 0.24);
+      color: #e2e8f0;
+    }
   </style>
 
   <section class="programs-list">
@@ -362,16 +404,17 @@
       {{ with .Content }}
         <div class="programs-list-copy">{{ . }}</div>
       {{ end }}
-      <p class="programs-list-count">
-        {{ T "program_count" (dict "total" (len $visiblePages) "shown" (len $paginator.Pages)) }}
+      {{ $initShown := cond (gt (len $visiblePages) 24) 24 (len $visiblePages) }}
+      <p class="programs-list-count" data-count-tmpl="{{ T "program_count" (dict "total" "__TOTAL__" "shown" "__SHOWN__") }}">
+        {{ T "program_count" (dict "total" (len $visiblePages) "shown" $initShown) }}
       </p>
     </header>
 
     {{ if gt (len $visiblePages) 0 }}
       {{/* ── Industry filter bar ── */}}
       {{ $allIndustries := slice }}
-      {{ range $paginator.Pages }}
-        {{ with .Params.industry }}
+      {{ range $visiblePages }}
+        {{ range .Params.industry }}
           {{ $allIndustries = $allIndustries | append . }}
         {{ end }}
       {{ end }}
@@ -387,7 +430,7 @@
       {{ end }}
 
       <section class="oi-grid" aria-label="{{ T "programs_aria" }}">
-        {{ range $paginator.Pages }}
+        {{ range $visiblePages }}
           {{ $page := . }}
           {{ $featured := "" }}
           {{ $featuredURL := "" }}
@@ -433,9 +476,9 @@
           {{ if $bg }}{{ $isLogo = true }}{{ end }}
           {{ $isContain := $page.Params.featureContain }}
 
-          {{ $focusAreas := .Params.focusAreas | default (slice) }}
-          {{ $industry := .Params.industry | default "" }}
-          <article class="oi-card" data-industry="{{ $industry }}" data-focus-areas="{{ delimit $focusAreas "||" }}">
+          {{ $verticals := .Params.verticals | default (slice) }}
+          {{ $industries := .Params.industry | default (slice) }}
+          <article class="oi-card" data-industry="{{ delimit $industries "||" }}" data-verticals="{{ delimit $verticals "||" }}">
             <a class="oi-card-media{{ if $isLogo }} is-logo{{ end }}{{ if $logoDark }} is-logo-dark{{ end }}{{ if $isContain }} is-contain{{ end }}"{{ with $bg }} style="{{ printf "background:%s;border-color:%s" . . | safeCSS }}"{{ end }} href="{{ $page.RelPermalink }}" aria-label="{{ $page.Title }}">
               {{ with $featuredURL }}
                 <img src="{{ . }}" alt="" loading="lazy" decoding="async">
@@ -460,7 +503,7 @@
               <p class="oi-card-summary">{{ . }}</p>
             {{ end }}
 
-            {{ with .Params.focusAreas }}
+            {{ with .Params.verticals }}
               <div class="oi-tags">
                 {{ range first 4 . }}
                   <span class="oi-tag">{{ . }}</span>
@@ -478,9 +521,7 @@
         {{ end }}
         <p class="oi-empty" data-oi-empty>{{ T "no_programs_for_industry" }}</p>
       </section>
-      <div data-oi-pagination>
-        {{ partial "pagination.html" . }}
-      </div>
+      <div class="oi-pagination" data-oi-pagination></div>
     {{ end }}
   </section>
 
@@ -490,55 +531,104 @@
       const grid = document.querySelector(".programs-list .oi-grid");
       if (!root || !grid) return;
 
+      const PAGE_SIZE = 24;
       const cards = Array.from(grid.querySelectorAll(".oi-card"));
       const emptyState = grid.querySelector("[data-oi-empty]");
       const tagButtons = Array.from(document.querySelectorAll(".programs-list [data-filter-tag]"));
       const pagination = document.querySelector(".programs-list [data-oi-pagination]");
+      const countEl = document.querySelector(".programs-list .programs-list-count");
+      const countTmpl = countEl ? countEl.dataset.countTmpl || "" : "";
       const params = new URLSearchParams(window.location.search);
 
-      const updateUrl = (tag) => {
+      let activeTag = "all";
+      let currentPage = 1;
+
+      const matches = (card) =>
+        activeTag === "all" || (card.dataset.industry || "").split("||").includes(activeTag);
+
+      const updateUrl = () => {
         const nextUrl = new URL(window.location.href);
-        if (tag === "all") {
+        if (activeTag === "all") {
           nextUrl.searchParams.delete("industry");
         } else {
-          nextUrl.searchParams.set("industry", tag);
+          nextUrl.searchParams.set("industry", activeTag);
+        }
+        if (currentPage > 1) {
+          nextUrl.searchParams.set("page", String(currentPage));
+        } else {
+          nextUrl.searchParams.delete("page");
         }
         window.history.replaceState({}, "", nextUrl);
       };
 
-      const applyFilter = (tag) => {
-        let visibleCount = 0;
-        cards.forEach((card) => {
-          const industry = card.dataset.industry || "";
-          const isVisible = tag === "all" || industry === tag;
-          card.style.display = isVisible ? "" : "none";
-          if (isVisible) visibleCount += 1;
-        });
+      const renderPagination = (totalPages) => {
+        if (!pagination) return;
+        pagination.innerHTML = "";
+        if (totalPages <= 1) return;
+        const mkBtn = (label, page, disabled, active) => {
+          const b = document.createElement("button");
+          b.type = "button";
+          b.className = "oi-page-btn" + (active ? " is-active" : "");
+          b.textContent = label;
+          b.disabled = !!disabled;
+          if (!disabled && !active) {
+            b.addEventListener("click", () => {
+              currentPage = page;
+              render();
+              grid.scrollIntoView({ behavior: "smooth", block: "start" });
+            });
+          }
+          return b;
+        };
+        pagination.appendChild(mkBtn("‹", currentPage - 1, currentPage === 1, false));
+        for (let p = 1; p <= totalPages; p += 1) {
+          pagination.appendChild(mkBtn(String(p), p, false, p === currentPage));
+        }
+        pagination.appendChild(mkBtn("›", currentPage + 1, currentPage === totalPages, false));
+      };
+
+      const render = () => {
+        const filtered = cards.filter(matches);
+        const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+        if (currentPage > totalPages) currentPage = totalPages;
+        if (currentPage < 1) currentPage = 1;
+        const start = (currentPage - 1) * PAGE_SIZE;
+        const pageCards = filtered.slice(start, start + PAGE_SIZE);
+
+        cards.forEach((card) => { card.style.display = "none"; });
+        pageCards.forEach((card) => { card.style.display = ""; });
 
         tagButtons.forEach((button) => {
-          button.classList.toggle("is-active", button.dataset.filterTag === tag);
+          button.classList.toggle("is-active", button.dataset.filterTag === activeTag);
         });
 
         if (emptyState) {
-          emptyState.style.display = visibleCount === 0 ? "block" : "none";
+          emptyState.style.display = filtered.length === 0 ? "block" : "none";
         }
 
-        if (pagination) {
-          pagination.style.display = tag === "all" ? "" : "none";
+        if (countEl && countTmpl) {
+          countEl.textContent = countTmpl
+            .replace("__SHOWN__", String(pageCards.length))
+            .replace("__TOTAL__", String(filtered.length));
         }
+
+        renderPagination(totalPages);
+        updateUrl();
       };
 
       tagButtons.forEach((button) => {
         button.addEventListener("click", () => {
-          const tag = button.dataset.filterTag || "all";
-          applyFilter(tag);
-          updateUrl(tag);
+          activeTag = button.dataset.filterTag || "all";
+          currentPage = 1;
+          render();
         });
       });
 
       const initialTag = params.get("industry") || "all";
-      const knownTag = tagButtons.some((button) => button.dataset.filterTag === initialTag) ? initialTag : "all";
-      applyFilter(knownTag);
+      activeTag = tagButtons.some((button) => button.dataset.filterTag === initialTag) ? initialTag : "all";
+      const initialPage = parseInt(params.get("page") || "1", 10);
+      currentPage = Number.isFinite(initialPage) && initialPage > 0 ? initialPage : 1;
+      render();
     })();
   </script>
 {{ end }}

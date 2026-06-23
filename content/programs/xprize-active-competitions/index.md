@@ -3,15 +3,14 @@ title: XPRIZE Active Competitions
 date: 2026-06-08
 draft: false
 company: XPRIZE Foundation
-industry: "Cross-Industry"
+industry:
+- "Business Products and Services"
 externalUrl: https://www.xprize.org/competitions?status=Active
-focusAreas:
-- Quantum
-- Climate
-- Health
-- Food
-- Exploration
-- Social Impact
+verticals:
+- Climate Tech
+- Digital Health
+- Foodtech
+- Space Tech
 eligibility:
 - Teams
 - Companies

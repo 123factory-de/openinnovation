@@ -3,13 +3,11 @@ title: "NTT Startup Challenge"
 date: 2026-06-16
 draft: false
 company: "NTT"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://www.ntt-startupchallenge.com/"
-focusAreas:
-  - "ICT"
-  - "Telecom"
-  - "Digital Innovation"
-  - "Group Collaboration"
+verticals:
+  - "Technology, Media & Telecommunications (TMT)"
 eligibility:
   - "Startups"
 status: "Active"

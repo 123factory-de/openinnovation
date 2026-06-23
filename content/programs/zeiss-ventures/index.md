@@ -3,13 +3,13 @@ title: "ZEISS Ventures"
 date: 2026-06-16
 draft: false
 company: "ZEISS"
-industry: "Manufacturing"
+industry:
+- "Business Products and Services"
+- "Healthcare"
 externalUrl: "https://www.zeiss.de/corporate/ueber-zeiss/zukunft/new-business-bei-zeiss/zeiss-ventures.html"
-focusAreas:
-  - "Optics and Photonics"
-  - "Medical Technology"
-  - "Semiconductor Technology"
-  - "Deep Tech"
+verticals:
+  - "Digital Health"
+  - "Advanced Manufacturing"
 eligibility:
   - "Startups"
   - "Scaleups"

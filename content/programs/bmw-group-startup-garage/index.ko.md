@@ -4,14 +4,13 @@ title: "BMW Group Startup Garage"
 date: 2026-06-08
 draft: false
 company: "BMW Group"
-industry: "자동차"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.bmwstartupgarage.com/"
-focusAreas:
-  - "자동차"
-  - "생산"
-  - "소프트웨어"
-  - "모빌리티"
-  - "벤처 클라이언트 파일럿"
+verticals:
+  - "Mobility Tech"
+  - "Advanced Manufacturing"
+  - "Software as a Service (SaaS)"
 eligibility:
   - "스타트업"
 status: "상시 운영"

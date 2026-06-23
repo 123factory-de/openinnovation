@@ -3,13 +3,12 @@ title: "Seven Accelerator"
 date: 2026-06-16
 draft: false
 company: "ProSiebenSat.1"
-industry: "ICT"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.commerceandventures.com/investment-stages/sevenaccelerator"
-focusAreas:
-  - "Consumer Internet"
-  - "Digital Media"
-  - "E-Commerce"
-  - "Direct-to-Consumer Brands"
+verticals:
+  - "Ecommerce"
+  - "Technology, Media & Telecommunications (TMT)"
 eligibility:
   - "Startups"
 status: "Active"

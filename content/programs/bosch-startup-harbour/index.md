@@ -3,13 +3,13 @@ title: "Bosch Startup Harbour"
 date: 2026-06-16
 draft: false
 company: "Bosch"
-industry: "Manufacturing"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.bosch-business-innovations.com/stories/startupharbour-biu/"
-focusAreas:
-  - "Industrial Technology"
-  - "IoT"
-  - "Mobility"
-  - "Proof of Concept"
+verticals:
+  - "Advanced Manufacturing"
+  - "Internet of Things (IoT)"
+  - "Mobility Tech"
 eligibility:
   - "Startups"
 status: "Active"

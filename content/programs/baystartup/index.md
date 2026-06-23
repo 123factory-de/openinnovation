@@ -3,13 +3,12 @@ title: "BayStartUP"
 date: 2026-06-16
 draft: false
 company: "BayStartUP"
-industry: "Cross-Industry"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.baystartup.de/"
-focusAreas:
-  - "Business Plan Competitions"
-  - "Startup Financing"
-  - "Investor Matching"
-  - "Coaching and Mentoring"
+verticals:
+  - "Fintech"
+  - "Software as a Service (SaaS)"
 eligibility:
   - "Startups"
 status: "Active"

@@ -3,13 +3,11 @@ title: "Lufthansa Innovation Hub"
 date: 2026-06-16
 draft: false
 company: "Deutsche Lufthansa"
-industry: "Mobility"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://lh-innovationhub.de/"
-focusAreas:
-  - "Travel Technology"
-  - "Mobility"
-  - "Venture Building"
-  - "Digital Customer Experience"
+verticals:
+  - "Mobility Tech"
 eligibility:
   - "Startups"
 status: "Active"

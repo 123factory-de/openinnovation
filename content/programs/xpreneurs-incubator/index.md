@@ -3,13 +3,12 @@ title: "XPRENEURS Incubator"
 date: 2026-06-16
 draft: false
 company: "UnternehmerTUM"
-industry: "Cross-Industry"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.unternehmertum.de/angebot/xpreneurs"
-focusAreas:
-  - "Deep Tech"
-  - "B2B Software"
-  - "Mentoring"
-  - "Investor Access"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "Startups"
 status: "Active"

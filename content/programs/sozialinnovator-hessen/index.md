@@ -5,13 +5,11 @@ title: "Sozialinnovator Hessen"
 date: 2026-06-16
 draft: false
 company: "Social Entrepreneurship Netzwerk Deutschland"
-industry: "Sustainability"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.send-ev.de/projekte-items/sozialinnovator-hessen/"
-focusAreas:
-  - "Social Innovation"
-  - "Social Entrepreneurship"
-  - "Impact Ventures"
-  - "Ecosystem Building"
+verticals:
+  - "Impact Investing"
 eligibility:
   - "Startups"
 status: "Active"

@@ -3,13 +3,12 @@ title: "Porsche Ventures"
 date: 2026-06-16
 draft: false
 company: "Porsche"
-industry: "Automotive"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.porsche.ventures/"
-focusAreas:
-  - "Mobility"
-  - "Automotive Technology"
-  - "Sustainability"
-  - "Deep Tech"
+verticals:
+  - "Mobility Tech"
+  - "Climate Tech"
 eligibility:
   - "Startups"
   - "Scaleups"

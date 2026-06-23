@@ -3,13 +3,12 @@ title: "Heartfelt_"
 date: 2026-06-16
 draft: false
 company: "APX"
-industry: "Cross-Industry"
+industry:
+- "Business Products and Services"
 externalUrl: "https://pitch.heartfelt.vc/"
-focusAreas:
-  - "Early-Stage Investment"
-  - "Pre-Seed Funding"
-  - "Founder Support"
-  - "Pitch and Mentoring"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "Startups"
 status: "Active"

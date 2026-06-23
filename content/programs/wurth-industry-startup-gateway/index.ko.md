@@ -4,13 +4,11 @@ title: "Wurth Industry Start-up Gateway"
 date: 2026-06-16
 draft: false
 company: "Wurth Industry"
-industry: "제조"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.wuerth-industrie.com/web/de/wuerthindustrie/ueberuns/startups/startups.php"
-focusAreas:
-  - "공급망"
-  - "조달 혁신"
-  - "물류"
-  - "개념증명"
+verticals:
+  - "Supply Chain Technology"
 eligibility:
   - "스타트업"
 status: "운영 중"

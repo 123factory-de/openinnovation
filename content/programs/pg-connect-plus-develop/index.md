@@ -3,14 +3,13 @@ title: P&G Connect + Develop
 date: 2026-06-08
 draft: false
 company: P&G
-industry: "FMCG"
+industry:
+- "Consumer Products and Services"
 externalUrl: https://pgconnectdevelop.com/
-focusAreas:
-- Product Technologies
-- Packaging
-- In-Store
+verticals:
 - Ecommerce
-- Supply Chain
+- Supply Chain Technology
+- Cleantech
 eligibility:
 - Innovators
 - Entrepreneurs

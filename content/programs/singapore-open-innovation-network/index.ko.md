@@ -4,13 +4,12 @@ title: "Singapore Open Innovation Network"
 date: 2026-06-08
 draft: false
 company: "Singapore Government"
-industry: "다분야"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.openinnovationnetwork.gov.sg/"
-focusAreas:
-  - "정부 과제"
-  - "기업 과제"
-  - "디지털화"
-  - "응용 기술"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "솔루션 공급자"
   - "챌린지 해결자"

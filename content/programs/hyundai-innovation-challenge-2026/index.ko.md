@@ -3,15 +3,13 @@ title: "Hyundai Innovation Challenge 2026"
 date: 2026-06-09
 draft: false
 company: "Hyundai Motor Company / HMIL / HMIE"
-industry: "자동차"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://hyundaiinnovationchallenge.com/"
-focusAreas:
-  - "ADAS 시스템"
-  - "EV 충전"
-  - "서비스형 모빌리티(MaaS)"
-  - "스마트 소재"
-  - "공장 최적화"
-  - "산업용 엣지 AI"
+verticals:
+  - "Mobility Tech"
+  - "Advanced Manufacturing"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "스타트업"
   - "등록된 사업체"

@@ -3,13 +3,11 @@ title: "OTTO DOCK 6"
 date: 2026-06-16
 draft: false
 company: "OTTO"
-industry: "ICT"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.ottodock6.com/"
-focusAreas:
-  - "Commerce Tech"
-  - "Retail Innovation"
-  - "Venture Building"
-  - "Investment"
+verticals:
+  - "Ecommerce"
 eligibility:
   - "Startups"
 status: "Active"

@@ -3,13 +3,13 @@ title: "Robert Bosch Open Innovation Partnerships"
 date: 2026-06-16
 draft: false
 company: "Bosch"
-industry: "Manufacturing"
+industry:
+- "Business Products and Services"
 externalUrl: "https://innovate-bosch.com/"
-focusAreas:
-  - "Technology Scouting"
-  - "Co-Innovation"
-  - "Industrial Technology"
-  - "Mobility"
+verticals:
+  - "Advanced Manufacturing"
+  - "Mobility Tech"
+  - "Internet of Things (IoT)"
 eligibility:
   - "Startups"
 status: "Active"

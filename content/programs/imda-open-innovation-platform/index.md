@@ -4,13 +4,13 @@ title: IMDA Open Innovation Platform
 date: 2026-06-08
 draft: false
 company: IMDA Singapore
-industry: "ICT"
+industry:
+- "Information Technology"
+- "Consumer Products and Services"
 externalUrl: https://www.openinnovation.gov.sg/
-focusAreas:
-- Business Challenges
-- Digital Transformation
-- Prototype Development
-- Commercial Pilots
+verticals:
+- Software as a Service (SaaS)
+- Artificial Intelligence & Machine Learning (AI/ML)
 eligibility:
 - Problem Solvers
 - Startups

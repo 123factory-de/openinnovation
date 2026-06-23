@@ -3,13 +3,13 @@ title: "Media Tech Hub Accelerator"
 date: 2026-06-16
 draft: false
 company: "Media Tech Hub Potsdam"
-industry: "ICT"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://mth-potsdam.de/accelerator/"
-focusAreas:
-  - "미디어 테크"
-  - "몰입형 미디어"
-  - "인공지능"
-  - "멘토링 및 네트워킹"
+verticals:
+  - "Technology, Media & Telecommunications (TMT)"
+  - "Augmented Reality (AR)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "스타트업"
 status: "운영 중"

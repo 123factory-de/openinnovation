@@ -3,13 +3,12 @@ title: "Google for Startups Cloud Program"
 date: 2026-06-16
 draft: false
 company: "Google"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://startup.google.com/cloud/"
-focusAreas:
-  - "Cloud Infrastructure"
-  - "Artificial Intelligence"
-  - "Scaling on GCP"
-  - "Technical Support"
+verticals:
+  - "Cloudtech & DevOps"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "Startups"
 status: "Active"

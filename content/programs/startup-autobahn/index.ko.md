@@ -3,14 +3,14 @@ title: "Startup Autobahn"
 date: 2026-06-09
 draft: false
 company: "Mercedes-Benz"
-industry: "자동차"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://startup-autobahn.com/"
-focusAreas:
-  - "자동차 기술"
-  - "디지털 서비스"
-  - "스마트 생산"
-  - "지속가능성"
-  - "소프트웨어"
+verticals:
+  - "Mobility Tech"
+  - "Advanced Manufacturing"
+  - "Software as a Service (SaaS)"
+  - "Climate Tech"
 eligibility:
   - "스타트업"
   - "스케일업"

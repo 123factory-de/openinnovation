@@ -3,13 +3,12 @@ title: "Bayer Co.Lab"
 date: 2026-06-16
 draft: false
 company: "Bayer"
-industry: "Healthcare"
+industry:
+- "Healthcare"
 externalUrl: "https://colab.bayer.com/en/page/co-lab-berlin-en"
-focusAreas:
-  - "Biotech"
-  - "Healthtech"
+verticals:
   - "Life Sciences"
-  - "Incubation"
+  - "Digital Health"
 eligibility:
   - "Startups"
 status: "Active"

@@ -3,13 +3,12 @@ title: "Vodafone UPLIFT"
 date: 2026-06-16
 draft: false
 company: "Vodafone"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://www.vodafone.de/business/digitalisierung/uplift/"
-focusAreas:
-  - "커넥티비티"
-  - "IoT"
-  - "디지털 솔루션"
-  - "개념증명"
+verticals:
+  - "Internet of Things (IoT)"
+  - "Technology, Media & Telecommunications (TMT)"
 eligibility:
   - "스타트업"
 status: "운영 중"

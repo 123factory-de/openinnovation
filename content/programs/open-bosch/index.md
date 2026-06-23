@@ -3,12 +3,13 @@ title: Open Bosch
 date: 2026-06-08
 draft: false
 company: Bosch Ventures
-industry: "Manufacturing"
+industry:
+- "Business Products and Services"
 externalUrl: https://bosch.ventures/open-bosch/
-focusAreas:
-- Venture-Client Partnerships
-- Startup Solution Testing
-- Bosch Business-Unit Needs
+verticals:
+- Advanced Manufacturing
+- Internet of Things (IoT)
+- Software as a Service (SaaS)
 eligibility:
 - Startups
 status: Always Open

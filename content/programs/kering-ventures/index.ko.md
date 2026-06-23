@@ -3,13 +3,13 @@ title: "Kering Ventures"
 date: 2026-06-16
 draft: false
 company: "Kering"
-industry: "소비재"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.kering-ventures.com/"
-focusAreas:
-  - "지속가능성"
-  - "소재 혁신"
-  - "리테일 기술"
-  - "럭셔리 및 패션"
+verticals:
+  - "Ecommerce"
+  - "Cleantech"
+  - "Beauty"
 eligibility:
   - "스타트업"
   - "스케일업"

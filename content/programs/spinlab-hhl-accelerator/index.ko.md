@@ -3,13 +3,13 @@ title: "SpinLab - The HHL Accelerator"
 date: 2026-06-16
 draft: false
 company: "HHL Leipzig Graduate School of Management"
-industry: "다분야"
+industry:
+- "Business Products and Services"
 externalUrl: "https://www.spinlab.co/"
-focusAreas:
-  - "지분 없는 액셀러레이션"
-  - "멘토링"
-  - "기업 네트워크"
-  - "투자자 접근"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Advanced Manufacturing"
 eligibility:
   - "스타트업"
 status: "운영 중"

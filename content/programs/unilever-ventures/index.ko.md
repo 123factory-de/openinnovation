@@ -3,13 +3,12 @@ title: "Unilever Ventures"
 date: 2026-06-16
 draft: false
 company: "Unilever"
-industry: "소비재"
+industry:
+- "Consumer Products and Services"
 externalUrl: "https://www.unileverventures.com/"
-focusAreas:
-  - "뷰티 및 퍼스널 케어"
-  - "디지털 커머스"
-  - "브랜드 및 소비재"
-  - "성장 투자"
+verticals:
+  - "Beauty"
+  - "Ecommerce"
 eligibility:
   - "스타트업"
   - "스케일업"

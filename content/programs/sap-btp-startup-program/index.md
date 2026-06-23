@@ -3,13 +3,13 @@ title: "SAP BTP Startup Program"
 date: 2026-06-16
 draft: false
 company: "SAP"
-industry: "ICT"
+industry:
+- "Information Technology"
 externalUrl: "https://www.sap.com/products/technology-platform.html"
-focusAreas:
-  - "SAP Business Technology Platform"
-  - "Data to Value"
-  - "AI and Analytics"
-  - "Cloud Application Development"
+verticals:
+  - "Software as a Service (SaaS)"
+  - "Cloudtech & DevOps"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "Startups"
 status: "Active"

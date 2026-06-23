@@ -1,6 +1,6 @@
 ---
 name: create-hugo-open-innovation-content
-description: Convert an open innovation research report into Hugo content/programs Markdown entries with normalized frontmatter, body sections, and source links.
+description: Convert an open innovation research report into Hugo content/programs Markdown entries with normalized frontmatter, PitchBook-based industry and vertical classification, body sections, and source links.
 ---
 
 # Create Hugo Open Innovation Content
@@ -56,10 +56,12 @@ Default language rule:
 11. Run a quick validation pass:
    - Every file has frontmatter bounded by `---`.
    - `draft` is `false`.
+   - `industry` is a non-empty YAML list, and every entry exactly matches one of the seven canonical PitchBook sectors.
+   - `verticals` is a non-empty YAML list, and every entry exactly matches a canonical PitchBook Industry Vertical name.
    - `externalUrl` is non-empty.
    - If `featureimage` is used, it points to an existing bundle-local image.
    - Otherwise, any representative image is named `feature.<ext>`, `cover.<ext>`, or `thumbnail.<ext>` inside the same bundle.
-   - `focusAreas` and `eligibility` are YAML lists.
+   - `verticals` and `eligibility` are YAML lists.
    - Body includes `## Overview`, `## Focus Areas`, `## Collaboration & Benefits`, `## How to Apply`, and `## Sources`.
    - Both `index.md` and `index.ko.md` exist for each newly created bundle unless the user explicitly requested otherwise.
 
@@ -107,10 +109,12 @@ title: "Program Name"
 date: YYYY-MM-DD
 draft: false
 company: "Sponsor Name"
+industry:
+  - "Information Technology"
 externalUrl: "https://official.example/path"
-focusAreas:
-  - "Area 1"
-  - "Area 2"
+verticals:
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
+  - "Cybersecurity"
 eligibility:
   - "Startups"
   - "Researchers"
@@ -124,11 +128,13 @@ Use the same schema for `index.ko.md`. Translate `summary` into natural Korean w
 
 Rules:
 
+- `industry` is required and is a YAML list of one or more of the seven PitchBook Primary Industry Sectors (see `## Industry Classification`). List the primary sector first. Most programs have a single entry; add a second (or third) only when the program genuinely spans multiple sectors. Every entry drives the industry filter bar on the home and programs list pages, so each must match a canonical value character-for-character.
+- `verticals` is required and is a YAML list of one to four canonical PitchBook Industry Verticals (see `## Vertical Classification`). These are the thematic, tech-driven niches derived from the report's focus areas, and they render as the chips on each program card. List the most representative vertical first. Each entry must match a canonical vertical name character-for-character. Replaces the old free-text `focusAreas` field.
 - Use the report `Last checked` date as `date`.
 - Use `status` only for non-date labels such as `Always Open`, `Active`, `Closed`, or `Unknown`.
 - If the report has a published cutoff date, store it in `deadline` using `YYYY-MM-DD`.
 - Do not write `Deadline: YYYY-MM-DD` into `status`.
-- Convert semicolon-separated `Focus areas` into title-cased list items where appropriate.
+- Map the report's semicolon-separated `Focus areas` onto canonical verticals for the `verticals` field, and keep the original phrasing as descriptive bullets in the body `## Focus Areas` section.
 - Convert semicolon-separated `Eligibility` into list items.
 - If eligibility is vague, use conservative values such as `"Startups"`, `"Researchers"`, `"Companies"`, `"Solution Providers"`, or `"Innovators"` only when supported by the report.
 - Keep `summary` under 220 characters.
@@ -137,6 +143,89 @@ Rules:
 - Avoid adding frontmatter fields not used by the project unless the user asks.
 - `status` may be omitted when `deadline` alone is enough to describe the program state.
 - Keep `status` values machine-stable across languages. Use the same canonical value in `index.md` and `index.ko.md`, such as `Always Open`, `Active`, `Closed`, or `Unknown`.
+
+## Industry Classification
+
+The `industry` field is a controlled vocabulary, not a free-text label. Use the PitchBook Primary Industry Sector taxonomy as the source of truth: [`docs/references/pitchbook-industry-taxonomy.md`](../../docs/references/pitchbook-industry-taxonomy.md).
+
+Each program carries a **YAML list** of one or more of these seven canonical values, with the primary sector first. Copy each string verbatim — the filter bar matches a card when any of its sector entries equals the selected tag.
+
+| `industry` value | Use for |
+|---|---|
+| `Business Products and Services` | Programs whose primary customers are other businesses — industrial equipment, logistics, B2B commercial products and services, aerospace and defense |
+| `Consumer Products and Services` | Programs centered on individual end consumers — FMCG, apparel, consumer durables, automotive, retail, media, consumer mobility, hospitality |
+| `Energy` | Energy production, infrastructure, and services — utilities, oil and gas, renewables, energy storage |
+| `Financial Services` | Banking, capital markets, insurance, and fintech-led financial programs |
+| `Healthcare` | Health outcomes — medical devices, healthcare services, health IT, pharmaceuticals and biotech |
+| `Information Technology` | Software, computer hardware, semiconductors, communications/networking, and IT services |
+| `Materials and Resources` | Physical material extraction and processing — chemicals, agriculture, metals and mining, construction materials, packaging |
+
+Classification rules:
+
+- Choose the **primary sector** that best matches the program's main focus, judged by who the program ultimately serves and what it produces, and list it first. When in doubt, follow the "primary customer" test in the taxonomy doc (business customer → `Business Products and Services`; end consumer → `Consumer Products and Services`).
+- Add a **second (or third) sector** only when the program genuinely operates across sectors — for example a sponsor with two core businesses (ZEISS → `Business Products and Services` + `Healthcare`) or a program whose focus straddles sectors (a sustainability accelerator run by a consumer brand → `Consumer Products and Services` + `Materials and Resources`). Do not list more than is true; a single sector is the norm. Never list all seven as a substitute for "any sector" — for sector-agnostic programs use the single sponsor-anchored sector below.
+- The seven sectors have **no "Cross-Industry" or "Sustainability" bucket**. For a sector-agnostic accelerator or corporate venture program, classify by the **sponsor's primary business sector** (e.g. an automaker's open-innovation arm → `Consumer Products and Services`; an industrial conglomerate's startup gateway → `Business Products and Services`).
+- Map sustainability/climate programs by their underlying activity: clean power and grid → `Energy`; circular materials, recycling, and chemicals → `Materials and Resources`.
+- Do not invent new sector strings, abbreviations, or parentheticals (`IT`, `ICT`, `FMCG`, `Cross-Industry` are **not** valid values).
+
+When normalizing existing free-text values, use this mapping as a starting point and confirm against the program's actual focus:
+
+| Legacy free-text value | Canonical sector |
+|---|---|
+| `ICT` | `Information Technology` |
+| `Manufacturing` | `Business Products and Services` |
+| `FMCG` | `Consumer Products and Services` |
+| `Automotive` | `Consumer Products and Services` |
+| `Mobility` | `Consumer Products and Services` |
+| `Logistics` | `Business Products and Services` |
+| `Aerospace` | `Business Products and Services` |
+| `Healthcare` | `Healthcare` |
+| `Energy` | `Energy` |
+| `Sustainability` | `Energy` or `Materials and Resources` (by activity) |
+| `Cross-Industry` | Sponsor's primary sector (decide per program) |
+
+## Vertical Classification
+
+The `verticals` field is a controlled vocabulary that complements `industry`. Where `industry` answers "which of the seven broad sectors," `verticals` captures the **thematic, tech-driven niches** a program targets — these can cross sectors. Use the PitchBook Industry Verticals taxonomy as the source of truth: [`docs/references/pitchbook-industry-verticals.md`](../../docs/references/pitchbook-industry-verticals.md).
+
+Each program carries a **YAML list of one to four** of these verticals. Copy each name verbatim from the verticals doc, including casing, ampersands, and parentheticals — for example `"Artificial Intelligence & Machine Learning (AI/ML)"`, `"Climate Tech"`, `"Digital Health"`, `"Cybersecurity"`. The verticals render as the chips on each program card, so the most representative vertical comes first.
+
+Classification rules:
+
+- Derive verticals from the report's **focus areas, sector, and program description** — not from the sponsor's name alone. Pick the verticals that best describe what the program actually invites startups to work on.
+- A program belongs to **one industry but may carry multiple verticals**. It is normal for a `Healthcare` program to carry `"Digital Health"` and `"Life Sciences"`, or for an `Energy` program to carry `"Cleantech"` and `"Climate Tech"`.
+- Keep the list focused: **one to four** verticals. Do not pad the list to cover every loosely related theme. If a program is broad and sector-agnostic, pick the two or three verticals that most define it (often `"Advanced Manufacturing"`, `"SaaS"`, or `"Artificial Intelligence & Machine Learning (AI/ML)"` for generic corporate accelerators).
+- Prefer a **specific vertical over an aggregate** one. `"Industrials"`, `"Manufacturing"`, and `"Technology, Media & Telecommunications (TMT)"` are intentionally broad — use a sharper vertical (e.g. `"Advanced Manufacturing"`, `"Robotics & Drones"`, `"Construction Technology"`) when the focus supports it.
+- Do not invent vertical names, abbreviations, or new parentheticals. If a focus area has no matching vertical, choose the closest canonical vertical rather than coining a new string.
+
+When migrating existing free-text `focusAreas` values, map each phrase to the closest canonical vertical and confirm against the program's actual focus. Common mappings:
+
+| Legacy free-text focus area | Canonical vertical |
+|---|---|
+| `AI`, `Artificial Intelligence`, `Machine Learning`, `Data Analytics` | `Artificial Intelligence & Machine Learning (AI/ML)` |
+| `Sustainability`, `Decarbonization`, `Net Zero`, `Climate` | `Climate Tech` |
+| `Clean Energy`, `Renewables`, `Energy Storage`, `Cleantech` | `Cleantech` |
+| `Digital Health`, `Telehealth`, `Health IT`, `Medtech` | `Digital Health` |
+| `Biotech`, `Pharma`, `Drug Discovery`, `Life Sciences` | `Life Sciences` |
+| `Mobility`, `Automotive`, `EV` | `Mobility Tech` |
+| `Logistics`, `Supply Chain` | `Supply Chain Technology` |
+| `IoT`, `Connected Devices`, `Sensors` | `Internet of Things (IoT)` |
+| `Cybersecurity`, `Security` | `Cybersecurity` |
+| `Fintech`, `Payments`, `Banking` | `Fintech` |
+| `Insurance`, `Insurtech` | `Insurtech` |
+| `Manufacturing`, `Industry 4.0`, `Smart Factory`, `Robotics`, `Automation` | `Advanced Manufacturing` or `Robotics & Drones` (by focus) |
+| `Agriculture`, `Farming`, `Food`, `Agrifood` | `Agtech` or `Foodtech` (by focus) |
+| `Circular Packaging`, `Recycling`, `Materials`, `Chemicals` | `Cleantech` (or `Advanced Manufacturing` for process tech) |
+| `Cloud`, `DevOps`, `Infrastructure software` | `Cloudtech & DevOps` |
+| `SaaS`, `Enterprise Software`, `B2B Software` | `Software as a Service (SaaS)` |
+| `Blockchain`, `Crypto`, `Web3` | `Cryptocurrency & Blockchain` |
+| `Space`, `Satellite`, `Aerospace` | `Space Tech` |
+| `Construction`, `PropTech` real estate build | `Construction Technology` or `Real Estate Tech` |
+| `Retail`, `Commerce`, `D2C` | `Ecommerce` |
+| `Marketing`, `Adtech` | `Marketing Tech` or `Adtech` |
+| `Education`, `Learning` | `Edtech` |
+| `Gaming`, `Esports` | `Gaming` or `eSports` |
+| `AR/VR`, `Metaverse`, `Immersive` | `Augmented Reality (AR)` or `Virtual Reality (VR)` |
 
 ## Representative Image Workflow
 

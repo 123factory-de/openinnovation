@@ -506,7 +506,7 @@
             {{ with .Params.verticals }}
               <div class="oi-tags">
                 {{ range first 4 . }}
-                  <span class="oi-tag">{{ . }}</span>
+                  <span class="oi-tag" title="{{ . }}">{{ replaceRE "^.*\\(([^)]+)\\).*$" "$1" . }}</span>
                 {{ end }}
               </div>
             {{ end }}

@@ -26,7 +26,7 @@ The Dual-Use Drones Innovative Programme, organized by the European Cluster for 
 - Improving and adapting business models, processes, and products
 - Developing or strengthening dual-use (civil and defense/security) applications
 
-## Collaboration & Benefits
+## Benefits
 
 - **Equity-free funding**: Up to €35,000 per selected SME.
 - **Mentorship & Assessment**: Individual assessment, roadmap definition, and ongoing mentorship throughout the program.
@@ -39,7 +39,3 @@ Applications must be submitted electronically in English via the official [Wiin.
 
 The application deadline is **September 30, 2026, at 5:00 PM CEST**.
 
-## Sources
-
-- [Official program page](https://ecdi-euroclusters.eu/opencalls/,2.html)
-- [Application Portal](https://3742003280.wiin.io/en/applications/dual-use-drones-innovative-programme)

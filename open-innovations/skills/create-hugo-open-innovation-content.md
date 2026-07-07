@@ -1,6 +1,6 @@
 ---
 name: create-hugo-open-innovation-content
-description: Convert an open innovation research report into Hugo content/programs Markdown entries with normalized frontmatter, PitchBook-based industry and vertical classification, body sections, and source links.
+description: Convert an open innovation research report into Hugo content/programs Markdown entries with normalized frontmatter, PitchBook-based industry and vertical classification, and body sections.
 ---
 
 # Create Hugo Open Innovation Content
@@ -62,7 +62,7 @@ Default language rule:
    - If `featureimage` is used, it points to an existing bundle-local image.
    - Otherwise, any representative image is named `feature.<ext>`, `cover.<ext>`, or `thumbnail.<ext>` inside the same bundle.
    - `verticals` and `eligibility` are YAML lists.
-   - Body includes `## Overview`, `## Focus Areas`, `## Collaboration & Benefits`, `## How to Apply`, and `## Sources`.
+   - Body includes `## Overview`, `## Focus Areas`, `## Benefits`, and `## How to Apply`.
    - Both `index.md` and `index.ko.md` exist for each newly created bundle unless the user explicitly requested otherwise.
 
 ## Slug Rules
@@ -327,46 +327,36 @@ Short paragraph describing the sponsor, program purpose, target collaborators, a
 - Area 1
 - Area 2
 
-## Collaboration & Benefits
+## Benefits
 
 - Benefit or collaboration pathway
 - Benefit or collaboration pathway
 
 ## How to Apply
 
-Explain the application path, deadline if any, and link to the official program page.
-
-## Sources
-
-- [Official program page](https://official.example/path)
-- [Representative image source](https://official.example/image-or-page)
+- Explain the application path in a short sentence.
 ```
 
 Create a Korean companion body in `index.ko.md` using the same section structure:
 
 ```markdown
-## Overview
+## 개요
 
 짧은 한국어 문단으로 프로그램 목적, 운영 주체, 대상 협업 파트너, 현재 상태를 설명한다.
 
-## Focus Areas
+## 주요 분야
 
 - 항목 1
 - 항목 2
 
-## Collaboration & Benefits
+## 혜택
 
 - 협업 방식 또는 기대 효과
 - 협업 방식 또는 기대 효과
 
-## How to Apply
+## 지원 방법
 
-지원 경로, 마감일, 공식 프로그램 페이지를 한국어로 설명한다.
-
-## Sources
-
-- [Official program page](https://official.example/path)
-- [Representative image source](https://official.example/image-or-page)
+- 공식 프로그램 페이지에서 현재 참여 방법을 확인한다.
 ```
 
 Korean writing rules:
@@ -374,10 +364,8 @@ Korean writing rules:
 - Write natural Korean, not word-for-word translation.
 - Keep brand names, program names, URLs, and ISO dates unchanged unless there is a widely used Korean rendering.
 - Translate descriptive text, benefits, and application instructions into concise Korean.
-- It is acceptable to keep the section headings in English if that matches the existing project pattern.
+- Use Korean section headings in `index.ko.md` by default to match the existing program pages.
 - Preserve uncertainty in Korean too. If status is `Unknown`, explain why the current application state is unclear.
-
-If the report has multiple official sources, include them all under `## Sources`.
 
 ## Content Rules
 
@@ -389,8 +377,6 @@ If the report has multiple official sources, include them all under `## Sources`
 - Use ASCII punctuation unless source names require otherwise.
 - Use local representative images only; do not hotlink image URLs in `featureimage`.
 - Prefer leaf bundles over standalone Markdown files so each program's content and image stay together.
-
-## Existing Content Handling
 
 If `content/programs/henkel-spark/index.md` already exists, leave it unchanged by default.
 

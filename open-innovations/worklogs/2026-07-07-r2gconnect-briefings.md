@@ -10,7 +10,7 @@ Branch: `feat/r2gconnect-briefings-2026-07-07`
 - Created a fresh snapshot report at `open-innovations/reports/2026-07-07-r2gconnect-briefings.md`.
 - Created 12 Hugo program bundles under `content/programs/`, each with `index.md` and `index.ko.md`.
 - Verified all 12 bundles exist and contain the expected files.
-- Added official `featureimage` metadata to each program so the site can render the source images without copying assets locally.
+- Avoided hotlinking third-party image URLs; the new pages remain text-first until we have locally hosted official assets.
 
 ## Created program bundles
 

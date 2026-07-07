@@ -6,7 +6,6 @@ company: "R2GConnect Channels"
 industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recB00V2eO0JFytqn&type=brief"
-featureimage: "https://dl.airtable.com/.directUrlUploadAttachment/4586516373e741f845fbe26956e99ba8/25f07895/R2GConnecttransparentbackground.png"
 verticals:
   - "Pharma"
   - "Digital Health"

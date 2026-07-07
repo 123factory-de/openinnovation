@@ -6,7 +6,6 @@ company: "Frontiers Health"
 industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recnDK5TV2sd7BBwx&type=brief"
-featureimage: "https://dl.airtable.com/.directUrlUploadAttachment/3391d592f784643b3966e63ac61a3899/26e8429c/FH10Y-25_Date_Ve_FullC_RGB.png"
 verticals:
   - "디지털 헬스"
   - "스타트업"

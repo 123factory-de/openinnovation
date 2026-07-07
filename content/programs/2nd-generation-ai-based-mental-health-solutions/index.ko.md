@@ -6,7 +6,6 @@ company: "R2GConnect Channels"
 industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recj4oyFBpyYzkhtr&type=brief"
-featureimage: "https://dl.airtable.com/.directUrlUploadAttachment/4586516373e741f845fbe26956e99ba8/25f07895/R2GConnecttransparentbackground.png"
 verticals:
   - "디지털 헬스"
   - "정신건강"

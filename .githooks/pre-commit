@@ -1,0 +1,22 @@
+#!/usr/bin/env bash
+# Blocks commits containing secrets or personal data, using gitleaks with the
+# repository's .gitleaks.toml. This is a fast local guard; the authoritative
+# gate is the required PR check in .github/workflows/pr-checks.yml.
+#
+# Enable once per clone:
+#   git config core.hooksPath .githooks
+set -euo pipefail
+
+if ! command -v gitleaks >/dev/null 2>&1; then
+  echo "pre-commit: gitleaks is not installed, refusing to commit unscanned changes." >&2
+  echo "Install it first — macOS: 'brew install gitleaks', other platforms:" >&2
+  echo "https://github.com/gitleaks/gitleaks#installing" >&2
+  exit 1
+fi
+
+# gitleaks >= 8.19 uses 'git --pre-commit'; older versions use 'protect'.
+if gitleaks git --help >/dev/null 2>&1; then
+  exec gitleaks git --pre-commit --staged --redact --verbose --config .gitleaks.toml
+else
+  exec gitleaks protect --staged --redact --verbose --config .gitleaks.toml
+fi

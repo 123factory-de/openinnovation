@@ -1,0 +1,49 @@
+# Gitleaks configuration for secret and personal-data scanning.
+# Used by CI (.github/workflows/pr-checks.yml) and the pre-commit hook (.githooks/pre-commit).
+# This file is a protected path: changes to it must come from a human reviewer, not the agent.
+
+title = "openinnovation secret & PII scan"
+
+# Keep all built-in gitleaks rules (AWS, GitHub, Slack, OpenAI, Anthropic, generic API keys, ...)
+[extend]
+useDefault = true
+
+# --- Personal data (PII) rules -------------------------------------------
+
+[[rules]]
+id = "korean-rrn"
+description = "Korean resident registration number (주민등록번호)"
+regex = '''\b\d{6}-[1-4]\d{6}\b'''
+keywords = ["-1", "-2", "-3", "-4"]
+
+[[rules]]
+id = "korean-mobile-phone"
+description = "Korean mobile phone number"
+regex = '''\b01[016789]-\d{3,4}-\d{4}\b'''
+keywords = ["010-", "011-", "016-", "017-", "018-", "019-"]
+
+[[rules]]
+id = "email-address"
+description = "Email address (personal data — allowlist approved public contacts below)"
+regex = '''\b[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}\b'''
+keywords = ["@"]
+
+  # Approved public contact addresses. Extend this list via a human-reviewed PR
+  # when a program page legitimately needs a published contact address.
+  [rules.allowlist]
+  regexes = [
+    '''@example\.(com|org|net)\b''',
+    '''@123factory\.de\b''',
+    '''\b(no-?reply|noreply)@''',
+  ]
+
+# --- Global allowlist ------------------------------------------------------
+
+[allowlist]
+description = "Paths that are not scanned"
+paths = [
+  '''^themes/''',
+  '''^public/''',
+  '''^resources/_gen/''',
+  '''(^|/)go\.sum$''',
+]

@@ -334,7 +334,8 @@ Short paragraph describing the sponsor, program purpose, target collaborators, a
 
 ## How to Apply
 
-Explain the application path and deadline if any.
+- Explain the application path in a short sentence.
+- Include the deadline if any.
 ```
 
 Create a Korean companion body in `index.ko.md` using the same section structure:

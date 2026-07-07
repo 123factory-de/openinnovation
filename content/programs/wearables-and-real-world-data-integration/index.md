@@ -6,6 +6,7 @@ company: "R2GConnect"
 industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recio2pXmXm8hfsid&type=brief"
+featureimage: "https://dl.airtable.com/.directUrlUploadAttachment/d2b2098cc306949aa92598fa5909d617/1a5c4137"
 verticals:
   - "Wearables"
   - "Real-World Data"

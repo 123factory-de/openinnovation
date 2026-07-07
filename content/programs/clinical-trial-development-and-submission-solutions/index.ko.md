@@ -6,6 +6,7 @@ company: "Microsoft for Startups"
 industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=reci9y71NEMmxLyqu&type=brief"
+featureimage: "https://dl.airtable.com/.attachments/0ba5f19ec038349aaba375e60b0000a7/3b325bd8/RE1Mu3b_mzo8a57kn.png"
 verticals:
   - "임상시험"
   - "디지털 헬스"

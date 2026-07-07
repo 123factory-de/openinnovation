@@ -6,6 +6,7 @@ company: "R2GConnect Channels"
 industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recrNSA41sd5C7y9R&type=brief"
+featureimage: "https://dl.airtable.com/.directUrlUploadAttachment/4586516373e741f845fbe26956e99ba8/25f07895/R2GConnecttransparentbackground.png"
 verticals:
   - "제약"
   - "인공지능 및 머신러닝(AI/ML)"

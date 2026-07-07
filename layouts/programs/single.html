@@ -4,6 +4,25 @@
       max-width: 56rem;
     }
 
+    .program-hero {
+      border: 1px solid rgba(148, 163, 184, 0.22);
+      border-radius: 0.75rem;
+      margin-top: 1rem;
+      overflow: hidden;
+      background: linear-gradient(135deg, rgba(5, 150, 105, 0.08), rgba(2, 132, 199, 0.08)), #f8fafc;
+    }
+
+    .dark .program-hero {
+      background: linear-gradient(135deg, rgba(16, 185, 129, 0.08), rgba(56, 189, 248, 0.08)), rgba(17, 24, 39, 0.82);
+      border-color: rgba(148, 163, 184, 0.18);
+    }
+
+    .program-hero img {
+      display: block;
+      height: auto;
+      width: 100%;
+    }
+
     .program-kicker {
       color: #059669;
       font-size: 0.82rem;
@@ -144,6 +163,26 @@
 
   <article class="program-page">
     <header class="mt-5">
+      {{ $heroURL := "" }}
+      {{ with .Params.featureimage }}
+        {{ if or (strings.HasPrefix . "http:") (strings.HasPrefix . "https:") }}
+          {{ $heroURL = . }}
+        {{ else }}
+          {{ with $.Resources.GetMatch . }}
+            {{ $heroURL = .RelPermalink }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      {{ if not $heroURL }}
+        {{ with .Resources.GetMatch "feature.*" }}
+          {{ $heroURL = .RelPermalink }}
+        {{ end }}
+      {{ end }}
+      {{ with $heroURL }}
+        <div class="program-hero">
+          <img src="{{ . }}" alt="{{ $.Title }}" loading="lazy" decoding="async">
+        </div>
+      {{ end }}
       <div class="program-kicker">{{ .Params.company | default "Open Innovation" }}</div>
       <h1 class="mt-2 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
         {{ .Title | emojify }}

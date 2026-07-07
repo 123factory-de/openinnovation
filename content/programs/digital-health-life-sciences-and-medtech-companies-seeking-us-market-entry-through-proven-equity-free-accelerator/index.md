@@ -6,6 +6,7 @@ company: "WorldUpstart"
 industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recThO3qt2ccjTotJ&type=brief"
+featureimage: "https://dl.airtable.com/.directUrlUploadAttachment/4b7e576c9e26254b50529828f052fe83/6d9f435c"
 verticals:
   - "Digital Health"
   - "Life Sciences"

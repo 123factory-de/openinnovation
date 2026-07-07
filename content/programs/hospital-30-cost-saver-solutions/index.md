@@ -6,6 +6,7 @@ company: "R2GConnect Channels"
 industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recYYQ1Y4nNkEe7B2&type=brief"
+featureimage: "https://dl.airtable.com/.directUrlUploadAttachment/4586516373e741f845fbe26956e99ba8/25f07895/R2GConnecttransparentbackground.png"
 verticals:
   - "Hospital Operations"
   - "Operational Efficiency"

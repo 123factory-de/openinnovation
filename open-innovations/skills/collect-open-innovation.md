@@ -7,10 +7,12 @@ description: Discover active corporate open innovation programs worldwide, verif
 
 Use this skill when the user wants to search for open innovation programs, challenge portals, startup collaboration calls, corporate venture/client pilot programs, or R&D partnership opportunities and organize the results in Markdown.
 
+Before writing any report or Hugo entry, first check whether the candidate program already exists in `content/programs/` (or is otherwise already represented in the repository). Treat existing programs as duplicates and do not count them as newly discovered.
+
 The main output can be either:
 
-- A research report under `open-innovations/` that summarizes many programs.
-- Individual Hugo entries under `content/programs/` for selected programs.
+- A research report under `open-innovations/` that records only newly discovered programs not already present in the repository.
+- Individual Hugo entries under `content/programs/` for selected new programs.
 
 You may use aggregator sites, directories, innovation platform listings, newsletters, and database-style roundups as discovery inputs, but never as the final authority for program facts.
 
@@ -58,6 +60,7 @@ Treat these as `lead sources only`, not final evidence:
    - Treat aggregator pages as lead generation only.
    - Prefer official corporate, university, government, or challenge platform pages as sources.
    - Use secondary sources only to discover leads, not as the final authority.
+   - Before collecting a candidate, check whether it already exists in `content/programs/` or is otherwise already represented in the repository; if so, exclude it from the new-program count and do not include it in the report's main shortlist.
    - Every included program must have at least one official source URL.
    - If a candidate is first discovered on an aggregator, click through and verify the current status on the official sponsor page, official challenge page, official application page, or official press release before including it.
 

@@ -25,6 +25,15 @@ This file provides specific context and operational rules for the Antigravity AI
 - **Protected paths — never modify**: `.github/`, `.gitleaks.toml`, `.githooks/`, `.agent/`, `.gitmodules`. CI rejects agent PRs touching these. If a change there seems necessary, describe it in the PR body and let a human maintainer make it.
 - **Publishing a contact address**: if a program page genuinely needs a public contact email, do not add it directly. Open the PR without it and note the address in the PR description; a human will review and extend the allowlist in `.gitleaks.toml` if appropriate.
 
+## Worklog (MANDATORY for every PR)
+- Every PR must include exactly one branch-specific worklog file named `docs/worklog/YYYY-MM-DD-<branch-slug>.md`. This count excludes [docs/worklog/_template.md](docs/worklog/_template.md).
+- Create the worklog file on the same branch as the change and commit it **before opening the PR**.
+- **The worklog file is the source of truth for the PR**: PR title = the worklog `title` field; PR description = the worklog body (from `## Request` down). Generate the PR from the file, never the other way around.
+- If the scope changes during review, update the worklog file first, then sync the PR description to match.
+- Record: the original request (e.g. the Slack instruction, summarized), what changed and why, and how it was verified.
+- The Security & Data Protection rules apply to worklog files too — no personal names, handles, emails, or other personal data; refer to request sources by channel/system and date, not by name.
+- Never modify another branch's worklog file.
+
 ## Operational Preferences
 - Be concise and technical.
 - Proactively suggest best practices for Agentic systems.

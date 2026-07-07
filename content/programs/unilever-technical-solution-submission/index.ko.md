@@ -43,9 +43,4 @@ resources:
 
 - 공식 페이지에서 현재 과제를 확인합니다.
 - Unilever 혁신 워크플로를 통해 솔루션을 제출합니다.
-- 페이지에는 별도의 마감일이 표시되지 않습니다.
 
-## 출처
-
-- [공식 프로그램 페이지](https://www.unilever.com/our-company/innovation-and-rd-at-unilever/innovate-with-us/information-on-submitting-a-technical-solution/)
-- [대표 이미지 출처](https://www.unilever.com/content-images/92ui5egz/production/78ad2bde1d1366776ad298d63ed36d893e396a69-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg)

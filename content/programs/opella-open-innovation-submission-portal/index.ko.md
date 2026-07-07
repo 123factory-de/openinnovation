@@ -42,9 +42,4 @@ Opella의 오픈 이노베이션 포털은 외부 혁신가를 위한 활성 제
 
 - 공식 포털의 제출 양식을 통해 아이디어를 등록합니다.
 - 현재 포털은 활성 상태이며 제출을 받고 있습니다.
-- 페이지에는 별도의 마감일이 명시되어 있지 않습니다.
 
-## 출처
-
-- [공식 프로그램 페이지](https://openinnovation.opella.com/)
-- [대표 이미지 출처](https://openinnovation.opella.com/res/img/Opella_Workmark.png)

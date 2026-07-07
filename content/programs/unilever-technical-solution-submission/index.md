@@ -33,7 +33,7 @@ This Unilever page is a live guidance route for submitting technical solutions t
 - Packaging innovation
 - Challenge-based submissions
 
-## Collaboration & Benefits
+## Benefits
 
 - Access to the latest Unilever challenges
 - A clear route for submitting technical solutions
@@ -43,9 +43,4 @@ This Unilever page is a live guidance route for submitting technical solutions t
 
 - Review the current challenges on the official page.
 - Submit your solution through the Unilever innovation workflow.
-- No published deadline appears on the page.
 
-## Sources
-
-- [Official program page](https://www.unilever.com/our-company/innovation-and-rd-at-unilever/innovate-with-us/information-on-submitting-a-technical-solution/)
-- [Representative image source](https://www.unilever.com/content-images/92ui5egz/production/78ad2bde1d1366776ad298d63ed36d893e396a69-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&fm=jpg)

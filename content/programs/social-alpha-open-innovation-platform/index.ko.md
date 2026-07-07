@@ -44,9 +44,4 @@ The Open Innovation Platform은 Social Alpha가 운영하는 활성 마켓플레
 
 - 플랫폼에서 현재 문제 제안을 확인합니다.
 - 사이트의 워크플로로 바로 참여를 시작합니다.
-- 홈페이지에는 별도의 마감일이 게시되어 있지 않습니다.
 
-## 출처
-
-- [공식 프로그램 페이지](https://openinnovationplatform.org/)
-- [대표 이미지 출처](https://openinnovationplatform.org/files/home-cover.jpg)

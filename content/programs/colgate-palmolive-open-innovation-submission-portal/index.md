@@ -34,7 +34,7 @@ Colgate-Palmolive's portal accepts technical solutions and inventions from exter
 - Packaging
 - Technical solutions
 
-## Collaboration & Benefits
+## Benefits
 
 - Portal review and screening
 - Routing to the appropriate internal team
@@ -44,9 +44,4 @@ Colgate-Palmolive's portal accepts technical solutions and inventions from exter
 
 - Choose a featured need or strategic challenge in the portal.
 - Submit your solution through the official Colgate-Palmolive workflow.
-- No separate deadline is published on the page.
 
-## Sources
-
-- [Official program page](https://colgatepalmolive.yet2.com/)
-- [Representative image source](https://colgatepalmolive.yet2.com/res/img/colgate-logo-new.png)

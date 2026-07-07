@@ -34,7 +34,7 @@ The Open Innovation Platform is Social Alpha's active marketplace for problem st
 - Co-creation
 - Innovation marketplace
 
-## Collaboration & Benefits
+## Benefits
 
 - Browse live problem statements
 - Find cross-sector collaboration opportunities
@@ -44,9 +44,4 @@ The Open Innovation Platform is Social Alpha's active marketplace for problem st
 
 - Explore the current problem statements on the platform.
 - Start the engagement workflow directly from the site.
-- No separate deadline is published on the homepage.
 
-## Sources
-
-- [Official program page](https://openinnovationplatform.org/)
-- [Representative image source](https://openinnovationplatform.org/files/home-cover.jpg)

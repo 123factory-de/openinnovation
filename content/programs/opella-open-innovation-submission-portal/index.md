@@ -32,7 +32,7 @@ Opella's open innovation portal is an active submission entry point for external
 - New technologies
 - New advancements
 
-## Collaboration & Benefits
+## Benefits
 
 - Submission review
 - Screening by yet2 before routing to Opella
@@ -42,9 +42,4 @@ Opella's open innovation portal is an active submission entry point for external
 
 - Use the official submission form on the portal.
 - The portal is currently live and accepting entries.
-- No separate deadline is published on the page.
 
-## Sources
-
-- [Official program page](https://openinnovation.opella.com/)
-- [Representative image source](https://openinnovation.opella.com/res/img/Opella_Workmark.png)

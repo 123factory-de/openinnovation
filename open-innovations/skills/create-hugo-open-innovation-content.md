@@ -334,12 +334,7 @@ Short paragraph describing the sponsor, program purpose, target collaborators, a
 
 ## How to Apply
 
-Explain the application path, deadline if any, and link to the official program page.
-
-## Sources
-
-- [Official program page](https://official.example/path)
-- [Representative image source](https://official.example/image-or-page)
+Explain the application path and deadline if any.
 ```
 
 Create a Korean companion body in `index.ko.md` using the same section structure:
@@ -361,12 +356,7 @@ Create a Korean companion body in `index.ko.md` using the same section structure
 
 ## How to Apply
 
-지원 경로, 마감일, 공식 프로그램 페이지를 한국어로 설명한다.
-
-## Sources
-
-- [Official program page](https://official.example/path)
-- [Representative image source](https://official.example/image-or-page)
+지원 경로와 마감일(있다면)을 한국어로 설명한다.
 ```
 
 Korean writing rules:

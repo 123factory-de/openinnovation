@@ -1,0 +1,75 @@
+name: PR Checks
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  secret-scan:
+    name: Secret & PII scan
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      GITLEAKS_VERSION: "8.30.1"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install gitleaks
+        run: |
+          curl -sSfL "https://github.com/gitleaks/gitleaks/releases/download/v${GITLEAKS_VERSION}/gitleaks_${GITLEAKS_VERSION}_linux_x64.tar.gz" \
+            | tar -xz -C "${RUNNER_TEMP}" gitleaks
+          "${RUNNER_TEMP}/gitleaks" version
+
+      # Scans every commit in the PR range, so a secret that was added and
+      # then removed within the branch is still caught. --redact keeps the
+      # matched values out of public CI logs.
+      - name: Scan PR commits
+        env:
+          BASE_REF: ${{ github.base_ref }}
+        run: |
+          "${RUNNER_TEMP}/gitleaks" git \
+            --config .gitleaks.toml \
+            --redact \
+            --verbose \
+            --log-opts "--no-merges origin/${BASE_REF}..HEAD"
+
+  protected-paths:
+    name: Protected paths
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      # Humans who may modify CI, scanning config, and agent rules via PR.
+      # Space-separated GitHub usernames.
+      TRUSTED_MAINTAINERS: "taptorestart"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Check changed paths
+        env:
+          PR_AUTHOR: ${{ github.event.pull_request.user.login }}
+          BASE_REF: ${{ github.base_ref }}
+        run: |
+          for user in ${TRUSTED_MAINTAINERS}; do
+            if [ "${PR_AUTHOR}" = "${user}" ]; then
+              echo "PR author '${PR_AUTHOR}' is a trusted maintainer; skipping path restrictions."
+              exit 0
+            fi
+          done
+
+          protected='^(\.github/|\.gitleaks\.toml$|\.githooks/|\.agent/|\.gitmodules$)'
+          violations=$(git diff --name-only "origin/${BASE_REF}...HEAD" | grep -E "${protected}" || true)
+
+          if [ -n "${violations}" ]; then
+            echo "::error::This PR modifies protected paths, which only trusted maintainers may change:"
+            echo "${violations}"
+            exit 1
+          fi
+          echo "No protected paths touched."

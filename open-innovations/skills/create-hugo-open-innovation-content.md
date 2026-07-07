@@ -356,7 +356,8 @@ Create a Korean companion body in `index.ko.md` using the same section structure
 
 ## How to Apply
 
-지원 경로를 한 문장으로 설명한다.
+- 공식 프로그램 페이지에서 현재 참여 방법을 확인한다.
+- 제출 폼이나 문의 경로가 있으면 해당 안내에 따라 지원한다.
 ```
 
 Korean writing rules:

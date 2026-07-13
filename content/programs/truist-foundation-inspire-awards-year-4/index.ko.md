@@ -4,7 +4,7 @@ date: 2026-07-13
 draft: false
 company: "Truist Foundation"
 industry:
-  - "사회적 임팩트"
+  - "Social Impact"
 externalUrl: "https://solve.mit.edu/challenges/truist-foundation-inspire-awards-year-4"
 verticals:
   - "사회적 임팩트"

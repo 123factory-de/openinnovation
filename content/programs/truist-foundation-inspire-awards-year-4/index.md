@@ -4,11 +4,10 @@ date: 2026-07-13
 draft: false
 company: "Truist Foundation"
 industry:
-  - "Social Impact"
+  - "Financial Services"
 externalUrl: "https://solve.mit.edu/challenges/truist-foundation-inspire-awards-year-4"
 verticals:
-  - "Social Impact"
-  - "Awards"
+  - "Impact Investing"
 eligibility:
   - "Innovators"
   - "Startups"

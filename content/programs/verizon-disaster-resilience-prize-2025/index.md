@@ -4,11 +4,10 @@ date: 2026-07-13
 draft: false
 company: "Verizon"
 industry:
-  - "Public Safety"
+  - "Information Technology"
 externalUrl: "https://solve.mit.edu/challenges/verizon-disaster-resilience-prize-2025"
 verticals:
-  - "Disaster Resilience"
-  - "Community Safety"
+  - "Infrastructure"
 eligibility:
   - "Innovators"
   - "Startups"

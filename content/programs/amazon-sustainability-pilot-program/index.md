@@ -4,11 +4,11 @@ date: 2026-07-13
 draft: false
 company: "Amazon"
 industry:
-  - "Sustainability"
+  - "Consumer Products and Services"
 externalUrl: "https://solve.mit.edu/challenges/amazon-sustainability-pilot-program"
 verticals:
-  - "Sustainability"
-  - "Pilot Programs"
+  - "Cleantech"
+  - "Climate Tech"
 eligibility:
   - "Innovators"
   - "Startups"

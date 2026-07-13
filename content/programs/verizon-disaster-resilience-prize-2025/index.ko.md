@@ -4,11 +4,10 @@ date: 2026-07-13
 draft: false
 company: "Verizon"
 industry:
-  - "공공 안전"
+  - "Information Technology"
 externalUrl: "https://solve.mit.edu/challenges/verizon-disaster-resilience-prize-2025"
 verticals:
-  - "재난 복원력"
-  - "지역사회 안전"
+  - "Infrastructure"
 eligibility:
   - "혁신가"
   - "스타트업"

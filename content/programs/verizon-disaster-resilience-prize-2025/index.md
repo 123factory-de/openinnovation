@@ -13,14 +13,14 @@ eligibility:
   - "Innovators"
   - "Startups"
   - "Solution Providers"
-status: "Active"
+status: "Closed"
 deadline: ""
-summary: "The Verizon Disaster Resilience Prize 2025 is a live MIT Solve challenge page for disaster resilience solutions."
+summary: "The Verizon Disaster Resilience Prize 2025 is a closed MIT Solve challenge page for disaster resilience solutions."
 ---
 
 ## Overview
 
-The Verizon Disaster Resilience Prize 2025 is a live challenge page hosted on MIT Solve. It offers an official route for disaster resilience solutions to be reviewed through Verizon's challenge program.
+The Verizon Disaster Resilience Prize 2025 is a closed challenge page hosted on MIT Solve. It preserves the official challenge record for disaster resilience solutions.
 
 ## Focus Areas
 

@@ -13,14 +13,14 @@ eligibility:
   - "혁신가"
   - "스타트업"
   - "솔루션 제공자"
-status: "운영 중"
+status: "종료"
 deadline: ""
-summary: "Verizon Disaster Resilience Prize 2025는 재난 복원력 솔루션을 대상으로 하는 MIT Solve의 활성 챌린지 페이지입니다."
+summary: "Verizon Disaster Resilience Prize 2025는 종료된 MIT Solve 챌린지 페이지입니다."
 ---
 
 ## 개요
 
-Verizon Disaster Resilience Prize 2025는 MIT Solve에 게시된 활성 챌린지 페이지입니다. 재난 복원력 솔루션이 Verizon의 챌린지 프로그램을 통해 검토될 수 있는 공식 경로를 제공합니다.
+Verizon Disaster Resilience Prize 2025는 MIT Solve에 게시된 종료된 챌린지 페이지입니다. 재난 복원력 솔루션에 대한 공식 기록을 보존합니다.
 
 ## 주요 분야
 

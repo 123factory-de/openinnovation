@@ -59,7 +59,7 @@ jobs:
     env:
       # Humans who may modify CI, scanning config, and agent rules via PR.
       # Space-separated GitHub usernames.
-      TRUSTED_MAINTAINERS: "gyedongjeon 123factory"
+      TRUSTED_MAINTAINERS: "gyedongjeon"
     steps:
       - name: Checkout
         uses: actions/checkout@v4

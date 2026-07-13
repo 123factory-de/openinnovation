@@ -1,9 +1,16 @@
 {{ $programs := slice }}
 {{ range (where .Site.RegularPages "Type" "programs").ByTitle }}
   {{ $isVisible := true }}
-  {{ with .Params.deadline }}
+  {{ $status := "" }}
+  {{ with .Params.status }}
+    {{ $status = lower . }}
+  {{ end }}
+  {{ if or (eq $status "closed") (eq $status "종료") }}
+    {{ $isVisible = false }}
+  {{ end }}
+  {{ if and $isVisible .Params.deadline }}
     {{ $today := dateFormat "2006-01-02" now }}
-    {{ $isVisible = ge . $today }}
+    {{ $isVisible = ge .Params.deadline $today }}
   {{ end }}
   {{ if $isVisible }}
     {{ $programs = $programs | append . }}

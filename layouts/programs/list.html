@@ -2,9 +2,13 @@
   {{ $visiblePages := slice }}
   {{ range .Pages.ByTitle }}
     {{ $isVisible := true }}
-    {{ with .Params.deadline }}
+    {{ $status := "" }}
+    {{ with .Params.status }}
+      {{ $status = lower . }}
+    {{ end }}
+    {{ if and (ne $status "closed") (ne $status "종료") .Params.deadline }}
       {{ $today := dateFormat "2006-01-02" now }}
-      {{ $isVisible = ge . $today }}
+      {{ $isVisible = ge .Params.deadline $today }}
     {{ end }}
     {{ if $isVisible }}
       {{ $visiblePages = $visiblePages | append . }}

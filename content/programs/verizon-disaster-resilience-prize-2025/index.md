@@ -16,6 +16,12 @@ eligibility:
 status: "Closed"
 deadline: ""
 summary: "The Verizon Disaster Resilience Prize 2025 is a closed MIT Solve challenge page for disaster resilience solutions."
+resources:
+  - src: "feature.jpg"
+    title: "Verizon Disaster Resilience Prize 2025"
+    params:
+      source: "https://d3t35pgnsskh52.cloudfront.net/media/57749/conversions/Verizon_Hero_Image-responsive.jpg"
+      sourceLabel: "Verizon Disaster Resilience Prize 2025 official image"
 ---
 
 ## Overview

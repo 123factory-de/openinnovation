@@ -15,7 +15,13 @@ eligibility:
   - "솔루션 제공자"
 status: "종료"
 deadline: ""
-summary: "Verizon Disaster Resilience Prize 2025는 종료된 MIT Solve 챌린지 페이지입니다."
+summary: "Verizon Disaster Resilience Prize 2025는 재난 회복력 솔루션을 위한 종료된 MIT Solve 챌린지 페이지입니다."
+resources:
+  - src: "feature.jpg"
+    title: "Verizon Disaster Resilience Prize 2025"
+    params:
+      source: "https://d3t35pgnsskh52.cloudfront.net/media/57749/conversions/Verizon_Hero_Image-responsive.jpg"
+      sourceLabel: "Verizon Disaster Resilience Prize 2025 official image"
 ---
 
 ## 개요

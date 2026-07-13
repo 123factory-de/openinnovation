@@ -15,7 +15,13 @@ eligibility:
   - "솔루션 제공자"
 status: "운영 중"
 deadline: ""
-summary: "Amazon Sustainability Pilot Program은 MIT Solve의 활성 챌린지 페이지로, 외부 혁신가가 공식 참여 경로를 통해 지속가능성 관련 파일럿 기회를 탐색할 수 있게 합니다."
+summary: "Amazon의 Sustainability Pilot Program은 외부 혁신가가 공식 챌린지 경로를 통해 참여할 수 있는 MIT Solve의 공개 챌린지 페이지입니다."
+resources:
+  - src: "feature.jpg"
+    title: "Amazon Sustainability Pilot Program"
+    params:
+      source: "https://d3t35pgnsskh52.cloudfront.net/media/58609/conversions/AMZ-Sustainability-Article-Body-AdobeStock_1744494081-responsive.jpg"
+      sourceLabel: "Amazon Sustainability Pilot Program official image"
 ---
 
 ## 개요

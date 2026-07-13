@@ -15,6 +15,7 @@ Add the newly verified MIT Solve program pages, mark the Verizon Disaster Resili
   - Amazon Sustainability Pilot Program
   - Verizon Disaster Resilience Prize 2025
   - Truist Foundation Inspire Awards Year 4
+- Added official feature images for all three programs and recorded the source URL in each program's front matter.
 - Updated the Verizon entry from `Active` to `Closed` after user confirmation that the challenge has ended.
 - Changed the home-page program selection so entries with `status: Closed` or `status: 종료` are excluded from the featured home cards.
 - Kept the catalog list visible for closed entries, since the user wanted closed items to remain discoverable there.

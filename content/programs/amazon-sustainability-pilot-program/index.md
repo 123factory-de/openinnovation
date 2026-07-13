@@ -16,6 +16,12 @@ eligibility:
 status: "Active"
 deadline: ""
 summary: "Amazon's Sustainability Pilot Program is a live MIT Solve challenge page inviting external innovators to participate through the official challenge route."
+resources:
+  - src: "feature.jpg"
+    title: "Amazon Sustainability Pilot Program"
+    params:
+      source: "https://d3t35pgnsskh52.cloudfront.net/media/58609/conversions/AMZ-Sustainability-Article-Body-AdobeStock_1744494081-responsive.jpg"
+      sourceLabel: "Amazon Sustainability Pilot Program official image"
 ---
 
 ## Overview

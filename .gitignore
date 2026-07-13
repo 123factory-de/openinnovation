@@ -17,6 +17,9 @@ Thumbs.db
 .idea/
 *.swp
 
+# Agent tooling
+.claude/
+
 # Temporary files
 *.tmp
 *.log

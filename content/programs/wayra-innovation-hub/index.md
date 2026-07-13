@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "O2 Telefonica"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://www.wayra.de/de/for-startups"
 verticals:
   - "Technology, Media & Telecommunications (TMT)"

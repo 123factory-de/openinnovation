@@ -8,13 +8,13 @@ industry:
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recczRA1ep31S7uMV&type=brief"
 verticals:
   - "Digital Health"
-  - "Clinical Workflow Automation"
+  - "Healthtech"
   - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "Startups"
   - "Solution Providers"
   - "Healthtech Vendors"
-status: "Active"
+status: ""
 deadline: "2026-08-25"
 summary: "This briefing seeks ambient scribing and clinical documentation tools that can support healthcare workflows through commercial partnership or pilot engagements."
 ---

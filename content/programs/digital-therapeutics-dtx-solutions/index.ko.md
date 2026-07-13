@@ -7,14 +7,13 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recUV6MTctI3dY463&type=brief"
 verticals:
-  - "디지털 치료제"
-  - "디지털 헬스"
-  - "생명과학"
+  - "Digital Health"
+  - "Life Sciences"
 eligibility:
   - "디지털 헬스 기업"
   - "DTx 팀"
   - "스타트업"
-status: "운영 중"
+status: ""
 deadline: "2026-09-30"
 summary: "이 공고는 파일럿과 상업 파트너십 논의가 가능한 디지털 치료제 팀을 찾고 있습니다."
 ---

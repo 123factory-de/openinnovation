@@ -4,7 +4,7 @@ date: 2026-07-06
 draft: false
 company: "ECDI"
 industry:
-  - "Business Products and Services"
+  - "Business Products and Services (B2B)"
 externalUrl: "https://ecdi-euroclusters.eu/opencalls/,2.html"
 verticals:
   - "Robotics & Drones"

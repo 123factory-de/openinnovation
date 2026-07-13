@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "SAP"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://www.sap.com/products/technology-platform.html"
 verticals:
   - "Software as a Service (SaaS)"

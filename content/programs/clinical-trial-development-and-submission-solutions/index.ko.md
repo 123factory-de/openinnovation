@@ -7,14 +7,14 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=reci9y71NEMmxLyqu&type=brief"
 verticals:
-  - "임상시험"
-  - "디지털 헬스"
-  - "인공지능 및 머신러닝(AI/ML)"
+  - "Life Sciences"
+  - "Digital Health"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "스타트업"
   - "헬스테크 팀"
   - "생명과학 팀"
-status: "운영 중"
+status: ""
 deadline: "2026-08-31"
 summary: "Microsoft for Startups는 임상시험 개발과 제출 워크플로를 지원하는 솔루션을 위한 액셀러레이션 경로를 제공합니다."
 ---

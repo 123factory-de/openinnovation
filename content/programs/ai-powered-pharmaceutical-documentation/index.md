@@ -7,15 +7,14 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recrNSA41sd5C7y9R&type=brief"
 verticals:
-  - "Pharma"
-  - "Artificial Intelligence & Machine Learning (AI/ML)"
   - "Life Sciences"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "Startups"
   - "Scaleups"
   - "Solution Providers"
   - "AI Vendors"
-status: "Active"
+status: ""
 deadline: "2026-07-14"
 summary: "R2GConnect Channels is looking for AI-enabled documentation solutions for pharmaceutical workflows, including clinical development, regulatory submissions, and pharmacovigilance."
 ---

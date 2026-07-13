@@ -5,7 +5,7 @@ date: 2026-06-09
 draft: false
 company: "Google"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://startup.google.com/accelerator/"
 verticals:
   - "Artificial Intelligence & Machine Learning (AI/ML)"
@@ -14,7 +14,7 @@ verticals:
 eligibility:
   - "시드 단계 스타트업"
   - "시리즈 A 스타트업"
-status: "운영 중"
+status: ""
 deadline: "2026-06-30"
 summary: "Google for Startups Accelerator는 AI 중심 초기 스타트업을 위한 액셀러레이터로, 머신러닝, 에너지 전환, 기후 기술, 핀테크 분야의 활성 프로그램을 운영합니다."
 resources:

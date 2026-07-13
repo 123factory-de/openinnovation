@@ -39,3 +39,6 @@ other = "All"
 
 [open_innovation]
 other = "Open Innovation"
+
+[closed]
+other = "Closed"

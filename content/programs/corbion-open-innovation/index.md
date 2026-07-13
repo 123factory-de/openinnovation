@@ -5,7 +5,7 @@ draft: false
 company: Corbion
 industry:
 - "Materials and Resources"
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: https://www.corbion.com/innovation/open-innovation
 verticals:
 - Foodtech

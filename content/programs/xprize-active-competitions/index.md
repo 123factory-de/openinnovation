@@ -4,7 +4,7 @@ date: 2026-06-08
 draft: false
 company: XPRIZE Foundation
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: https://www.xprize.org/competitions?status=Active
 verticals:
 - Climate Tech

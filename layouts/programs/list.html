@@ -1,19 +1,8 @@
 {{ define "main" }}
-  {{ $visiblePages := slice }}
-  {{ range .Pages.ByTitle }}
-    {{ $isVisible := true }}
-    {{ $status := "" }}
-    {{ with .Params.status }}
-      {{ $status = lower . }}
-    {{ end }}
-    {{ if and (ne $status "closed") (ne $status "종료") .Params.deadline }}
-      {{ $today := dateFormat "2006-01-02" now }}
-      {{ $isVisible = ge .Params.deadline $today }}
-    {{ end }}
-    {{ if $isVisible }}
-      {{ $visiblePages = $visiblePages | append . }}
-    {{ end }}
-  {{ end }}
+  {{/* The catalog lists every program, including past-deadline ones — those
+       render with a "Closed" badge instead of being hidden. Only the home
+       page hides closed programs. */}}
+  {{ $visiblePages := .Pages.ByTitle }}
   {{/* Render the full catalog; filtering + pagination are handled client-side
        so an industry filter spans every program, not just one paginator page. */}}
 
@@ -258,6 +247,16 @@
     .dark .oi-deadline {
       background: rgba(14, 165, 233, 0.16);
       color: #7dd3fc;
+    }
+
+    .oi-status.oi-closed {
+      background: rgba(100, 116, 139, 0.14);
+      color: #64748b;
+    }
+
+    .dark .oi-status.oi-closed {
+      background: rgba(148, 163, 184, 0.16);
+      color: #94a3b8;
     }
 
     .oi-card-title {
@@ -517,11 +516,20 @@
             <div class="oi-card-top">
               <div class="oi-company">{{ .Params.company | default "Program" }}</div>
               <div class="oi-badges">
-                {{ with .Params.status }}
-                  <div class="oi-status">{{ . }}</div>
-                {{ end }}
-                {{ with .Params.deadline }}
-                  <div class="oi-deadline">Deadline: {{ . }}</div>
+                {{/* deadline wins over status: a program with a deadline derives
+                     its open/closed state from the date, never from status. The
+                     data attributes let the client re-check the date after the
+                     build goes stale. */}}
+                {{ if .Params.deadline }}
+                  {{ if lt .Params.deadline (dateFormat "2006-01-02" now) }}
+                    <div class="oi-status oi-closed">{{ T "closed" }}</div>
+                  {{ else }}
+                    <div class="oi-deadline" data-deadline="{{ .Params.deadline }}" data-closed-label="{{ T "closed" }}">Deadline: {{ .Params.deadline }}</div>
+                  {{ end }}
+                {{ else }}
+                  {{ with .Params.status }}
+                    <div class="oi-status{{ if in (slice "closed" "종료") (lower .) }} oi-closed{{ end }}">{{ . }}</div>
+                  {{ end }}
                 {{ end }}
               </div>
             </div>
@@ -554,6 +562,7 @@
     {{ end }}
   </section>
 
+  {{ partial "programs/deadline-refresh.html" . }}
   <script>
     (() => {
       const root = document.querySelector(".programs-list [data-oi-filter-root]");

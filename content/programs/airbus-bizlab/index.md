@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Airbus"
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: "https://www.airbus.com/en/airbus-bizlab"
 verticals:
   - "Space Tech"

@@ -7,13 +7,13 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recnDK5TV2sd7BBwx&type=brief"
 verticals:
-  - "디지털 헬스"
-  - "스타트업"
-  - "헬스케어 이벤트"
+  - "Digital Health"
+  - "Healthtech"
+  - "Life Sciences"
 eligibility:
   - "스타트업"
   - "스케일업"
-status: "운영 중"
+status: ""
 deadline: "2026-07-31"
 summary: "Frontiers Health는 컨퍼런스 참여와 생태계 노출을 위한 스타트업·스케일업 공개 모집을 운영합니다."
 ---

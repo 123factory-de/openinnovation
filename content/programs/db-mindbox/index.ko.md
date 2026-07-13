@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Deutsche Bahn"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://www.deutschebahn.com/en/Digitalization/startups/dbmindbox-6935420"
 verticals:
   - "Mobility Tech"

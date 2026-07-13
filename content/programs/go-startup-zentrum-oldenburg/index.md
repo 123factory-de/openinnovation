@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "TGO Technologie- und Gruenderzentrum Oldenburg"
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: "https://www.gruenden-oldenburg.de/"
 verticals:
   - "Software as a Service (SaaS)"

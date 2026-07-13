@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "FIEGE"
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: "https://www.fiege.com/de/fiege-ventures"
 verticals:
   - "Supply Chain Technology"

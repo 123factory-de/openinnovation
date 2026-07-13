@@ -149,13 +149,20 @@
         {{ .Title | emojify }}
       </h1>
       <div class="program-meta">
-        {{ $badgeText := .Params.status }}
-        {{ if and (not $badgeText) .Params.deadline }}
-          {{ $badgeText = printf "Deadline: %s" .Params.deadline }}
+        {{/* deadline wins over status; the data attributes let the client
+             re-check the date after the build goes stale. */}}
+        {{ if .Params.deadline }}
+          {{ if lt .Params.deadline (dateFormat "2006-01-02" now) }}
+            <span class="program-badge">{{ T "closed" }}</span>
+          {{ else }}
+            <span class="program-badge" data-deadline="{{ .Params.deadline }}" data-closed-label="{{ T "closed" }}">Deadline: {{ .Params.deadline }}</span>
+          {{ end }}
+        {{ else }}
+          {{ with .Params.status }}
+            <span class="program-badge">{{ . }}</span>
+          {{ end }}
         {{ end }}
-        {{ with $badgeText }}
-          <span class="program-badge">{{ . }}</span>
-        {{ end }}
+        {{ partial "programs/deadline-refresh.html" . }}
         {{ with .Params.externalUrl }}
           <a class="program-official-link" href="{{ . }}" target="_blank" rel="noopener">
             {{ T "official_site" }}

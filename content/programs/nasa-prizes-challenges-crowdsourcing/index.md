@@ -4,7 +4,7 @@ date: 2026-06-08
 draft: false
 company: NASA
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: https://www.nasa.gov/about-prizes-challenges-crowdsourcing/
 verticals:
 - Space Tech

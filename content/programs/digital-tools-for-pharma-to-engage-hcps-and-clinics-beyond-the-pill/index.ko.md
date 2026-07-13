@@ -7,14 +7,14 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recB00V2eO0JFytqn&type=brief"
 verticals:
-  - "제약"
-  - "디지털 헬스"
-  - "의료진(HCP) 참여"
+  - "Life Sciences"
+  - "Digital Health"
+  - "Healthtech"
 eligibility:
   - "제약 테크 벤더"
   - "스타트업"
   - "상업 팀"
-status: "운영 중"
+status: ""
 deadline: "2026-08-31"
 summary: "R2GConnect Channels는 전통적인 제품 채널을 넘어 의료진과 클리닉을 연결할 수 있는 디지털 도구를 찾고 있습니다."
 ---

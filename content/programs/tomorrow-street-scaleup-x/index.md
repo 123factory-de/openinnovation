@@ -4,7 +4,7 @@ date: 2026-06-09
 draft: false
 company: "Vodafone Group"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://www.tomorrowstreet.co/"
 verticals:
   - "Internet of Things (IoT)"

@@ -6,7 +6,7 @@ date: 2026-06-16
 draft: false
 company: "Social Entrepreneurship Netzwerk Deutschland"
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: "https://www.send-ev.de/projekte-items/sozialinnovator-hessen/"
 verticals:
   - "Impact Investing"

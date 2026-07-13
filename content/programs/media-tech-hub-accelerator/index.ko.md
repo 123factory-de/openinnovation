@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Media Tech Hub Potsdam"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://mth-potsdam.de/accelerator/"
 verticals:
   - "Technology, Media & Telecommunications (TMT)"

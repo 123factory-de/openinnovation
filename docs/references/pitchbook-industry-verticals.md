@@ -21,7 +21,7 @@ PitchBook distinguishes between **Industries** (broad sector groups) and **Indus
 3. Energy
 4. Financial Services
 5. Healthcare
-6. Information Technology
+6. Information Technology (IT)
 7. Materials and Resources
 
 > **Industry vs. Vertical**: Every company is assigned a primary industry. Verticals are overlay tags for specialized investment themes that cannot be captured by industries alone. A company can belong to one industry and multiple verticals.

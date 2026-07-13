@@ -9,12 +9,12 @@ externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recThO3qt2ccj
 verticals:
   - "Digital Health"
   - "Life Sciences"
-  - "MedTech"
+  - "Healthtech"
 eligibility:
   - "Digital Health Companies"
   - "Life Sciences Companies"
   - "MedTech Companies"
-status: "Active"
+status: ""
 deadline: "2026-08-02"
 summary: "WorldUpstart offers an equity-free accelerator for digital health, life sciences, and medtech companies seeking U.S. market entry."
 ---

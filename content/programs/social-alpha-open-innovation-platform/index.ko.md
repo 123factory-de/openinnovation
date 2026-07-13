@@ -4,7 +4,7 @@ date: 2026-07-07
 draft: false
 company: "Social Alpha"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://openinnovationplatform.org/"
 verticals:
   - "Software as a Service (SaaS)"

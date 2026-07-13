@@ -7,14 +7,13 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recfGaSoOWr6inpo1&type=brief"
 verticals:
-  - "병원 운영"
-  - "워크플로 자동화"
-  - "디지털 헬스"
+  - "Healthtech"
+  - "Digital Health"
 eligibility:
   - "스타트업"
   - "솔루션 제공자"
   - "자동화 팀"
-status: "운영 중"
+status: ""
 deadline: "2026-09-30"
 summary: "R2GConnect Channels는 공동 개발과 운영 효율화를 지원할 수 있는 병원 워크플로 자동화 플랫폼을 찾고 있습니다."
 ---

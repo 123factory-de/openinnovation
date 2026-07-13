@@ -5,7 +5,7 @@ date: 2026-06-09
 draft: false
 company: "Google"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://startup.google.com/accelerator/"
 verticals:
   - "Artificial Intelligence & Machine Learning (AI/ML)"
@@ -14,7 +14,7 @@ verticals:
 eligibility:
   - "Seed-Stage Startups"
   - "Series A Startups"
-status: "Active"
+status: ""
 deadline: "2026-06-30"
 summary: "Google for Startups Accelerator runs active AI-first startup programs with regional and thematic calls across machine learning, energy transition, climate tech, and fintech."
 resources:

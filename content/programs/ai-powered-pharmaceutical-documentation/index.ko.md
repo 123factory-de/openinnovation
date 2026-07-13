@@ -7,15 +7,14 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recrNSA41sd5C7y9R&type=brief"
 verticals:
-  - "제약"
-  - "인공지능 및 머신러닝(AI/ML)"
-  - "생명과학"
+  - "Life Sciences"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "스타트업"
   - "스케일업"
   - "솔루션 제공자"
   - "AI 벤더"
-status: "운영 중"
+status: ""
 deadline: "2026-07-14"
 summary: "R2GConnect Channels는 임상 개발, 규제 제출, 약물감시를 포함한 제약 문서 업무를 지원할 AI 솔루션을 찾고 있습니다."
 ---

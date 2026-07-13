@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "ProSiebenSat.1"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://www.commerceandventures.com/investment-stages/sevengrowth"
 verticals:
   - "Ecommerce"

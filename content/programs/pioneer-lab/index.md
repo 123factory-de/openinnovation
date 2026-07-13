@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Carl Remigius Fresenius Education Group"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://www.pioneerlab.de/"
 verticals:
   - "Edtech"

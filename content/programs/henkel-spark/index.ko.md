@@ -4,7 +4,7 @@ date: 2026-06-08
 draft: false
 company: "Henkel"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://www.henkel.com/our-businesses/henkel-consumer-brands/open-innovation"
 verticals:
   - "Beauty"

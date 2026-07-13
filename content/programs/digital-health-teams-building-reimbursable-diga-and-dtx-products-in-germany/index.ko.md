@@ -7,14 +7,13 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recNLT1YwstKM9TkX&type=brief"
 verticals:
-  - "디지털 헬스"
-  - "디지털 치료제"
-  - "수가/보상"
+  - "Digital Health"
+  - "Healthtech"
 eligibility:
   - "디지털 헬스 팀"
   - "DiGA 개발팀"
   - "DTx 기업"
-status: "운영 중"
+status: ""
 deadline: "2026-07-31"
 summary: "이 독일 시장 브리핑은 수가 적용이 가능한 DiGA와 DTx 제품 및 해당 경로를 준비하는 팀에 초점을 맞춥니다."
 ---

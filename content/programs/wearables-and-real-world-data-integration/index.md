@@ -7,14 +7,14 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recio2pXmXm8hfsid&type=brief"
 verticals:
-  - "Wearables"
-  - "Real-World Data"
+  - "Wearables & Quantified Self"
+  - "Big Data"
   - "Digital Health"
 eligibility:
   - "Startups"
   - "Solution Providers"
   - "Data Teams"
-status: "Active"
+status: ""
 deadline: "2026-07-31"
 summary: "R2GConnect is looking for solutions that connect wearables with real-world data workflows and related partnerships."
 ---

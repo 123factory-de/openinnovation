@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Vodafone"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://www.vodafone.de/business/digitalisierung/uplift/"
 verticals:
   - "Internet of Things (IoT)"

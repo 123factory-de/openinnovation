@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Buhler Group"
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: "https://www.buhlergroup.com/global/de/about-us/cubic-start-hub.html"
 verticals:
   - "Foodtech"

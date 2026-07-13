@@ -12,7 +12,7 @@ eligibility:
   - "Innovators"
   - "Startups"
   - "Solution Providers"
-status: "Active"
+status: ""
 deadline: "2026-08-07"
 summary: "The Truist Foundation Inspire Awards Year 4 is a live MIT Solve challenge with an application deadline of August 7, 2026."
 resources:

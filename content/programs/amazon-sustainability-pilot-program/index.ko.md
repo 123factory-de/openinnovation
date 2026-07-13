@@ -4,7 +4,7 @@ date: 2026-07-13
 draft: false
 company: "Amazon"
 industry:
-  - "Consumer Products and Services"
+  - "Consumer Products and Services (B2C)"
 externalUrl: "https://solve.mit.edu/challenges/amazon-sustainability-pilot-program"
 verticals:
   - "Cleantech"

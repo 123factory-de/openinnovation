@@ -7,14 +7,13 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recUV6MTctI3dY463&type=brief"
 verticals:
-  - "Digital Therapeutics"
   - "Digital Health"
   - "Life Sciences"
 eligibility:
   - "Digital Health Companies"
   - "DTx Teams"
   - "Startups"
-status: "Active"
+status: ""
 deadline: "2026-09-30"
 summary: "This call looks for digital therapeutics teams that are open to pilot and commercial partnership discussions."
 ---

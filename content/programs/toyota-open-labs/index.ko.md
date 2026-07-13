@@ -4,7 +4,7 @@ date: 2026-06-09
 draft: false
 company: "Toyota Motor Europe"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://www.toyotaopenlabs.com"
 verticals:
   - "Mobility Tech"

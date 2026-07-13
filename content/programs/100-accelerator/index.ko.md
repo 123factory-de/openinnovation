@@ -5,7 +5,7 @@ date: 2026-06-09
 draft: false
 company: "AB InBev et al."
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 - "Materials and Resources"
 externalUrl: "https://100accelerator.com/"
 verticals:

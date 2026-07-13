@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Google"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://startup.google.com/cloud/"
 verticals:
   - "Cloudtech & DevOps"

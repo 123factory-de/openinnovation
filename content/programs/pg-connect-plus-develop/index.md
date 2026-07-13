@@ -4,7 +4,7 @@ date: 2026-06-08
 draft: false
 company: P&G
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: https://pgconnectdevelop.com/
 verticals:
 - Ecommerce

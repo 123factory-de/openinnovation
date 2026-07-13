@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Dassault Systemes"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://3dexperiencelab.3ds.com/en/"
 verticals:
   - "Advanced Manufacturing"

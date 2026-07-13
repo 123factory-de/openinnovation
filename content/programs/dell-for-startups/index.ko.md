@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Dell Technologies"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://dellforstartups.com/de-de/join-2024"
 verticals:
   - "Cloudtech & DevOps"

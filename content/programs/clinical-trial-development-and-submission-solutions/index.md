@@ -7,14 +7,14 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=reci9y71NEMmxLyqu&type=brief"
 verticals:
-  - "Clinical Trials"
+  - "Life Sciences"
   - "Digital Health"
   - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "Startups"
   - "Healthtech Teams"
   - "Life Sciences Teams"
-status: "Active"
+status: ""
 deadline: "2026-08-31"
 summary: "Microsoft for Startups is offering an acceleration route for solutions that support clinical trial development and submission workflows."
 ---

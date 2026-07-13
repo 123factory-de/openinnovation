@@ -5,7 +5,7 @@ date: 2026-06-08
 draft: false
 company: "BMW Group"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://www.bmwstartupgarage.com/"
 verticals:
   - "Mobility Tech"

@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Festo"
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: "https://www.festo.com/de/de/e/ueber-festo/forschung-und-entwicklung/startup-kooperationen-id_34130/"
 verticals:
   - "Robotics & Drones"

@@ -7,14 +7,14 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recThO3qt2ccjTotJ&type=brief"
 verticals:
-  - "디지털 헬스"
-  - "생명과학"
-  - "메드테크"
+  - "Digital Health"
+  - "Life Sciences"
+  - "Healthtech"
 eligibility:
   - "디지털 헬스 기업"
   - "생명과학 기업"
   - "메드테크 기업"
-status: "운영 중"
+status: ""
 deadline: "2026-08-02"
 summary: "WorldUpstart는 미국 시장 진입을 원하는 디지털 헬스, 생명과학, 메드테크 기업을 위한 지분 없는 액셀러레이터를 제공합니다."
 ---

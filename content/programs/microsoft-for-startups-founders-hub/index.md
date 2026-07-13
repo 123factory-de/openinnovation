@@ -5,7 +5,7 @@ date: 2026-06-09
 draft: false
 company: "Microsoft"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://startups.microsoft.com/"
 verticals:
   - "Software as a Service (SaaS)"

@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "REWE Sued"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://startuplounge.rewesued.de/"
 verticals:
   - "Foodtech"

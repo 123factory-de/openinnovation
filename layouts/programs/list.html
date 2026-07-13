@@ -217,19 +217,43 @@
       color: #6ee7b7;
     }
 
-    .oi-status {
-      background: rgba(5, 150, 105, 0.1);
+    .oi-badges {
+      align-items: center;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem;
+      justify-content: flex-end;
+    }
+
+    .oi-status,
+    .oi-deadline {
       border-radius: 999px;
-      color: #047857;
       flex: none;
       font-size: 0.72rem;
       font-weight: 800;
+      line-height: 1;
       padding: 0.35rem 0.55rem;
+      white-space: nowrap;
+    }
+
+    .oi-status {
+      background: rgba(5, 150, 105, 0.1);
+      color: #047857;
     }
 
     .dark .oi-status {
       background: rgba(16, 185, 129, 0.14);
       color: #6ee7b7;
+    }
+
+    .oi-deadline {
+      background: rgba(14, 165, 233, 0.1);
+      color: #0369a1;
+    }
+
+    .dark .oi-deadline {
+      background: rgba(14, 165, 233, 0.16);
+      color: #7dd3fc;
     }
 
     .oi-card-title {
@@ -488,13 +512,14 @@
             </a>
             <div class="oi-card-top">
               <div class="oi-company">{{ .Params.company | default "Program" }}</div>
-              {{ $badgeText := .Params.status }}
-              {{ if and (not $badgeText) .Params.deadline }}
-                {{ $badgeText = printf "Deadline: %s" .Params.deadline }}
-              {{ end }}
-              {{ with $badgeText }}
-                <div class="oi-status">{{ . }}</div>
-              {{ end }}
+              <div class="oi-badges">
+                {{ with .Params.status }}
+                  <div class="oi-status">{{ . }}</div>
+                {{ end }}
+                {{ with .Params.deadline }}
+                  <div class="oi-deadline">Deadline: {{ . }}</div>
+                {{ end }}
+              </div>
             </div>
 
             <a class="oi-card-title" href="{{ .RelPermalink }}">{{ .Title }}</a>

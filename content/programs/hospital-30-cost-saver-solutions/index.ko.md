@@ -7,14 +7,13 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recYYQ1Y4nNkEe7B2&type=brief"
 verticals:
-  - "병원 운영"
-  - "운영 효율화"
-  - "디지털 헬스"
+  - "Healthtech"
+  - "Digital Health"
 eligibility:
   - "스타트업"
   - "솔루션 제공자"
   - "헬스테크 팀"
-status: "운영 중"
+status: ""
 deadline: "2026-09-30"
 summary: "R2GConnect Channels는 병원 비용 절감과 운영 개선 효과를 낼 수 있는 솔루션을 찾고 있습니다."
 ---

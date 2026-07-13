@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "L'Oreal"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://www.loreal.com/en/beauty-science-and-technology/l-oreal-open-innovation/beauty-tech-atelier/"
 verticals:
   - "Beauty"

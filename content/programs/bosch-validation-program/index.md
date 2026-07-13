@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Bosch"
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: "https://www.bosch-innovation-consulting.com/de/en/our-services/validation-program/"
 verticals:
   - "Advanced Manufacturing"

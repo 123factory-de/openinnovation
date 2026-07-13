@@ -4,7 +4,7 @@ date: 2026-07-07
 draft: false
 company: "Colgate-Palmolive"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://colgatepalmolive.yet2.com/"
 verticals:
   - "Manufacturing"

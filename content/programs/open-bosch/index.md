@@ -4,7 +4,7 @@ date: 2026-06-08
 draft: false
 company: Bosch Ventures
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: https://bosch.ventures/open-bosch/
 verticals:
 - Advanced Manufacturing

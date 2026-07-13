@@ -39,3 +39,6 @@ other = "전체"
 
 [open_innovation]
 other = "오픈 이노베이션"
+
+[closed]
+other = "종료"

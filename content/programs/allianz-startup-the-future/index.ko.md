@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Allianz Industrie 4.0 Baden-Wuerttemberg"
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: "https://www.i40-bw.de/startup-the-future/"
 verticals:
   - "Advanced Manufacturing"

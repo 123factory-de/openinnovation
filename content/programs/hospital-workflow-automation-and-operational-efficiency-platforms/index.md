@@ -7,14 +7,13 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recfGaSoOWr6inpo1&type=brief"
 verticals:
-  - "Hospital Operations"
-  - "Workflow Automation"
+  - "Healthtech"
   - "Digital Health"
 eligibility:
   - "Startups"
   - "Solution Providers"
   - "Automation Teams"
-status: "Active"
+status: ""
 deadline: "2026-09-30"
 summary: "R2GConnect Channels is seeking hospital workflow automation platforms that can improve operational efficiency and support co-development."
 ---

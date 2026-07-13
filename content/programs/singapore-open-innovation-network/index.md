@@ -5,7 +5,7 @@ date: 2026-06-08
 draft: false
 company: Singapore Government
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: https://www.openinnovationnetwork.gov.sg/
 verticals:
 - Software as a Service (SaaS)

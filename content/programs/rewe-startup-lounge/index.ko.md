@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "REWE"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://innovation.rewe.de/start-up-lounge"
 verticals:
   - "Ecommerce"

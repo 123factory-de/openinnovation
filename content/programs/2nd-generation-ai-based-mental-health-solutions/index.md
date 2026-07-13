@@ -8,13 +8,13 @@ industry:
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recj4oyFBpyYzkhtr&type=brief"
 verticals:
   - "Digital Health"
-  - "Mental Health"
+  - "Healthtech"
   - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "Startups"
   - "Scaleups"
   - "Digital Health Teams"
-status: "Active"
+status: ""
 deadline: "2026-07-21"
 summary: "R2GConnect Channels is seeking AI-based mental health solutions for co-development, funding, and commercial partnership routes."
 ---

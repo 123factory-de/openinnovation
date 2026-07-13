@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Axel Springer"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://www.plugandplaytechcenter.com/innovation-services/startups/accelerator-programs"
 verticals:
   - "Technology, Media & Telecommunications (TMT)"

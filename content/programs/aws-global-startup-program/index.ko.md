@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Amazon Web Services"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://aws.amazon.com/de/partners/programs/global-startup/"
 verticals:
   - "Cloudtech & DevOps"

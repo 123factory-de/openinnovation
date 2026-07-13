@@ -7,14 +7,13 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recYYQ1Y4nNkEe7B2&type=brief"
 verticals:
-  - "Hospital Operations"
-  - "Operational Efficiency"
+  - "Healthtech"
   - "Digital Health"
 eligibility:
   - "Startups"
   - "Solution Providers"
   - "Healthtech Teams"
-status: "Active"
+status: ""
 deadline: "2026-09-30"
 summary: "R2GConnect Channels is looking for hospital solutions that can deliver measurable cost savings and operational improvements."
 ---

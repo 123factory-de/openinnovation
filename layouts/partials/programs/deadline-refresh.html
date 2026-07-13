@@ -1,0 +1,28 @@
+{{/* Re-evaluates deadline badges against the visitor's clock, so open/closed
+     state stays correct no matter when the site was last built. Elements
+     carry data-deadline (YYYY-MM-DD) and data-closed-label; a card wrapped
+     in [data-hide-closed] is removed entirely once its deadline passes.
+     Must run before any filter/pagination script that counts the cards. */}}
+<script>
+  (() => {
+    const d = new Date();
+    const today = [
+      d.getFullYear(),
+      String(d.getMonth() + 1).padStart(2, "0"),
+      String(d.getDate()).padStart(2, "0"),
+    ].join("-");
+    document.querySelectorAll("[data-deadline]").forEach((el) => {
+      if (el.dataset.deadline >= today) return;
+      const card = el.closest("[data-hide-closed]");
+      if (card) {
+        card.remove();
+        return;
+      }
+      el.textContent = el.dataset.closedLabel || "Closed";
+      if (el.classList.contains("oi-deadline")) {
+        el.classList.remove("oi-deadline");
+        el.classList.add("oi-status", "oi-closed");
+      }
+    });
+  })();
+</script>

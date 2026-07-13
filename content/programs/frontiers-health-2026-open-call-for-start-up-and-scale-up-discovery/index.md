@@ -8,12 +8,12 @@ industry:
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recnDK5TV2sd7BBwx&type=brief"
 verticals:
   - "Digital Health"
-  - "Startups"
-  - "Healthcare Events"
+  - "Healthtech"
+  - "Life Sciences"
 eligibility:
   - "Startups"
   - "Scaleups"
-status: "Active"
+status: ""
 deadline: "2026-07-31"
 summary: "Frontiers Health is running an open call to discover startups and scaleups for conference participation and ecosystem visibility."
 ---

@@ -5,7 +5,7 @@ date: 2026-06-16
 draft: false
 company: "Wurth Elektronik"
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: "https://www.we-online.com/de/support/zusammenarbeit/start-up-management"
 verticals:
   - "Advanced Manufacturing"

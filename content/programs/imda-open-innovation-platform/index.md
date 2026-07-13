@@ -5,8 +5,8 @@ date: 2026-06-08
 draft: false
 company: IMDA Singapore
 industry:
-- "Information Technology"
-- "Consumer Products and Services"
+- "Information Technology (IT)"
+- "Consumer Products and Services (B2C)"
 externalUrl: https://www.openinnovation.gov.sg/
 verticals:
 - Software as a Service (SaaS)

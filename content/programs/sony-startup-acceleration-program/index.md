@@ -5,8 +5,8 @@ date: 2026-06-09
 draft: false
 company: "Sony Group"
 industry:
-- "Information Technology"
-- "Consumer Products and Services"
+- "Information Technology (IT)"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://sony-acceleration-platform.com/"
 verticals:
   - "Software as a Service (SaaS)"

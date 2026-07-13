@@ -4,7 +4,7 @@ date: 2026-06-09
 draft: false
 company: Hyundai Motor Company / HMIL / HMIE
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: https://hyundaiinnovationchallenge.com/
 verticals:
 - Mobility Tech

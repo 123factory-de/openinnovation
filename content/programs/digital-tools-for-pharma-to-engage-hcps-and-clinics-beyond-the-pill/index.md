@@ -7,14 +7,14 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recB00V2eO0JFytqn&type=brief"
 verticals:
-  - "Pharma"
+  - "Life Sciences"
   - "Digital Health"
-  - "HCP Engagement"
+  - "Healthtech"
 eligibility:
   - "Pharma Tech Vendors"
   - "Startups"
   - "Commercial Teams"
-status: "Active"
+status: ""
 deadline: "2026-08-31"
 summary: "R2GConnect Channels is looking for digital tools that help pharma companies engage HCPs and clinics beyond traditional product channels."
 ---

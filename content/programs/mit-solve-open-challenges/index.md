@@ -5,7 +5,7 @@ date: 2026-06-08
 draft: false
 company: MIT Solve
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: https://solve.mit.edu/open-challenges
 verticals:
 - Climate Tech

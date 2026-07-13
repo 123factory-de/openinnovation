@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Stiftung fuer Technologie, Innovation und Forschung Thueringen"
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: "https://trip.community/"
 verticals:
   - "Software as a Service (SaaS)"

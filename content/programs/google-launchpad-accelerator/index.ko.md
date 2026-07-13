@@ -5,7 +5,7 @@ date: 2026-06-16
 draft: false
 company: "Google"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://developers.google.com/community/accelerators/programs"
 verticals:
   - "Artificial Intelligence & Machine Learning (AI/ML)"

@@ -4,7 +4,7 @@ date: 2026-06-08
 draft: false
 company: Siemens
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: https://www.siemens.com/en-us/company/innovation/collaborations-partnerships/
 verticals:
 - Advanced Manufacturing

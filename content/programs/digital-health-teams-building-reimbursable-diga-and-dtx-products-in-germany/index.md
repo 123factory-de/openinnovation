@@ -8,13 +8,12 @@ industry:
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recNLT1YwstKM9TkX&type=brief"
 verticals:
   - "Digital Health"
-  - "Digital Therapeutics"
-  - "Reimbursement"
+  - "Healthtech"
 eligibility:
   - "Digital Health Teams"
   - "DiGA Builders"
   - "DTx Companies"
-status: "Active"
+status: ""
 deadline: "2026-07-31"
 summary: "This German market briefing is focused on reimbursable DiGA and DTx products and teams building for that pathway."
 ---

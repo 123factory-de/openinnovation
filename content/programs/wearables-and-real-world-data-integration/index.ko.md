@@ -7,14 +7,14 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recio2pXmXm8hfsid&type=brief"
 verticals:
-  - "웨어러블"
-  - "실사용 데이터"
-  - "디지털 헬스"
+  - "Wearables & Quantified Self"
+  - "Big Data"
+  - "Digital Health"
 eligibility:
   - "스타트업"
   - "솔루션 제공자"
   - "데이터 팀"
-status: "운영 중"
+status: ""
 deadline: "2026-07-31"
 summary: "R2GConnect는 웨어러블과 실사용 데이터 워크플로를 연결할 수 있는 솔루션과 파트너십을 찾고 있습니다."
 ---

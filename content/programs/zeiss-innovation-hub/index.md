@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "ZEISS"
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 - "Healthcare"
 externalUrl: "https://www.zeiss.com/corporate/en/about-zeiss/future/new-business-at-zeiss/zeiss-innovation-hubs.html"
 verticals:

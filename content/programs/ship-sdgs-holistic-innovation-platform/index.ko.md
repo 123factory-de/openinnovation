@@ -5,7 +5,7 @@ date: 2026-06-08
 draft: false
 company: "UNDP and Japan Innovation Network"
 industry:
-- "Business Products and Services"
+- "Business Products and Services (B2B)"
 externalUrl: "https://www.sdgs-ship.com/en/"
 verticals:
   - "Impact Investing"

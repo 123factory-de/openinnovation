@@ -7,14 +7,14 @@ industry:
 - "Healthcare"
 externalUrl: "https://www.r2gconnect.com/briefing-details?recordId=recj4oyFBpyYzkhtr&type=brief"
 verticals:
-  - "디지털 헬스"
-  - "정신건강"
-  - "인공지능 및 머신러닝(AI/ML)"
+  - "Digital Health"
+  - "Healthtech"
+  - "Artificial Intelligence & Machine Learning (AI/ML)"
 eligibility:
   - "스타트업"
   - "스케일업"
   - "디지털 헬스 팀"
-status: "운영 중"
+status: ""
 deadline: "2026-07-21"
 summary: "R2GConnect Channels는 공동 개발, 펀딩, 상업 파트너십을 위한 AI 기반 정신건강 솔루션을 찾고 있습니다."
 ---

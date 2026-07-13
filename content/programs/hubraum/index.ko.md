@@ -4,7 +4,7 @@ date: 2026-06-09
 draft: false
 company: "Deutsche Telekom"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://www.hubraum.com/"
 verticals:
   - "Technology, Media & Telecommunications (TMT)"

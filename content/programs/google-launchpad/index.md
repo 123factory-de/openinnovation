@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "Google"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://cloud.google.com/edu/faculty/career-launchpad"
 verticals:
   - "Cloudtech & DevOps"

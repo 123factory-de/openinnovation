@@ -4,7 +4,7 @@ date: 2026-07-07
 draft: false
 company: "Unilever"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://www.unilever.com/our-company/innovation-and-rd-at-unilever/innovate-with-us/information-on-submitting-a-technical-solution/"
 verticals:
   - "Manufacturing"

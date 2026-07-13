@@ -4,7 +4,7 @@ date: 2026-06-16
 draft: false
 company: "OTTO"
 industry:
-- "Consumer Products and Services"
+- "Consumer Products and Services (B2C)"
 externalUrl: "https://www.ottodock6.com/"
 verticals:
   - "Ecommerce"

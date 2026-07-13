@@ -12,7 +12,7 @@ eligibility:
   - "혁신가"
   - "스타트업"
   - "솔루션 제공자"
-status: "운영 중"
+status: ""
 deadline: "2026-08-07"
 summary: "Truist Foundation Inspire Awards Year 4는 2026년 8월 7일 마감의 MIT Solve 공개 챌린지입니다."
 resources:

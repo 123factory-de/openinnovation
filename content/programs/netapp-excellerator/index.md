@@ -5,7 +5,7 @@ date: 2026-06-16
 draft: false
 company: "NetApp"
 industry:
-- "Information Technology"
+- "Information Technology (IT)"
 externalUrl: "https://startup.netapp.in/"
 verticals:
   - "Big Data"
